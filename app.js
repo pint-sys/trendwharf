@@ -301,16 +301,102 @@
       el("h1", { text: "Suggest a trend or source" }),
       el("p", { class: "lead", text: "Know something we should cover? Tell us what it is and where to find it." })
     ];
-    if (cfg.suggestFormUrl) {
-      nodes.push(el("p", null, [
-        el("a", { class: "button", href: cfg.suggestFormUrl, target: "_blank", rel: "noopener noreferrer", text: "Open the suggestion form" })
-      ]));
-      nodes.push(el("p", { class: "muted", text: "The form opens in a new tab. We review suggestions before adding anything." }));
+    if (cfg.suggestEndpoint) {
+      nodes.push(suggestForm());
     } else {
       nodes.push(el("div", { class: "notice", text: "The suggestion form is coming soon. In the meantime, send suggestions by email." }));
       nodes.push(contactLine());
     }
     return [el("section", { class: "page" }, nodes)];
+  }
+
+  function field(labelText, control, hint) {
+    return el("div", { class: "field" }, [
+      el("label", { for: control.id, text: labelText }),
+      control,
+      hint ? el("p", { class: "hint", text: hint }) : null
+    ]);
+  }
+
+  function suggestForm() {
+    var what = el("input", { id: "s-what", name: "Suggestion", type: "text", required: true, maxlength: 200,
+      placeholder: "e.g. a new dance trend, a game update, a viral song" });
+    var link = el("input", { id: "s-link", name: "Link", type: "url", maxlength: 500, placeholder: "https://…" });
+    var category = el("select", { id: "s-category", name: "Category", required: true },
+      [el("option", { value: "", text: "Choose a category" })].concat(CATEGORIES.map(function (c) {
+        return el("option", { value: c.label, text: c.label });
+      })));
+    var why = el("textarea", { id: "s-why", name: "Why", rows: 4, maxlength: 1000,
+      placeholder: "Where did you see it? Why is it worth covering?" });
+    // Hidden trap field: real people leave it empty, spam bots fill it in.
+    var honey = el("input", { type: "text", name: "_honey", tabindex: "-1", autocomplete: "off", class: "hp", "aria-hidden": "true" });
+    var status = el("p", { class: "form-status", role: "status", "aria-live": "polite" });
+    var button = el("button", { type: "submit", class: "button", text: "Send suggestion" });
+
+    var form = el("form", { class: "suggest-form", novalidate: true }, [
+      field("What should we cover? *", what),
+      field("Link (optional)", link, "A link to the post, video, song or article."),
+      field("Category *", category),
+      field("Why should we add it? (optional)", why),
+      honey,
+      el("p", { class: "hint", text: "Please don't include personal details. We read every suggestion but can't reply to each one." }),
+      button,
+      status
+    ]);
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      status.className = "form-status";
+      if (!what.value.trim() || !category.value) {
+        status.textContent = "Please fill in what we should cover and choose a category.";
+        status.className = "form-status error";
+        (what.value.trim() ? category : what).focus();
+        return;
+      }
+      if (link.value && !link.checkValidity()) {
+        status.textContent = "That link doesn't look right. It should start with https://";
+        status.className = "form-status error";
+        link.focus();
+        return;
+      }
+      if (honey.value) return; // bot
+
+      button.disabled = true;
+      button.textContent = "Sending…";
+      status.textContent = "";
+
+      fetch(cfg.suggestEndpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "Accept": "application/json" },
+        body: JSON.stringify({
+          Suggestion: what.value.trim(),
+          Link: link.value.trim() || "(none)",
+          Category: category.value,
+          Why: why.value.trim() || "(not given)",
+          _subject: "New " + (cfg.name || "site") + " suggestion: " + what.value.trim().slice(0, 60),
+          _template: "table",
+          _captcha: "false"
+        })
+      })
+        .then(function (r) { return r.json().catch(function () { return {}; }).then(function (d) { return { ok: r.ok, d: d }; }); })
+        .then(function (res) {
+          var success = res.ok && (res.d.success === true || res.d.success === "true");
+          if (!success) throw new Error(res.d.message || "failed");
+          form.reset();
+          status.textContent = "Thanks! Your suggestion was sent.";
+          status.className = "form-status ok";
+        })
+        .catch(function () {
+          status.textContent = "Sorry, it didn't send. Please try again in a minute.";
+          status.className = "form-status error";
+        })
+        .then(function () {
+          button.disabled = false;
+          button.textContent = "Send suggestion";
+        });
+    });
+
+    return form;
   }
 
   function viewNotFound() {

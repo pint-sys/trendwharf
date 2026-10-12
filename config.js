@@ -7,9 +7,10 @@ window.SITE_CONFIG = {
   // Shown on the About, Contact and Takedown sections.
   contactEmail: "pintgamer94@gmail.com",
 
-  // Paste a Google Form link here to turn on the suggestion form.
-  // Leave empty to show a "coming soon" message instead.
-  suggestFormUrl: "",
+  // Where the on-site suggestion form sends submissions (emailed to you by FormSubmit).
+  // After you activate FormSubmit, you can swap the email at the end for the
+  // random alias it gives you, so your address isn't in the page code.
+  suggestEndpoint: "https://formsubmit.co/ajax/pintgamer94@gmail.com",
 
   // Paste a Google Analytics or Cloudflare Web Analytics script tag here later (optional).
   analyticsSnippet: ""
