@@ -1,0 +1,60 @@
+name: Update trend data
+
+on:
+  schedule:
+    - cron: "23 * * * *"     # every hour
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trend-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: YouTube trending and stats
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          YT_REGION: ${{ vars.YT_REGION }}
+        run: |
+          if [ -z "$YT_API_KEY" ]; then
+            echo "::warning title=youtube skipped::No YT_API_KEY secret yet."
+          else
+            python scripts/fetch_youtube.py || echo "::warning title=youtube failed::See the log above."
+          fi
+
+      - name: Reddit, Twitch, music, searches, Wikipedia, Hacker News, TikTok thumbnails
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        run: python scripts/fetch_feeds.py
+
+      - name: Save changes
+        run: |
+          git config user.name "trendwharf-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/*.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -q -m "Update trend data"
+          for attempt in 1 2 3; do
+            git pull -q --rebase origin main && git push -q && exit 0
+            sleep 5
+          done
+          echo "::error::Could not push the update."
+          exit 1

@@ -143,7 +143,8 @@ def main():
     key = os.environ.get("YT_API_KEY", "").strip()
     if not key:
         sys.exit("YT_API_KEY is not set. Add it as a repository secret in GitHub.")
-    region = (os.environ.get("YT_REGION") or "US").strip().upper()
+    settings = load_json(os.path.join(ROOT, "scripts", "sources.json"), {})
+    region = (os.environ.get("YT_REGION") or settings.get("country") or "US").strip().upper()
     max_results = min(50, max(1, int(os.environ.get("YT_MAX") or 25)))
     now = datetime.now(timezone.utc).replace(microsecond=0)
 

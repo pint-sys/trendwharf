@@ -1,0 +1,31 @@
+{
+  "_help": "Settings for the automatic sources. Edit on GitHub, save, and the next hourly run uses them. Country codes are 2 letters, e.g. US, GB, IN, CA, AU.",
+
+  "country": "US",
+
+  "reddit": {
+    "enabled": true,
+    "subreddits": ["popular"],
+    "limit": 30,
+    "categoryBySubreddit": {
+      "gaming": "games", "games": "games", "pcgaming": "games", "nintendo": "games", "playstation": "games", "xbox": "games",
+      "music": "music", "hiphopheads": "music", "popheads": "music", "listentothis": "music",
+      "news": "news", "worldnews": "news", "technology": "news", "science": "news", "upliftingnews": "news",
+      "videos": "videos", "youtubehaiku": "videos", "nextfuckinglevel": "videos", "damnthatsinteresting": "videos",
+      "memes": "memes", "funny": "memes", "dankmemes": "memes", "me_irl": "memes", "wholesomememes": "memes"
+    },
+    "defaultCategory": "memes"
+  },
+
+  "twitch": { "enabled": true, "limit": 20, "language": "en" },
+
+  "music": { "enabled": true, "limit": 25 },
+
+  "searches": { "enabled": true },
+
+  "wikipedia": { "enabled": true, "language": "en", "limit": 20 },
+
+  "hackernews": { "enabled": true, "limit": 20 },
+
+  "tiktokThumbnails": { "enabled": true }
+}

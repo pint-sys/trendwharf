@@ -26,14 +26,18 @@
         { h: "What this site does", p: [
           "We collect publicly available trends from approved platforms and summarize them in our own words. Every item links to its original source so you can check it and see the full version."
         ]},
-        { h: "How items are chosen", p: [
-          "We use a fixed list of approved sources and categories. Items are added on a schedule and reviewed by a person before they appear here."
+        { h: "Two kinds of items", p: [
+          "Featured trends are chosen from approved sources, summarized in our own words, and reviewed by a person before they appear here. AI helps find items and draft summaries; a reviewer checks each one.",
+          "Automatic lists — YouTube trending, Reddit, Twitch, Apple Music's chart, Google searches, Wikipedia's most-read articles and Hacker News — come straight from those platforms' public data and refresh every hour. They are not reviewed one by one. We filter out adult-marked content and remove anything that's reported to us."
         ]},
-        { h: "How AI is used", p: [
-          "AI helps find items and draft short summaries. A reviewer checks each summary before publishing. Mistakes happen, so tell us when you see one."
+        { h: "How the trend score works", p: [
+          "Each item gets a score from 0 to 100 compared with others from the same platform: views per hour on YouTube, upvotes per hour on Reddit, live viewers on Twitch, chart position for songs, reads on Wikipedia, and points per hour on Hacker News."
+        ]},
+        { h: "Mistakes", p: [
+          "Mistakes happen, so tell us when you see one."
         ]},
         { h: "We do not host copies", p: [
-          "We do not re-upload videos, songs, or articles. If you are a creator or rights holder and want an item removed, we will act on a valid request."
+          "We do not re-upload videos, songs, or articles. Videos, streams and songs play through each platform's official player, so creators keep their views and credit. If you are a creator or rights holder and want an item removed, we will act on a valid request."
         ]},
         { h: "Contact and takedown requests", p: [
           "Send corrections, questions and takedown requests through our contact form. Include the item link and what you would like us to change."
@@ -78,13 +82,21 @@
     { slug: "tiktok",    label: "TikTok",    desc: "TikTok videos you can play right here. TikTok doesn't share view counts with other sites." },
     { slug: "instagram", label: "Instagram", desc: "Instagram posts and reels. Instagram doesn't share view counts with other sites." },
     { slug: "x",         label: "X",         desc: "Posts and videos from X (Twitter)." },
+    { slug: "reddit",    label: "Reddit",    desc: "Posts climbing fastest on Reddit, ranked by upvotes per hour. Safe-for-work only." },
+    { slug: "twitch",    label: "Twitch",    desc: "The biggest live streams on Twitch when we last checked. Press play to watch live." },
+    { slug: "music",     label: "Apple Music", desc: "Apple Music's most-played songs. Press play for a preview." },
+    { slug: "wikipedia", label: "Wikipedia", desc: "The articles people read most on Wikipedia yesterday — a good sign of what's in the news." },
+    { slug: "hackernews", label: "Hacker News", desc: "Top tech stories on Hacker News, ranked by points per hour." },
     { slug: "web",       label: "Articles",  desc: "News stories, blog posts and trend reports." }
   ];
+
+  // Data files written by the hourly GitHub job (scripts/fetch_feeds.py).
+  var FEEDS = ["reddit", "twitch", "music", "wikipedia", "hackernews"];
 
   // YouTube's category IDs mapped to our categories.
   var YT_CATEGORY_MAP = { "20": "games", "10": "music", "25": "news", "23": "memes" };
 
-  var state = { items: [], updated: "", yt: null, blocked: {}, loaded: false, error: false };
+  var state = { items: [], updated: "", yt: null, feeds: {}, searches: null, oembed: {}, blocked: {}, loaded: false, error: false };
   var view = document.getElementById("view");
 
   // ---------- video helpers ----------
@@ -124,7 +136,7 @@
   }
 
   function platformOf(item) {
-    return item.video ? item.video.platform : "web";
+    return item.source || (item.video ? item.video.platform : "web");
   }
 
   function platformLabel(slug) {
@@ -154,8 +166,65 @@
     return (h ? h + ":" : "") + mm + ":" + String(sec).padStart(2, "0");
   }
 
-  function hotScore(item) { return item.stats ? (item.stats.viewsPerHour || 0) : -1; }
-  function viewCount(item) { return item.stats ? (item.stats.views || 0) : -1; }
+  // Trend score (0-100) compares items fairly across platforms: each item is
+  // ranked against others from the same platform by its platform's own speed
+  // measure (views/hour, upvotes/hour, live viewers, chart position...).
+  function hotScore(item) { return typeof item.trend === "number" ? item.trend : -1; }
+  function viewCount(item) {
+    if (item.stats) return item.stats.views || 0;
+    var m = item.metrics || {};
+    var n = m.views || m.viewers || m.score || m.points;
+    return typeof n === "number" ? n : -1;
+  }
+
+  function feedItems() {
+    var out = [];
+    FEEDS.forEach(function (source) {
+      var feed = state.feeds[source];
+      if (!feed || !feed.items) return;
+      var blocked = (state.blocked[source] || []).map(function (b) { return String(b).toLowerCase(); });
+      feed.items.forEach(function (f) {
+        if (blocked.indexOf(String(f.rawId).toLowerCase()) !== -1) return;
+        out.push({
+          id: source + "-" + f.rawId,
+          rawId: f.rawId,
+          source: source,
+          title: f.title,
+          platform: platformLabel(source),
+          url: f.url,
+          videoUrl: f.videoUrl || null,
+          dateFound: (feed.updated || "").slice(0, 10),
+          feedUpdated: feed.updated,
+          category: f.category,
+          tags: f.tags || [],
+          summary: f.summary,
+          thumbnail: f.thumbnail || null,
+          publishedAt: f.publishedAt,
+          hot: f.hot,
+          rank: f.rank,
+          metrics: f.metrics || {},
+          embed: f.embed || null,
+          status: "Published",
+          auto: true
+        });
+      });
+    });
+    return out;
+  }
+
+  function addTrendScores(items) {
+    var groups = {};
+    items.forEach(function (i) {
+      if (typeof i.hot !== "number") return;
+      var p = platformOf(i);
+      (groups[p] = groups[p] || []).push(i);
+    });
+    Object.keys(groups).forEach(function (p) {
+      var g = groups[p].sort(function (a, b) { return b.hot - a.hot; });
+      g.forEach(function (item, idx) { item.trend = Math.round(100 * (g.length - idx) / g.length); });
+    });
+    return items;
+  }
 
   // Turns entries from YouTube's trending chart into site items.
   function youtubeTrendingItems() {
@@ -185,16 +254,24 @@
     var seen = {};
     return items.map(function (item) {
       var copy = Object.assign({}, item);
-      copy.video = parseVideo(item.videoUrl || item.url);
-      if (copy.video && copy.video.platform === "youtube" && state.yt && state.yt.videos) {
-        var s = state.yt.videos[copy.video.id];
+      // Feed items (Reddit, Hacker News...) only play a video when their link points to one.
+      copy.video = parseVideo(item.source ? item.videoUrl : (item.videoUrl || item.url));
+      var v = copy.video;
+      if (v && v.platform === "youtube" && state.yt && state.yt.videos) {
+        var s = state.yt.videos[v.id];
         if (s) {
           copy.stats = s;
           if (!copy.thumbnail) copy.thumbnail = s.thumbnail;
+          if (!copy.source && typeof s.viewsPerHour === "number") copy.hot = s.viewsPerHour;
         }
       }
-      if (copy.video && copy.video.platform === "youtube" && !copy.thumbnail) {
-        copy.thumbnail = "https://i.ytimg.com/vi/" + copy.video.id + "/hqdefault.jpg";
+      if (v && v.platform === "youtube" && !copy.thumbnail) {
+        copy.thumbnail = "https://i.ytimg.com/vi/" + v.id + "/hqdefault.jpg";
+      }
+      if (v && v.platform === "tiktok" && state.oembed.tiktok && state.oembed.tiktok[v.id]) {
+        var t = state.oembed.tiktok[v.id];
+        if (!copy.thumbnail && t.thumbnail) copy.thumbnail = t.thumbnail;
+        if (t.author) copy.creator = t.author;
       }
       return copy;
     }).filter(function (item) {
@@ -281,7 +358,9 @@
 
   function matchesQuery(item, q) {
     var hay = [item.title, item.summary, item.platform, (item.tags || []).join(" "),
-      item.stats ? item.stats.channel : ""].join(" ").toLowerCase();
+      item.stats ? item.stats.channel : "", item.creator || "",
+      item.metrics ? [item.metrics.artist, item.metrics.channel, item.metrics.game, item.metrics.subreddit].join(" ") : ""
+    ].join(" ").toLowerCase();
     return q.toLowerCase().split(/\s+/).filter(Boolean).every(function (word) {
       return hay.indexOf(word) !== -1;
     });
@@ -289,22 +368,47 @@
 
   // ---------- components ----------
 
+  // What plays inside a card: a video link (YouTube, TikTok, Instagram, X)
+  // or a feed embed (Reddit post, Twitch stream, Apple Music song).
+  // Every value is checked against a strict pattern before it goes in a URL.
+  function getEmbed(item) {
+    if (item.video) return item.video;
+    var e = item.embed;
+    if (!e) return null;
+    if (e.kind === "reddit" && /^\/r\/\w+\/comments\/\w+\/[\w%-]*\/?$/.test(e.value)) return { platform: "reddit", path: e.value };
+    if (e.kind === "twitch" && /^\w{3,25}$/.test(e.value)) return { platform: "twitch", id: e.value };
+    if (e.kind === "music" && /^https:\/\/embed\.music\.apple\.com\/[a-z]{2}\/[\w%.\/?=&-]+$/.test(e.value)) return { platform: "music", src: e.value };
+    return null;
+  }
+
+  function isDark() {
+    return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+  }
+
   // Builds the real player. Only called after someone clicks Play,
   // so pages stay fast and no platform loads until it's needed.
-  function playerFrame(video) {
-    var src, title = platformLabel(video.platform) + " video player";
-    if (video.platform === "youtube") {
-      src = "https://www.youtube-nocookie.com/embed/" + video.id + "?autoplay=1&rel=0&playsinline=1";
-    } else if (video.platform === "tiktok") {
-      src = "https://www.tiktok.com/player/v1/" + video.id + "?autoplay=1&rel=0";
-    } else if (video.platform === "instagram") {
-      src = "https://www.instagram.com/" + video.kind + "/" + video.id + "/embed/";
-    } else if (video.platform === "x") {
-      src = "https://platform.twitter.com/embed/Tweet.html?id=" + video.id + "&dnt=true";
+  function playerFrame(embed) {
+    var src;
+    switch (embed.platform) {
+      case "youtube":
+        src = "https://www.youtube-nocookie.com/embed/" + embed.id + "?autoplay=1&rel=0&playsinline=1"; break;
+      case "tiktok":
+        src = "https://www.tiktok.com/player/v1/" + embed.id + "?autoplay=1&rel=0"; break;
+      case "instagram":
+        src = "https://www.instagram.com/" + embed.kind + "/" + embed.id + "/embed/"; break;
+      case "x":
+        src = "https://platform.twitter.com/embed/Tweet.html?id=" + embed.id + "&dnt=true" + (isDark() ? "&theme=dark" : ""); break;
+      case "reddit":
+        src = "https://embed.reddit.com" + embed.path + "?embed=true&theme=" + (isDark() ? "dark" : "light"); break;
+      case "twitch":
+        // Twitch only plays when told which site it's on.
+        src = "https://player.twitch.tv/?channel=" + embed.id + "&parent=" + encodeURIComponent(location.hostname) + "&autoplay=true"; break;
+      case "music":
+        src = embed.src; break;
     }
     return el("iframe", {
       src: src,
-      title: title,
+      title: platformLabel(embed.platform) + " player",
       allow: "autoplay; encrypted-media; picture-in-picture; fullscreen; clipboard-write",
       allowfullscreen: true,
       loading: "lazy",
@@ -312,17 +416,19 @@
     });
   }
 
-  function videoBox(item) {
-    var v = item.video;
-    var box = el("div", { class: "player player-" + v.platform + (v.vertical ? " vertical" : "") });
-    var label = "Play: " + item.title;
-    var cover = el("button", { type: "button", class: "player-cover", "aria-label": label }, [
-      el("span", { class: "player-brand", text: platformLabel(v.platform) }),
+  var PLAY_WORD = { reddit: "Open post: ", twitch: "Watch live: ", music: "Play preview: " };
+
+  function videoBox(item, embed) {
+    var p = embed.platform;
+    var box = el("div", { class: "player player-" + p + (embed.vertical ? " vertical" : "") });
+    var cover = el("button", { type: "button", class: "player-cover", "aria-label": (PLAY_WORD[p] || "Play: ") + item.title }, [
+      el("span", { class: "player-brand", text: platformLabel(p) }),
       item.thumbnail
         ? el("img", { src: item.thumbnail, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer",
             onerror: function () { this.remove(); } })
         : null,
       el("span", { class: "play-icon", "aria-hidden": "true" }),
+      p === "twitch" ? el("span", { class: "live-dot", text: "LIVE" }) : null,
       item.stats && item.stats.durationSec
         ? el("span", { class: "duration", text: fmtDuration(item.stats.durationSec) })
         : null
@@ -330,40 +436,100 @@
     cover.addEventListener("click", function () {
       box.innerHTML = "";
       box.classList.add("playing");
-      box.appendChild(playerFrame(v));
+      box.appendChild(playerFrame(embed));
     });
     box.appendChild(cover);
     return box;
   }
 
+  function stat(icon, text, title, cls) {
+    return el("span", { title: title, class: cls || null }, [icon + " ", text]);
+  }
+
+  function has(n) { return n !== null && n !== undefined; }
+
+  function changeText(change) {
+    if (change === "new") return stat("✨", "New", "New on the chart", "hot");
+    if (typeof change !== "number" || change === 0) return null;
+    return change > 0 ? stat("▲", String(change), "Places up since last check", "up") : stat("▼", String(-change), "Places down since last check", "down");
+  }
+
   function statsRow(item) {
-    var s = item.stats;
-    if (s) {
-      return el("div", { class: "stats" }, [
-        el("span", { title: "Views" }, ["👁 ", fmtNum(s.views)]),
-        s.likes !== null && s.likes !== undefined ? el("span", { title: "Likes" }, ["👍 ", fmtNum(s.likes)]) : null,
-        s.comments !== null && s.comments !== undefined ? el("span", { title: "Comments" }, ["💬 ", fmtNum(s.comments)]) : null,
-        s.publishedAt ? el("span", { title: "Uploaded" }, ["⏱ ", timeAgo(s.publishedAt)]) : null,
-        s.viewsPerHour
-          ? el("span", { class: "hot", title: "Trend score: how fast views are growing" }, ["🔥 ", fmtNum(Math.round(s.viewsPerHour)), " views/hr"])
-          : null
-      ]);
+    var m = item.metrics || {}, s = item.stats, parts = null;
+    switch (item.source) {
+      case "reddit":
+        parts = [
+          stat("⬆", fmtNum(m.score), "Upvotes"),
+          stat("💬", fmtNum(m.comments), "Comments"),
+          item.publishedAt ? stat("⏱", timeAgo(item.publishedAt), "Posted") : null,
+          item.hot ? stat("🔥", fmtNum(Math.round(item.hot)) + " upvotes/hr", "Upvotes per hour since posted", "hot") : null
+        ]; break;
+      case "twitch":
+        parts = [
+          stat("🔴", fmtNum(m.viewers) + " watching", "Viewers when last checked", "hot"),
+          m.game ? stat("🎮", m.game, "Game or category") : null,
+          item.publishedAt ? stat("⏱", "started " + timeAgo(item.publishedAt), "Stream started") : null
+        ]; break;
+      case "music":
+        parts = [
+          stat("🏆", "#" + m.rank, "Chart position", "hot"),
+          changeText(m.change),
+          m.artist ? stat("🎤", m.artist, "Artist") : null
+        ]; break;
+      case "wikipedia":
+        parts = [
+          stat("👁", fmtNum(m.views) + " reads", "Page views yesterday", "hot"),
+          typeof m.change === "number" && m.change !== 0
+            ? stat(m.change > 0 ? "▲" : "▼", Math.abs(m.change) + "% vs day before", "Change in views", m.change > 0 ? "up" : "down")
+            : null
+        ]; break;
+      case "hackernews":
+        parts = [
+          stat("▲", fmtNum(m.points) + " points", "Points"),
+          stat("💬", fmtNum(m.comments), "Comments"),
+          item.publishedAt ? stat("⏱", timeAgo(item.publishedAt), "Posted") : null,
+          item.hot ? stat("🔥", fmtNum(Math.round(item.hot)) + " pts/hr", "Points per hour since posted", "hot") : null
+        ]; break;
     }
+    if (!parts && s) {
+      parts = [
+        stat("👁", fmtNum(s.views), "Views"),
+        has(s.likes) ? stat("👍", fmtNum(s.likes), "Likes") : null,
+        has(s.comments) ? stat("💬", fmtNum(s.comments), "Comments") : null,
+        s.publishedAt ? stat("⏱", timeAgo(s.publishedAt), "Uploaded") : null,
+        s.viewsPerHour ? stat("🔥", fmtNum(Math.round(s.viewsPerHour)) + " views/hr", "Trend score: how fast views are growing", "hot") : null
+      ];
+    }
+    if (parts) return el("div", { class: "stats" }, parts);
     if (item.video) {
-      return el("p", { class: "stats muted", text: "View counts aren't shared by " + platformLabel(item.video.platform) + "." });
+      return el("p", { class: "stats muted" }, [
+        item.creator ? "👤 " + item.creator + " · " : "",
+        "View counts aren't shared by " + platformLabel(item.video.platform) + "."
+      ]);
     }
     return null;
   }
 
+  var OPEN_WORD = { reddit: "Open on Reddit", twitch: "Watch on Twitch", music: "Open in Apple Music",
+                    wikipedia: "Read on Wikipedia", hackernews: "Open link" };
+
   function itemCard(item) {
     var cat = CATEGORIES.filter(function (c) { return c.slug === item.category; })[0];
     var platform = platformOf(item);
-    return el("article", { class: "card" + (item.video ? " video-card" : "") }, [
-      item.video ? videoBox(item) : null,
+    var embed = getEmbed(item);
+    var byline = (item.stats && item.stats.channel) || (item.source === "twitch" && item.metrics.channel) || null;
+    var when = item.source === "twitch"
+      ? "Live as of " + timeAgo(item.feedUpdated)
+      : (item.auto ? "Trending " : "") + fmtDate(item.dateFound);
+    var openText = OPEN_WORD[item.source] || (item.video ? "Watch on " + platformLabel(item.video.platform) : "Original source");
+    var cls = "card" + (embed ? " video-card" : "") + (platform === "music" ? " music-card" : "");
+    return el("article", { class: cls }, [
+      embed ? videoBox(item, embed) : (item.thumbnail ? el("img", { class: "card-thumb", src: item.thumbnail, alt: "", loading: "lazy",
+        referrerpolicy: "no-referrer", onerror: function () { this.remove(); } }) : null),
       el("div", { class: "card-meta" }, [
         el("span", { class: "badge", text: cat ? cat.label : item.category }),
-        el("span", { class: "pill pill-" + platform, text: item.video ? platformLabel(platform) : item.platform }),
-        item.stats && item.stats.channel ? el("span", { class: "muted", text: item.stats.channel }) : null
+        el("span", { class: "pill pill-" + platform, text: platform === "web" ? item.platform : platformLabel(platform) }),
+        byline ? el("span", { class: "muted", text: byline }) : null
       ]),
       el("h3", { text: item.title }),
       statsRow(item),
@@ -372,14 +538,13 @@
         return el("span", { class: "tag", text: t });
       })),
       el("div", { class: "card-foot" }, [
-        el("time", { datetime: item.dateFound, text: (item.auto ? "Trending " : "") + fmtDate(item.dateFound) }),
-        el("a", {
-          class: "source-link",
-          href: item.url,
-          target: "_blank",
-          rel: "noopener noreferrer",
-          text: item.video ? "Watch on " + platformLabel(platform) + " ↗" : "Original source ↗"
-        })
+        el("time", { datetime: item.feedUpdated || item.dateFound, text: when }),
+        el("span", { class: "foot-links" }, [
+          item.source === "hackernews" && item.metrics.discussion && item.metrics.discussion !== item.url
+            ? el("a", { href: item.metrics.discussion, target: "_blank", rel: "noopener noreferrer", text: "Discussion ↗" })
+            : null,
+          el("a", { class: "source-link", href: item.url, target: "_blank", rel: "noopener noreferrer", text: openText + " ↗" })
+        ])
       ])
     ]);
   }
@@ -474,40 +639,93 @@
   // ---------- views ----------
 
   function lastUpdatedText() {
-    var parts = ["Last updated: " + (state.updated ? fmtDate(state.updated) : "unknown")];
-    if (state.yt && state.yt.updated) parts.push("YouTube stats " + timeAgo(state.yt.updated));
+    var latest = "";
+    [state.yt].concat(FEEDS.map(function (f) { return state.feeds[f]; }), [state.searches]).forEach(function (d) {
+      if (d && d.updated && d.updated > latest) latest = d.updated;
+    });
+    var parts = ["Trends checked " + (latest ? timeAgo(latest) : "soon")];
+    if (state.updated) parts.push("featured picks updated " + fmtDate(state.updated));
     return parts.join(" · ");
   }
 
-  function hotVideos() {
-    return sortItems(publishedItems().filter(function (i) { return i.stats && i.stats.viewsPerHour; }), "hot");
+  // Top items by trend score, at most `perPlatform` from each platform so one site can't fill the list.
+  function mixedHot(limit, perPlatform) {
+    var counts = {}, out = [];
+    sortItems(publishedItems().filter(function (i) { return hotScore(i) >= 0; }), "hot").forEach(function (i) {
+      var p = platformOf(i);
+      if (out.length < limit && (counts[p] || 0) < perPlatform) {
+        out.push(i);
+        counts[p] = (counts[p] || 0) + 1;
+      }
+    });
+    return out;
+  }
+
+  function fromSource(source, sort, limit) {
+    return sortItems(publishedItems().filter(function (i) { return i.source === source; }), sort).slice(0, limit);
+  }
+
+  function sectionHead(title, href, linkText) {
+    return el("div", { class: "section-head" }, [
+      el("h2", { text: title }),
+      href ? el("a", { href: href, text: linkText || "See all →" }) : null
+    ]);
+  }
+
+  function googleSearchUrl(q) {
+    return "https://www.google.com/search?q=" + encodeURIComponent(q);
+  }
+
+  function searchChips(limit) {
+    var items = (state.searches && state.searches.items) || [];
+    return el("div", { class: "search-chips" }, items.slice(0, limit).map(function (s) {
+      return el("a", { class: "search-chip", href: googleSearchUrl(s.query), target: "_blank", rel: "noopener noreferrer" }, [
+        el("span", { class: "q", text: s.query }),
+        s.traffic ? el("span", { class: "traffic", text: s.traffic + " searches" }) : null
+      ]);
+    }));
   }
 
   function viewHome() {
-    var list = sortItems(publishedItems(), "date");
-    var hot = hotVideos();
-    var watch = sortItems(publishedItems().filter(function (i) { return i.video && !i.stats; }), "date");
+    var featured = sortItems(publishedItems().filter(function (i) { return !i.auto; }), "date");
+    var hot = mixedHot(8, 2);
+    var searches = (state.searches && state.searches.items) || [];
+    var live = fromSource("twitch", "hot", 3);
+    var songs = fromSource("music", "hot", 4);
+    var watch = sortItems(publishedItems().filter(function (i) {
+      return !i.auto && i.video && i.video.platform !== "youtube";
+    }), "date");
     return [
       el("section", { class: "hero" }, [
-        el("h1", { text: cfg.name || "Trend Hub" }),
+        el("h1", { text: cfg.name || "Trendwharf" }),
         el("p", { class: "lead", text: cfg.tagline || "" }),
         el("p", { class: "muted", text: lastUpdatedText() })
       ]),
       hot.length ? el("section", null, [
-        el("div", { class: "section-head" }, [
-          el("h2", { text: "🔥 Hot right now" }),
-          el("a", { href: "#/hot", text: "See all →" })
-        ]),
-        el("p", { class: "muted", text: "Ranked by how fast views are growing. Press play to watch here." }),
-        grid(hot.slice(0, 6))
+        sectionHead("🔥 Hot right now", "#/hot"),
+        el("p", { class: "muted", text: "The fastest-rising items across YouTube, Reddit, Twitch, the music charts and more. Press play to watch or listen here." }),
+        grid(hot)
+      ]) : null,
+      searches.length ? el("section", null, [
+        sectionHead("🔎 What people are searching", "#/searches"),
+        el("p", { class: "muted", text: "Rising searches on Google right now (" + (state.searches.country || "US") + ")." }),
+        searchChips(12)
+      ]) : null,
+      live.length ? el("section", null, [
+        sectionHead("🔴 Live on Twitch", "#/platform/twitch"),
+        grid(live)
+      ]) : null,
+      songs.length ? el("section", null, [
+        sectionHead("🎵 Top songs", "#/platform/music"),
+        grid(songs)
       ]) : null,
       watch.length ? el("section", null, [
         el("h2", { text: "Watch from TikTok, Instagram and X" }),
         grid(watch.slice(0, 6))
       ]) : null,
       el("section", null, [
-        el("h2", { text: "Trending now" }),
-        list.length ? grid(list.slice(0, 6)) : emptyState("No trends published yet. Check back soon.")
+        el("h2", { text: "Featured trends" }),
+        featured.length ? grid(featured.slice(0, 6)) : emptyState("No featured trends yet. Check back soon.")
       ]),
       el("section", null, [
         el("h2", { text: "Browse by platform" }),
@@ -523,15 +741,15 @@
           });
         }))
       ]),
-      el("section", null, [
-        el("h2", { text: "Latest updates" }),
-        el("ul", { class: "latest-list" }, list.slice(0, 10).map(function (item) {
+      featured.length ? el("section", null, [
+        el("h2", { text: "Latest featured updates" }),
+        el("ul", { class: "latest-list" }, featured.slice(0, 10).map(function (item) {
           return el("li", null, [
             el("a", { href: item.url, target: "_blank", rel: "noopener noreferrer", text: item.title }),
             el("span", { class: "muted", text: fmtDate(item.dateFound) + " · " + item.platform })
           ]);
         }))
-      ])
+      ]) : null
     ];
   }
 
@@ -544,30 +762,64 @@
         el("h1", { text: cat.label }),
         el("p", { class: "lead", text: cat.desc })
       ])
-    ].concat(filterableList(base, {}));
+    ].concat(filterableList(base, { sort: "hot" }));
   }
 
   function viewPlatform(slug, params) {
     var p = PLATFORMS.filter(function (x) { return x.slug === slug; })[0];
     if (!p) return viewNotFound();
     var base = publishedItems().filter(function (i) { return platformOf(i) === slug; });
-    return [
+    var ranked = base.some(function (i) { return hotScore(i) >= 0; });
+    var nodes = [
       el("section", { class: "hero" }, [
         el("h1", { text: p.label }),
         el("p", { class: "lead", text: p.desc })
       ]),
       platformChips()
-    ].concat(filterableList(base, { sort: params.get("sort") || (slug === "youtube" ? "hot" : "date"), platform: slug, hidePlatform: true }));
+    ];
+    if (!base.length && FEEDS.concat(["youtube"]).indexOf(slug) !== -1) {
+      nodes.push(emptyState("Nothing here yet. This section fills in automatically once its connection is switched on."));
+      return nodes;
+    }
+    return nodes.concat(filterableList(base, { sort: params.get("sort") || (ranked ? "hot" : "date"), platform: slug, hidePlatform: true }));
   }
 
   function viewHot() {
-    var base = publishedItems().filter(function (i) { return i.video; });
+    var base = publishedItems().filter(function (i) { return hotScore(i) >= 0 || getEmbed(i); });
     return [
       el("section", { class: "hero" }, [
-        el("h1", { text: "🔥 Hot videos" }),
-        el("p", { class: "lead", text: "Videos you can play right here. YouTube videos are ranked by how fast their views are growing; other platforms follow, newest first." })
+        el("h1", { text: "🔥 Hot right now" }),
+        el("p", { class: "lead", text: "Everything rising fastest, from every platform. Each item is scored 0–100 against others from the same platform — by views per hour on YouTube, upvotes per hour on Reddit, live viewers on Twitch, chart position for songs, and reads on Wikipedia." })
       ])
     ].concat(filterableList(base, { sort: "hot" }));
+  }
+
+  function viewSearches() {
+    var s = state.searches;
+    var items = (s && s.items) || [];
+    var nodes = [el("section", { class: "hero" }, [
+      el("h1", { text: "🔎 What people are searching" }),
+      el("p", { class: "lead", text: "Searches rising fastest on Google" + (s ? " in " + s.country + ", checked " + timeAgo(s.updated) : "") + ". Numbers are Google's rough estimates." })
+    ])];
+    if (!items.length) {
+      nodes.push(emptyState("Search trends will appear here after the next hourly update."));
+      return nodes;
+    }
+    nodes.push(el("ol", { class: "search-list" }, items.map(function (q) {
+      return el("li", null, [
+        el("div", { class: "search-row" }, [
+          el("a", { class: "q", href: googleSearchUrl(q.query), target: "_blank", rel: "noopener noreferrer", text: q.query }),
+          el("span", { class: "traffic" }, [q.traffic ? q.traffic + " searches" : "", q.publishedAt ? " · started " + timeAgo(q.publishedAt) : ""])
+        ]),
+        q.news && q.news.length ? el("ul", { class: "news-links" }, q.news.map(function (n) {
+          return el("li", null, [
+            el("a", { href: n.url, target: "_blank", rel: "noopener noreferrer", text: n.title }),
+            n.source ? el("span", { class: "muted", text: " — " + n.source }) : null
+          ]);
+        })) : null
+      ]);
+    })));
+    return nodes;
   }
 
   function viewSearch(q, params) {
@@ -798,7 +1050,10 @@
       title = platformLabel(segs[1]) + " · " + title;
     } else if (segs[0] === "hot") {
       nodes = viewHot();
-      title = "Hot videos · " + title;
+      title = "Hot right now · " + title;
+    } else if (segs[0] === "searches") {
+      nodes = viewSearches();
+      title = "Searches · " + title;
     } else if (segs[0] === "search") {
       var q = (params.get("q") || "").trim();
       nodes = viewSearch(q, params);
@@ -879,15 +1134,24 @@
 
   Promise.all([
     getJSON("data/items.json", false),
-    getJSON("data/youtube.json", true),   // filled in by the scheduled GitHub job
-    getJSON("data/blocked.json", true)    // videos you never want shown
-  ])
+    getJSON("data/youtube.json", true),   // written by the hourly GitHub job
+    getJSON("data/blocked.json", true),   // things you never want shown
+    getJSON("data/searches.json", true),
+    getJSON("data/oembed.json", true)
+  ].concat(FEEDS.map(function (f) { return getJSON("data/" + f + ".json", true); })))
     .then(function (res) {
       var data = res[0] || {};
       state.yt = res[1] && res[1].videos ? res[1] : null;
       state.blocked = res[2] || {};
+      state.searches = res[3] && res[3].items ? res[3] : null;
+      state.oembed = res[4] || {};
+      FEEDS.forEach(function (f, i) { state.feeds[f] = res[5 + i]; });
+      if (state.searches) {
+        var bq = (state.blocked.searches || []).map(function (b) { return String(b).toLowerCase(); });
+        state.searches.items = state.searches.items.filter(function (q) { return bq.indexOf(q.query.toLowerCase()) === -1; });
+      }
       state.updated = data.updated || "";
-      state.items = enrich((data.items || []).concat(youtubeTrendingItems()));
+      state.items = addTrendScores(enrich((data.items || []).concat(youtubeTrendingItems(), feedItems())));
       state.loaded = true;
       route();
     })

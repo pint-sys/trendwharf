@@ -209,6 +209,44 @@ p { margin: 0 0 1em; }
 .pill-tiktok { background: #111; color: #fff; }
 .pill-instagram { background: #d62976; color: #fff; }
 .pill-x { background: #000; color: #fff; }
+.pill-reddit { background: #ff4500; color: #fff; }
+.pill-twitch { background: #9146ff; color: #fff; }
+.pill-music { background: #fa2d48; color: #fff; }
+.pill-wikipedia { background: #54595d; color: #fff; }
+.pill-hackernews { background: #ff6600; color: #fff; }
+.cat-chip.pill-reddit, .cat-chip.pill-twitch, .cat-chip.pill-music, .cat-chip.pill-wikipedia, .cat-chip.pill-hackernews { border-color: transparent; }
+
+.player-reddit .player-brand { background: linear-gradient(160deg, #ff4500, #ff8717); }
+.player-twitch .player-brand { background: linear-gradient(160deg, #1f1033, #9146ff); }
+.player-music .player-brand { background: linear-gradient(160deg, #fa2d48, #a12038); }
+.player-music { aspect-ratio: 1 / 1; }
+.player-music.playing { aspect-ratio: auto; height: 175px; background: transparent; }
+.player-reddit.playing { aspect-ratio: auto; height: 560px; background: var(--card); }
+.live-dot {
+  position: absolute; left: 8px; top: 8px; background: #e91916; color: #fff; font-size: 0.72rem;
+  font-weight: 800; letter-spacing: 0.06em; padding: 0.05rem 0.45rem; border-radius: 4px;
+}
+.card-thumb { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 10px; background: var(--chip); }
+.stats .up { color: #2f8f5b; font-weight: 700; }
+.stats .down { color: var(--muted); }
+.foot-links { display: flex; gap: 0.8rem; flex-wrap: wrap; }
+
+/* Search trends */
+.search-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.search-chip {
+  display: inline-flex; align-items: baseline; gap: 0.45rem; text-decoration: none;
+  background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 0.4rem 0.85rem;
+}
+.search-chip:hover { border-color: var(--accent); }
+.search-chip .q { color: var(--ink); font-weight: 600; }
+.search-chip .traffic { color: var(--muted); font-size: 0.8rem; }
+.search-list { padding-left: 1.4rem; margin: 1rem 0 0; }
+.search-list > li { padding: 0.8rem 0; border-bottom: 1px solid var(--line); }
+.search-row { display: flex; flex-wrap: wrap; gap: 0.3rem 0.8rem; align-items: baseline; }
+.search-row .q { font-weight: 700; font-size: 1.08rem; color: var(--ink); }
+.search-row .traffic { color: var(--muted); font-size: 0.88rem; }
+.news-links { list-style: none; padding: 0; margin: 0.35rem 0 0; font-size: 0.92rem; }
+.news-links li { margin: 0.15rem 0; }
 @media (prefers-color-scheme: dark) {
   .pill-tiktok, .pill-x { background: #f3eee6; color: #141210; }
 }

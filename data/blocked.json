@@ -1,4 +1,11 @@
 {
-  "note": "Add YouTube video IDs here (the 11 characters after watch?v=) to stop them appearing on the site. Example: \"youtube\": [\"dQw4w9WgXcQ\"]",
-  "youtube": []
+  "note": "Add IDs or names here to hide them from the site. See README for what each list takes.",
+  "youtube": [],
+  "reddit": [],
+  "redditSubs": [],
+  "twitch": [],
+  "music": [],
+  "wikipedia": [],
+  "hackernews": [],
+  "searches": []
 }
