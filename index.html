@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Trendwharf</title>
+  <meta name="description" content="Trends in games, music, videos, news and memes, summarized in our own words with links to the original sources.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#view">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container bar">
+      <a class="brand" href="#/">Trendwharf</a>
+      <form class="search" id="search-form" role="search">
+        <label for="search-input" class="sr-only">Search trends</label>
+        <input id="search-input" type="search" placeholder="Search trends, songs, games…" autocomplete="off">
+        <button type="submit">Search</button>
+      </form>
+    </div>
+    <nav class="container nav" aria-label="Main">
+      <a href="#/">Home</a>
+      <a href="#/category/games">Games</a>
+      <a href="#/category/music">Music</a>
+      <a href="#/category/videos">Videos</a>
+      <a href="#/category/news">News</a>
+      <a href="#/category/memes">Memes</a>
+      <a href="#/suggest">Suggest a trend</a>
+      <a href="#/about">About</a>
+    </nav>
+  </header>
+
+  <main id="view" class="container" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Every item links to its original source. Summaries are written in our own words and checked by a person before they are published.</p>
+      <p>
+        <a href="#/privacy">Privacy</a> ·
+        <a href="#/terms">Terms</a> ·
+        <a id="footer-contact" href="#/about">Contact and takedown requests</a>
+      </p>
+      <p class="muted">© <span id="year"></span> <span id="footer-name"></span></p>
+    </div>
+  </footer>
+
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-12",
+  "note": "SAMPLE DATA. Replace this file with an export of the Items tab (status = Published) from your Google Sheet.",
+  "items": [
+    {
+      "id": "001",
+      "title": "Halloween costume and transformation videos",
+      "platform": "TikTok",
+      "url": "https://newengen.com/insights/october-tiktok-trends/",
+      "dateFound": "2026-10-12",
+      "category": "videos",
+      "tags": ["halloween", "costumes", "transformation"],
+      "summary": "Costume and dress-up content is expected to peak before Halloween on Saturday, October 31, giving creators a two-day window to post.",
+      "status": "Published"
+    },
+    {
+      "id": "002",
+      "title": "\"Stop the Wedding\" audio turns into regret carousels",
+      "platform": "TikTok",
+      "url": "https://newengen.com/insights/october-tiktok-trends/",
+      "dateFound": "2026-10-12",
+      "category": "music",
+      "tags": ["sound", "audio", "carousel"],
+      "summary": "A trending TikTok audio is being used for carousel posts about wedding regrets, a format that is easy to copy with your own photos.",
+      "status": "Published"
+    },
+    {
+      "id": "003",
+      "title": "Black Parade 20th anniversary and October music releases",
+      "platform": "TikTok",
+      "url": "https://newengen.com/insights/october-tiktok-trends/",
+      "dateFound": "2026-10-11",
+      "category": "music",
+      "tags": ["anniversary", "album", "releases"],
+      "summary": "The 20th anniversary of Black Parade falls on October 23, alongside several new album releases that may bring fans back to older songs.",
+      "status": "Published"
+    },
+    {
+      "id": "004",
+      "title": "Street Fighter film opens in theaters",
+      "platform": "TikTok",
+      "url": "https://newengen.com/insights/october-tiktok-trends/",
+      "dateFound": "2026-10-11",
+      "category": "games",
+      "tags": ["movie", "fighting games", "release"],
+      "summary": "The Street Fighter film opens in theaters on October 16, which is likely to bring reaction, ranking and comparison videos from gaming fans.",
+      "status": "Published"
+    },
+    {
+      "id": "005",
+      "title": "AI translator headphones are a rising search",
+      "platform": "Exploding Topics",
+      "url": "https://explodingtopics.com/social-topics",
+      "dateFound": "2026-10-10",
+      "category": "videos",
+      "tags": ["gadgets", "ai", "tech"],
+      "summary": "Searches for AI translator headphones have grown quickly this month, making a hands-on test or a \"worth it?\" video a timely option.",
+      "status": "Published"
+    },
+    {
+      "id": "006",
+      "title": "Magnetic selfie stick is gaining search interest",
+      "platform": "Exploding Topics",
+      "url": "https://explodingtopics.com/social-topics",
+      "dateFound": "2026-10-10",
+      "category": "videos",
+      "tags": ["gadgets", "photography"],
+      "summary": "Interest in magnetic selfie sticks is rising fast, which suits a short demo or a comparison with a regular selfie stick.",
+      "status": "Published"
+    },
+    {
+      "id": "007",
+      "title": "Trendjacking: adding your own take to popular topics",
+      "platform": "YouTube Shorts",
+      "url": "https://www.socialmediatoday.com/news/youtube-highlights-latest-shorts-trends/689510/",
+      "dateFound": "2026-10-09",
+      "category": "memes",
+      "tags": ["format", "newsjacking", "shorts"],
+      "summary": "Some Shorts creators are gaining traction by attaching their own angle to a popular topic or pop culture moment instead of starting from scratch.",
+      "status": "Published"
+    }
+  ]
+}
