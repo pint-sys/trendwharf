@@ -73,8 +73,139 @@
     }
   };
 
-  var state = { items: [], updated: "", loaded: false, error: false };
+  var PLATFORMS = [
+    { slug: "youtube",   label: "YouTube",   desc: "Videos from YouTube, with live views, likes and a trend score." },
+    { slug: "tiktok",    label: "TikTok",    desc: "TikTok videos you can play right here. TikTok doesn't share view counts with other sites." },
+    { slug: "instagram", label: "Instagram", desc: "Instagram posts and reels. Instagram doesn't share view counts with other sites." },
+    { slug: "x",         label: "X",         desc: "Posts and videos from X (Twitter)." },
+    { slug: "web",       label: "Articles",  desc: "News stories, blog posts and trend reports." }
+  ];
+
+  // YouTube's category IDs mapped to our categories.
+  var YT_CATEGORY_MAP = { "20": "games", "10": "music", "25": "news", "23": "memes" };
+
+  var state = { items: [], updated: "", yt: null, blocked: {}, loaded: false, error: false };
   var view = document.getElementById("view");
+
+  // ---------- video helpers ----------
+
+  // Works out which platform a link belongs to and pulls out the video ID.
+  // IDs are checked against strict patterns before they go into any player URL.
+  function parseVideo(url) {
+    if (!url) return null;
+    var u;
+    try { u = new URL(url); } catch (e) { return null; }
+    var host = u.hostname.replace(/^www\.|^m\./, "");
+    var path = u.pathname;
+    var m;
+    if (host === "youtube.com" || host === "music.youtube.com") {
+      var v = u.searchParams.get("v");
+      if (v && /^[\w-]{11}$/.test(v)) return { platform: "youtube", id: v };
+      m = path.match(/^\/(?:shorts|embed|live)\/([\w-]{11})/);
+      if (m) return { platform: "youtube", id: m[1], vertical: path.indexOf("/shorts/") === 0 };
+    }
+    if (host === "youtu.be") {
+      m = path.match(/^\/([\w-]{11})/);
+      if (m) return { platform: "youtube", id: m[1] };
+    }
+    if (host === "tiktok.com") {
+      m = path.match(/\/video\/(\d{8,25})/);
+      if (m) return { platform: "tiktok", id: m[1], vertical: true };
+    }
+    if (host === "instagram.com") {
+      m = path.match(/^\/(p|reel|reels|tv)\/([\w-]{5,40})/);
+      if (m) return { platform: "instagram", id: m[2], kind: m[1] === "p" ? "p" : "reel", vertical: true };
+    }
+    if (host === "x.com" || host === "twitter.com") {
+      m = path.match(/\/status\/(\d{5,25})/);
+      if (m) return { platform: "x", id: m[1] };
+    }
+    return null;
+  }
+
+  function platformOf(item) {
+    return item.video ? item.video.platform : "web";
+  }
+
+  function platformLabel(slug) {
+    var p = PLATFORMS.filter(function (x) { return x.slug === slug; })[0];
+    return p ? p.label : slug;
+  }
+
+  var compact = (window.Intl && Intl.NumberFormat)
+    ? new Intl.NumberFormat(undefined, { notation: "compact", maximumFractionDigits: 1 })
+    : { format: String };
+
+  function fmtNum(n) { return (n === null || n === undefined) ? "–" : compact.format(n); }
+
+  function timeAgo(iso) {
+    var secs = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (!isFinite(secs)) return "";
+    if (secs < 3600) return Math.max(1, Math.round(secs / 60)) + " min ago";
+    if (secs < 86400) return Math.round(secs / 3600) + " h ago";
+    if (secs < 86400 * 30) return Math.round(secs / 86400) + " days ago";
+    return fmtDate(iso.slice(0, 10));
+  }
+
+  function fmtDuration(s) {
+    if (!s) return "";
+    var h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = s % 60;
+    var mm = h ? String(m).padStart(2, "0") : String(m);
+    return (h ? h + ":" : "") + mm + ":" + String(sec).padStart(2, "0");
+  }
+
+  function hotScore(item) { return item.stats ? (item.stats.viewsPerHour || 0) : -1; }
+  function viewCount(item) { return item.stats ? (item.stats.views || 0) : -1; }
+
+  // Turns entries from YouTube's trending chart into site items.
+  function youtubeTrendingItems() {
+    if (!state.yt || !state.yt.trending) return [];
+    var blocked = state.blocked.youtube || [];
+    var fetchedDay = (state.yt.updated || "").slice(0, 10);
+    return state.yt.trending.map(function (vid, i) {
+      var v = state.yt.videos[vid];
+      if (!v || blocked.indexOf(vid) !== -1) return null;
+      return {
+        id: "yt-" + vid,
+        title: v.title,
+        platform: "YouTube",
+        url: "https://www.youtube.com/watch?v=" + vid,
+        dateFound: fetchedDay || (v.publishedAt || "").slice(0, 10),
+        category: YT_CATEGORY_MAP[v.categoryId] || "videos",
+        tags: ["youtube trending", v.channel].filter(Boolean),
+        summary: "#" + (i + 1) + " on YouTube's trending chart (" + (state.yt.region || "US") + "). Uploaded by " + v.channel + ".",
+        status: "Published",
+        auto: true
+      };
+    }).filter(Boolean);
+  }
+
+  // Adds video info and live stats to every item.
+  function enrich(items) {
+    var seen = {};
+    return items.map(function (item) {
+      var copy = Object.assign({}, item);
+      copy.video = parseVideo(item.videoUrl || item.url);
+      if (copy.video && copy.video.platform === "youtube" && state.yt && state.yt.videos) {
+        var s = state.yt.videos[copy.video.id];
+        if (s) {
+          copy.stats = s;
+          if (!copy.thumbnail) copy.thumbnail = s.thumbnail;
+        }
+      }
+      if (copy.video && copy.video.platform === "youtube" && !copy.thumbnail) {
+        copy.thumbnail = "https://i.ytimg.com/vi/" + copy.video.id + "/hqdefault.jpg";
+      }
+      return copy;
+    }).filter(function (item) {
+      // Don't show the same video twice (manual item + trending chart).
+      if (!item.video) return true;
+      var key = item.video.platform + ":" + item.video.id;
+      if (seen[key]) return false;
+      seen[key] = true;
+      return true;
+    });
+  }
 
   // ---------- helpers ----------
 
@@ -117,14 +248,29 @@
     return publishedItems().filter(function (i) { return i.category === slug; }).length;
   }
 
+  var SORTS = {
+    date:  "Newest first",
+    hot:   "Hot right now (views per hour)",
+    views: "Most viewed",
+    title: "Title A–Z"
+  };
+
   function sortItems(list, mode) {
     var copy = list.slice();
     if (mode === "title") {
       copy.sort(function (a, b) { return a.title.localeCompare(b.title); });
+    } else if (mode === "hot") {
+      copy.sort(function (a, b) { return hotScore(b) - hotScore(a) || b.dateFound.localeCompare(a.dateFound); });
+    } else if (mode === "views") {
+      copy.sort(function (a, b) { return viewCount(b) - viewCount(a) || b.dateFound.localeCompare(a.dateFound); });
     } else {
       copy.sort(function (a, b) { return b.dateFound.localeCompare(a.dateFound); });
     }
     return copy;
+  }
+
+  function countPlatform(slug) {
+    return publishedItems().filter(function (i) { return platformOf(i) === slug; }).length;
   }
 
   function filterByRange(list, range) {
@@ -134,8 +280,8 @@
   }
 
   function matchesQuery(item, q) {
-    var hay = [item.title, item.summary, item.platform, (item.tags || []).join(" ")]
-      .join(" ").toLowerCase();
+    var hay = [item.title, item.summary, item.platform, (item.tags || []).join(" "),
+      item.stats ? item.stats.channel : ""].join(" ").toLowerCase();
     return q.toLowerCase().split(/\s+/).filter(Boolean).every(function (word) {
       return hay.indexOf(word) !== -1;
     });
@@ -143,26 +289,96 @@
 
   // ---------- components ----------
 
+  // Builds the real player. Only called after someone clicks Play,
+  // so pages stay fast and no platform loads until it's needed.
+  function playerFrame(video) {
+    var src, title = platformLabel(video.platform) + " video player";
+    if (video.platform === "youtube") {
+      src = "https://www.youtube-nocookie.com/embed/" + video.id + "?autoplay=1&rel=0&playsinline=1";
+    } else if (video.platform === "tiktok") {
+      src = "https://www.tiktok.com/player/v1/" + video.id + "?autoplay=1&rel=0";
+    } else if (video.platform === "instagram") {
+      src = "https://www.instagram.com/" + video.kind + "/" + video.id + "/embed/";
+    } else if (video.platform === "x") {
+      src = "https://platform.twitter.com/embed/Tweet.html?id=" + video.id + "&dnt=true";
+    }
+    return el("iframe", {
+      src: src,
+      title: title,
+      allow: "autoplay; encrypted-media; picture-in-picture; fullscreen; clipboard-write",
+      allowfullscreen: true,
+      loading: "lazy",
+      referrerpolicy: "strict-origin-when-cross-origin"
+    });
+  }
+
+  function videoBox(item) {
+    var v = item.video;
+    var box = el("div", { class: "player player-" + v.platform + (v.vertical ? " vertical" : "") });
+    var label = "Play: " + item.title;
+    var cover = el("button", { type: "button", class: "player-cover", "aria-label": label }, [
+      el("span", { class: "player-brand", text: platformLabel(v.platform) }),
+      item.thumbnail
+        ? el("img", { src: item.thumbnail, alt: "", loading: "lazy", decoding: "async", referrerpolicy: "no-referrer",
+            onerror: function () { this.remove(); } })
+        : null,
+      el("span", { class: "play-icon", "aria-hidden": "true" }),
+      item.stats && item.stats.durationSec
+        ? el("span", { class: "duration", text: fmtDuration(item.stats.durationSec) })
+        : null
+    ]);
+    cover.addEventListener("click", function () {
+      box.innerHTML = "";
+      box.classList.add("playing");
+      box.appendChild(playerFrame(v));
+    });
+    box.appendChild(cover);
+    return box;
+  }
+
+  function statsRow(item) {
+    var s = item.stats;
+    if (s) {
+      return el("div", { class: "stats" }, [
+        el("span", { title: "Views" }, ["👁 ", fmtNum(s.views)]),
+        s.likes !== null && s.likes !== undefined ? el("span", { title: "Likes" }, ["👍 ", fmtNum(s.likes)]) : null,
+        s.comments !== null && s.comments !== undefined ? el("span", { title: "Comments" }, ["💬 ", fmtNum(s.comments)]) : null,
+        s.publishedAt ? el("span", { title: "Uploaded" }, ["⏱ ", timeAgo(s.publishedAt)]) : null,
+        s.viewsPerHour
+          ? el("span", { class: "hot", title: "Trend score: how fast views are growing" }, ["🔥 ", fmtNum(Math.round(s.viewsPerHour)), " views/hr"])
+          : null
+      ]);
+    }
+    if (item.video) {
+      return el("p", { class: "stats muted", text: "View counts aren't shared by " + platformLabel(item.video.platform) + "." });
+    }
+    return null;
+  }
+
   function itemCard(item) {
     var cat = CATEGORIES.filter(function (c) { return c.slug === item.category; })[0];
-    return el("article", { class: "card" }, [
+    var platform = platformOf(item);
+    return el("article", { class: "card" + (item.video ? " video-card" : "") }, [
+      item.video ? videoBox(item) : null,
       el("div", { class: "card-meta" }, [
         el("span", { class: "badge", text: cat ? cat.label : item.category }),
-        el("span", { class: "muted", text: item.platform })
+        el("span", { class: "pill pill-" + platform, text: item.video ? platformLabel(platform) : item.platform }),
+        item.stats && item.stats.channel ? el("span", { class: "muted", text: item.stats.channel }) : null
       ]),
       el("h3", { text: item.title }),
+      statsRow(item),
       el("p", { text: item.summary }),
       el("div", { class: "tags" }, (item.tags || []).map(function (t) {
         return el("span", { class: "tag", text: t });
       })),
       el("div", { class: "card-foot" }, [
-        el("time", { datetime: item.dateFound, text: fmtDate(item.dateFound) }),
+        el("time", { datetime: item.dateFound, text: (item.auto ? "Trending " : "") + fmtDate(item.dateFound) }),
         el("a", {
           class: "source-link",
           href: item.url,
           target: "_blank",
           rel: "noopener noreferrer",
-          text: "Original source ↗"
+          text: item.video ? "Watch on " + platformLabel(platform) + " ↗" : "Original source ↗"
         })
       ])
     ]);
@@ -177,41 +393,62 @@
   }
 
   // Filterable list used by category and search pages.
+  // initial: { range, sort, platform, hidePlatform }
   function filterableList(baseList, initial) {
     var range = el("select", { id: "f-range" }, Object.keys(DATE_RANGES).map(function (k) {
       return el("option", { value: k, text: DATE_RANGES[k].label });
     }));
-    var sort = el("select", { id: "f-sort" }, [
-      el("option", { value: "date", text: "Newest first" }),
-      el("option", { value: "title", text: "Title A–Z" })
-    ]);
-    range.value = initial.range || "all";
-    sort.value = initial.sort || "date";
+    var sort = el("select", { id: "f-sort" }, Object.keys(SORTS).map(function (k) {
+      return el("option", { value: k, text: SORTS[k] });
+    }));
+    var platform = el("select", { id: "f-platform" },
+      [el("option", { value: "all", text: "All platforms" })].concat(PLATFORMS.map(function (p) {
+        return el("option", { value: p.slug, text: p.label });
+      })));
+    range.value = DATE_RANGES[initial.range] ? initial.range : "all";
+    sort.value = SORTS[initial.sort] ? initial.sort : "date";
+    platform.value = initial.platform || "all";
 
     var count = el("span", { class: "count", "aria-live": "polite" });
     var results = el("div", { class: "results" });
 
     function update() {
-      var list = sortItems(filterByRange(baseList, range.value), sort.value);
+      var list = filterByRange(baseList, range.value);
+      if (platform.value !== "all") {
+        list = list.filter(function (i) { return platformOf(i) === platform.value; });
+      }
+      list = sortItems(list, sort.value);
       count.textContent = list.length + (list.length === 1 ? " item" : " items");
       results.innerHTML = "";
       results.appendChild(list.length
         ? grid(list)
-        : emptyState("Nothing matches these filters yet. Try a wider date range."));
+        : emptyState("Nothing matches these filters yet. Try a wider date range or another platform."));
     }
 
     range.addEventListener("change", update);
     sort.addEventListener("change", update);
+    platform.addEventListener("change", update);
     update();
 
     return [
       el("div", { class: "toolbar", role: "group", "aria-label": "Filter results" }, [
+        initial.hidePlatform ? null : el("label", null, ["Platform", platform]),
         el("label", null, ["Date", range]),
         el("label", null, ["Sort by", sort]),
         count
       ]),
       results
     ];
+  }
+
+  function platformChips() {
+    return el("div", { class: "cat-row" }, PLATFORMS.map(function (p) {
+      return el("a", {
+        class: "cat-chip pill-" + p.slug,
+        href: "#/platform/" + p.slug,
+        text: p.label + " (" + countPlatform(p.slug) + ")"
+      });
+    }));
   }
 
   function renderStaticPage(key) {
@@ -236,17 +473,45 @@
 
   // ---------- views ----------
 
+  function lastUpdatedText() {
+    var parts = ["Last updated: " + (state.updated ? fmtDate(state.updated) : "unknown")];
+    if (state.yt && state.yt.updated) parts.push("YouTube stats " + timeAgo(state.yt.updated));
+    return parts.join(" · ");
+  }
+
+  function hotVideos() {
+    return sortItems(publishedItems().filter(function (i) { return i.stats && i.stats.viewsPerHour; }), "hot");
+  }
+
   function viewHome() {
     var list = sortItems(publishedItems(), "date");
+    var hot = hotVideos();
+    var watch = sortItems(publishedItems().filter(function (i) { return i.video && !i.stats; }), "date");
     return [
       el("section", { class: "hero" }, [
         el("h1", { text: cfg.name || "Trend Hub" }),
         el("p", { class: "lead", text: cfg.tagline || "" }),
-        el("p", { class: "muted", text: "Last updated: " + (state.updated ? fmtDate(state.updated) : "unknown") })
+        el("p", { class: "muted", text: lastUpdatedText() })
       ]),
+      hot.length ? el("section", null, [
+        el("div", { class: "section-head" }, [
+          el("h2", { text: "🔥 Hot right now" }),
+          el("a", { href: "#/hot", text: "See all →" })
+        ]),
+        el("p", { class: "muted", text: "Ranked by how fast views are growing. Press play to watch here." }),
+        grid(hot.slice(0, 6))
+      ]) : null,
+      watch.length ? el("section", null, [
+        el("h2", { text: "Watch from TikTok, Instagram and X" }),
+        grid(watch.slice(0, 6))
+      ]) : null,
       el("section", null, [
         el("h2", { text: "Trending now" }),
         list.length ? grid(list.slice(0, 6)) : emptyState("No trends published yet. Check back soon.")
+      ]),
+      el("section", null, [
+        el("h2", { text: "Browse by platform" }),
+        platformChips()
       ]),
       el("section", null, [
         el("h2", { text: "Browse by category" }),
@@ -280,6 +545,29 @@
         el("p", { class: "lead", text: cat.desc })
       ])
     ].concat(filterableList(base, {}));
+  }
+
+  function viewPlatform(slug, params) {
+    var p = PLATFORMS.filter(function (x) { return x.slug === slug; })[0];
+    if (!p) return viewNotFound();
+    var base = publishedItems().filter(function (i) { return platformOf(i) === slug; });
+    return [
+      el("section", { class: "hero" }, [
+        el("h1", { text: p.label }),
+        el("p", { class: "lead", text: p.desc })
+      ]),
+      platformChips()
+    ].concat(filterableList(base, { sort: params.get("sort") || (slug === "youtube" ? "hot" : "date"), platform: slug, hidePlatform: true }));
+  }
+
+  function viewHot() {
+    var base = publishedItems().filter(function (i) { return i.video; });
+    return [
+      el("section", { class: "hero" }, [
+        el("h1", { text: "🔥 Hot videos" }),
+        el("p", { class: "lead", text: "Videos you can play right here. YouTube videos are ranked by how fast their views are growing; other platforms follow, newest first." })
+      ])
+    ].concat(filterableList(base, { sort: "hot" }));
   }
 
   function viewSearch(q, params) {
@@ -505,6 +793,12 @@
       nodes = viewCategory(segs[1]);
       var c = CATEGORIES.filter(function (x) { return x.slug === segs[1]; })[0];
       if (c) title = c.label + " · " + title;
+    } else if (segs[0] === "platform" && segs[1]) {
+      nodes = viewPlatform(segs[1], params);
+      title = platformLabel(segs[1]) + " · " + title;
+    } else if (segs[0] === "hot") {
+      nodes = viewHot();
+      title = "Hot videos · " + title;
     } else if (segs[0] === "search") {
       var q = (params.get("q") || "").trim();
       nodes = viewSearch(q, params);
@@ -523,7 +817,7 @@
     }
 
     view.innerHTML = "";
-    nodes.forEach(function (n) { view.appendChild(n); });
+    nodes.forEach(function (n) { if (n) view.appendChild(n); });
     document.title = title;
     setActiveNav(segs.length ? "/" + segs.join("/") : "/");
     syncSearchBox(path, params);
@@ -532,7 +826,7 @@
 
   function syncSearchBox(path, params) {
     var input = document.getElementById("search-input");
-    if (path === "/search") input.value = params.get("q") || "";
+    input.value = path === "/search" ? (params.get("q") || "") : "";
   }
 
   // ---------- setup ----------
@@ -570,18 +864,35 @@
   initAnalytics();
   window.addEventListener("hashchange", route);
 
-  fetch("data/items.json", { cache: "no-cache" })
-    .then(function (r) {
-      if (!r.ok) throw new Error("HTTP " + r.status);
+  function getJSON(path, optional) {
+    return fetch(path, { cache: "no-cache" }).then(function (r) {
+      if (!r.ok) {
+        if (optional) return null;
+        throw new Error("HTTP " + r.status);
+      }
       return r.json();
-    })
-    .then(function (data) {
-      state.items = data.items || [];
+    }).catch(function (err) {
+      if (optional) return null;
+      throw err;
+    });
+  }
+
+  Promise.all([
+    getJSON("data/items.json", false),
+    getJSON("data/youtube.json", true),   // filled in by the scheduled GitHub job
+    getJSON("data/blocked.json", true)    // videos you never want shown
+  ])
+    .then(function (res) {
+      var data = res[0] || {};
+      state.yt = res[1] && res[1].videos ? res[1] : null;
+      state.blocked = res[2] || {};
       state.updated = data.updated || "";
+      state.items = enrich((data.items || []).concat(youtubeTrendingItems()));
       state.loaded = true;
       route();
     })
-    .catch(function () {
+    .catch(function (err) {
+      if (window.console) console.error("Trendwharf failed to load:", err);
       state.error = true;
       state.loaded = true;
       route();
