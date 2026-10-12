@@ -36,22 +36,22 @@
           "We do not re-upload videos, songs, or articles. If you are a creator or rights holder and want an item removed, we will act on a valid request."
         ]},
         { h: "Contact and takedown requests", p: [
-          "Send corrections, suggestions, and takedown requests to the address below. Include the item link and what you would like us to change."
-        ], contact: true }
+          "Send corrections, questions and takedown requests through our contact form. Include the item link and what you would like us to change."
+        ], contact: "Takedown request" }
       ]
     },
     privacy: {
       title: "Privacy",
       body: [
         { h: "What we collect", p: [
-          "We do not ask for accounts. If you use the suggestion form or email us, we receive the details you send. Analytics, if turned on, measure page visits in aggregate."
+          "We do not ask for accounts. If you use our suggestion or contact forms, we receive the details you send, including your email address if you choose to give it. Forms are delivered to us by email through a third-party form service (FormSubmit). Analytics, if turned on, measure page visits in aggregate."
         ]},
         { h: "What we do with it", p: [
           "We use this information only to respond to you and to improve the site. We do not sell personal data."
         ]},
         { h: "Your choices", p: [
-          "You can ask us to delete anything you sent us by contacting the address below."
-        ], contact: true }
+          "You can ask us to delete anything you sent us through our contact form."
+        ], contact: "Question" }
       ]
     },
     terms: {
@@ -65,7 +65,7 @@
         ]},
         { h: "Removals", p: [
           "We may remove any item at any time, including on request from a rights holder."
-        ], contact: true },
+        ], contact: "Takedown request" },
         { h: "Changes", p: [
           "We may update these terms. Continued use of the site means you accept the current version."
         ]}
@@ -221,20 +221,16 @@
       nodes.push(el("h2", { text: section.h }));
       section.p.forEach(function (text) { nodes.push(el("p", { text: text })); });
       if (section.contact) {
-        nodes.push(contactLine());
+        nodes.push(contactLine(section.contact));
       }
     });
     return el("section", { class: "page" }, nodes);
   }
 
-  function contactLine() {
-    var email = cfg.contactEmail || "";
-    if (!email || email === "you@example.com") {
-      return el("p", { class: "notice", text: "Contact email is not set up yet. Add it in config.js." });
-    }
+  function contactLine(type) {
+    var href = "#/contact" + (type ? "?type=" + encodeURIComponent(type) : "");
     return el("p", { class: "notice" }, [
-      "Email: ",
-      el("a", { href: "mailto:" + email + "?subject=Trend%20Hub%20request", text: email })
+      el("a", { href: href, text: type === "Takedown request" ? "Send a takedown request →" : "Use our contact form →" })
     ]);
   }
 
@@ -304,8 +300,7 @@
     if (cfg.suggestEndpoint) {
       nodes.push(suggestForm());
     } else {
-      nodes.push(el("div", { class: "notice", text: "The suggestion form is coming soon. In the meantime, send suggestions by email." }));
-      nodes.push(contactLine());
+      nodes.push(el("div", { class: "notice", text: "The suggestion form is coming soon." }));
     }
     return [el("section", { class: "page" }, nodes)];
   }
@@ -316,6 +311,113 @@
       control,
       hint ? el("p", { class: "hint", text: hint }) : null
     ]);
+  }
+
+  // Shared submit handling for the on-site forms. validate() returns
+  // [fieldToFocus, message] when something is wrong, or null when it's fine.
+  function wireForm(form, button, status, honey, buttonText, validate, buildPayload, okMessage) {
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var problem = validate();
+      if (problem) {
+        status.textContent = problem[1];
+        status.className = "form-status error";
+        problem[0].focus();
+        return;
+      }
+      if (honey.value) return; // spam bot filled the hidden field
+
+      button.disabled = true;
+      button.textContent = "Sending…";
+      status.textContent = "";
+      status.className = "form-status";
+
+      var body = buildPayload();
+      body._template = "table";
+      body._captcha = "false";
+
+      fetch(cfg.suggestEndpoint, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "Accept": "application/json" },
+        body: JSON.stringify(body)
+      })
+        .then(function (r) { return r.json().catch(function () { return {}; }).then(function (d) { return { ok: r.ok, d: d }; }); })
+        .then(function (res) {
+          var success = res.ok && (res.d.success === true || res.d.success === "true");
+          if (!success) throw new Error(res.d.message || "failed");
+          form.reset();
+          status.textContent = okMessage;
+          status.className = "form-status ok";
+        })
+        .catch(function () {
+          status.textContent = "Sorry, it didn't send. Please try again in a minute.";
+          status.className = "form-status error";
+        })
+        .then(function () {
+          button.disabled = false;
+          button.textContent = buttonText;
+        });
+    });
+  }
+
+  var CONTACT_TYPES = ["Correction", "Takedown request", "Question", "Other"];
+
+  function contactForm(preset) {
+    var type = el("select", { id: "c-type", name: "Type", required: true },
+      [el("option", { value: "", text: "Choose one" })].concat(CONTACT_TYPES.map(function (t) {
+        return el("option", { value: t, text: t });
+      })));
+    if (preset) type.value = preset;
+    var message = el("textarea", { id: "c-message", name: "Message", rows: 5, required: true, maxlength: 2000,
+      placeholder: "Tell us what you'd like us to fix, remove or answer." });
+    var link = el("input", { id: "c-link", name: "Link", type: "url", maxlength: 500, placeholder: "https://…" });
+    var reply = el("input", { id: "c-email", name: "email", type: "email", maxlength: 200, placeholder: "you@example.com", autocomplete: "email" });
+    var honey = el("input", { type: "text", name: "_honey", tabindex: "-1", autocomplete: "off", class: "hp", "aria-hidden": "true" });
+    var status = el("p", { class: "form-status", role: "status", "aria-live": "polite" });
+    var button = el("button", { type: "submit", class: "button", text: "Send message" });
+
+    var form = el("form", { class: "suggest-form", novalidate: true }, [
+      field("What is this about? *", type),
+      field("Message *", message),
+      field("Link to the item (optional)", link, "For corrections and takedowns, paste the item's original source link."),
+      field("Your email (optional)", reply, "Only if you want a reply. Takedown requests usually need one so we can confirm."),
+      honey,
+      button,
+      status
+    ]);
+
+    wireForm(form, button, status, honey, "Send message", function () {
+      if (!type.value) return [type, "Please choose what this is about."];
+      if (!message.value.trim()) return [message, "Please write a message."];
+      if (link.value && !link.checkValidity()) return [link, "That link doesn't look right. It should start with https://"];
+      if (reply.value && !reply.checkValidity()) return [reply, "That email address doesn't look right."];
+      return null;
+    }, function () {
+      var body = {
+        Type: type.value,
+        Message: message.value.trim(),
+        Link: link.value.trim() || "(none)",
+        _subject: (cfg.name || "Site") + " " + type.value.toLowerCase() + ": " + message.value.trim().slice(0, 50)
+      };
+      // FormSubmit sets Reply-To from a field named "email".
+      if (reply.value.trim()) body.email = reply.value.trim();
+      else body["Reply email"] = "(not given)";
+      return body;
+    }, "Thanks! Your message was sent.");
+
+    return form;
+  }
+
+  function viewContact(params) {
+    var preset = params.get("type");
+    if (CONTACT_TYPES.indexOf(preset) === -1) preset = "";
+    return [el("section", { class: "page" }, [
+      el("h1", { text: "Contact us" }),
+      el("p", { class: "lead", text: "Spotted a mistake, want something removed, or have a question? Send us a message." }),
+      contactForm(preset),
+      el("p", { class: "muted", text: "Want to suggest a new trend instead? Use the suggestion form." }),
+      el("p", null, [el("a", { href: "#/suggest", text: "Go to the suggestion form →" })])
+    ])];
   }
 
   function suggestForm() {
@@ -344,57 +446,20 @@
       status
     ]);
 
-    form.addEventListener("submit", function (e) {
-      e.preventDefault();
-      status.className = "form-status";
-      if (!what.value.trim() || !category.value) {
-        status.textContent = "Please fill in what we should cover and choose a category.";
-        status.className = "form-status error";
-        (what.value.trim() ? category : what).focus();
-        return;
-      }
-      if (link.value && !link.checkValidity()) {
-        status.textContent = "That link doesn't look right. It should start with https://";
-        status.className = "form-status error";
-        link.focus();
-        return;
-      }
-      if (honey.value) return; // bot
-
-      button.disabled = true;
-      button.textContent = "Sending…";
-      status.textContent = "";
-
-      fetch(cfg.suggestEndpoint, {
-        method: "POST",
-        headers: { "Content-Type": "application/json", "Accept": "application/json" },
-        body: JSON.stringify({
-          Suggestion: what.value.trim(),
-          Link: link.value.trim() || "(none)",
-          Category: category.value,
-          Why: why.value.trim() || "(not given)",
-          _subject: "New " + (cfg.name || "site") + " suggestion: " + what.value.trim().slice(0, 60),
-          _template: "table",
-          _captcha: "false"
-        })
-      })
-        .then(function (r) { return r.json().catch(function () { return {}; }).then(function (d) { return { ok: r.ok, d: d }; }); })
-        .then(function (res) {
-          var success = res.ok && (res.d.success === true || res.d.success === "true");
-          if (!success) throw new Error(res.d.message || "failed");
-          form.reset();
-          status.textContent = "Thanks! Your suggestion was sent.";
-          status.className = "form-status ok";
-        })
-        .catch(function () {
-          status.textContent = "Sorry, it didn't send. Please try again in a minute.";
-          status.className = "form-status error";
-        })
-        .then(function () {
-          button.disabled = false;
-          button.textContent = "Send suggestion";
-        });
-    });
+    wireForm(form, button, status, honey, "Send suggestion", function fail() {
+      if (!what.value.trim()) return [what, "Please tell us what we should cover."];
+      if (!category.value) return [category, "Please choose a category."];
+      if (link.value && !link.checkValidity()) return [link, "That link doesn't look right. It should start with https://"];
+      return null;
+    }, function payload() {
+      return {
+        Suggestion: what.value.trim(),
+        Link: link.value.trim() || "(none)",
+        Category: category.value,
+        Why: why.value.trim() || "(not given)",
+        _subject: "New " + (cfg.name || "site") + " suggestion: " + what.value.trim().slice(0, 60)
+      };
+    }, "Thanks! Your suggestion was sent.");
 
     return form;
   }
@@ -444,6 +509,9 @@
       var q = (params.get("q") || "").trim();
       nodes = viewSearch(q, params);
       if (q) title = "“" + q + "” · " + title;
+    } else if (segs[0] === "contact") {
+      nodes = viewContact(params);
+      title = "Contact · " + title;
     } else if (segs[0] === "suggest") {
       nodes = viewSuggest();
       title = "Suggest · " + title;
@@ -472,10 +540,6 @@
   function initFooter() {
     document.getElementById("year").textContent = String(new Date().getFullYear());
     document.getElementById("footer-name").textContent = cfg.name || "Trend Hub";
-    var contact = document.getElementById("footer-contact");
-    if (cfg.contactEmail && cfg.contactEmail !== "you@example.com") {
-      contact.setAttribute("href", "mailto:" + cfg.contactEmail + "?subject=Trend%20Hub%20contact");
-    }
   }
 
   function initSearch() {
