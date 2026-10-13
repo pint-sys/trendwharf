@@ -1,47 +1,26 @@
 {
- "updated": "2026-10-13T00:52:11Z",
+ "updated": "2026-10-13T07:51:59Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50064536",
-   "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-   "url": "https://doi.org/10.1111/acel.70751",
+   "rawId": "50041866",
+   "title": "The baffling intelligence of a single cell (2024)",
+   "url": "https://jsomers.net/e-coli-chemotaxis/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "doi.org"
+    "jsomers.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-12T23:34:22Z",
-   "hot": 43.9,
+   "publishedAt": "2026-10-11T11:02:30Z",
+   "hot": 5.0,
    "rank": 1,
    "metrics": {
-    "points": 57,
-    "comments": 22,
-    "discussion": "https://news.ycombinator.com/item?id=50064536"
-   }
-  },
-  {
-   "rawId": "50064318",
-   "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-   "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nirajrajgor.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T23:07:25Z",
-   "hot": 30.4,
-   "rank": 2,
-   "metrics": {
-    "points": 53,
-    "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50064318"
+    "points": 224,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50041866"
    }
   },
   {
@@ -57,75 +36,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T16:11:45Z",
-   "hot": 47.8,
-   "rank": 3,
+   "hot": 34.0,
+   "rank": 2,
    "metrics": {
-    "points": 415,
-    "comments": 239,
+    "points": 533,
+    "comments": 307,
     "discussion": "https://news.ycombinator.com/item?id=50058507"
-   }
-  },
-  {
-   "rawId": "50063138",
-   "title": "Who Is Vfmaddrnd231pd?",
-   "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "purplesyringa.moe"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T21:12:43Z",
-   "hot": 27.6,
-   "rank": 4,
-   "metrics": {
-    "points": 101,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50063138"
-   }
-  },
-  {
-   "rawId": "50058528",
-   "title": "A Modern Web App in C",
-   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "prophitt.me"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T16:13:10Z",
-   "hot": 43.0,
-   "rank": 5,
-   "metrics": {
-    "points": 372,
-    "comments": 159,
-    "discussion": "https://news.ycombinator.com/item?id=50058528"
-   }
-  },
-  {
-   "rawId": "50041866",
-   "title": "The baffling intelligence of a single cell (2024)",
-   "url": "https://jsomers.net/e-coli-chemotaxis/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jsomers.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-11T11:02:30Z",
-   "hot": 0.6,
-   "rank": 6,
-   "metrics": {
-    "points": 21,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50041866"
    }
   },
   {
@@ -141,12 +57,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T21:35:35Z",
-   "hot": 11.0,
-   "rank": 7,
+   "hot": 17.3,
+   "rank": 3,
    "metrics": {
-    "points": 36,
-    "comments": 11,
+    "points": 178,
+    "comments": 80,
     "discussion": "https://news.ycombinator.com/item?id=50063365"
+   }
+  },
+  {
+   "rawId": "50058528",
+   "title": "A Modern Web App in C",
+   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "prophitt.me"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T16:13:10Z",
+   "hot": 33.8,
+   "rank": 4,
+   "metrics": {
+    "points": 529,
+    "comments": 222,
+    "discussion": "https://news.ycombinator.com/item?id=50058528"
    }
   },
   {
@@ -162,75 +99,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T12:16:42Z",
-   "hot": 33.3,
-   "rank": 8,
+   "hot": 32.6,
+   "rank": 5,
    "metrics": {
-    "points": 419,
-    "comments": 638,
+    "points": 638,
+    "comments": 772,
     "discussion": "https://news.ycombinator.com/item?id=50055304"
    }
   },
   {
-   "rawId": "50063417",
-   "title": "Phreak.ing – Internet Phone Switch",
-   "url": "https://phreak.ing/",
+   "rawId": "50063138",
+   "title": "Who is vfmaddrnd231pd?",
+   "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "phreak.ing"
+    "purplesyringa.moe"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-12T21:39:32Z",
-   "hot": 18.1,
-   "rank": 9,
+   "publishedAt": "2026-10-12T21:12:43Z",
+   "hot": 17.2,
+   "rank": 6,
    "metrics": {
-    "points": 58,
+    "points": 183,
     "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50063417"
-   }
-  },
-  {
-   "rawId": "50061791",
-   "title": "Making big downloads resumable in Firefox",
-   "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lunarwatcher.codeberg.page"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T19:36:02Z",
-   "hot": 14.8,
-   "rank": 10,
-   "metrics": {
-    "points": 78,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50061791"
-   }
-  },
-  {
-   "rawId": "50059096",
-   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-   "url": "https://news.ycombinator.com/item?id=50059096",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T16:46:34Z",
-   "hot": 11.9,
-   "rank": 11,
-   "metrics": {
-    "points": 96,
-    "comments": 67,
-    "discussion": "https://news.ycombinator.com/item?id=50059096"
+    "discussion": "https://news.ycombinator.com/item?id=50063138"
    }
   },
   {
@@ -246,12 +141,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T22:05:43Z",
-   "hot": 6.1,
-   "rank": 12,
+   "hot": 12.1,
+   "rank": 7,
    "metrics": {
-    "points": 17,
-    "comments": 5,
+    "points": 118,
+    "comments": 36,
     "discussion": "https://news.ycombinator.com/item?id=50063717"
+   }
+  },
+  {
+   "rawId": "50061791",
+   "title": "Making big downloads resumable in Firefox",
+   "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lunarwatcher.codeberg.page"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T19:36:02Z",
+   "hot": 14.6,
+   "rank": 8,
+   "metrics": {
+    "points": 179,
+    "comments": 74,
+    "discussion": "https://news.ycombinator.com/item?id=50061791"
    }
   },
   {
@@ -267,96 +183,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T12:41:58Z",
-   "hot": 20.6,
-   "rank": 13,
+   "hot": 17.4,
+   "rank": 9,
    "metrics": {
-    "points": 251,
-    "comments": 64,
+    "points": 334,
+    "comments": 89,
     "discussion": "https://news.ycombinator.com/item?id=50055593"
    }
   },
   {
-   "rawId": "50055220",
-   "title": "Citroen revives the 2CV for an electric age",
-   "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+   "rawId": "50065932",
+   "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+   "url": "https://www.argmin.net/p/faster-fourier-transforms",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bbc.com"
+    "argmin.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-12T12:09:09Z",
-   "hot": 20.2,
-   "rank": 14,
+   "publishedAt": "2026-10-13T02:46:43Z",
+   "hot": 22.0,
+   "rank": 10,
    "metrics": {
-    "points": 257,
-    "comments": 315,
-    "discussion": "https://news.ycombinator.com/item?id=50055220"
+    "points": 112,
+    "comments": 73,
+    "discussion": "https://news.ycombinator.com/item?id=50065932"
    }
   },
   {
-   "rawId": "50060694",
-   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-   "url": "https://github.com/openai/codex/issues/48195",
+   "rawId": "50047664",
+   "title": "Auto Research: Integer multiplication below n log n",
+   "url": "https://app.getsupers.com/auto-research",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "app.getsupers.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-12T18:29:04Z",
-   "hot": 69.5,
-   "rank": 15,
+   "publishedAt": "2026-10-11T20:48:30Z",
+   "hot": 1.5,
+   "rank": 11,
    "metrics": {
-    "points": 444,
-    "comments": 229,
-    "discussion": "https://news.ycombinator.com/item?id=50060694"
-   }
-  },
-  {
-   "rawId": "50063831",
-   "title": "Breaking Bad star RJ Mitte dies aged 34",
-   "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "news.sky.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T22:15:29Z",
-   "hot": 43.7,
-   "rank": 16,
-   "metrics": {
-    "points": 114,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50063831"
-   }
-  },
-  {
-   "rawId": "50064438",
-   "title": "Show HN: An experimental pattern-first DAW that supports MCP",
-   "url": "https://github.com/andrewfader/blokkily",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T23:21:12Z",
-   "hot": 5.3,
-   "rank": 17,
-   "metrics": {
-    "points": 8,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50064438"
+    "points": 53,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50047664"
    }
   },
   {
@@ -372,33 +246,180 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T21:40:18Z",
-   "hot": 64.1,
-   "rank": 18,
+   "hot": 36.6,
+   "rank": 12,
    "metrics": {
-    "points": 205,
-    "comments": 186,
+    "points": 373,
+    "comments": 291,
     "discussion": "https://news.ycombinator.com/item?id=50063427"
    }
   },
   {
-   "rawId": "50037711",
-   "title": "Secret of Orange Cats Revealed After 60-Year Search",
-   "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+   "rawId": "50065692",
+   "title": "AI models can provably hide arbitrary capabilities",
+   "url": "https://arxiv.org/abs/2610.13928",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "sciencealert.com"
+    "arxiv.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-10T22:10:57Z",
-   "hot": 4.4,
+   "publishedAt": "2026-10-13T02:07:08Z",
+   "hot": 31.7,
+   "rank": 13,
+   "metrics": {
+    "points": 182,
+    "comments": 96,
+    "discussion": "https://news.ycombinator.com/item?id=50065692"
+   }
+  },
+  {
+   "rawId": "50067570",
+   "title": "Denmark set to allow return of 'physical force' in school",
+   "url": "https://www.lemonde.fr/en/international/article/2026/10/10/denmark-set-to-allow-the-return-of-physical-force-to-maintain-order-in-schools_6758443_4.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lemonde.fr"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T06:27:03Z",
+   "hot": 25.4,
+   "rank": 14,
+   "metrics": {
+    "points": 36,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50067570"
+   }
+  },
+  {
+   "rawId": "50059096",
+   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+   "url": "https://news.ycombinator.com/item?id=50059096",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T16:46:34Z",
+   "hot": 8.5,
+   "rank": 15,
+   "metrics": {
+    "points": 129,
+    "comments": 92,
+    "discussion": "https://news.ycombinator.com/item?id=50059096"
+   }
+  },
+  {
+   "rawId": "50055220",
+   "title": "Citroen revives the 2CV for an electric age",
+   "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bbc.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T12:09:09Z",
+   "hot": 16.2,
+   "rank": 16,
+   "metrics": {
+    "points": 319,
+    "comments": 350,
+    "discussion": "https://news.ycombinator.com/item?id=50055220"
+   }
+  },
+  {
+   "rawId": "50063417",
+   "title": "Phreak.ing – Internet Phone Switch",
+   "url": "https://phreak.ing/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "phreak.ing"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T21:39:32Z",
+   "hot": 12.1,
+   "rank": 17,
+   "metrics": {
+    "points": 124,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50063417"
+   }
+  },
+  {
+   "rawId": "50061859",
+   "title": "Writing a Demoscene Intro for the ZX Spectrum",
+   "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "markround.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T19:40:00Z",
+   "hot": 9.5,
+   "rank": 18,
+   "metrics": {
+    "points": 116,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50061859"
+   }
+  },
+  {
+   "rawId": "50056822",
+   "title": "Solar panels that plug into your wall",
+   "url": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nationalgeographic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T14:19:04Z",
+   "hot": 10.1,
    "rank": 19,
    "metrics": {
-    "points": 222,
-    "comments": 172,
-    "discussion": "https://news.ycombinator.com/item?id=50037711"
+    "points": 177,
+    "comments": 161,
+    "discussion": "https://news.ycombinator.com/item?id=50056822"
+   }
+  },
+  {
+   "rawId": "50064438",
+   "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+   "url": "https://github.com/andrewfader/blokkily",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T23:21:12Z",
+   "hot": 5.8,
+   "rank": 20,
+   "metrics": {
+    "points": 49,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50064438"
    }
   }
  ]
