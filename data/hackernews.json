@@ -1,0 +1,405 @@
+{
+ "updated": "2026-10-13T00:52:11Z",
+ "source": "hackernews",
+ "items": [
+  {
+   "rawId": "50064536",
+   "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+   "url": "https://doi.org/10.1111/acel.70751",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "doi.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T23:34:22Z",
+   "hot": 43.9,
+   "rank": 1,
+   "metrics": {
+    "points": 57,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50064536"
+   }
+  },
+  {
+   "rawId": "50064318",
+   "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+   "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nirajrajgor.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T23:07:25Z",
+   "hot": 30.4,
+   "rank": 2,
+   "metrics": {
+    "points": 53,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50064318"
+   }
+  },
+  {
+   "rawId": "50058507",
+   "title": "GLM-Legal",
+   "url": "https://z.ai/blog/glm-legal",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "z.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T16:11:45Z",
+   "hot": 47.8,
+   "rank": 3,
+   "metrics": {
+    "points": 415,
+    "comments": 239,
+    "discussion": "https://news.ycombinator.com/item?id=50058507"
+   }
+  },
+  {
+   "rawId": "50063138",
+   "title": "Who Is Vfmaddrnd231pd?",
+   "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "purplesyringa.moe"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T21:12:43Z",
+   "hot": 27.6,
+   "rank": 4,
+   "metrics": {
+    "points": 101,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50063138"
+   }
+  },
+  {
+   "rawId": "50058528",
+   "title": "A Modern Web App in C",
+   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "prophitt.me"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T16:13:10Z",
+   "hot": 43.0,
+   "rank": 5,
+   "metrics": {
+    "points": 372,
+    "comments": 159,
+    "discussion": "https://news.ycombinator.com/item?id=50058528"
+   }
+  },
+  {
+   "rawId": "50041866",
+   "title": "The baffling intelligence of a single cell (2024)",
+   "url": "https://jsomers.net/e-coli-chemotaxis/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "jsomers.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-11T11:02:30Z",
+   "hot": 0.6,
+   "rank": 6,
+   "metrics": {
+    "points": 21,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50041866"
+   }
+  },
+  {
+   "rawId": "50063365",
+   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+   "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "intel.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T21:35:35Z",
+   "hot": 11.0,
+   "rank": 7,
+   "metrics": {
+    "points": 36,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50063365"
+   }
+  },
+  {
+   "rawId": "50055304",
+   "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tomshardware.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T12:16:42Z",
+   "hot": 33.3,
+   "rank": 8,
+   "metrics": {
+    "points": 419,
+    "comments": 638,
+    "discussion": "https://news.ycombinator.com/item?id=50055304"
+   }
+  },
+  {
+   "rawId": "50063417",
+   "title": "Phreak.ing – Internet Phone Switch",
+   "url": "https://phreak.ing/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "phreak.ing"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T21:39:32Z",
+   "hot": 18.1,
+   "rank": 9,
+   "metrics": {
+    "points": 58,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50063417"
+   }
+  },
+  {
+   "rawId": "50061791",
+   "title": "Making big downloads resumable in Firefox",
+   "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lunarwatcher.codeberg.page"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T19:36:02Z",
+   "hot": 14.8,
+   "rank": 10,
+   "metrics": {
+    "points": 78,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50061791"
+   }
+  },
+  {
+   "rawId": "50059096",
+   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+   "url": "https://news.ycombinator.com/item?id=50059096",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T16:46:34Z",
+   "hot": 11.9,
+   "rank": 11,
+   "metrics": {
+    "points": 96,
+    "comments": 67,
+    "discussion": "https://news.ycombinator.com/item?id=50059096"
+   }
+  },
+  {
+   "rawId": "50063717",
+   "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+   "url": "https://github.com/prabanta-dev/janas",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T22:05:43Z",
+   "hot": 6.1,
+   "rank": 12,
+   "metrics": {
+    "points": 17,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50063717"
+   }
+  },
+  {
+   "rawId": "50055593",
+   "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+   "url": "https://github.com/h0m3us3r/w1700k-sdr",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T12:41:58Z",
+   "hot": 20.6,
+   "rank": 13,
+   "metrics": {
+    "points": 251,
+    "comments": 64,
+    "discussion": "https://news.ycombinator.com/item?id=50055593"
+   }
+  },
+  {
+   "rawId": "50055220",
+   "title": "Citroen revives the 2CV for an electric age",
+   "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bbc.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T12:09:09Z",
+   "hot": 20.2,
+   "rank": 14,
+   "metrics": {
+    "points": 257,
+    "comments": 315,
+    "discussion": "https://news.ycombinator.com/item?id=50055220"
+   }
+  },
+  {
+   "rawId": "50060694",
+   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+   "url": "https://github.com/openai/codex/issues/48195",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T18:29:04Z",
+   "hot": 69.5,
+   "rank": 15,
+   "metrics": {
+    "points": 444,
+    "comments": 229,
+    "discussion": "https://news.ycombinator.com/item?id=50060694"
+   }
+  },
+  {
+   "rawId": "50063831",
+   "title": "Breaking Bad star RJ Mitte dies aged 34",
+   "url": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "news.sky.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T22:15:29Z",
+   "hot": 43.7,
+   "rank": 16,
+   "metrics": {
+    "points": 114,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50063831"
+   }
+  },
+  {
+   "rawId": "50064438",
+   "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+   "url": "https://github.com/andrewfader/blokkily",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T23:21:12Z",
+   "hot": 5.3,
+   "rank": 17,
+   "metrics": {
+    "points": 8,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50064438"
+   }
+  },
+  {
+   "rawId": "50063427",
+   "title": "AI is a tool and using it well takes skill",
+   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "yyhh.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T21:40:18Z",
+   "hot": 64.1,
+   "rank": 18,
+   "metrics": {
+    "points": 205,
+    "comments": 186,
+    "discussion": "https://news.ycombinator.com/item?id=50063427"
+   }
+  },
+  {
+   "rawId": "50037711",
+   "title": "Secret of Orange Cats Revealed After 60-Year Search",
+   "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sciencealert.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-10T22:10:57Z",
+   "hot": 4.4,
+   "rank": 19,
+   "metrics": {
+    "points": 222,
+    "comments": 172,
+    "discussion": "https://news.ycombinator.com/item?id=50037711"
+   }
+  }
+ ]
+}

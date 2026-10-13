@@ -1,0 +1,582 @@
+{
+ "updated": "2026-10-13T00:52:11Z",
+ "source": "music",
+ "country": "US",
+ "items": [
+  {
+   "rawId": "6818209989",
+   "title": "Solar Eclipse",
+   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#1 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 25,
+   "rank": 1,
+   "metrics": {
+    "artist": "Drake & Don Toliver",
+    "rank": 1,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+   }
+  },
+  {
+   "rawId": "1844932150",
+   "title": "Choosin' Texas",
+   "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#2 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
+   "publishedAt": "2025-10-17T00:00:00Z",
+   "hot": 24,
+   "rank": 2,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 2,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
+   "rawId": "6796864754",
+   "title": "BbY WOW",
+   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+   "category": "music",
+   "tags": [
+    "Latin"
+   ],
+   "summary": "#3 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-08-05T00:00:00Z",
+   "hot": 23,
+   "rank": 3,
+   "metrics": {
+    "artist": "KAROL G, Judeline & rusowsky",
+    "rank": 3,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+   }
+  },
+  {
+   "rawId": "6818209990",
+   "title": "Quebec",
+   "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#4 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 22,
+   "rank": 4,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 4,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/quebec/6818209777?i=6818209990"
+   }
+  },
+  {
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#5 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
+   "hot": 21,
+   "rank": 5,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 5,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+   }
+  },
+  {
+   "rawId": "6818059600",
+   "title": "Cold Shoulder",
+   "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#6 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 20,
+   "rank": 6,
+   "metrics": {
+    "artist": "Drake, Don Toliver & Yebba",
+    "rank": 6,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
+   }
+  },
+  {
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#7 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
+   "hot": 19,
+   "rank": 7,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 7,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+   }
+  },
+  {
+   "rawId": "6769568596",
+   "title": "Janice STFU",
+   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#8 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-15T00:00:00Z",
+   "hot": 18,
+   "rank": 8,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 8,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+   }
+  },
+  {
+   "rawId": "6792884088",
+   "title": "Nicole Kidman",
+   "url": "https://music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#9 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-04T00:00:00Z",
+   "hot": 17,
+   "rank": 9,
+   "metrics": {
+    "artist": "ADÉLA",
+    "rank": 9,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
+   }
+  },
+  {
+   "rawId": "6814997425",
+   "title": "Patient Zero",
+   "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#10 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-24T00:00:00Z",
+   "hot": 16,
+   "rank": 10,
+   "metrics": {
+    "artist": "Taylor Swift",
+    "rank": 10,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
+   }
+  },
+  {
+   "rawId": "6763091996",
+   "title": "I Can't Love You Anymore",
+   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#11 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
+   "publishedAt": "2026-04-24T00:00:00Z",
+   "hot": 15,
+   "rank": 11,
+   "metrics": {
+    "artist": "Ella Langley & Morgan Wallen",
+    "rank": 11,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
+   }
+  },
+  {
+   "rawId": "1889992115",
+   "title": "stupid song",
+   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#12 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-06-12T00:00:00Z",
+   "hot": 14,
+   "rank": 12,
+   "metrics": {
+    "artist": "Olivia Rodrigo",
+    "rank": 12,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+   }
+  },
+  {
+   "rawId": "1889992123",
+   "title": "the cure",
+   "url": "https://music.apple.com/us/album/the-cure/1889992111?i=1889992123",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#13 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-22T00:00:00Z",
+   "hot": 13,
+   "rank": 13,
+   "metrics": {
+    "artist": "Olivia Rodrigo",
+    "rank": 13,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/the-cure/1889992111?i=1889992123"
+   }
+  },
+  {
+   "rawId": "1621119447",
+   "title": "WAIT FOR U (feat. Drake & Tems)",
+   "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#14 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
+   "hot": 12,
+   "rank": 14,
+   "metrics": {
+    "artist": "Future",
+    "rank": 14,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+   }
+  },
+  {
+   "rawId": "1648587330",
+   "title": "In A Minute",
+   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#15 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-08T00:00:00Z",
+   "hot": 11,
+   "rank": 15,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 15,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+   }
+  },
+  {
+   "rawId": "1440929293",
+   "title": "Freestyle",
+   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#16 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2017-12-01T00:00:00Z",
+   "hot": 10,
+   "rank": 16,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 16,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
+   }
+  },
+  {
+   "rawId": "1869436845",
+   "title": "Be Her",
+   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#17 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
+   "publishedAt": "2026-02-13T00:00:00Z",
+   "hot": 9,
+   "rank": 17,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 17,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
+   }
+  },
+  {
+   "rawId": "1802103970",
+   "title": "I'm The Problem",
+   "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#18 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2025-01-31T00:00:00Z",
+   "hot": 8,
+   "rank": 18,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 18,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
+   }
+  },
+  {
+   "rawId": "1452017954",
+   "title": "Best I Ever Had",
+   "url": "https://music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#19 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2009-02-13T00:00:00Z",
+   "hot": 7,
+   "rank": 19,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 19,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954"
+   }
+  },
+  {
+   "rawId": "6769551476",
+   "title": "I’m Spent",
+   "url": "https://music.apple.com/us/album/im-spent/6769551464?i=6769551476",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#20 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c4/3b/89/c43b8964-a24e-b396-bd65-e5b45cabe039/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-15T00:00:00Z",
+   "hot": 6,
+   "rank": 20,
+   "metrics": {
+    "artist": "Drake & Loe Shimmy",
+    "rank": 20,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/im-spent/6769551464?i=6769551476"
+   }
+  },
+  {
+   "rawId": "1802104400",
+   "title": "Don't We",
+   "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2025-05-16T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 21,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/dont-we/1802103958?i=1802104400"
+   }
+  },
+  {
+   "rawId": "6790569133",
+   "title": "Dead Fresh",
+   "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-17T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 22,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+   }
+  },
+  {
+   "rawId": "1813021660",
+   "title": "Broken Window Serenade",
+   "url": "https://music.apple.com/us/album/broken-window-serenade/1813021356?i=1813021660",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cf/22/d0cf226c-607d-d97c-61d4-26eabde51f1d/886443002371_Cover.jpg/400x400bb.jpg",
+   "publishedAt": "2011-04-26T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
+   "metrics": {
+    "artist": "Whiskey Myers",
+    "rank": 23,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/broken-window-serenade/1813021356?i=1813021660"
+   }
+  },
+  {
+   "rawId": "1621803969",
+   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
+   "publishedAt": "2022-05-02T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Future",
+    "rank": 24,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+   }
+  },
+  {
+   "rawId": "1714908987",
+   "title": "Wicked Games",
+   "url": "https://music.apple.com/us/album/wicked-games/1714908584?i=1714908987",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#25 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2011-03-21T00:00:00Z",
+   "hot": 1,
+   "rank": 25,
+   "metrics": {
+    "artist": "The Weeknd",
+    "rank": 25,
+    "change": null
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/wicked-games/1714908584?i=1714908987"
+   }
+  }
+ ]
+}
