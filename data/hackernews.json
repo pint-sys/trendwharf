@@ -1,28 +1,7 @@
 {
- "updated": "2026-10-13T16:09:37Z",
+ "updated": "2026-10-13T21:22:47Z",
  "source": "hackernews",
  "items": [
-  {
-   "rawId": "50071017",
-   "title": "Apple HomeView",
-   "url": "https://www.apple.com/apple-homeview/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T13:02:12Z",
-   "hot": 109.2,
-   "rank": 1,
-   "metrics": {
-    "points": 341,
-    "comments": 406,
-    "discussion": "https://news.ycombinator.com/item?id=50071017"
-   }
-  },
   {
    "rawId": "50073879",
    "title": "Gemini 4 Argon",
@@ -36,33 +15,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T16:03:16Z",
-   "hot": 32.0,
-   "rank": 2,
+   "hot": 144.4,
+   "rank": 1,
    "metrics": {
-    "points": 32,
-    "comments": 2,
+    "points": 769,
+    "comments": 612,
     "discussion": "https://news.ycombinator.com/item?id=50073879"
    }
   },
   {
-   "rawId": "50069499",
-   "title": "11 year old unsoundness bugs found in Rust borrow checker",
-   "url": "https://github.com/rust-lang/rust/issues/164250",
+   "rawId": "50077020",
+   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+   "url": "https://guitoro.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "guitoro.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T10:27:00Z",
-   "hot": 83.9,
+   "publishedAt": "2026-10-13T19:11:48Z",
+   "hot": 53.6,
+   "rank": 2,
+   "metrics": {
+    "points": 117,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50077020"
+   }
+  },
+  {
+   "rawId": "50054092",
+   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bleepingcomputer.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T10:09:37Z",
+   "hot": 7.0,
    "rank": 3,
    "metrics": {
-    "points": 479,
-    "comments": 273,
-    "discussion": "https://news.ycombinator.com/item?id=50069499"
+    "points": 245,
+    "comments": 235,
+    "discussion": "https://news.ycombinator.com/item?id=50054092"
+   }
+  },
+  {
+   "rawId": "50073633",
+   "title": "Redesigning source control at Anthropic",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T15:49:56Z",
+   "hot": 66.5,
+   "rank": 4,
+   "metrics": {
+    "points": 369,
+    "comments": 362,
+    "discussion": "https://news.ycombinator.com/item?id=50073633"
+   }
+  },
+  {
+   "rawId": "50071017",
+   "title": "Apple HomeView",
+   "url": "https://www.apple.com/apple-homeview/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T13:02:12Z",
+   "hot": 70.8,
+   "rank": 5,
+   "metrics": {
+    "points": 591,
+    "comments": 727,
+    "discussion": "https://news.ycombinator.com/item?id=50071017"
    }
   },
   {
@@ -78,75 +120,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T15:07:37Z",
-   "hot": 31.9,
-   "rank": 4,
+   "hot": 41.7,
+   "rank": 6,
    "metrics": {
-    "points": 33,
-    "comments": 6,
+    "points": 261,
+    "comments": 99,
     "discussion": "https://news.ycombinator.com/item?id=50072913"
    }
   },
   {
-   "rawId": "50069971",
-   "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-   "url": "https://eg2.haku.sh/",
+   "rawId": "50069499",
+   "title": "11 year old unsoundness bugs found in Rust borrow checker",
+   "url": "https://github.com/rust-lang/rust/issues/164250",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "eg2.haku.sh"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T11:27:14Z",
-   "hot": 58.0,
-   "rank": 5,
-   "metrics": {
-    "points": 273,
-    "comments": 63,
-    "discussion": "https://news.ycombinator.com/item?id=50069971"
-   }
-  },
-  {
-   "rawId": "50070593",
-   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "machinelearning.apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T12:26:36Z",
-   "hot": 40.6,
-   "rank": 6,
-   "metrics": {
-    "points": 151,
-    "comments": 61,
-    "discussion": "https://news.ycombinator.com/item?id=50070593"
-   }
-  },
-  {
-   "rawId": "50073455",
-   "title": "Now That Information Is Free, What's a College Campus For?",
-   "url": "https://commonedge.org/now-that-information-is-free-whats-a-college-campus-for/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "commonedge.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T15:40:03Z",
-   "hot": 19.0,
+   "publishedAt": "2026-10-13T10:27:00Z",
+   "hot": 57.0,
    "rank": 7,
    "metrics": {
-    "points": 19,
-    "comments": 36,
-    "discussion": "https://news.ycombinator.com/item?id=50073455"
+    "points": 623,
+    "comments": 353,
+    "discussion": "https://news.ycombinator.com/item?id=50069499"
    }
   },
   {
@@ -162,12 +162,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T15:25:50Z",
-   "hot": 27.0,
+   "hot": 33.3,
    "rank": 8,
    "metrics": {
-    "points": 27,
-    "comments": 11,
+    "points": 198,
+    "comments": 119,
     "discussion": "https://news.ycombinator.com/item?id=50073221"
+   }
+  },
+  {
+   "rawId": "50070302",
+   "title": "Firefox Enterprise",
+   "url": "https://www.firefox.com/en-US/enterprise/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "firefox.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T12:00:42Z",
+   "hot": 57.5,
+   "rank": 9,
+   "metrics": {
+    "points": 539,
+    "comments": 220,
+    "discussion": "https://news.ycombinator.com/item?id=50070302"
+   }
+  },
+  {
+   "rawId": "50072994",
+   "title": "The United Kingdom generates less electricity per person than in the 1970s",
+   "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ourworldindata.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T15:12:57Z",
+   "hot": 21.9,
+   "rank": 10,
+   "metrics": {
+    "points": 135,
+    "comments": 165,
+    "discussion": "https://news.ycombinator.com/item?id=50072994"
    }
   },
   {
@@ -183,39 +225,18 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T13:21:35Z",
-   "hot": 35.0,
-   "rank": 9,
+   "hot": 30.2,
+   "rank": 11,
    "metrics": {
-    "points": 98,
-    "comments": 168,
+    "points": 242,
+    "comments": 472,
     "discussion": "https://news.ycombinator.com/item?id=50071310"
    }
   },
   {
-   "rawId": "50073471",
-   "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-   "url": "https://news.ycombinator.com/item?id=50073471",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T15:41:00Z",
-   "hot": 6.0,
-   "rank": 10,
-   "metrics": {
-    "points": 6,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50073471"
-   }
-  },
-  {
-   "rawId": "50070741",
-   "title": "BB(10) > Graham's Number",
-   "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
+   "rawId": "50070010",
+   "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+   "url": "https://github.com/LargeModGames/spotatui",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -224,202 +245,160 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T12:40:04Z",
-   "hot": 11.5,
-   "rank": 11,
-   "metrics": {
-    "points": 40,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50070741"
-   }
-  },
-  {
-   "rawId": "50069337",
-   "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-   "url": "https://pdftomp3.com/connect-ai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pdftomp3.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T10:08:34Z",
-   "hot": 20.3,
+   "publishedAt": "2026-10-13T11:32:00Z",
+   "hot": 2.7,
    "rank": 12,
    "metrics": {
-    "points": 122,
-    "comments": 61,
-    "discussion": "https://news.ycombinator.com/item?id=50069337"
+    "points": 27,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50070010"
    }
   },
   {
-   "rawId": "50067414",
-   "title": "Hittite royal archive found in Turkey",
-   "url": "https://www.thehistoryblog.com/archives/77107",
+   "rawId": "50069971",
+   "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+   "url": "https://eg2.haku.sh/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "thehistoryblog.com"
+    "eg2.haku.sh"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T06:02:51Z",
-   "hot": 25.3,
+   "publishedAt": "2026-10-13T11:27:14Z",
+   "hot": 36.5,
    "rank": 13,
    "metrics": {
-    "points": 256,
-    "comments": 67,
-    "discussion": "https://news.ycombinator.com/item?id=50067414"
+    "points": 362,
+    "comments": 81,
+    "discussion": "https://news.ycombinator.com/item?id=50069971"
    }
   },
   {
-   "rawId": "50070287",
-   "title": "A Visual Intro to Complex Numbers",
-   "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
+   "rawId": "50072286",
+   "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+   "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "photonlines.substack.com"
+    "9to5mac.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T12:00:04Z",
-   "hot": 15.4,
+   "publishedAt": "2026-10-13T14:26:08Z",
+   "hot": 18.0,
    "rank": 14,
    "metrics": {
-    "points": 64,
-    "comments": 42,
-    "discussion": "https://news.ycombinator.com/item?id=50070287"
+    "points": 125,
+    "comments": 193,
+    "discussion": "https://news.ycombinator.com/item?id=50072286"
    }
   },
   {
-   "rawId": "50070554",
-   "title": "Worlds More Habitable Than Earth? They're Out There",
-   "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
+   "rawId": "50077619",
+   "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+   "url": "https://parsimony.lasu.dev/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nytimes.com"
+    "parsimony.lasu.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T12:23:34Z",
-   "hot": 2.1,
+   "publishedAt": "2026-10-13T19:50:31Z",
+   "hot": 6.5,
    "rank": 15,
    "metrics": {
-    "points": 8,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50070554"
+    "points": 10,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50077619"
    }
   },
   {
-   "rawId": "50068036",
-   "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-   "url": "https://blog.character.ai/an-update-on-character-ai/",
+   "rawId": "50061659",
+   "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+   "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.character.ai"
+    "news.mit.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T07:28:34Z",
-   "hot": 16.0,
+   "publishedAt": "2026-10-12T19:28:48Z",
+   "hot": 3.9,
    "rank": 16,
    "metrics": {
-    "points": 139,
-    "comments": 75,
-    "discussion": "https://news.ycombinator.com/item?id=50068036"
+    "points": 100,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50061659"
    }
   },
   {
-   "rawId": "50063427",
-   "title": "AI is a tool and using it well takes skill",
-   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+   "rawId": "50074869",
+   "title": "Gemini 4 Argon for Robotics",
+   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "yyhh.org"
+    "developers.googleblog.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-12T21:40:18Z",
-   "hot": 29.9,
+   "publishedAt": "2026-10-13T16:55:47Z",
+   "hot": 33.3,
    "rank": 17,
    "metrics": {
-    "points": 553,
-    "comments": 443,
-    "discussion": "https://news.ycombinator.com/item?id=50063427"
+    "points": 148,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50074869"
    }
   },
   {
-   "rawId": "50069329",
-   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
-   "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+   "rawId": "50070593",
+   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bloomberg.com"
+    "machinelearning.apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T10:08:00Z",
-   "hot": 56.9,
+   "publishedAt": "2026-10-13T12:26:36Z",
+   "hot": 22.9,
    "rank": 18,
    "metrics": {
-    "points": 343,
-    "comments": 160,
-    "discussion": "https://news.ycombinator.com/item?id=50069329"
+    "points": 205,
+    "comments": 90,
+    "discussion": "https://news.ycombinator.com/item?id=50070593"
    }
   },
   {
-   "rawId": "50070302",
-   "title": "Mozilla Introduces Firefox Enterprise",
-   "url": "https://www.firefox.com/en-US/enterprise/",
+   "rawId": "50075665",
+   "title": "Show HN: XY Music Notation",
+   "url": "https://music.xy.dev/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "firefox.com"
+    "music.xy.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T12:00:42Z",
-   "hot": 74.5,
+   "publishedAt": "2026-10-13T17:43:05Z",
+   "hot": 9.6,
    "rank": 19,
    "metrics": {
-    "points": 309,
-    "comments": 145,
-    "discussion": "https://news.ycombinator.com/item?id=50070302"
-   }
-  },
-  {
-   "rawId": "50058507",
-   "title": "GLM-Legal",
-   "url": "https://z.ai/blog/glm-legal",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "z.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T16:11:45Z",
-   "hot": 26.9,
-   "rank": 20,
-   "metrics": {
-    "points": 644,
-    "comments": 351,
-    "discussion": "https://news.ycombinator.com/item?id=50058507"
+    "points": 35,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50075665"
    }
   }
  ]
