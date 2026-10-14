@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-14T00:29:20Z",
+ "updated": "2026-10-14T06:18:09Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50082470",
+   "title": "Felix Rieseberg Homepage",
+   "url": "https://felixrieseberg.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "felixrieseberg.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T04:42:33Z",
+   "hot": 53.3,
+   "rank": 1,
+   "metrics": {
+    "points": 85,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50082470"
+   }
+  },
   {
    "rawId": "50073879",
    "title": "Gemini 4 Argon",
@@ -15,33 +36,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T16:03:16Z",
-   "hot": 111.7,
-   "rank": 1,
+   "hot": 82.7,
+   "rank": 2,
    "metrics": {
-    "points": 942,
-    "comments": 729,
+    "points": 1179,
+    "comments": 838,
     "discussion": "https://news.ycombinator.com/item?id=50073879"
    }
   },
   {
-   "rawId": "50077020",
-   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-   "url": "https://guitoro.com/",
+   "rawId": "50045147",
+   "title": "Sound – Bartosz Ciechanowski (2022)",
+   "url": "https://ciechanow.ski/sound/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "guitoro.com"
+    "ciechanow.ski"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T19:11:48Z",
-   "hot": 43.6,
-   "rank": 2,
+   "publishedAt": "2026-10-11T16:46:43Z",
+   "hot": 1.0,
+   "rank": 3,
    "metrics": {
-    "points": 231,
-    "comments": 78,
-    "discussion": "https://news.ycombinator.com/item?id=50077020"
+    "points": 61,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50045147"
    }
   },
   {
@@ -57,12 +78,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T10:09:37Z",
-   "hot": 10.3,
-   "rank": 3,
+   "hot": 13.6,
+   "rank": 4,
    "metrics": {
-    "points": 396,
-    "comments": 306,
+    "points": 599,
+    "comments": 394,
     "discussion": "https://news.ycombinator.com/item?id=50054092"
+   }
+  },
+  {
+   "rawId": "50081930",
+   "title": "Is 'Attention' the Essence of Intelligence?",
+   "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "quantamagazine.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T03:10:25Z",
+   "hot": 16.0,
+   "rank": 5,
+   "metrics": {
+    "points": 50,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50081930"
+   }
+  },
+  {
+   "rawId": "50077020",
+   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+   "url": "https://guitoro.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "guitoro.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T19:11:48Z",
+   "hot": 33.9,
+   "rank": 6,
+   "metrics": {
+    "points": 377,
+    "comments": 99,
+    "discussion": "https://news.ycombinator.com/item?id=50077020"
    }
   },
   {
@@ -78,117 +141,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T15:49:56Z",
-   "hot": 57.5,
-   "rank": 4,
-   "metrics": {
-    "points": 498,
-    "comments": 495,
-    "discussion": "https://news.ycombinator.com/item?id=50073633"
-   }
-  },
-  {
-   "rawId": "50071017",
-   "title": "Apple HomeView",
-   "url": "https://www.apple.com/apple-homeview/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T13:02:12Z",
-   "hot": 56.1,
-   "rank": 5,
-   "metrics": {
-    "points": 642,
-    "comments": 766,
-    "discussion": "https://news.ycombinator.com/item?id=50071017"
-   }
-  },
-  {
-   "rawId": "50080275",
-   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-   "url": "https://pulseos.finance",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pulseos.finance"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T23:13:23Z",
-   "hot": 15.0,
-   "rank": 6,
-   "metrics": {
-    "points": 19,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50080275"
-   }
-  },
-  {
-   "rawId": "50072913",
-   "title": "Thunderbird for iOS",
-   "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.thunderbird.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T15:07:37Z",
-   "hot": 34.3,
+   "hot": 47.1,
    "rank": 7,
    "metrics": {
-    "points": 321,
-    "comments": 135,
-    "discussion": "https://news.ycombinator.com/item?id=50072913"
-   }
-  },
-  {
-   "rawId": "50069499",
-   "title": "11 year old unsoundness bugs found in Rust borrow checker",
-   "url": "https://github.com/rust-lang/rust/issues/164250",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T10:27:00Z",
-   "hot": 47.3,
-   "rank": 8,
-   "metrics": {
-    "points": 664,
-    "comments": 370,
-    "discussion": "https://news.ycombinator.com/item?id=50069499"
-   }
-  },
-  {
-   "rawId": "50079464",
-   "title": "AlphaNIST",
-   "url": "https://alpha-nist.github.io/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "alpha-nist.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T21:57:29Z",
-   "hot": 10.7,
-   "rank": 9,
-   "metrics": {
-    "points": 27,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50079464"
+    "points": 681,
+    "comments": 652,
+    "discussion": "https://news.ycombinator.com/item?id=50073633"
    }
   },
   {
@@ -204,96 +162,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T09:05:02Z",
-   "hot": 0.5,
-   "rank": 10,
+   "hot": 2.7,
+   "rank": 8,
    "metrics": {
-    "points": 18,
-    "comments": 0,
+    "points": 121,
+    "comments": 12,
     "discussion": "https://news.ycombinator.com/item?id=50053487"
    }
   },
   {
-   "rawId": "50070302",
-   "title": "Firefox Enterprise",
-   "url": "https://www.firefox.com/en-US/enterprise/",
+   "rawId": "50080007",
+   "title": "Grace Hopper Celebration Cancelled",
+   "url": "https://anitab.org/press-release",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "firefox.com"
+    "anitab.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T12:00:42Z",
-   "hot": 50.1,
+   "publishedAt": "2026-10-13T22:46:49Z",
+   "hot": 14.0,
+   "rank": 9,
+   "metrics": {
+    "points": 105,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50080007"
+   }
+  },
+  {
+   "rawId": "50081151",
+   "title": "I built a tool to track what AI leaders say and how their views change on video",
+   "url": "https://blumify.io/people",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blumify.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T01:09:13Z",
+   "hot": 13.0,
+   "rank": 10,
+   "metrics": {
+    "points": 67,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50081151"
+   }
+  },
+  {
+   "rawId": "50072913",
+   "title": "Thunderbird for iOS",
+   "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.thunderbird.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T15:07:37Z",
+   "hot": 26.8,
    "rank": 11,
    "metrics": {
-    "points": 625,
-    "comments": 258,
-    "discussion": "https://news.ycombinator.com/item?id=50070302"
+    "points": 407,
+    "comments": 176,
+    "discussion": "https://news.ycombinator.com/item?id=50072913"
    }
   },
   {
-   "rawId": "50078141",
-   "title": "OpenAI engineer arrested in bugging of executive conference room",
-   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+   "rawId": "50082962",
+   "title": "Anthropic conjures threat that doesn't exist yet to stoke fears of AI apocalypse",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "sfstandard.com"
+    "theregister.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T20:23:55Z",
-   "hot": 88.3,
+   "publishedAt": "2026-10-14T05:53:36Z",
+   "hot": 15.0,
    "rank": 12,
    "metrics": {
-    "points": 361,
-    "comments": 334,
-    "discussion": "https://news.ycombinator.com/item?id=50078141"
-   }
-  },
-  {
-   "rawId": "50073221",
-   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sammystraus.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T15:25:50Z",
-   "hot": 25.5,
-   "rank": 13,
-   "metrics": {
-    "points": 231,
-    "comments": 143,
-    "discussion": "https://news.ycombinator.com/item?id=50073221"
-   }
-  },
-  {
-   "rawId": "50072994",
-   "title": "The United Kingdom generates less electricity per person than in the 1970s",
-   "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ourworldindata.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T15:12:57Z",
-   "hot": 20.5,
-   "rank": 14,
-   "metrics": {
-    "points": 190,
-    "comments": 269,
-    "discussion": "https://news.ycombinator.com/item?id=50072994"
+    "points": 15,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50082962"
    }
   },
   {
@@ -309,12 +267,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T22:33:33Z",
-   "hot": 10.4,
+   "hot": 16.4,
+   "rank": 13,
+   "metrics": {
+    "points": 127,
+    "comments": 52,
+    "discussion": "https://news.ycombinator.com/item?id=50079865"
+   }
+  },
+  {
+   "rawId": "50072994",
+   "title": "The United Kingdom generates less electricity per person than in the 1970s",
+   "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ourworldindata.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T15:12:57Z",
+   "hot": 17.8,
+   "rank": 14,
+   "metrics": {
+    "points": 268,
+    "comments": 366,
+    "discussion": "https://news.ycombinator.com/item?id=50072994"
+   }
+  },
+  {
+   "rawId": "50063104",
+   "title": "Kcgi – minimal CGI and FastCGI library for C/C++",
+   "url": "https://kristaps.bsd.lv/kcgi/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "kristaps.bsd.lv"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T21:09:08Z",
+   "hot": 0.2,
    "rank": 15,
    "metrics": {
-    "points": 20,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50079865"
+    "points": 6,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50063104"
+   }
+  },
+  {
+   "rawId": "50073221",
+   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sammystraus.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T15:25:50Z",
+   "hot": 20.8,
+   "rank": 16,
+   "metrics": {
+    "points": 310,
+    "comments": 165,
+    "discussion": "https://news.ycombinator.com/item?id=50073221"
+   }
+  },
+  {
+   "rawId": "50074909",
+   "title": "Show HN: How random are you?",
+   "url": "https://lab.specr.net/rigged-draw/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lab.specr.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T16:57:57Z",
+   "hot": 9.2,
+   "rank": 17,
+   "metrics": {
+    "points": 123,
+    "comments": 66,
+    "discussion": "https://news.ycombinator.com/item?id=50074909"
+   }
+  },
+  {
+   "rawId": "50057119",
+   "title": "Maybe a better way to track the release history of a Git repo",
+   "url": "https://blog.plover.com/prog/git/history-proposal.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.plover.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T14:41:27Z",
+   "hot": 0.8,
+   "rank": 18,
+   "metrics": {
+    "points": 31,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50057119"
    }
   },
   {
@@ -330,75 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T14:26:08Z",
-   "hot": 17.2,
-   "rank": 16,
+   "hot": 15.6,
+   "rank": 19,
    "metrics": {
-    "points": 173,
-    "comments": 292,
+    "points": 247,
+    "comments": 398,
     "discussion": "https://news.ycombinator.com/item?id=50072286"
    }
   },
   {
-   "rawId": "50071310",
-   "title": "New Apple TV 4K",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "rawId": "50061659",
+   "title": "MIT class project turns into an FDA-cleared treatment for tremors",
+   "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "apple.com"
+    "news.mit.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T13:21:35Z",
-   "hot": 24.8,
-   "rank": 17,
+   "publishedAt": "2026-10-12T19:28:48Z",
+   "hot": 5.5,
+   "rank": 20,
    "metrics": {
-    "points": 276,
-    "comments": 527,
-    "discussion": "https://news.ycombinator.com/item?id=50071310"
-   }
-  },
-  {
-   "rawId": "50069971",
-   "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-   "url": "https://eg2.haku.sh/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "eg2.haku.sh"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T11:27:14Z",
-   "hot": 29.5,
-   "rank": 18,
-   "metrics": {
-    "points": 384,
-    "comments": 85,
-    "discussion": "https://news.ycombinator.com/item?id=50069971"
-   }
-  },
-  {
-   "rawId": "50079437",
-   "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
-   "url": "https://www.pi.website/blog/api-beta",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pi.website"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T21:55:25Z",
-   "hot": 7.0,
-   "rank": 19,
-   "metrics": {
-    "points": 18,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50079437"
+    "points": 192,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50061659"
    }
   }
  ]
