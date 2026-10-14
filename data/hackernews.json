@@ -1,194 +1,131 @@
 {
- "updated": "2026-10-14T17:23:28Z",
+ "updated": "2026-10-14T21:49:49Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50090443",
-   "title": "The Emperor Pelican Has No Clothes",
-   "url": "https://arcfu.com/post/the-emperor-pelican-has-no-clothes/",
+   "rawId": "50093568",
+   "title": "Things to know when you get cancer – 2026 Edition",
+   "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arcfu.com"
+    "jjmaxwell4.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T16:33:34Z",
-   "hot": 66.0,
+   "publishedAt": "2026-10-14T19:26:30Z",
+   "hot": 175.0,
    "rank": 1,
    "metrics": {
-    "points": 66,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50090443"
+    "points": 418,
+    "comments": 100,
+    "discussion": "https://news.ycombinator.com/item?id=50093568"
    }
   },
   {
-   "rawId": "50089921",
-   "title": "Americans' Social Activity Has Steeply Declined in the Past 30 Years",
-   "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+   "rawId": "50094994",
+   "title": "OpenCode 2.0",
+   "url": "https://anoma.ly/notes/opencode-2-0/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "dataforprogress.org"
+    "anoma.ly"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T16:09:00Z",
-   "hot": 28.2,
+   "publishedAt": "2026-10-14T20:48:24Z",
+   "hot": 78.2,
    "rank": 2,
    "metrics": {
-    "points": 35,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50089921"
+    "points": 80,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50094994"
    }
   },
   {
-   "rawId": "50084240",
-   "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-   "url": "https://typeof.net/Iosevka/",
+   "rawId": "50095353",
+   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+   "url": "https://typesafe.ai/blog/jev-1-14",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "typeof.net"
+    "typesafe.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T08:27:59Z",
-   "hot": 60.7,
+   "publishedAt": "2026-10-14T21:11:03Z",
+   "hot": 41.0,
    "rank": 3,
    "metrics": {
-    "points": 542,
-    "comments": 220,
-    "discussion": "https://news.ycombinator.com/item?id=50084240"
+    "points": 41,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50095353"
    }
   },
   {
-   "rawId": "50089229",
-   "title": "Submarine cable resilience",
-   "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+   "rawId": "50088935",
+   "title": "Passkeys are not a trap",
+   "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.apnic.net"
+    "scotthelme.co.uk"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T15:31:15Z",
-   "hot": 20.9,
+   "publishedAt": "2026-10-14T15:15:45Z",
+   "hot": 50.2,
    "rank": 4,
    "metrics": {
-    "points": 39,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50089229"
+    "points": 330,
+    "comments": 512,
+    "discussion": "https://news.ycombinator.com/item?id=50088935"
    }
   },
   {
-   "rawId": "50090084",
-   "title": "Amsterdam police confiscates server left-wing ISP A/I at American request",
-   "url": "https://www.nrc.nl/nieuws/2026/10/14/politie-amsterdam-neemt-op-amerikaans-verzoek-server-in-beslag-van-italiaanse-internetdienstverlener-a-i-a4938960",
+   "rawId": "50091788",
+   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nrc.nl"
+    "csoonline.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T16:16:25Z",
-   "hot": 83.2,
+   "publishedAt": "2026-10-14T17:45:23Z",
+   "hot": 190.5,
    "rank": 5,
    "metrics": {
-    "points": 93,
-    "comments": 26,
-    "discussion": "https://news.ycombinator.com/item?id=50090084"
+    "points": 776,
+    "comments": 371,
+    "discussion": "https://news.ycombinator.com/item?id=50091788"
    }
   },
   {
-   "rawId": "50086165",
-   "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-   "url": "https://github.com/timescale/pg_vectorsearch",
+   "rawId": "50050553",
+   "title": "Do dentists know what they're doing?",
+   "url": "https://mapwriting.substack.com/p/dentists",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "mapwriting.substack.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T11:47:53Z",
-   "hot": 24.9,
+   "publishedAt": "2026-10-12T02:21:54Z",
+   "hot": 3.3,
    "rank": 6,
    "metrics": {
-    "points": 139,
-    "comments": 41,
-    "discussion": "https://news.ycombinator.com/item?id=50086165"
-   }
-  },
-  {
-   "rawId": "50088713",
-   "title": "Show HN: Graphicle, a Rust port of Graphify with memory for coding agents",
-   "url": "https://github.com/graphicle-ai/graphicle",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T15:00:41Z",
-   "hot": 7.6,
-   "rank": 7,
-   "metrics": {
-    "points": 18,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50088713"
-   }
-  },
-  {
-   "rawId": "50084757",
-   "title": "Amazon pushes up prices across the Internet",
-   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "not-ship.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T09:28:17Z",
-   "hot": 63.9,
-   "rank": 8,
-   "metrics": {
-    "points": 506,
-    "comments": 463,
-    "discussion": "https://news.ycombinator.com/item?id=50084757"
-   }
-  },
-  {
-   "rawId": "50088643",
-   "title": "Running Windows desktop tests from Linux with disposable VMs",
-   "url": "https://www.qawolf.com/blog/how-we-solved-windows-desktop-automation",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "qawolf.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T14:55:19Z",
-   "hot": 17.8,
-   "rank": 9,
-   "metrics": {
-    "points": 44,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50088643"
+    "points": 220,
+    "comments": 174,
+    "discussion": "https://news.ycombinator.com/item?id=50050553"
    }
   },
   {
@@ -204,222 +141,285 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T16:29:33Z",
-   "hot": 7.0,
-   "rank": 10,
+   "hot": 31.7,
+   "rank": 7,
    "metrics": {
-    "points": 7,
-    "comments": 0,
+    "points": 169,
+    "comments": 28,
     "discussion": "https://news.ycombinator.com/item?id=50090369"
    }
   },
   {
-   "rawId": "50090246",
-   "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-   "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+   "rawId": "50094694",
+   "title": "Anthropic's Scion is heavily inspired by Mononoke",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "prospect.org"
+    "sunshowers.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T16:24:11Z",
-   "hot": 34.0,
+   "publishedAt": "2026-10-14T20:30:54Z",
+   "hot": 108.0,
+   "rank": 8,
+   "metrics": {
+    "points": 142,
+    "comments": 43,
+    "discussion": "https://news.ycombinator.com/item?id=50094694"
+   }
+  },
+  {
+   "rawId": "50093612",
+   "title": "Fancy Curl Sites",
+   "url": "https://nytpu.com/gemlog/2026-03-18",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nytpu.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T19:29:12Z",
+   "hot": 15.4,
+   "rank": 9,
+   "metrics": {
+    "points": 36,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50093612"
+   }
+  },
+  {
+   "rawId": "50092730",
+   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+   "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dpa-international.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T18:37:21Z",
+   "hot": 70.8,
+   "rank": 10,
+   "metrics": {
+    "points": 227,
+    "comments": 159,
+    "discussion": "https://news.ycombinator.com/item?id=50092730"
+   }
+  },
+  {
+   "rawId": "50092470",
+   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+   "url": "https://petal.live/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "petal.live"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T18:23:14Z",
+   "hot": 22.7,
    "rank": 11,
    "metrics": {
-    "points": 34,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50090246"
+    "points": 78,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50092470"
    }
   },
   {
-   "rawId": "50055632",
-   "title": "The Gold-Bug: Edgar Allan Poe's story that taught me about cryptography (2024)",
-   "url": "https://robotsinplainenglish.com/e/2024-01-21-gold-bug.html",
+   "rawId": "50094673",
+   "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+   "url": "https://blog.cloudflare.com/yandex-outage/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "robotsinplainenglish.com"
+    "blog.cloudflare.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-12T12:44:42Z",
-   "hot": 0.9,
+   "publishedAt": "2026-10-14T20:29:13Z",
+   "hot": 87.1,
    "rank": 12,
    "metrics": {
-    "points": 45,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50055632"
+    "points": 117,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50094673"
    }
   },
   {
-   "rawId": "50088430",
-   "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-   "url": "https://www.reuters.com/business/asml-forecasts-q4-sales-above-expectations-ai-chip-demand-2026-10-14/",
+   "rawId": "50084240",
+   "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+   "url": "https://typeof.net/Iosevka/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "reuters.com"
+    "typeof.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T14:38:55Z",
-   "hot": 46.3,
+   "publishedAt": "2026-10-14T08:27:59Z",
+   "hot": 50.2,
    "rank": 13,
    "metrics": {
-    "points": 127,
-    "comments": 118,
-    "discussion": "https://news.ycombinator.com/item?id=50088430"
+    "points": 671,
+    "comments": 278,
+    "discussion": "https://news.ycombinator.com/item?id=50084240"
    }
   },
   {
-   "rawId": "50090799",
-   "title": "Has AI Tells",
-   "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+   "rawId": "50092664",
+   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "theconsensus.dev"
+    "startupfortune.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T16:52:42Z",
-   "hot": 15.0,
+   "publishedAt": "2026-10-14T18:32:52Z",
+   "hot": 63.1,
    "rank": 14,
    "metrics": {
-    "points": 15,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50090799"
+    "points": 207,
+    "comments": 158,
+    "discussion": "https://news.ycombinator.com/item?id=50092664"
    }
   },
   {
-   "rawId": "50045147",
-   "title": "Sound (2022)",
-   "url": "https://ciechanow.ski/sound/",
+   "rawId": "50054465",
+   "title": "Phloem: Git history grown like a slime mold",
+   "url": "https://phloem.stemdeck.app/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ciechanow.ski"
+    "phloem.stemdeck.app"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-11T16:46:43Z",
-   "hot": 3.4,
+   "publishedAt": "2026-10-12T10:52:25Z",
+   "hot": 1.0,
    "rank": 15,
    "metrics": {
-    "points": 246,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50045147"
+    "points": 61,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50054465"
    }
   },
   {
-   "rawId": "50065572",
-   "title": "LittleJS is 2D and 3D now",
-   "url": "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+   "rawId": "50078757",
+   "title": "Marshall Islands Stick Chart",
+   "url": "https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "frankforce.com"
+    "en.wikipedia.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T01:50:17Z",
-   "hot": 0.2,
+   "publishedAt": "2026-10-13T21:06:33Z",
+   "hot": 0.6,
    "rank": 16,
    "metrics": {
-    "points": 8,
+    "points": 16,
     "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50065572"
+    "discussion": "https://news.ycombinator.com/item?id=50078757"
    }
   },
   {
-   "rawId": "50064673",
-   "title": "The Origin Story of Kid Pix",
-   "url": "http://red-green-blue.com/kid-pix-the-early-years",
+   "rawId": "50089229",
+   "title": "Submarine cable resilience",
+   "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "red-green-blue.com"
+    "blog.apnic.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-12T23:52:29Z",
-   "hot": 3.2,
+   "publishedAt": "2026-10-14T15:31:15Z",
+   "hot": 18.4,
    "rank": 17,
    "metrics": {
-    "points": 131,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50064673"
+    "points": 116,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50089229"
    }
   },
   {
-   "rawId": "50086363",
-   "title": "Nvidia's first GPU: GeForce 256",
-   "url": "https://dfarq.homeip.net/nvidias-first-gpu-geforce-256/",
+   "rawId": "50091794",
+   "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+   "url": "https://github.com/bealesh/neckbeard",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "dfarq.homeip.net"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T12:05:44Z",
-   "hot": 5.1,
+   "publishedAt": "2026-10-14T17:45:34Z",
+   "hot": 13.3,
    "rank": 18,
    "metrics": {
-    "points": 27,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50086363"
+    "points": 54,
+    "comments": 40,
+    "discussion": "https://news.ycombinator.com/item?id=50091794"
    }
   },
   {
-   "rawId": "50085022",
-   "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-   "url": "https://museumofages.org/w/vinci",
+   "rawId": "50089921",
+   "title": "Americans' social activity has steeply declined in the past 30 years",
+   "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "museumofages.org"
+    "dataforprogress.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T10:00:24Z",
-   "hot": 9.9,
+   "publishedAt": "2026-10-14T16:09:00Z",
+   "hot": 13.9,
    "rank": 19,
    "metrics": {
-    "points": 73,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50085022"
+    "points": 79,
+    "comments": 165,
+    "discussion": "https://news.ycombinator.com/item?id=50089921"
    }
   },
   {
-   "rawId": "50090842",
-   "title": "Linus Torvalds's first LLM-assisted patch series",
-   "url": "https://lwn.net/Articles/1100449/",
+   "rawId": "50093180",
+   "title": "Suicide rates highest ever among middle-aged men",
+   "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "lwn.net"
+    "telegraph.co.uk"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T16:55:07Z",
-   "hot": 11.0,
+   "publishedAt": "2026-10-14T19:03:58Z",
+   "hot": 51.7,
    "rank": 20,
    "metrics": {
-    "points": 11,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50090842"
+    "points": 143,
+    "comments": 161,
+    "discussion": "https://news.ycombinator.com/item?id=50093180"
    }
   }
  ]
