@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-13T21:22:47Z",
+ "updated": "2026-10-14T00:29:20Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,11 +15,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T16:03:16Z",
-   "hot": 144.4,
+   "hot": 111.7,
    "rank": 1,
    "metrics": {
-    "points": 769,
-    "comments": 612,
+    "points": 942,
+    "comments": 729,
     "discussion": "https://news.ycombinator.com/item?id=50073879"
    }
   },
@@ -36,11 +36,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T19:11:48Z",
-   "hot": 53.6,
+   "hot": 43.6,
    "rank": 2,
    "metrics": {
-    "points": 117,
-    "comments": 34,
+    "points": 231,
+    "comments": 78,
     "discussion": "https://news.ycombinator.com/item?id=50077020"
    }
   },
@@ -57,11 +57,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T10:09:37Z",
-   "hot": 7.0,
+   "hot": 10.3,
    "rank": 3,
    "metrics": {
-    "points": 245,
-    "comments": 235,
+    "points": 396,
+    "comments": 306,
     "discussion": "https://news.ycombinator.com/item?id=50054092"
    }
   },
@@ -78,11 +78,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T15:49:56Z",
-   "hot": 66.5,
+   "hot": 57.5,
    "rank": 4,
    "metrics": {
-    "points": 369,
-    "comments": 362,
+    "points": 498,
+    "comments": 495,
     "discussion": "https://news.ycombinator.com/item?id=50073633"
    }
   },
@@ -99,12 +99,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T13:02:12Z",
-   "hot": 70.8,
+   "hot": 56.1,
    "rank": 5,
    "metrics": {
-    "points": 591,
-    "comments": 727,
+    "points": 642,
+    "comments": 766,
     "discussion": "https://news.ycombinator.com/item?id=50071017"
+   }
+  },
+  {
+   "rawId": "50080275",
+   "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+   "url": "https://pulseos.finance",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pulseos.finance"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T23:13:23Z",
+   "hot": 15.0,
+   "rank": 6,
+   "metrics": {
+    "points": 19,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50080275"
    }
   },
   {
@@ -120,11 +141,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T15:07:37Z",
-   "hot": 41.7,
-   "rank": 6,
+   "hot": 34.3,
+   "rank": 7,
    "metrics": {
-    "points": 261,
-    "comments": 99,
+    "points": 321,
+    "comments": 135,
     "discussion": "https://news.ycombinator.com/item?id=50072913"
    }
   },
@@ -141,33 +162,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T10:27:00Z",
-   "hot": 57.0,
-   "rank": 7,
+   "hot": 47.3,
+   "rank": 8,
    "metrics": {
-    "points": 623,
-    "comments": 353,
+    "points": 664,
+    "comments": 370,
     "discussion": "https://news.ycombinator.com/item?id=50069499"
    }
   },
   {
-   "rawId": "50073221",
-   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+   "rawId": "50079464",
+   "title": "AlphaNIST",
+   "url": "https://alpha-nist.github.io/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "sammystraus.com"
+    "alpha-nist.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T15:25:50Z",
-   "hot": 33.3,
-   "rank": 8,
+   "publishedAt": "2026-10-13T21:57:29Z",
+   "hot": 10.7,
+   "rank": 9,
    "metrics": {
-    "points": 198,
-    "comments": 119,
-    "discussion": "https://news.ycombinator.com/item?id=50073221"
+    "points": 27,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50079464"
+   }
+  },
+  {
+   "rawId": "50053487",
+   "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+   "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "openculture.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T09:05:02Z",
+   "hot": 0.5,
+   "rank": 10,
+   "metrics": {
+    "points": 18,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50053487"
    }
   },
   {
@@ -183,12 +225,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T12:00:42Z",
-   "hot": 57.5,
-   "rank": 9,
+   "hot": 50.1,
+   "rank": 11,
    "metrics": {
-    "points": 539,
-    "comments": 220,
+    "points": 625,
+    "comments": 258,
     "discussion": "https://news.ycombinator.com/item?id=50070302"
+   }
+  },
+  {
+   "rawId": "50078141",
+   "title": "OpenAI engineer arrested in bugging of executive conference room",
+   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sfstandard.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T20:23:55Z",
+   "hot": 88.3,
+   "rank": 12,
+   "metrics": {
+    "points": 361,
+    "comments": 334,
+    "discussion": "https://news.ycombinator.com/item?id=50078141"
+   }
+  },
+  {
+   "rawId": "50073221",
+   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
+   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sammystraus.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T15:25:50Z",
+   "hot": 25.5,
+   "rank": 13,
+   "metrics": {
+    "points": 231,
+    "comments": 143,
+    "discussion": "https://news.ycombinator.com/item?id=50073221"
    }
   },
   {
@@ -204,75 +288,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T15:12:57Z",
-   "hot": 21.9,
-   "rank": 10,
+   "hot": 20.5,
+   "rank": 14,
    "metrics": {
-    "points": 135,
-    "comments": 165,
+    "points": 190,
+    "comments": 269,
     "discussion": "https://news.ycombinator.com/item?id=50072994"
    }
   },
   {
-   "rawId": "50071310",
-   "title": "New Apple TV 4K",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+   "rawId": "50079865",
+   "title": "Recreational Programming",
+   "url": "https://www.cphiri.dev/presentations/recreational-programming",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "apple.com"
+    "cphiri.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T13:21:35Z",
-   "hot": 30.2,
-   "rank": 11,
+   "publishedAt": "2026-10-13T22:33:33Z",
+   "hot": 10.4,
+   "rank": 15,
    "metrics": {
-    "points": 242,
-    "comments": 472,
-    "discussion": "https://news.ycombinator.com/item?id=50071310"
-   }
-  },
-  {
-   "rawId": "50070010",
-   "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-   "url": "https://github.com/LargeModGames/spotatui",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T11:32:00Z",
-   "hot": 2.7,
-   "rank": 12,
-   "metrics": {
-    "points": 27,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50070010"
-   }
-  },
-  {
-   "rawId": "50069971",
-   "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-   "url": "https://eg2.haku.sh/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "eg2.haku.sh"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T11:27:14Z",
-   "hot": 36.5,
-   "rank": 13,
-   "metrics": {
-    "points": 362,
-    "comments": 81,
-    "discussion": "https://news.ycombinator.com/item?id=50069971"
+    "points": 20,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50079865"
    }
   },
   {
@@ -288,117 +330,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T14:26:08Z",
-   "hot": 18.0,
-   "rank": 14,
+   "hot": 17.2,
+   "rank": 16,
    "metrics": {
-    "points": 125,
-    "comments": 193,
+    "points": 173,
+    "comments": 292,
     "discussion": "https://news.ycombinator.com/item?id=50072286"
    }
   },
   {
-   "rawId": "50077619",
-   "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-   "url": "https://parsimony.lasu.dev/",
+   "rawId": "50071310",
+   "title": "New Apple TV 4K",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "parsimony.lasu.dev"
+    "apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T19:50:31Z",
-   "hot": 6.5,
-   "rank": 15,
-   "metrics": {
-    "points": 10,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50077619"
-   }
-  },
-  {
-   "rawId": "50061659",
-   "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-   "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "news.mit.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T19:28:48Z",
-   "hot": 3.9,
-   "rank": 16,
-   "metrics": {
-    "points": 100,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50061659"
-   }
-  },
-  {
-   "rawId": "50074869",
-   "title": "Gemini 4 Argon for Robotics",
-   "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "developers.googleblog.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T16:55:47Z",
-   "hot": 33.3,
+   "publishedAt": "2026-10-13T13:21:35Z",
+   "hot": 24.8,
    "rank": 17,
    "metrics": {
-    "points": 148,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50074869"
+    "points": 276,
+    "comments": 527,
+    "discussion": "https://news.ycombinator.com/item?id=50071310"
    }
   },
   {
-   "rawId": "50070593",
-   "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-   "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
+   "rawId": "50069971",
+   "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+   "url": "https://eg2.haku.sh/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "machinelearning.apple.com"
+    "eg2.haku.sh"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T12:26:36Z",
-   "hot": 22.9,
+   "publishedAt": "2026-10-13T11:27:14Z",
+   "hot": 29.5,
    "rank": 18,
    "metrics": {
-    "points": 205,
-    "comments": 90,
-    "discussion": "https://news.ycombinator.com/item?id=50070593"
+    "points": 384,
+    "comments": 85,
+    "discussion": "https://news.ycombinator.com/item?id=50069971"
    }
   },
   {
-   "rawId": "50075665",
-   "title": "Show HN: XY Music Notation",
-   "url": "https://music.xy.dev/",
+   "rawId": "50079437",
+   "title": "Physical Intelligence API Beta: Frontier Models for Every Robot",
+   "url": "https://www.pi.website/blog/api-beta",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "music.xy.dev"
+    "pi.website"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T17:43:05Z",
-   "hot": 9.6,
+   "publishedAt": "2026-10-13T21:55:25Z",
+   "hot": 7.0,
    "rank": 19,
    "metrics": {
-    "points": 35,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50075665"
+    "points": 18,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50079437"
    }
   }
  ]

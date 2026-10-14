@@ -1,255 +1,245 @@
 {
- "updated": "2026-10-13T21:22:47Z",
+ "updated": "2026-10-14T00:29:20Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "lamine yamal",
-   "query": "lamine yamal",
+   "rawId": "parker messick",
+   "query": "parker messick",
+   "traffic": "200000+",
+   "trafficNum": 200000,
+   "publishedAt": "2026-10-14T00:00:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkQ6CMLoBbeSX9RXmbW4i-2x5MFvPGUXcoV74DRlcFVpHGLmwZwQZt2DMj0LY",
+   "news": [
+    {
+     "title": "3 storylines to follow in Game 2 of ALCS",
+     "url": "https://www.mlb.com/news/alcs-game-2-2026-storylines-to-follow",
+     "source": "MLB.com"
+    },
+    {
+     "title": "Cleveland rocks—get Guardians vs Rays ALCS tickets for Progressive Field",
+     "url": "https://www.usatoday.com/story/shopping/sports/tickets/2026/10/13/how-to-buy-cleveland-guardians-vs-tampa-bay-rays-alcs-tickets-progressive-field/92236333007/",
+     "source": "USA Today"
+    },
+    {
+     "title": "Late meltdown by Rays at home leaves them with 7-3 loss to Guardians in Game 1 of ALCS",
+     "url": "https://www.wfla.com/sports/rays/late-meltdown-by-rays-at-home-leaves-them-with-7-3-loss-to-guardians-in-game-1-of-alcs/",
+     "source": "WFLA"
+    }
+   ]
+  },
+  {
+   "rawId": "joe buck",
+   "query": "joe buck",
+   "traffic": "10000+",
+   "trafficNum": 10000,
+   "publishedAt": "2026-10-14T00:00:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQq1NC0QXsMqHo0e2WeiVWuEav7Kokllec_RxvdaV9bXIcHaQulEqw05nn_9Qs",
+   "news": [
+    {
+     "title": "A Deep Dive Into ESPN Announcer Joe Buck’s Wife & Their Family",
+     "url": "https://www.imdb.com/fr/news/ni66061528/?ref_=nwc_art_perm",
+     "source": "IMDb"
+    },
+    {
+     "title": "Michelle Beisner-Buck joined MNF long before Joe Buck made it a family affair",
+     "url": "https://www.themirror.com/sport/american-football/michelle-joe-buck-mnf-family-2045760",
+     "source": "The Mirror US"
+    },
+    {
+     "title": "A Deep Dive Into Joe Buck's Wife & Family",
+     "url": "https://www.tvinsider.com/swooon/1306483/joe-buck-wife-michelle-beisner-married-kids-family/",
+     "source": "TV Insider"
+    }
+   ]
+  },
+  {
+   "rawId": "maura higgins",
+   "query": "maura higgins",
    "traffic": "5000+",
    "trafficNum": 5000,
-   "publishedAt": "2026-10-13T20:50:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9kgEzyxEwA_-CcahZMTn22LzmRl4iuU4zFJflKtyQ1CoLcjAl9SIFNa_KKX8",
+   "publishedAt": "2026-10-14T00:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIuNSRXArDQXYHTnYdlhKR1xCFMRlzTcA_anW56bwGiI3i5fH5SSJqgcchF2o",
    "news": [
     {
-     "title": "\"You want to play for Morocco?\": Getafe defender provokes Yamal with shocking words",
-     "url": "https://www.goal.com/en-in/news/you-want-to-play-for-morocco-getafe-defender-provokes-yamal-with-shocking-words/blt805831f329de18ab",
-     "source": "Goal.com"
+     "title": "Maura Higgins Addresses Rumors ‘Dancing With the Stars’ Is ‘Fixed’ in Her Favor: ‘I Wish’",
+     "url": "https://www.yahoo.com/entertainment/tv/articles/maura-higgins-addresses-rumors-dancing-142002009.html",
+     "source": "Yahoo"
     },
     {
-     "title": "Lamine Yamal Caught in the Spotlight: Getafe Player Throws a Cheeky Morocco Jab",
-     "url": "https://www.soyfutbol.com/en/news/lamine-yamal-caught-in-the-spotlight-getafe-player-throws-a-cheeky-morocco-jab-20261013-0028.html",
-     "source": "Soy Futbol"
-    },
-    {
-     "title": "Abqar Tells Lamine Yamal: ‘You Want to Play for Morocco’",
-     "url": "https://www.moroccoworldnews.com/2026/10/341892/abqar-tells-lamine-yamal-you-want-to-play-for-morocco/",
-     "source": "Morocco World News"
+     "title": "‘Love Island’ and ‘The Traitors’ Star Maura Higgins to Host ‘Blind Date’ on Disney+",
+     "url": "https://www.imdb.com/fr/news/ni65988746/",
+     "source": "IMDb"
     }
    ]
   },
   {
-   "rawId": "nicolò tresoldi",
-   "query": "nicolò tresoldi",
+   "rawId": "flyers",
+   "query": "flyers",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-10-14T00:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbzswjS7Dk2tg5ggk4XVPyEvJmOjzyHE9J-o-6BOZyfJS2Q1F2gr_1GMaeKV0",
+   "news": [
+    {
+     "title": "Oilers Trade Pitch Lands Flyers’ $70 Million Forward in Edmonton",
+     "url": "https://sports.yahoo.com/articles/oilers-trade-pitch-lands-flyers-221751931.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Flyers May Include Travis Konecny In Trade Talks",
+     "url": "https://www.prohockeyrumors.com/2026/10/flyers-may-include-travis-konecny-in-trade-talks.html",
+     "source": "Pro Hockey Rumors"
+    },
+    {
+     "title": "Matvei Michkov (on social media) isn’t the Flyers’ only problem",
+     "url": "https://dose.ca/2026/10/13/matvei-michkov-on-social-media-isnt-the-flyers-only-problem/",
+     "source": "Dose.ca"
+    }
+   ]
+  },
+  {
+   "rawId": "super bowl halftime show 2027",
+   "query": "super bowl halftime show 2027",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-10-14T00:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeQ6yXJ_9MxkTcOuIhXnpyiyEJEzoMSyxjfku3mAFKwB1-ku1Y5RywtpZhT6w",
+   "news": [
+    {
+     "title": "Who will be Super Bowl 2027 halftime performer? We have guesses",
+     "url": "https://www.cincinnati.com/story/entertainment/2026/10/12/super-bowl-halftime-show-2027-performer-artist-rumors-miley-cyrus-jay-z/92215460007/",
+     "source": "Cincinnati Enquirer"
+    },
+    {
+     "title": "Did a Deleted Post Reveal the Super Bowl Lxi Halftime Performer?",
+     "url": "https://www.imdb.com/news/ni66049293/?ref_=nwc_art_perm",
+     "source": "IMDb"
+    },
+    {
+     "title": "Celebs weigh in on their 2027 Super Bowl halftime show predictions",
+     "url": "https://www.yahoo.com/entertainment/videos/celebs-weigh-2027-super-bowl-230124563.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  {
+   "rawId": "boca vs vasco",
+   "query": "boca vs vasco",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-10-14T00:00:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtBXM0zSXb08Hj40zWOeCKRKZtK6mjiIlOVnuyAJc8QIOm4F9dZ4nZwLRSkUE",
+   "news": [
+    {
+     "title": "Boca y Vasco reabren rivalidad entre argentinos y brasileños en regreso de las copas en Sudamérica",
+     "url": "https://www.expressnews.com/sports/article/boca-y-vasco-reabren-rivalidad-entre-argentinos-y-22473513.php",
+     "source": "San Antonio Express-News"
+    },
+    {
+     "title": "La formación de Boca vs. Vasco da Gama, por la Copa Sudamericana",
+     "url": "https://www.tycsports.com/boca-juniors/la-formacion-de-boca-vs-vasco-da-gama-por-la-copa-sudamericana-id765773.html",
+     "source": "TyC Sports"
+    },
+    {
+     "title": "Mac Allister eligió a su favorito para Boca vs. Vasco da Gama",
+     "url": "https://espndeportes.espn.com/futbol/copa-sudamericana/nota/_/id/17375720/alexis-mac-allister-boca-vs-vasco-da-gama-semifinal-sudamericana-2026",
+     "source": "ESPN Deportes"
+    }
+   ]
+  },
+  {
+   "rawId": "boca juniors - vasco da gama",
+   "query": "boca juniors - vasco da gama",
    "traffic": "1000+",
    "trafficNum": 1000,
-   "publishedAt": "2026-10-13T20:30:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5mZgLMLuFE5BpMOEgtUwW470_Zf9UO0OtYhN0kMxD0Eiy7OkdLpXfMY-NOh4",
+   "publishedAt": "2026-10-14T00:00:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRV93sWroqabgQiGOkDV5eW2_hcKhs04ndCNGRfkZ5PEuHXflE27GKIfMnoUrk",
    "news": [
     {
-     "title": "Tresoldi, parla papà Emanuele: \"Italia o Germania, conta il cuore. È milanista e se chiamasse l'Inter...\"",
-     "url": "https://www.gazzetta.it/Calcio/Champions-League/13-10-2026/tresoldi-intervista-padre-italia-germania-milan-inter.shtml",
-     "source": "La Gazzetta dello Sport"
+     "title": "Boca Juniors x Vasco: onde assistir ao vivo, horário e escalações",
+     "url": "https://ge.globo.com/futebol/times/vasco/noticia/2026/10/13/boca-juniors-x-vasco-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+     "source": "ge"
     },
     {
-     "title": "Nicolò Tresoldi, chi è l'attaccante del Bruges che spaventa l'Inter in Champions League",
-     "url": "https://www.corriere.it/sport/calcio/champions-league/26_ottobre_13/nicolo-tresoldi-chi-e-bruges-e0ded994-7f59-464c-8ff6-159ed63dbxlk.shtml",
-     "source": "Corriere della Sera"
+     "title": "INGRESSOS PARA VASCO X BOCA NO MARACANÃ ESTÃO ESGOTADOS",
+     "url": "https://netvasco.com.br/n/394323/ingressos-para-vasco-x-boca-no-maracana-estao-esgotados",
+     "source": "NETVASCO"
     },
     {
-     "title": "Tresoldi, parla papà Emanuele: \"Il suo sogno è giocare nel Milan\"",
-     "url": "https://sport.sky.it/calcio/champions-league/2026/10/13/tresoldi-brugge-milan-intervista",
-     "source": "Sky Sport"
+     "title": "Vasco x Boca Juniors pode ser no Paraguai? Entenda chance disso acontecer",
+     "url": "https://www.sportingnews.com/br/futebol/noticias/vasco-x-boca-juniors-pode-ser-paraguai-entenda/4705567765c45443b7efd8f1",
+     "source": "www.sportingnews.com"
     }
    ]
   },
   {
-   "rawId": "thélyson orélien",
-   "query": "thélyson orélien",
+   "rawId": "luis francischinelli",
+   "query": "luis francischinelli",
    "traffic": "500+",
    "trafficNum": 500,
-   "publishedAt": "2026-10-13T20:50:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQg4f3mTA0352ecPnTbQ_WdjZjvdppsTjZUW2G6KvXUcSnpwLY-MY_V6DSRATw",
+   "publishedAt": "2026-10-14T00:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTyF0qxYU699PVU-GjpMncSkZM7H5Rda-G4xllDOWQcdwTYul5c-ap6WXK0nBU",
    "news": [
     {
-     "title": "Acclaimed Author Denies Using A.I. but Admits Plagiarism",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/author-ai-plagiarism-france-haiti.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Quebec author accused of using AI admits past plagiarism but maintains novel is his own work",
-     "url": "https://www.cbc.ca/news/canada/montreal/thelyson-orelien-denies-ai-debut-novel-9.7378740",
-     "source": "CBC"
-    },
-    {
-     "title": "Novelist Thélyson Orélien rejects AI claims after bestseller pulled from French prize list",
-     "url": "https://www.france24.com/en/culture/20261013-novelist-th%C3%A9lyson-or%C3%A9lien-rejects-ai-claims-after-book-pulled-from-french-prize-list",
-     "source": "France 24"
-    }
-   ]
-  },
-  {
-   "rawId": "adeyemi",
-   "query": "adeyemi",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-13T20:50:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbMt5QyM-Xf_O23OCSD9Fi5HC7_OPuaIg0LPcAwHxvdZInvw18xRg-sG_Lbzs",
-   "news": [
-    {
-     "title": "Licensable picture: PSUV supporters stage 'Great March of Workers for Peace' in Caracas",
-     "url": "https://www.reutersconnect.com/item/psuv-supporters-stage-great-march-of-workers-for-peace-in-caracas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFERklH",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "Licensable picture: PSUV supporters stage 'Great March of Workers for Peace' in Caracas",
-     "url": "https://www.reutersconnect.com/item/psuv-supporters-stage-great-march-of-workers-for-peace-in-caracas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFERklM",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "Licensable picture: PSUV supporters stage 'Great March of Workers for Peace' in Caracas",
-     "url": "https://www.reutersconnect.com/item/psuv-supporters-stage-great-march-of-workers-for-peace-in-caracas/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFERklJ",
-     "source": "Reuters Connect"
-    }
-   ]
-  },
-  {
-   "rawId": "abdulrahman alfozan",
-   "query": "abdulrahman alfozan",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-13T20:40:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyEUxVMzL2ga1TfVhNu6LuTIukufsHPlJ_uuuQPiZBtROPYXkuP4peu06Koo4",
-   "news": [
-    {
-     "title": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
-     "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
-     "source": "CNBC"
-    },
-    {
-     "title": "OpenAI engineer arrested in bugging of executive conference room",
-     "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-     "source": "The San Francisco Standard"
-    },
-    {
-     "title": "OpenAI employee arrested for allegedly planting recording device in its office",
-     "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-     "source": "The Verge"
-    }
-   ]
-  },
-  {
-   "rawId": "pope francis",
-   "query": "pope francis",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-13T20:40:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5awjXuwi6Gf0aQB7AUHO7fWbjoz1wbUmH06Ikb3f-9oEUdCARn_vRqEyNtnw",
-   "news": [
-    {
-     "title": "The Myth of St. Francis",
-     "url": "https://firstthings.com/the-myth-of-st-francis/",
-     "source": "First Things"
-    },
-    {
-     "title": "Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says",
-     "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Pope Leo diagnosed with lung cancer after undergoing surgery, Vatican says",
-     "url": "https://www.cbsnews.com/news/pope-leo-diagnosed-lung-cancer-surgery/",
-     "source": "CBS News"
-    }
-   ]
-  },
-  {
-   "rawId": "delaware vs middle tennessee prediction",
-   "query": "delaware vs middle tennessee prediction",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-13T20:40:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSTuLICHBI-R1cMg1Zqeq5hfeENn9M5ClvqceZ-3c6D0HvohVmCT7vYLvBX7NY",
-   "news": [
-    {
-     "title": "MTSU vs Delaware live updates, how to watch college football Week 7 game",
-     "url": "https://sports.yahoo.com/articles/mtsu-vs-delaware-live-updates-200016533.html",
+     "title": "Will Rentz vs. Luis Francischinelli prediction, odds, pick for Contender Series Week 10",
+     "url": "https://sports.yahoo.com/articles/rentz-vs-luis-francischinelli-prediction-003737871.html",
      "source": "Yahoo Sports"
     },
     {
-     "title": "Delaware @ Middle Tennessee Odds",
-     "url": "https://sportsbook.fanduel.com/football/ncaa-football-games/delaware-@-middle-tennessee-36152733",
-     "source": "FanDuel Sportsbook"
-    },
-    {
-     "title": "Delaware vs Middle Tennessee Prediction: A Must Win Game To Kick Things Off",
-     "url": "https://collegefootballnews.com/college-football/delaware-vs-middle-tennessee-prediction-2026",
-     "source": "College Football News"
+     "title": "Prediction, pick for Will Rentz vs. Luis Francischinelli at DWCS Season 10, Week 10",
+     "url": "https://dknetwork.draftkings.com/2026/10/13/prediction-pick-for-will-rentz-vs-luis-francischinelli-at-dwcs-season-10-week-10/",
+     "source": "DraftKings Network"
     }
    ]
   },
   {
-   "rawId": "bayern de múnich",
-   "query": "bayern de múnich",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-13T20:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJT7OKbMzhqk3aG7XHrwLgMDT9mWROh6XfitDglLO0V9XbT4eA7F6Q4Fl8Cos",
+   "rawId": "michael weatherly",
+   "query": "michael weatherly",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-14T00:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxBd_A6F18He4qmrG-Gznfibrpyv30Azf1bZZxCzdHwOLHVwqhYl3G1sn66Ek",
    "news": [
     {
-     "title": "Viking 3 - Bayern 3: resumen, goles y resultado del partido de UEFA Champions League",
-     "url": "https://as.com/futbol/champions/viking-bayern-en-directo-uefa-champions-league-hoy-en-vivo-f202610-d/",
-     "source": "Diario AS"
+     "title": "'NCIS: Origins' sets epic reunion with Mark Harmon, Michael Weatherly",
+     "url": "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/13/ncis-origins-mark-harmon-michael-weatherly-reunion/92233370007/",
+     "source": "USA Today"
     },
     {
-     "title": "Champions League: el historial que ilusiona a Luis Díaz y al Bayern Munich vs.Viking",
-     "url": "https://espndeportes.espn.com/futbol/champions-league/nota/_/id/17374614/luis-diaz-bayern-vs-viking-historial-champions-league",
-     "source": "ESPN Deportes"
+     "title": "NCIS’ Mark Harmon and Michael Weatherly Will Reunite on ‘NCIS: Origins’ for 1st Time in 10 Years",
+     "url": "https://www.yahoo.com/entertainment/tv/articles/ncis-mark-harmon-michael-weatherly-171916427.html",
+     "source": "Yahoo"
     },
     {
-     "title": "Viking vs Bayern Múnich: previa, predicciones y alineaciones",
-     "url": "https://www.si.com/es-us/viking-vs-bayern-munich-previa-predicciones-y-alineaciones-13-10-2026",
-     "source": "Sports Illustrated"
+     "title": "Mark Harmon and Michael Weatherly are reuniting on next week’s ‘NCIS: Origins’",
+     "url": "https://ew.com/mark-harmon-and-michael-weatherly-reuniting-on-ncis-origins-12172197",
+     "source": "Entertainment Weekly"
     }
    ]
   },
   {
-   "rawId": "pablo torre",
-   "query": "pablo torre",
+   "rawId": "alaska",
+   "query": "alaska",
    "traffic": "200+",
    "trafficNum": 200,
-   "publishedAt": "2026-10-13T20:40:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTiY_HJt6Iw-Tafh5-c-Gm3AUjduHeRuYPqWcbQhGi6srNluo2awlLeU2SdbY",
+   "publishedAt": "2026-10-14T00:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXLnmLMhjPxdgVBskelIJI45TXrLbHoU3xy02SPLFWvw1_Rxc_eDwdHSpZtcs",
    "news": [
     {
-     "title": "Can a ‘weirdo version of a newsroom’ thrive? Pablo Torre is finding out",
-     "url": "https://www.poynter.org/?p=1209878",
-     "source": "Poynter"
+     "title": "Live updates: Trump travels to Alaska to campaign for GOP candidates ahead of midterms",
+     "url": "https://apnews.com/live/trump-midterm-elections-news-updates-10-13-2026",
+     "source": "AP News"
     },
     {
-     "title": "Pablo Torre's next investigation might be his best work yet - if it's real",
-     "url": "https://sports.yahoo.com/articles/pablo-torres-next-investigation-might-192842382.html",
-     "source": "Yahoo Sports"
+     "title": "WATCH LIVE: President Trump delivers remarks at rally in Wasilla, Alaska",
+     "url": "https://www.foxnews.com/video/6406794497112",
+     "source": "Fox News"
     },
     {
-     "title": "Luis García manda a la UCI a la UD Las Palmas",
-     "url": "https://www.canarias7.es/deportes/ud-las-palmas/luis-garcia-manda-uci-20261011193054-nt.html",
-     "source": "Canarias7"
-    }
-   ]
-  },
-  {
-   "rawId": "flashscore",
-   "query": "flashscore",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-13T20:40:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIA0gng_KD5mcXTUFR6lqsUoKIcx2rtCRhHkgGFDMfYbxlQ5NroYQ0qan3UjA",
-   "news": [
-    {
-     "title": "Swiatek aiming to end year on a positive note as WTA Finals spot hangs in balance",
-     "url": "https://www.reuters.com/sports/tennis/swiatek-aiming-end-year-positive-note-wta-finals-spot-hangs-balance-2026-10-13/",
-     "source": "Reuters"
-    },
-    {
-     "title": "Iga Swiatek needs 'about two days' before answering Wuhan conditions question",
-     "url": "https://www.tennisworldusa.org/tennis/news/Tennis_Stories/170502/iga-swiatek-needs-about-two-days-before-answering-wuhan-conditions-question/",
-     "source": "Tennis World USA"
-    },
-    {
-     "title": "The fight to qualify for the 2026 WTA Finals enters its crucial phase",
-     "url": "https://www.puntodebreak.com/en/2026/10/11/the-fight-to-qualify-for-the-2026-wta-finals-enters-its-crucial-phase",
-     "source": "Puntodebreak"
+     "title": "Live updates: Trump set to hold rally in Alaska for Republican candidates",
+     "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-rally-alaska-2026-midterm-zacharia-congress-live-updates-rcna603068",
+     "source": "NBC News"
     }
    ]
   }
