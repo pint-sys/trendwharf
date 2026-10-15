@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T11:46:53Z",
+ "updated": "2026-10-15T17:12:21Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -30,7 +30,7 @@
     "wikipedia"
    ],
    "summary": "American actor and activist (1992–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/15131-Mayo_Speaker_Series-_RJ_Mitte-0143_%2816531434123%29_%28cropped%29.jpg/330px-15131-Mayo_Speaker_Series-_RJ_Mitte-0143_%2816531434123%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 409408,
    "rank": 2,
@@ -138,7 +138,7 @@
     "wikipedia"
    ],
    "summary": "Season of television series. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/ae/DWTS_US_Season_35_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 129908,
    "rank": 8,
@@ -174,7 +174,7 @@
     "wikipedia"
    ],
    "summary": "American actress (born 1972). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2024_Selma_Blair_%28cropped%29.jpg/330px-2024_Selma_Blair_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 114269,
    "rank": 10,
@@ -245,8 +245,8 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "Jamaican drug lord. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Christopher_Coke.jpg/330px-Christopher_Coke.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Jamaican drug lord (born 1969). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 83046,
    "rank": 14,
@@ -336,7 +336,7 @@
     "wikipedia"
    ],
    "summary": "Head of the Catholic Church since 2025. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Pope_Leo_XIV_3_%283x4_cropped%29.png/330px-Pope_Leo_XIV_3_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 75186,
    "rank": 19,
@@ -354,7 +354,7 @@
     "wikipedia"
    ],
    "summary": "English comedian, actor, and podcaster (born 1975). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Russell_Brand_in_2025_%28cropped%29.jpg/330px-Russell_Brand_in_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 75152,
    "rank": 20,

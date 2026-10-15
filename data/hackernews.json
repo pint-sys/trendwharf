@@ -1,7 +1,238 @@
 {
- "updated": "2026-10-15T11:46:53Z",
+ "updated": "2026-10-15T17:12:21Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50104654",
+   "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+   "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "simonsfoundation.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T14:58:48Z",
+   "hot": 58.9,
+   "rank": 1,
+   "metrics": {
+    "points": 131,
+    "comments": 81,
+    "discussion": "https://news.ycombinator.com/item?id=50104654"
+   }
+  },
+  {
+   "rawId": "50103338",
+   "title": "Wayland desktop for Linux with skeuomorphic design",
+   "url": "https://github.com/fyzugx/DEsk",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T13:23:44Z",
+   "hot": 65.6,
+   "rank": 2,
+   "metrics": {
+    "points": 250,
+    "comments": 103,
+    "discussion": "https://news.ycombinator.com/item?id=50103338"
+   }
+  },
+  {
+   "rawId": "50105647",
+   "title": "Neural Networks Are Already Clean",
+   "url": "https://already-clean.goodfire.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "already-clean.goodfire.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T16:04:01Z",
+   "hot": 44.8,
+   "rank": 3,
+   "metrics": {
+    "points": 51,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50105647"
+   }
+  },
+  {
+   "rawId": "50103630",
+   "title": "I Know Why the Mathematicians Weep",
+   "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "derekthompson.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T13:44:32Z",
+   "hot": 55.7,
+   "rank": 4,
+   "metrics": {
+    "points": 193,
+    "comments": 269,
+    "discussion": "https://news.ycombinator.com/item?id=50103630"
+   }
+  },
+  {
+   "rawId": "50102923",
+   "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+   "url": "https://libreboot.org/news/libreboot2610.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "libreboot.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T12:52:16Z",
+   "hot": 39.0,
+   "rank": 5,
+   "metrics": {
+    "points": 169,
+    "comments": 89,
+    "discussion": "https://news.ycombinator.com/item?id=50102923"
+   }
+  },
+  {
+   "rawId": "50104726",
+   "title": "Celebrating 70 Years of Fortran",
+   "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fortran-lang.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T15:03:17Z",
+   "hot": 36.7,
+   "rank": 6,
+   "metrics": {
+    "points": 79,
+    "comments": 40,
+    "discussion": "https://news.ycombinator.com/item?id=50104726"
+   }
+  },
+  {
+   "rawId": "50105648",
+   "title": "Krea 3 – Frontier Image Model 4× faster than Nano Banana Pro",
+   "url": "https://www.krea.ai/krea-3",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "krea.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T16:04:05Z",
+   "hot": 34.3,
+   "rank": 7,
+   "metrics": {
+    "points": 39,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50105648"
+   }
+  },
+  {
+   "rawId": "50105635",
+   "title": "Steam Client Is Now Faster Than Epic's New Vibe Coded Launcher",
+   "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "respawnfirst.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T16:03:19Z",
+   "hot": 88.7,
+   "rank": 8,
+   "metrics": {
+    "points": 102,
+    "comments": 118,
+    "discussion": "https://news.ycombinator.com/item?id=50105635"
+   }
+  },
+  {
+   "rawId": "50102247",
+   "title": "Show HN: Unfenced – Land for sale that borders public land",
+   "url": "https://unfenced.land/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "unfenced.land"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T11:38:57Z",
+   "hot": 31.1,
+   "rank": 9,
+   "metrics": {
+    "points": 173,
+    "comments": 121,
+    "discussion": "https://news.ycombinator.com/item?id=50102247"
+   }
+  },
+  {
+   "rawId": "50101813",
+   "title": "Zero-Click Spyware Delivered via Targeted Ads: AdFection",
+   "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "citizenlab.ca"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T10:43:36Z",
+   "hot": 26.2,
+   "rank": 10,
+   "metrics": {
+    "points": 170,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50101813"
+   }
+  },
+  {
+   "rawId": "50080155",
+   "title": "Biscoff Cookies Were Supposed to Be Temporary. Then Passengers Fell in Love",
+   "url": "https://www.seriouseats.com/biscoff-history-12168161",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "seriouseats.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T23:00:46Z",
+   "hot": 0.6,
+   "rank": 11,
+   "metrics": {
+    "points": 27,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50080155"
+   }
+  },
   {
    "rawId": "50093568",
    "title": "Things to know when you get cancer",
@@ -15,12 +246,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T19:26:30Z",
-   "hot": 90.3,
-   "rank": 1,
+   "hot": 82.2,
+   "rank": 12,
    "metrics": {
-    "points": 1475,
-    "comments": 363,
+    "points": 1790,
+    "comments": 425,
     "discussion": "https://news.ycombinator.com/item?id=50093568"
+   }
+  },
+  {
+   "rawId": "50103164",
+   "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+   "url": "https://www.cppstories.com/2026/cpp26_contracts/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cppstories.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T13:11:26Z",
+   "hot": 19.2,
+   "rank": 13,
+   "metrics": {
+    "points": 77,
+    "comments": 66,
+    "discussion": "https://news.ycombinator.com/item?id=50103164"
+   }
+  },
+  {
+   "rawId": "50105777",
+   "title": "The technical actions needed to ensure the continuity of UTC",
+   "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bipm.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T16:11:36Z",
+   "hot": 20.7,
+   "rank": 14,
+   "metrics": {
+    "points": 21,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50105777"
+   }
+  },
+  {
+   "rawId": "50104310",
+   "title": "Prompt injection in HTTP headers: what 217M web responses show",
+   "url": "https://www.signalscorps.com/blog/prompt-injection-in-http-headers/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "signalscorps.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T14:36:22Z",
+   "hot": 17.3,
+   "rank": 15,
+   "metrics": {
+    "points": 45,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50104310"
    }
   },
   {
@@ -36,12 +330,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T12:30:08Z",
-   "hot": 3.0,
-   "rank": 2,
+   "hot": 5.3,
+   "rank": 16,
    "metrics": {
-    "points": 142,
-    "comments": 71,
+    "points": 278,
+    "comments": 139,
     "discussion": "https://news.ycombinator.com/item?id=50070625"
+   }
+  },
+  {
+   "rawId": "50105467",
+   "title": "Show HN: Proa – a Rust web framework with fast SSR and multi-target rendering",
+   "url": "https://proa.so/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "proa.so"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T15:52:08Z",
+   "hot": 11.2,
+   "rank": 17,
+   "metrics": {
+    "points": 15,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50105467"
+   }
+  },
+  {
+   "rawId": "50075392",
+   "title": "The largest eagle hunted unlike any other bird of prey (2021)",
+   "url": "https://www.nhm.ac.uk/discover/news/2021/december/worlds-largest-eagle-hunted-unlike-any-other-bird-of-prey.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nhm.ac.uk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T17:27:01Z",
+   "hot": 0.5,
+   "rank": 18,
+   "metrics": {
+    "points": 24,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50075392"
+   }
+  },
+  {
+   "rawId": "50085171",
+   "title": "Game of Life – But Multiplayer, Hypermedia and Python",
+   "url": "https://stario.dev/apps/life",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "stario.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T10:13:39Z",
+   "hot": 0.1,
+   "rank": 19,
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50085171"
    }
   },
   {
@@ -57,369 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T20:48:24Z",
-   "hot": 44.3,
-   "rank": 3,
-   "metrics": {
-    "points": 663,
-    "comments": 264,
-    "discussion": "https://news.ycombinator.com/item?id=50094994"
-   }
-  },
-  {
-   "rawId": "50096142",
-   "title": "Tiny Little Office",
-   "url": "https://tinylittleoffice.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tinylittleoffice.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T22:10:08Z",
-   "hot": 35.1,
-   "rank": 4,
-   "metrics": {
-    "points": 478,
-    "comments": 87,
-    "discussion": "https://news.ycombinator.com/item?id=50096142"
-   }
-  },
-  {
-   "rawId": "50064470",
-   "title": "Show HN: Indigene – Native plants for where you stand",
-   "url": "https://indigene.app/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "indigene.app"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T23:25:20Z",
-   "hot": 0.7,
-   "rank": 5,
-   "metrics": {
-    "points": 44,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50064470"
-   }
-  },
-  {
-   "rawId": "50050553",
-   "title": "Do dentists know what they're doing?",
-   "url": "https://mapwriting.substack.com/p/dentists",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "mapwriting.substack.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T02:21:54Z",
-   "hot": 9.2,
-   "rank": 6,
-   "metrics": {
-    "points": 748,
-    "comments": 541,
-    "discussion": "https://news.ycombinator.com/item?id=50050553"
-   }
-  },
-  {
-   "rawId": "50079701",
-   "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
-   "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "newyorker.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T22:17:41Z",
-   "hot": 0.9,
-   "rank": 7,
-   "metrics": {
-    "points": 35,
-    "comments": 15,
-    "discussion": "https://news.ycombinator.com/item?id=50079701"
-   }
-  },
-  {
-   "rawId": "50097369",
-   "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "liquid.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T23:59:37Z",
-   "hot": 19.3,
-   "rank": 8,
-   "metrics": {
-    "points": 228,
-    "comments": 54,
-    "discussion": "https://news.ycombinator.com/item?id=50097369"
-   }
-  },
-  {
-   "rawId": "50071902",
-   "title": "Bookofjoe's Favorite Thing: Best Pill Splitter",
-   "url": "https://bookofjoe2.blogspot.com/2026/09/bookofjoes-favorite-thing-worlds-best.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bookofjoe2.blogspot.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T14:00:06Z",
-   "hot": 0.3,
-   "rank": 9,
-   "metrics": {
-    "points": 12,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50071902"
-   }
-  },
-  {
-   "rawId": "50053384",
-   "title": "Catch a Bird – I made it for my own sanity",
-   "url": "https://catchabird.com",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "catchabird.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T08:51:18Z",
-   "hot": 2.9,
-   "rank": 10,
-   "metrics": {
-    "points": 214,
-    "comments": 56,
-    "discussion": "https://news.ycombinator.com/item?id=50053384"
-   }
-  },
-  {
-   "rawId": "50089921",
-   "title": "Americans' social activity has steeply declined in the past 30 years",
-   "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dataforprogress.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T16:09:00Z",
-   "hot": 22.2,
-   "rank": 11,
-   "metrics": {
-    "points": 435,
-    "comments": 395,
-    "discussion": "https://news.ycombinator.com/item?id=50089921"
-   }
-  },
-  {
-   "rawId": "50060547",
-   "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
-   "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "phys.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T18:20:17Z",
-   "hot": 0.7,
-   "rank": 12,
-   "metrics": {
-    "points": 48,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50060547"
-   }
-  },
-  {
-   "rawId": "50077709",
-   "title": "Donaldson Futuro House in Idyllwild, California, USA",
-   "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wowhaus.co.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T19:55:41Z",
-   "hot": 1.3,
-   "rank": 13,
-   "metrics": {
-    "points": 53,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50077709"
-   }
-  },
-  {
-   "rawId": "50070661",
-   "title": "It took me nine years to hack my Xbox 360",
-   "url": "https://kennedn.com/blog/posts/glitching/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "kennedn.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T12:33:18Z",
-   "hot": 2.0,
-   "rank": 14,
-   "metrics": {
-    "points": 95,
-    "comments": 30,
-    "discussion": "https://news.ycombinator.com/item?id=50070661"
-   }
-  },
-  {
-   "rawId": "50047576",
-   "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
-   "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ei3lh.eu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-11T20:36:56Z",
-   "hot": 0.5,
-   "rank": 15,
-   "metrics": {
-    "points": 45,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50047576"
-   }
-  },
-  {
-   "rawId": "50090369",
-   "title": "Better HTTP/1 connection reuse in Go 1.27",
-   "url": "https://go.dev/blog/http-connection-reuse",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "go.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T16:29:33Z",
-   "hot": 13.7,
-   "rank": 16,
-   "metrics": {
-    "points": 265,
-    "comments": 42,
-    "discussion": "https://news.ycombinator.com/item?id=50090369"
-   }
-  },
-  {
-   "rawId": "50098274",
-   "title": "The Double Headed Stack Allocator",
-   "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.demofox.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T02:06:36Z",
-   "hot": 7.4,
-   "rank": 17,
-   "metrics": {
-    "points": 72,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50098274"
-   }
-  },
-  {
-   "rawId": "50096300",
-   "title": "Show HN: Ito – Build Terminal UIs in Lua",
-   "url": "https://uji.sh/ito/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "uji.sh"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T22:23:53Z",
-   "hot": 2.4,
-   "rank": 18,
-   "metrics": {
-    "points": 32,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50096300"
-   }
-  },
-  {
-   "rawId": "50100387",
-   "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-   "url": "https://github.com/awslabs/aidlc-workflows",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T07:20:39Z",
-   "hot": 2.7,
-   "rank": 19,
-   "metrics": {
-    "points": 12,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50100387"
-   }
-  },
-  {
-   "rawId": "50071546",
-   "title": "Your C is not standard C",
-   "url": "https://sebsite.pw/w/20261012-notstdc.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sebsite.pw"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T13:36:21Z",
-   "hot": 2.1,
+   "hot": 39.3,
    "rank": 20,
    "metrics": {
-    "points": 97,
-    "comments": 64,
-    "discussion": "https://news.ycombinator.com/item?id=50071546"
+    "points": 801,
+    "comments": 343,
+    "discussion": "https://news.ycombinator.com/item?id=50094994"
    }
   }
  ]
