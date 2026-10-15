@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T21:49:49Z",
+ "updated": "2026-10-15T00:38:14Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,11 +15,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T19:26:30Z",
-   "hot": 175.0,
+   "hot": 132.4,
    "rank": 1,
    "metrics": {
-    "points": 418,
-    "comments": 100,
+    "points": 688,
+    "comments": 179,
     "discussion": "https://news.ycombinator.com/item?id=50093568"
    }
   },
@@ -36,11 +36,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T20:48:24Z",
-   "hot": 78.2,
+   "hot": 66.6,
    "rank": 2,
    "metrics": {
-    "points": 80,
-    "comments": 17,
+    "points": 255,
+    "comments": 96,
     "discussion": "https://news.ycombinator.com/item?id=50094994"
    }
   },
@@ -57,12 +57,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T21:11:03Z",
-   "hot": 41.0,
+   "hot": 44.9,
    "rank": 3,
    "metrics": {
-    "points": 41,
-    "comments": 17,
+    "points": 155,
+    "comments": 54,
     "discussion": "https://news.ycombinator.com/item?id=50095353"
+   }
+  },
+  {
+   "rawId": "50096142",
+   "title": "Tiny Little Office",
+   "url": "https://tinylittleoffice.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tinylittleoffice.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T22:10:08Z",
+   "hot": 40.5,
+   "rank": 4,
+   "metrics": {
+    "points": 100,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50096142"
+   }
+  },
+  {
+   "rawId": "50097369",
+   "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+   "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "liquid.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T23:59:37Z",
+   "hot": 26.0,
+   "rank": 5,
+   "metrics": {
+    "points": 26,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50097369"
    }
   },
   {
@@ -78,33 +120,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T15:15:45Z",
-   "hot": 50.2,
-   "rank": 4,
+   "hot": 48.1,
+   "rank": 6,
    "metrics": {
-    "points": 330,
-    "comments": 512,
+    "points": 451,
+    "comments": 624,
     "discussion": "https://news.ycombinator.com/item?id=50088935"
-   }
-  },
-  {
-   "rawId": "50091788",
-   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "csoonline.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T17:45:23Z",
-   "hot": 190.5,
-   "rank": 5,
-   "metrics": {
-    "points": 776,
-    "comments": 371,
-    "discussion": "https://news.ycombinator.com/item?id=50091788"
    }
   },
   {
@@ -120,264 +141,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-12T02:21:54Z",
-   "hot": 3.3,
-   "rank": 6,
-   "metrics": {
-    "points": 220,
-    "comments": 174,
-    "discussion": "https://news.ycombinator.com/item?id=50050553"
-   }
-  },
-  {
-   "rawId": "50090369",
-   "title": "Better HTTP/1 connection reuse in Go 1.27",
-   "url": "https://go.dev/blog/http-connection-reuse",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "go.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T16:29:33Z",
-   "hot": 31.7,
+   "hot": 5.3,
    "rank": 7,
    "metrics": {
-    "points": 169,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50090369"
-   }
-  },
-  {
-   "rawId": "50094694",
-   "title": "Anthropic's Scion is heavily inspired by Mononoke",
-   "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sunshowers.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T20:30:54Z",
-   "hot": 108.0,
-   "rank": 8,
-   "metrics": {
-    "points": 142,
-    "comments": 43,
-    "discussion": "https://news.ycombinator.com/item?id=50094694"
-   }
-  },
-  {
-   "rawId": "50093612",
-   "title": "Fancy Curl Sites",
-   "url": "https://nytpu.com/gemlog/2026-03-18",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nytpu.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T19:29:12Z",
-   "hot": 15.4,
-   "rank": 9,
-   "metrics": {
-    "points": 36,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50093612"
-   }
-  },
-  {
-   "rawId": "50092730",
-   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-   "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dpa-international.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T18:37:21Z",
-   "hot": 70.8,
-   "rank": 10,
-   "metrics": {
-    "points": 227,
-    "comments": 159,
-    "discussion": "https://news.ycombinator.com/item?id=50092730"
-   }
-  },
-  {
-   "rawId": "50092470",
-   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-   "url": "https://petal.live/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "petal.live"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T18:23:14Z",
-   "hot": 22.7,
-   "rank": 11,
-   "metrics": {
-    "points": 78,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50092470"
-   }
-  },
-  {
-   "rawId": "50094673",
-   "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
-   "url": "https://blog.cloudflare.com/yandex-outage/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.cloudflare.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T20:29:13Z",
-   "hot": 87.1,
-   "rank": 12,
-   "metrics": {
-    "points": 117,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50094673"
-   }
-  },
-  {
-   "rawId": "50084240",
-   "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-   "url": "https://typeof.net/Iosevka/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "typeof.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T08:27:59Z",
-   "hot": 50.2,
-   "rank": 13,
-   "metrics": {
-    "points": 671,
-    "comments": 278,
-    "discussion": "https://news.ycombinator.com/item?id=50084240"
-   }
-  },
-  {
-   "rawId": "50092664",
-   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "startupfortune.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T18:32:52Z",
-   "hot": 63.1,
-   "rank": 14,
-   "metrics": {
-    "points": 207,
-    "comments": 158,
-    "discussion": "https://news.ycombinator.com/item?id=50092664"
-   }
-  },
-  {
-   "rawId": "50054465",
-   "title": "Phloem: Git history grown like a slime mold",
-   "url": "https://phloem.stemdeck.app/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "phloem.stemdeck.app"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-12T10:52:25Z",
-   "hot": 1.0,
-   "rank": 15,
-   "metrics": {
-    "points": 61,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50054465"
-   }
-  },
-  {
-   "rawId": "50078757",
-   "title": "Marshall Islands Stick Chart",
-   "url": "https://en.wikipedia.org/wiki/Marshall_Islands_stick_chart",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "en.wikipedia.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T21:06:33Z",
-   "hot": 0.6,
-   "rank": 16,
-   "metrics": {
-    "points": 16,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50078757"
-   }
-  },
-  {
-   "rawId": "50089229",
-   "title": "Submarine cable resilience",
-   "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.apnic.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T15:31:15Z",
-   "hot": 18.4,
-   "rank": 17,
-   "metrics": {
-    "points": 116,
-    "comments": 36,
-    "discussion": "https://news.ycombinator.com/item?id=50089229"
-   }
-  },
-  {
-   "rawId": "50091794",
-   "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
-   "url": "https://github.com/bealesh/neckbeard",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T17:45:34Z",
-   "hot": 13.3,
-   "rank": 18,
-   "metrics": {
-    "points": 54,
-    "comments": 40,
-    "discussion": "https://news.ycombinator.com/item?id=50091794"
+    "points": 374,
+    "comments": 291,
+    "discussion": "https://news.ycombinator.com/item?id=50050553"
    }
   },
   {
@@ -393,33 +162,264 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T16:09:00Z",
-   "hot": 13.9,
-   "rank": 19,
+   "hot": 21.6,
+   "rank": 8,
    "metrics": {
-    "points": 79,
-    "comments": 165,
+    "points": 183,
+    "comments": 245,
     "discussion": "https://news.ycombinator.com/item?id=50089921"
    }
   },
   {
-   "rawId": "50093180",
-   "title": "Suicide rates highest ever among middle-aged men",
-   "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+   "rawId": "50090369",
+   "title": "Better HTTP/1 connection reuse in Go 1.27",
+   "url": "https://go.dev/blog/http-connection-reuse",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "telegraph.co.uk"
+    "go.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T19:03:58Z",
-   "hot": 51.7,
+   "publishedAt": "2026-10-14T16:29:33Z",
+   "hot": 23.5,
+   "rank": 9,
+   "metrics": {
+    "points": 191,
+    "comments": 30,
+    "discussion": "https://news.ycombinator.com/item?id=50090369"
+   }
+  },
+  {
+   "rawId": "50091788",
+   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "csoonline.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T17:45:23Z",
+   "hot": 119.3,
+   "rank": 10,
+   "metrics": {
+    "points": 821,
+    "comments": 442,
+    "discussion": "https://news.ycombinator.com/item?id=50091788"
+   }
+  },
+  {
+   "rawId": "50093612",
+   "title": "Fancy Curl Sites",
+   "url": "https://nytpu.com/gemlog/2026-03-18",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nytpu.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T19:29:12Z",
+   "hot": 14.2,
+   "rank": 11,
+   "metrics": {
+    "points": 73,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50093612"
+   }
+  },
+  {
+   "rawId": "50067325",
+   "title": "Ask HN: CAD for wood working with LLM support?",
+   "url": "https://news.ycombinator.com/item?id=50067325",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T05:54:01Z",
+   "hot": 0.3,
+   "rank": 12,
+   "metrics": {
+    "points": 11,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50067325"
+   }
+  },
+  {
+   "rawId": "50092470",
+   "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+   "url": "https://petal.live/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "petal.live"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T18:23:14Z",
+   "hot": 17.3,
+   "rank": 13,
+   "metrics": {
+    "points": 108,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50092470"
+   }
+  },
+  {
+   "rawId": "50094694",
+   "title": "Anthropic's Scion is heavily inspired by Mononoke",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sunshowers.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T20:30:54Z",
+   "hot": 55.6,
+   "rank": 14,
+   "metrics": {
+    "points": 229,
+    "comments": 103,
+    "discussion": "https://news.ycombinator.com/item?id=50094694"
+   }
+  },
+  {
+   "rawId": "50054465",
+   "title": "Phloem: Git history grown like a slime mold",
+   "url": "https://phloem.stemdeck.app/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "phloem.stemdeck.app"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-12T10:52:25Z",
+   "hot": 1.3,
+   "rank": 15,
+   "metrics": {
+    "points": 78,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50054465"
+   }
+  },
+  {
+   "rawId": "50092730",
+   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+   "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dpa-international.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T18:37:21Z",
+   "hot": 45.1,
+   "rank": 16,
+   "metrics": {
+    "points": 271,
+    "comments": 199,
+    "discussion": "https://news.ycombinator.com/item?id=50092730"
+   }
+  },
+  {
+   "rawId": "50092664",
+   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "startupfortune.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T18:32:52Z",
+   "hot": 43.2,
+   "rank": 17,
+   "metrics": {
+    "points": 263,
+    "comments": 207,
+    "discussion": "https://news.ycombinator.com/item?id=50092664"
+   }
+  },
+  {
+   "rawId": "50089229",
+   "title": "Submarine cable resilience",
+   "url": "https://blog.apnic.net/2026/10/14/submarine-cable-resilience/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.apnic.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T15:31:15Z",
+   "hot": 13.7,
+   "rank": 18,
+   "metrics": {
+    "points": 125,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50089229"
+   }
+  },
+  {
+   "rawId": "50094673",
+   "title": "Yandex outage: data shows that instead of going dark, malicious bots moved",
+   "url": "https://blog.cloudflare.com/yandex-outage/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.cloudflare.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T20:29:13Z",
+   "hot": 48.2,
+   "rank": 19,
+   "metrics": {
+    "points": 200,
+    "comments": 65,
+    "discussion": "https://news.ycombinator.com/item?id=50094673"
+   }
+  },
+  {
+   "rawId": "50092423",
+   "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+   "url": "https://oxide.computer/blog/voxel-labs",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "oxide.computer"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T18:21:14Z",
+   "hot": 9.4,
    "rank": 20,
    "metrics": {
-    "points": 143,
-    "comments": 161,
-    "discussion": "https://news.ycombinator.com/item?id=50093180"
+    "points": 59,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50092423"
    }
   }
  ]
