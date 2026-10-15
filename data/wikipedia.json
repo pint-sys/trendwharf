@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T05:59:51Z",
+ "updated": "2026-10-15T11:46:53Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -12,7 +12,7 @@
     "wikipedia"
    ],
    "summary": "American political spokesperson (born 1985). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg/330px-Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 906890,
    "rank": 1,
@@ -102,7 +102,7 @@
     "wikipedia"
    ],
    "summary": "Marvel Studios television miniseries. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/VisionQuest_logo.jpg/330px-VisionQuest_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 156179,
    "rank": 6,
@@ -156,7 +156,7 @@
     "wikipedia"
    ],
    "summary": "2026 miniseries by Mike Flanagan. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Carrie_%282026_TV_series_logo%29.png/330px-Carrie_%282026_TV_series_logo%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 120021,
    "rank": 9,
@@ -210,7 +210,7 @@
     "wikipedia"
    ],
    "summary": "2026 Canadian supernatural drama miniseries. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/73/Below_%282026%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 88608,
    "rank": 12,
@@ -282,7 +282,7 @@
     "wikipedia"
    ],
    "summary": "Former U.S. Army officer and mass murderer (born 1970). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nidal_Hasan%2C_2007.jpg/330px-Nidal_Hasan%2C_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 81605,
    "rank": 16,
@@ -300,7 +300,7 @@
     "wikipedia"
    ],
    "summary": "Upcoming film by Greta Gerwig. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/25/Narnia_The_Magician%27s_Nephew_film.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 78046,
    "rank": 17,
@@ -317,7 +317,7 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "Type of molecule. Among the most-read articles on Wikipedia yesterday.",
+   "summary": "Chemical compound. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Limonene.jpg/330px-Limonene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
    "hot": 77859,
