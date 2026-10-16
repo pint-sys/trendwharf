@@ -1,47 +1,152 @@
 {
- "updated": "2026-10-16T09:57:55Z",
+ "updated": "2026-10-16T14:56:36Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50111852",
-   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "rawId": "50118981",
+   "title": "Hello Toronto – Waymo Is En Route",
+   "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "niemanlab.org"
+    "waymo.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T23:37:42Z",
-   "hot": 28.9,
+   "publishedAt": "2026-10-16T14:44:17Z",
+   "hot": 14.0,
    "rank": 1,
    "metrics": {
-    "points": 299,
-    "comments": 112,
-    "discussion": "https://news.ycombinator.com/item?id=50111852"
+    "points": 14,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50118981"
    }
   },
   {
-   "rawId": "50107379",
-   "title": "Muse Spark Open",
-   "url": "https://research.meta.ai/blog/muse-spark-open",
+   "rawId": "50117746",
+   "title": "I Love Software Rendering",
+   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "research.meta.ai"
+    "jamesfmackenzie.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T17:47:39Z",
-   "hot": 50.5,
+   "publishedAt": "2026-10-16T12:52:08Z",
+   "hot": 59.3,
    "rank": 2,
    "metrics": {
-    "points": 816,
-    "comments": 404,
-    "discussion": "https://news.ycombinator.com/item?id=50107379"
+    "points": 123,
+    "comments": 86,
+    "discussion": "https://news.ycombinator.com/item?id=50117746"
+   }
+  },
+  {
+   "rawId": "50104965",
+   "title": "Gyroscopes Got So Small [video]",
+   "url": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+   "videoUrl": "https://www.youtube.com/watch?v=0Zc_6xB5W3Y",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T15:20:04Z",
+   "hot": 1.1,
+   "rank": 3,
+   "metrics": {
+    "points": 25,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50104965"
+   }
+  },
+  {
+   "rawId": "50118688",
+   "title": "Show HN: Gemini 4 Argon plays StarCraft",
+   "url": "https://starskirmish.com/bench/v0-2/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "starskirmish.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T14:18:44Z",
+   "hot": 7.0,
+   "rank": 4,
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50118688"
+   }
+  },
+  {
+   "rawId": "50111752",
+   "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
+   "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+   "videoUrl": "https://www.youtube.com/watch?v=eF6bMSjPepM",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T23:23:51Z",
+   "hot": 1.1,
+   "rank": 5,
+   "metrics": {
+    "points": 17,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50111752"
+   }
+  },
+  {
+   "rawId": "50077225",
+   "title": "Yet another way to invoke functions without parentheses",
+   "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.ikaes.de"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T19:25:18Z",
+   "hot": 2.7,
+   "rank": 6,
+   "metrics": {
+    "points": 181,
+    "comments": 70,
+    "discussion": "https://news.ycombinator.com/item?id=50077225"
+   }
+  },
+  {
+   "rawId": "50118863",
+   "title": "Redesigning Source Control at Anthropic",
+   "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "simonwillison.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T14:34:47Z",
+   "hot": 6.0,
+   "rank": 7,
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50118863"
    }
   },
   {
@@ -57,159 +162,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-13T02:32:53Z",
-   "hot": 3.8,
-   "rank": 3,
-   "metrics": {
-    "points": 302,
-    "comments": 98,
-    "discussion": "https://news.ycombinator.com/item?id=50065859"
-   }
-  },
-  {
-   "rawId": "50115144",
-   "title": "The insider trading you're allowed to do",
-   "url": "https://coached.com/essays/the-insider-trading-youre-allowed-to-do/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "coached.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T07:12:09Z",
-   "hot": 10.5,
-   "rank": 4,
-   "metrics": {
-    "points": 29,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50115144"
-   }
-  },
-  {
-   "rawId": "50112330",
-   "title": "RPKI now protects 70% of internet routes",
-   "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ipinfo.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T00:52:35Z",
-   "hot": 17.6,
-   "rank": 5,
-   "metrics": {
-    "points": 160,
-    "comments": 51,
-    "discussion": "https://news.ycombinator.com/item?id=50112330"
-   }
-  },
-  {
-   "rawId": "50114342",
-   "title": "The Folders Programming Language",
-   "url": "https://danieltemkin.com/esolangs/folders",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "danieltemkin.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T05:11:28Z",
-   "hot": 12.4,
-   "rank": 6,
-   "metrics": {
-    "points": 59,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50114342"
-   }
-  },
-  {
-   "rawId": "50072485",
-   "title": "Two-Stack Sliding-Window Aggregation",
-   "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "orlp.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T14:40:03Z",
-   "hot": 0.2,
-   "rank": 7,
-   "metrics": {
-    "points": 15,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50072485"
-   }
-  },
-  {
-   "rawId": "50082113",
-   "title": "New York City's iconic horse-drawn carriages expected to take their last trot",
-   "url": "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cnn.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T03:41:42Z",
-   "hot": 0.7,
+   "hot": 7.4,
    "rank": 8,
    "metrics": {
-    "points": 38,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50082113"
-   }
-  },
-  {
-   "rawId": "50105647",
-   "title": "Neural networks are clean",
-   "url": "https://already-clean.goodfire.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "already-clean.goodfire.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T16:04:01Z",
-   "hot": 38.7,
-   "rank": 9,
-   "metrics": {
-    "points": 692,
-    "comments": 258,
-    "discussion": "https://news.ycombinator.com/item?id=50105647"
-   }
-  },
-  {
-   "rawId": "50109715",
-   "title": "What I self-host",
-   "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "viceconsole.fyi"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T20:23:25Z",
-   "hot": 35.7,
-   "rank": 10,
-   "metrics": {
-    "points": 484,
-    "comments": 300,
-    "discussion": "https://news.ycombinator.com/item?id=50109715"
+    "points": 621,
+    "comments": 201,
+    "discussion": "https://news.ycombinator.com/item?id=50065859"
    }
   },
   {
@@ -225,18 +183,60 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-14T09:32:09Z",
-   "hot": 0.2,
-   "rank": 11,
+   "hot": 1.9,
+   "rank": 9,
    "metrics": {
-    "points": 10,
-    "comments": 1,
+    "points": 99,
+    "comments": 16,
     "discussion": "https://news.ycombinator.com/item?id=50084790"
    }
   },
   {
-   "rawId": "50103338",
-   "title": "Wayland desktop for Linux with skeuomorphic design",
-   "url": "https://github.com/fyzugx/DEsk",
+   "rawId": "50118977",
+   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+   "url": "https://calif.io/research/big-fish",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "calif.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T14:44:02Z",
+   "hot": 6.0,
+   "rank": 10,
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50118977"
+   }
+  },
+  {
+   "rawId": "50111852",
+   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "niemanlab.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T23:37:42Z",
+   "hot": 26.8,
+   "rank": 11,
+   "metrics": {
+    "points": 411,
+    "comments": 148,
+    "discussion": "https://news.ycombinator.com/item?id=50111852"
+   }
+  },
+  {
+   "rawId": "50085553",
+   "title": "AI-assisted PCB design for KiCad 10",
+   "url": "https://github.com/mixelpixx/Konnect",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -245,181 +245,181 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T13:23:44Z",
-   "hot": 29.8,
+   "publishedAt": "2026-10-14T10:51:37Z",
+   "hot": 1.2,
    "rank": 12,
    "metrics": {
-    "points": 612,
-    "comments": 238,
-    "discussion": "https://news.ycombinator.com/item?id=50103338"
+    "points": 64,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50085553"
    }
   },
   {
-   "rawId": "50068203",
-   "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-   "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+   "rawId": "50107379",
+   "title": "Muse Spark Open",
+   "url": "https://research.meta.ai/blog/muse-spark-open",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "pcmag.com"
+    "research.meta.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T07:52:54Z",
-   "hot": 1.8,
+   "publishedAt": "2026-10-15T17:47:39Z",
+   "hot": 41.6,
    "rank": 13,
    "metrics": {
-    "points": 137,
-    "comments": 99,
-    "discussion": "https://news.ycombinator.com/item?id=50068203"
+    "points": 880,
+    "comments": 441,
+    "discussion": "https://news.ycombinator.com/item?id=50107379"
    }
   },
   {
-   "rawId": "50106023",
-   "title": "Jev meets the Trolley Problem",
-   "url": "https://zachlandes.com/trolley-problem/",
+   "rawId": "50082554",
+   "title": "MS Paint Adds Freeform Rotation (2026)",
+   "url": "https://blogs.windows.com/windows-insider/2026/02/20/announcing-windows-11-insider-preview-build-28020-1619-canary-channel/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "zachlandes.com"
+    "blogs.windows.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T16:24:52Z",
-   "hot": 26.4,
+   "publishedAt": "2026-10-14T04:55:40Z",
+   "hot": 0.3,
    "rank": 14,
    "metrics": {
-    "points": 464,
-    "comments": 201,
-    "discussion": "https://news.ycombinator.com/item?id=50106023"
+    "points": 20,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50082554"
    }
   },
   {
-   "rawId": "50109375",
-   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+   "rawId": "50117504",
+   "title": "Bark: The Toll-Free BBS for 90s Teens",
+   "url": "https://blog.bityard.net/articles/2026/October/bark-the-toll-free-bbs-for-90s-teens",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "support.withings.com"
+    "blog.bityard.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T19:55:49Z",
-   "hot": 20.6,
+   "publishedAt": "2026-10-16T12:22:13Z",
+   "hot": 5.1,
    "rank": 15,
    "metrics": {
-    "points": 289,
-    "comments": 190,
-    "discussion": "https://news.ycombinator.com/item?id=50109375"
+    "points": 13,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50117504"
    }
   },
   {
-   "rawId": "50105777",
-   "title": "BIPM decides to stop adding leap seconds to UTC",
-   "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+   "rawId": "50118662",
+   "title": "How to make System 1 LLMs show System 2 competencies?",
+   "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bipm.org"
+    "onlinelibrary.wiley.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T16:11:36Z",
-   "hot": 10.0,
+   "publishedAt": "2026-10-16T14:16:34Z",
+   "hot": 3.0,
    "rank": 16,
    "metrics": {
-    "points": 178,
-    "comments": 86,
-    "discussion": "https://news.ycombinator.com/item?id=50105777"
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50118662"
    }
   },
   {
-   "rawId": "50112739",
-   "title": "Any window from your Mac, on your iPhone and iPad",
-   "url": "https://github.com/Saffsanity/sill",
+   "rawId": "50118320",
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "machinelearning.apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T01:43:17Z",
-   "hot": 17.8,
+   "publishedAt": "2026-10-16T13:43:48Z",
+   "hot": 4.9,
    "rank": 17,
    "metrics": {
-    "points": 147,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50112739"
+    "points": 6,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50118320"
    }
   },
   {
-   "rawId": "50072119",
-   "title": "'500-hour' Order of the Sinking Star is as complex and exhausting as it sounds",
-   "url": "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+   "rawId": "50118512",
+   "title": "How to Formalize All of Mathematics",
+   "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "polygon.com"
+    "xenaproject.wordpress.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T14:14:20Z",
-   "hot": 2.1,
+   "publishedAt": "2026-10-16T14:01:53Z",
+   "hot": 3.0,
    "rank": 18,
    "metrics": {
-    "points": 142,
-    "comments": 94,
-    "discussion": "https://news.ycombinator.com/item?id=50072119"
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50118512"
    }
   },
   {
-   "rawId": "50108872",
-   "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-   "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+   "rawId": "50072485",
+   "title": "Two-Stack Sliding-Window Aggregation",
+   "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "thereallo.dev"
+    "orlp.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T19:21:38Z",
-   "hot": 23.8,
+   "publishedAt": "2026-10-13T14:40:03Z",
+   "hot": 1.3,
    "rank": 19,
    "metrics": {
-    "points": 347,
-    "comments": 155,
-    "discussion": "https://news.ycombinator.com/item?id=50108872"
+    "points": 92,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50072485"
    }
   },
   {
-   "rawId": "50104726",
-   "title": "Celebrating 70 Years of Fortran",
-   "url": "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+   "rawId": "50079280",
+   "title": "New 'Super Ice' 10 Times Stronger, Bringing It Close to the Strength of Concrete",
+   "url": "https://www.sciencealert.com/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "fortran-lang.org"
+    "sciencealert.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T15:03:17Z",
-   "hot": 14.5,
+   "publishedAt": "2026-10-13T21:42:38Z",
+   "hot": 1.0,
    "rank": 20,
    "metrics": {
-    "points": 274,
-    "comments": 114,
-    "discussion": "https://news.ycombinator.com/item?id=50104726"
+    "points": 63,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50079280"
    }
   }
  ]
