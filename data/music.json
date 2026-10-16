@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T23:43:22Z",
+ "updated": "2026-10-16T04:45:25Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -111,7 +111,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 5,
-    "change": 3
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -134,7 +134,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 6,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -157,7 +157,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 7,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -180,7 +180,7 @@
    "metrics": {
     "artist": "ADÉLA",
     "rank": 8,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -272,7 +272,7 @@
    "metrics": {
     "artist": "Ella Langley & Morgan Wallen",
     "rank": 12,
-    "change": 4
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -318,7 +318,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 14,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -341,7 +341,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 15,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -364,7 +364,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 16,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -433,7 +433,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 19,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -456,7 +456,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 20,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -502,7 +502,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 22,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -525,7 +525,7 @@
    "metrics": {
     "artist": "Whiskey Myers",
     "rank": 23,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
