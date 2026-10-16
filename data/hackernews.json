@@ -1,131 +1,47 @@
 {
- "updated": "2026-10-16T18:52:02Z",
+ "updated": "2026-10-16T22:08:54Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50121179",
-   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "rawId": "50112657",
+   "title": "Tesla Roadster",
+   "url": "https://www.tesla.com/roadster",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mercor.com"
+    "tesla.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T17:08:38Z",
-   "hot": 98.1,
+   "publishedAt": "2026-10-16T01:32:45Z",
+   "hot": 47.2,
    "rank": 1,
    "metrics": {
-    "points": 169,
-    "comments": 139,
-    "discussion": "https://news.ycombinator.com/item?id=50121179"
+    "points": 973,
+    "comments": 1758,
+    "discussion": "https://news.ycombinator.com/item?id=50112657"
    }
   },
   {
-   "rawId": "50122034",
-   "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-   "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+   "rawId": "50122800",
+   "title": "Claude reveals ECDSA curve origins",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arrl.org"
+    "anthropic.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T18:06:17Z",
-   "hot": 39.0,
+   "publishedAt": "2026-10-16T18:55:59Z",
+   "hot": 150.2,
    "rank": 2,
    "metrics": {
-    "points": 39,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50122034"
-   }
-  },
-  {
-   "rawId": "50118320",
-   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "machinelearning.apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T13:43:48Z",
-   "hot": 36.6,
-   "rank": 3,
-   "metrics": {
-    "points": 188,
-    "comments": 91,
-    "discussion": "https://news.ycombinator.com/item?id=50118320"
-   }
-  },
-  {
-   "rawId": "50118828",
-   "title": "What on Earth Is Dekton?",
-   "url": "https://www.worksinprogress.news/p/porcelain",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "worksinprogress.news"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T14:31:43Z",
-   "hot": 21.0,
-   "rank": 4,
-   "metrics": {
-    "points": 91,
-    "comments": 30,
-    "discussion": "https://news.ycombinator.com/item?id=50118828"
-   }
-  },
-  {
-   "rawId": "50118977",
-   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-   "url": "https://calif.io/research/big-fish",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "calif.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T14:44:02Z",
-   "hot": 29.8,
-   "rank": 5,
-   "metrics": {
-    "points": 123,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50118977"
-   }
-  },
-  {
-   "rawId": "50118688",
-   "title": "Show HN: Gemini 4 Argon plays StarCraft",
-   "url": "https://starskirmish.com/bench/v0-2/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "starskirmish.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T14:18:44Z",
-   "hot": 27.4,
-   "rank": 6,
-   "metrics": {
-    "points": 125,
-    "comments": 65,
-    "discussion": "https://news.ycombinator.com/item?id=50118688"
+    "points": 483,
+    "comments": 200,
+    "discussion": "https://news.ycombinator.com/item?id=50122800"
    }
   },
   {
@@ -141,54 +57,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T18:32:35Z",
-   "hot": 5.0,
-   "rank": 7,
+   "hot": 35.2,
+   "rank": 3,
    "metrics": {
-    "points": 5,
-    "comments": 0,
+    "points": 127,
+    "comments": 36,
     "discussion": "https://news.ycombinator.com/item?id=50122431"
    }
   },
   {
-   "rawId": "50117746",
-   "title": "I Love Software Rendering",
-   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
+   "rawId": "50123580",
+   "title": "FLUX 3 Image Klein",
+   "url": "https://bfl.ai/blog/flux-3-image-klein",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "jamesfmackenzie.com"
+    "bfl.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T12:52:08Z",
-   "hot": 39.3,
-   "rank": 8,
+   "publishedAt": "2026-10-16T19:47:13Z",
+   "hot": 25.0,
+   "rank": 4,
    "metrics": {
-    "points": 236,
-    "comments": 162,
-    "discussion": "https://news.ycombinator.com/item?id=50117746"
+    "points": 59,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50123580"
    }
   },
   {
-   "rawId": "50074322",
-   "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-   "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+   "rawId": "50122034",
+   "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+   "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cbsnews.com"
+    "arrl.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T16:26:03Z",
-   "hot": 0.9,
-   "rank": 9,
+   "publishedAt": "2026-10-16T18:06:17Z",
+   "hot": 29.9,
+   "rank": 5,
    "metrics": {
-    "points": 69,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50074322"
+    "points": 121,
+    "comments": 96,
+    "discussion": "https://news.ycombinator.com/item?id=50122034"
+   }
+  },
+  {
+   "rawId": "50118981",
+   "title": "Waymo in Toronto",
+   "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "waymo.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T14:44:17Z",
+   "hot": 28.7,
+   "rank": 6,
+   "metrics": {
+    "points": 213,
+    "comments": 319,
+    "discussion": "https://news.ycombinator.com/item?id=50118981"
    }
   },
   {
@@ -204,117 +141,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T18:00:18Z",
-   "hot": 17.0,
-   "rank": 10,
+   "hot": 17.1,
+   "rank": 7,
    "metrics": {
-    "points": 17,
-    "comments": 3,
+    "points": 71,
+    "comments": 12,
     "discussion": "https://news.ycombinator.com/item?id=50121939"
    }
   },
   {
-   "rawId": "50112657",
-   "title": "Tesla Roadster",
-   "url": "https://www.tesla.com/roadster",
+   "rawId": "50122736",
+   "title": "C++26: The New Debugging Header",
+   "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "tesla.com"
+    "sandordargo.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T01:32:45Z",
-   "hot": 34.8,
-   "rank": 11,
+   "publishedAt": "2026-10-16T18:52:39Z",
+   "hot": 11.9,
+   "rank": 8,
    "metrics": {
-    "points": 603,
-    "comments": 960,
-    "discussion": "https://news.ycombinator.com/item?id=50112657"
+    "points": 39,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50122736"
    }
   },
   {
-   "rawId": "50118267",
-   "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-   "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
+   "rawId": "50083673",
+   "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+   "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "anuragbhatia.com"
+    "hub.jhu.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T13:38:25Z",
-   "hot": 12.8,
-   "rank": 12,
+   "publishedAt": "2026-10-14T07:21:12Z",
+   "hot": 0.4,
+   "rank": 9,
    "metrics": {
-    "points": 67,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50118267"
+    "points": 28,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50083673"
    }
   },
   {
-   "rawId": "50065859",
-   "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-   "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-   "videoUrl": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T02:32:53Z",
-   "hot": 8.6,
-   "rank": 13,
-   "metrics": {
-    "points": 758,
-    "comments": 232,
-    "discussion": "https://news.ycombinator.com/item?id=50065859"
-   }
-  },
-  {
-   "rawId": "50111752",
-   "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-   "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-   "videoUrl": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T23:23:51Z",
-   "hot": 3.0,
-   "rank": 14,
-   "metrics": {
-    "points": 58,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50111752"
-   }
-  },
-  {
-   "rawId": "50077225",
-   "title": "Yet another way to invoke functions without parentheses",
-   "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
+   "rawId": "50122951",
+   "title": "How the Claude Code team does code review",
+   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.ikaes.de"
+    "claude.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-13T19:25:18Z",
-   "hot": 3.1,
-   "rank": 15,
+   "publishedAt": "2026-10-16T19:04:47Z",
+   "hot": 46.3,
+   "rank": 10,
    "metrics": {
-    "points": 224,
-    "comments": 100,
-    "discussion": "https://news.ycombinator.com/item?id=50077225"
+    "points": 142,
+    "comments": 138,
+    "discussion": "https://news.ycombinator.com/item?id=50122951"
    }
   },
   {
@@ -330,75 +225,180 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T16:12:02Z",
-   "hot": 36.4,
-   "rank": 16,
+   "hot": 27.9,
+   "rank": 11,
    "metrics": {
-    "points": 97,
-    "comments": 73,
+    "points": 166,
+    "comments": 131,
     "discussion": "https://news.ycombinator.com/item?id=50120224"
    }
   },
   {
-   "rawId": "50086838",
-   "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
-   "url": "https://va3ndf.com/blog/hacker-badges/",
+   "rawId": "50118320",
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "va3ndf.com"
+    "machinelearning.apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T12:44:07Z",
-   "hot": 0.4,
+   "publishedAt": "2026-10-16T13:43:48Z",
+   "hot": 28.3,
+   "rank": 12,
+   "metrics": {
+    "points": 238,
+    "comments": 107,
+    "discussion": "https://news.ycombinator.com/item?id=50118320"
+   }
+  },
+  {
+   "rawId": "50122878",
+   "title": "You could have invented transformers from memory",
+   "url": "https://alexwang.ai/posts/associative-memory/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "alexwang.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T19:01:17Z",
+   "hot": 16.9,
+   "rank": 13,
+   "metrics": {
+    "points": 53,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50122878"
+   }
+  },
+  {
+   "rawId": "50124251",
+   "title": "I never authorized an integration that scans my secrets",
+   "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T20:33:41Z",
+   "hot": 66.8,
+   "rank": 14,
+   "metrics": {
+    "points": 106,
+    "comments": 56,
+    "discussion": "https://news.ycombinator.com/item?id=50124251"
+   }
+  },
+  {
+   "rawId": "50121179",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mercor.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T17:08:38Z",
+   "hot": 65.9,
+   "rank": 15,
+   "metrics": {
+    "points": 330,
+    "comments": 293,
+    "discussion": "https://news.ycombinator.com/item?id=50121179"
+   }
+  },
+  {
+   "rawId": "50076089",
+   "title": "Monte-Carlo Simulations",
+   "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "eli.thegreenplace.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-13T18:11:46Z",
+   "hot": 0.5,
+   "rank": 16,
+   "metrics": {
+    "points": 35,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50076089"
+   }
+  },
+  {
+   "rawId": "50118688",
+   "title": "Show HN: Gemini 4 Argon plays StarCraft",
+   "url": "https://starskirmish.com/bench/v0-2/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "starskirmish.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T14:18:44Z",
+   "hot": 21.8,
    "rank": 17,
    "metrics": {
-    "points": 24,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50086838"
+    "points": 171,
+    "comments": 76,
+    "discussion": "https://news.ycombinator.com/item?id=50118688"
    }
   },
   {
-   "rawId": "50118662",
-   "title": "How to make System 1 LLMs show System 2 competencies?",
-   "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
+   "rawId": "50118977",
+   "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+   "url": "https://calif.io/research/big-fish",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "onlinelibrary.wiley.com"
+    "calif.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T14:16:34Z",
-   "hot": 7.4,
+   "publishedAt": "2026-10-16T14:44:02Z",
+   "hot": 20.2,
    "rank": 18,
    "metrics": {
-    "points": 34,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50118662"
+    "points": 150,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50118977"
    }
   },
   {
-   "rawId": "50120101",
-   "title": "US Rep Announces Congressional Legislation to Protect Video Game Ownership",
-   "url": "https://ritchietorres.house.gov/posts/rep-torres-announces-power-to-the-players-act-legislation-to-ensure-gamers-own-their-games",
+   "rawId": "50124642",
+   "title": "Why harnesses matter for energy (and token) efficiency",
+   "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ritchietorres.house.gov"
+    "neuralwatt.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T16:03:02Z",
-   "hot": 45.4,
+   "publishedAt": "2026-10-16T21:01:23Z",
+   "hot": 9.8,
    "rank": 19,
    "metrics": {
-    "points": 128,
-    "comments": 74,
-    "discussion": "https://news.ycombinator.com/item?id=50120101"
+    "points": 11,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50124642"
    }
   }
  ]
