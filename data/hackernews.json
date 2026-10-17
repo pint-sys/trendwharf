@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-17T05:44:28Z",
+ "updated": "2026-10-17T11:00:14Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50129121",
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "openrouter.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T08:37:46Z",
+   "hot": 67.8,
+   "rank": 1,
+   "metrics": {
+    "points": 161,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50129121"
+   }
+  },
   {
    "rawId": "50106747",
    "title": "Ultramarine 1 Flash",
@@ -15,11 +36,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-15T17:06:01Z",
-   "hot": 3.2,
-   "rank": 1,
+   "hot": 6.1,
+   "rank": 2,
    "metrics": {
-    "points": 119,
-    "comments": 36,
+    "points": 256,
+    "comments": 78,
     "discussion": "https://news.ycombinator.com/item?id=50106747"
    }
   },
@@ -36,12 +57,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T01:32:45Z",
-   "hot": 46.7,
-   "rank": 2,
+   "hot": 43.3,
+   "rank": 3,
    "metrics": {
-    "points": 1316,
-    "comments": 2352,
+    "points": 1449,
+    "comments": 2544,
     "discussion": "https://news.ycombinator.com/item?id=50112657"
+   }
+  },
+  {
+   "rawId": "50127979",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "url": "https://llmspeed.dev/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "llmspeed.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T04:36:53Z",
+   "hot": 13.8,
+   "rank": 4,
+   "metrics": {
+    "points": 88,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50127979"
+   }
+  },
+  {
+   "rawId": "50129045",
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "huggingface.co"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T08:21:25Z",
+   "hot": 66.9,
+   "rank": 5,
+   "metrics": {
+    "points": 177,
+    "comments": 76,
+    "discussion": "https://news.ycombinator.com/item?id=50129045"
+   }
+  },
+  {
+   "rawId": "50103255",
+   "title": "Intuitive concurrent programming in any language",
+   "url": "https://www.lf-lang.org/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lf-lang.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T13:18:44Z",
+   "hot": 1.2,
+   "rank": 6,
+   "metrics": {
+    "points": 53,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50103255"
+   }
+  },
+  {
+   "rawId": "50089577",
+   "title": "Tell HN: Remember to migrate away from .name domain",
+   "url": "https://news.ycombinator.com/item?id=50089577",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T15:49:31Z",
+   "hot": 0.7,
+   "rank": 7,
+   "metrics": {
+    "points": 50,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50089577"
    }
   },
   {
@@ -57,33 +162,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T18:32:35Z",
-   "hot": 21.8,
-   "rank": 3,
+   "hot": 17.9,
+   "rank": 8,
    "metrics": {
-    "points": 244,
-    "comments": 63,
+    "points": 295,
+    "comments": 74,
     "discussion": "https://news.ycombinator.com/item?id=50122431"
-   }
-  },
-  {
-   "rawId": "50122800",
-   "title": "Claude reveals ECDSA curve origins",
-   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "anthropic.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T18:55:59Z",
-   "hot": 73.1,
-   "rank": 4,
-   "metrics": {
-    "points": 790,
-    "comments": 298,
-    "discussion": "https://news.ycombinator.com/item?id=50122800"
    }
   },
   {
@@ -99,12 +183,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T19:01:17Z",
-   "hot": 19.9,
-   "rank": 5,
+   "hot": 19.6,
+   "rank": 9,
    "metrics": {
-    "points": 213,
-    "comments": 60,
+    "points": 314,
+    "comments": 74,
     "discussion": "https://news.ycombinator.com/item?id=50122878"
+   }
+  },
+  {
+   "rawId": "50122800",
+   "title": "Claude reveals ECDSA curve origins",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T18:55:59Z",
+   "hot": 54.9,
+   "rank": 10,
+   "metrics": {
+    "points": 883,
+    "comments": 328,
+    "discussion": "https://news.ycombinator.com/item?id=50122800"
+   }
+  },
+  {
+   "rawId": "50129235",
+   "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+   "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "contextetech.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T09:01:30Z",
+   "hot": 7.6,
+   "rank": 11,
+   "metrics": {
+    "points": 15,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50129235"
+   }
+  },
+  {
+   "rawId": "50104783",
+   "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+   "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "docs.openrewrite.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T15:06:52Z",
+   "hot": 0.2,
+   "rank": 12,
+   "metrics": {
+    "points": 10,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50104783"
    }
   },
   {
@@ -120,75 +267,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T19:47:13Z",
-   "hot": 14.4,
-   "rank": 6,
+   "hot": 11.1,
+   "rank": 13,
    "metrics": {
-    "points": 143,
-    "comments": 40,
+    "points": 169,
+    "comments": 48,
     "discussion": "https://news.ycombinator.com/item?id=50123580"
-   }
-  },
-  {
-   "rawId": "50088937",
-   "title": "California is building a $400M shield for Yosemite's most dangerous highway",
-   "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sfchronicle.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T15:15:58Z",
-   "hot": 0.4,
-   "rank": 7,
-   "metrics": {
-    "points": 24,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50088937"
-   }
-  },
-  {
-   "rawId": "50127274",
-   "title": "Butlerian Jihad",
-   "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dune.fandom.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T02:21:08Z",
-   "hot": 43.1,
-   "rank": 8,
-   "metrics": {
-    "points": 146,
-    "comments": 77,
-    "discussion": "https://news.ycombinator.com/item?id=50127274"
-   }
-  },
-  {
-   "rawId": "50122034",
-   "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-   "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arrl.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T18:06:17Z",
-   "hot": 17.4,
-   "rank": 9,
-   "metrics": {
-    "points": 202,
-    "comments": 160,
-    "discussion": "https://news.ycombinator.com/item?id=50122034"
    }
   },
   {
@@ -204,33 +288,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T13:43:48Z",
-   "hot": 18.4,
-   "rank": 10,
+   "hot": 15.2,
+   "rank": 14,
    "metrics": {
-    "points": 295,
-    "comments": 144,
+    "points": 323,
+    "comments": 161,
     "discussion": "https://news.ycombinator.com/item?id=50118320"
    }
   },
   {
-   "rawId": "50119751",
-   "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-   "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+   "rawId": "50088767",
+   "title": "0/1 Knapsack Problem in PyTorch",
+   "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "adepts.of0x.cc"
+    "jedrzej.maczan.pl"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T15:38:28Z",
-   "hot": 2.1,
-   "rank": 11,
+   "publishedAt": "2026-10-14T15:04:33Z",
+   "hot": 0.4,
+   "rank": 15,
    "metrics": {
-    "points": 29,
+    "points": 26,
     "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50119751"
+    "discussion": "https://news.ycombinator.com/item?id=50088767"
+   }
+  },
+  {
+   "rawId": "50122034",
+   "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+   "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arrl.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T18:06:17Z",
+   "hot": 13.4,
+   "rank": 16,
+   "metrics": {
+    "points": 227,
+    "comments": 199,
+    "discussion": "https://news.ycombinator.com/item?id=50122034"
    }
   },
   {
@@ -246,11 +351,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T18:00:18Z",
-   "hot": 10.2,
-   "rank": 12,
+   "hot": 8.5,
+   "rank": 17,
    "metrics": {
-    "points": 120,
-    "comments": 25,
+    "points": 145,
+    "comments": 32,
     "discussion": "https://news.ycombinator.com/item?id=50121939"
    }
   },
@@ -267,138 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T16:12:02Z",
-   "hot": 16.8,
-   "rank": 13,
+   "hot": 14.3,
+   "rank": 18,
    "metrics": {
-    "points": 227,
-    "comments": 158,
+    "points": 268,
+    "comments": 184,
     "discussion": "https://news.ycombinator.com/item?id=50120224"
    }
   },
   {
-   "rawId": "50083673",
-   "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-   "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+   "rawId": "50127274",
+   "title": "Butlerian Jihad",
+   "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hub.jhu.edu"
+    "dune.fandom.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-14T07:21:12Z",
-   "hot": 1.2,
-   "rank": 14,
-   "metrics": {
-    "points": 84,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50083673"
-   }
-  },
-  {
-   "rawId": "50121179",
-   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-   "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "mercor.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T17:08:38Z",
-   "hot": 36.2,
-   "rank": 15,
-   "metrics": {
-    "points": 456,
-    "comments": 393,
-    "discussion": "https://news.ycombinator.com/item?id=50121179"
-   }
-  },
-  {
-   "rawId": "50122736",
-   "title": "C++26: The New Debugging Header",
-   "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sandordargo.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T18:52:39Z",
-   "hot": 7.8,
-   "rank": 16,
-   "metrics": {
-    "points": 85,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50122736"
-   }
-  },
-  {
-   "rawId": "50076089",
-   "title": "Monte-Carlo Simulations",
-   "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "eli.thegreenplace.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-13T18:11:46Z",
-   "hot": 1.1,
-   "rank": 17,
-   "metrics": {
-    "points": 88,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50076089"
-   }
-  },
-  {
-   "rawId": "50122951",
-   "title": "How the Claude Code team does code review",
-   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "claude.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T19:04:47Z",
-   "hot": 27.5,
-   "rank": 18,
-   "metrics": {
-    "points": 293,
-    "comments": 273,
-    "discussion": "https://news.ycombinator.com/item?id=50122951"
-   }
-  },
-  {
-   "rawId": "50127839",
-   "title": "\"In every study that considered the question\"",
-   "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "unsung.aresluna.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T04:08:27Z",
-   "hot": 8.7,
+   "publishedAt": "2026-10-17T02:21:08Z",
+   "hot": 27.7,
    "rank": 19,
    "metrics": {
-    "points": 14,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50127839"
+    "points": 240,
+    "comments": 132,
+    "discussion": "https://news.ycombinator.com/item?id=50127274"
+   }
+  },
+  {
+   "rawId": "50100440",
+   "title": "We Still Use Paper",
+   "url": "https://humanpro.co/articles/we-still-use-paper/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "humanpro.co"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T07:27:55Z",
+   "hot": 0.1,
+   "rank": 20,
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50100440"
    }
   }
  ]
