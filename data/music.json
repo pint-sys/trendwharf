@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:17:59Z",
+ "updated": "2026-10-17T19:37:14Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -42,7 +42,7 @@
    "metrics": {
     "artist": "Drake & Don Toliver",
     "rank": 2,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -65,7 +65,7 @@
    "metrics": {
     "artist": "Tate McRae",
     "rank": 3,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -88,7 +88,7 @@
    "metrics": {
     "artist": "KAROL G, Judeline & rusowsky",
     "rank": 4,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -111,7 +111,7 @@
    "metrics": {
     "artist": "Ella Langley",
     "rank": 5,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -180,7 +180,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 8,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -203,34 +203,11 @@
    "metrics": {
     "artist": "ADÉLA",
     "rank": 9,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825"
-   }
-  },
-  {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
-   "hot": 16,
-   "rank": 10,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 10,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -241,19 +218,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#11 on Apple Music's most-played songs (US).",
+   "summary": "#10 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 15,
-   "rank": 11,
+   "hot": 16,
+   "rank": 10,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 11,
-    "change": 0
+    "rank": 10,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293"
+   }
+  },
+  {
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#11 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
+   "hot": 15,
+   "rank": 11,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 11,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -272,7 +272,7 @@
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
     "rank": 12,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -295,7 +295,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 13,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -318,7 +318,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo & Chappell Roan",
     "rank": 14,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -341,7 +341,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 15,
-    "change": 7
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -364,7 +364,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 16,
-    "change": 7
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -387,7 +387,7 @@
    "metrics": {
     "artist": "Zach Bryan",
     "rank": 17,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -410,34 +410,11 @@
    "metrics": {
     "artist": "Zach Bryan & Turnpike Troubadours",
     "rank": 18,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
-   }
-  },
-  {
-   "rawId": "1621119447",
-   "title": "WAIT FOR U (feat. Drake & Tems)",
-   "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 7,
-   "rank": 19,
-   "metrics": {
-    "artist": "Future",
-    "rank": 19,
-    "change": 5
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
    }
   },
   {
@@ -448,15 +425,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
+   "summary": "#19 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
+   "hot": 7,
+   "rank": 19,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 20,
-    "change": -2
+    "rank": 19,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -471,19 +448,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 6,
+   "rank": 20,
+   "metrics": {
+    "artist": "Zach Bryan",
+    "rank": 20,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/youll-get-by/6822944288?i=6822944428"
+   }
+  },
+  {
+   "rawId": "1621119447",
+   "title": "WAIT FOR U (feat. Drake & Tems)",
+   "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
    "hot": 5,
    "rank": 21,
    "metrics": {
-    "artist": "Zach Bryan",
+    "artist": "Future",
     "rank": 21,
     "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/youll-get-by/6822944288?i=6822944428"
+    "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
    }
   },
   {
@@ -502,7 +502,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 22,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -525,7 +525,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 23,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -548,7 +548,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 24,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",

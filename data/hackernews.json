@@ -1,31 +1,136 @@
 {
- "updated": "2026-10-17T17:22:05Z",
+ "updated": "2026-10-17T19:37:14Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50132328",
-   "title": "GLP-1 may slow biological aging",
-   "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+   "rawId": "50126253",
+   "title": "Bleached corals thrive within days when touching healthy neighbour",
+   "url": "https://www.nature.com/articles/d41586-026-03266-x",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "universityofcalifornia.edu"
+    "nature.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-17T16:10:21Z",
-   "hot": 61.9,
+   "publishedAt": "2026-10-16T23:38:27Z",
+   "hot": 3.5,
    "rank": 1,
    "metrics": {
-    "points": 74,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50132328"
+    "points": 70,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50126253"
+   }
+  },
+  {
+   "rawId": "50132950",
+   "title": "Development statistics for the 7.2 kernel",
+   "url": "https://lwn.net/Articles/1088776/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lwn.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T17:14:12Z",
+   "hot": 39.4,
+   "rank": 2,
+   "metrics": {
+    "points": 94,
+    "comments": 56,
+    "discussion": "https://news.ycombinator.com/item?id=50132950"
+   }
+  },
+  {
+   "rawId": "50132870",
+   "title": "Gold is now the top U.S. export",
+   "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "numismaticnews.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T17:06:07Z",
+   "hot": 21.4,
+   "rank": 3,
+   "metrics": {
+    "points": 54,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50132870"
+   }
+  },
+  {
+   "rawId": "50100366",
+   "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+   "url": "https://github.com/antirez/c64-hw-simulator",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T07:18:14Z",
+   "hot": 1.0,
+   "rank": 4,
+   "metrics": {
+    "points": 58,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50100366"
+   }
+  },
+  {
+   "rawId": "50127586",
+   "title": "Source code of the Estonian online voting system",
+   "url": "https://github.com/valimised/ivxv",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T03:18:39Z",
+   "hot": 2.7,
+   "rank": 5,
+   "metrics": {
+    "points": 44,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50127586"
+   }
+  },
+  {
+   "rawId": "50100994",
+   "title": "Furifont, a Japanese font that shows furigana",
+   "url": "https://furifont.antfu.me/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "furifont.antfu.me"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T08:48:30Z",
+   "hot": 2.1,
+   "rank": 6,
+   "metrics": {
+    "points": 123,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50100994"
    }
   },
   {
    "rawId": "50131213",
-   "title": "Making Chicken Transparent Using Dorito Dust",
+   "title": "Making chicken transparent using Dorito dust",
    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
    "videoUrl": null,
    "category": "news",
@@ -36,11 +141,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T13:55:28Z",
-   "hot": 34.8,
-   "rank": 2,
+   "hot": 33.0,
+   "rank": 7,
    "metrics": {
-    "points": 120,
-    "comments": 42,
+    "points": 188,
+    "comments": 54,
     "discussion": "https://news.ycombinator.com/item?id=50131213"
    }
   },
@@ -57,12 +162,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T08:21:25Z",
-   "hot": 45.8,
-   "rank": 3,
+   "hot": 47.1,
+   "rank": 8,
    "metrics": {
-    "points": 413,
-    "comments": 423,
+    "points": 530,
+    "comments": 489,
     "discussion": "https://news.ycombinator.com/item?id=50129045"
+   }
+  },
+  {
+   "rawId": "50126312",
+   "title": "Dam removals are bringing fish back across the northeastern United States",
+   "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "smithsonianmag.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T23:47:31Z",
+   "hot": 1.6,
+   "rank": 9,
+   "metrics": {
+    "points": 31,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50126312"
+   }
+  },
+  {
+   "rawId": "50132193",
+   "title": "Pele – Mermaid diagrams as themeable SVG",
+   "url": "https://pele.run/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pele.run"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T15:55:09Z",
+   "hot": 14.3,
+   "rank": 10,
+   "metrics": {
+    "points": 53,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50132193"
+   }
+  },
+  {
+   "rawId": "50132911",
+   "title": "tsc-ts: TypeScript written in TypeScript",
+   "url": "https://github.com/vercel-labs/tsc-ts",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T17:10:27Z",
+   "hot": 11.9,
+   "rank": 11,
+   "metrics": {
+    "points": 29,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50132911"
    }
   },
   {
@@ -78,12 +246,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T14:01:01Z",
-   "hot": 68.9,
-   "rank": 4,
+   "hot": 64.2,
+   "rank": 12,
    "metrics": {
-    "points": 231,
-    "comments": 137,
+    "points": 360,
+    "comments": 202,
     "discussion": "https://news.ycombinator.com/item?id=50131256"
+   }
+  },
+  {
+   "rawId": "50133401",
+   "title": "OpenCode Hacked: User credentials leaked",
+   "url": "https://twitter.com/opencode/status/2111516673953935833",
+   "videoUrl": "https://twitter.com/opencode/status/2111516673953935833",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T18:01:41Z",
+   "hot": 127.5,
+   "rank": 13,
+   "metrics": {
+    "points": 203,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50133401"
+   }
+  },
+  {
+   "rawId": "50094887",
+   "title": "Vintage Cassettes: 1963-2010",
+   "url": "http://vintagecassettes.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "vintagecassettes.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T20:41:36Z",
+   "hot": 0.3,
+   "rank": 14,
+   "metrics": {
+    "points": 24,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50094887"
+   }
+  },
+  {
+   "rawId": "50103670",
+   "title": "Show HN: MirrorMD – An AI second opinion from a facial cosmetic surgeon",
+   "url": "https://mymirrormd.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mymirrormd.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T13:47:27Z",
+   "hot": 0.1,
+   "rank": 15,
+   "metrics": {
+    "points": 7,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50103670"
+   }
+  },
+  {
+   "rawId": "50133736",
+   "title": "Pattern Matching Beats Narrative Reasoning",
+   "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.scottstevenson.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T18:34:13Z",
+   "hot": 6.7,
+   "rank": 16,
+   "metrics": {
+    "points": 7,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50133736"
+   }
+  },
+  {
+   "rawId": "50133713",
+   "title": "AI Can Write the Code. Who Verifies It?",
+   "url": "https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mihaisplace.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T18:31:30Z",
+   "hot": 7.3,
+   "rank": 17,
+   "metrics": {
+    "points": 8,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50133713"
    }
   },
   {
@@ -99,144 +372,18 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T15:06:43Z",
-   "hot": 2.8,
-   "rank": 5,
+   "hot": 3.5,
+   "rank": 18,
    "metrics": {
-    "points": 73,
+    "points": 100,
     "comments": 6,
     "discussion": "https://news.ycombinator.com/item?id=50119315"
    }
   },
   {
-   "rawId": "50132278",
-   "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
-   "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "opendemocracy.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T16:04:23Z",
-   "hot": 38.6,
-   "rank": 6,
-   "metrics": {
-    "points": 50,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50132278"
-   }
-  },
-  {
-   "rawId": "50100994",
-   "title": "Furifont, a Japanese font that shows furigana",
-   "url": "https://furifont.antfu.me/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "furifont.antfu.me"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T08:48:30Z",
-   "hot": 0.3,
-   "rank": 7,
-   "metrics": {
-    "points": 18,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50100994"
-   }
-  },
-  {
-   "rawId": "50082358",
-   "title": "A Tudor Life in the Time of Plague",
-   "url": "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "historytoday.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T04:23:25Z",
-   "hot": 0.3,
-   "rank": 8,
-   "metrics": {
-    "points": 24,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50082358"
-   }
-  },
-  {
-   "rawId": "50112657",
-   "title": "Tesla Roadster",
-   "url": "https://www.tesla.com/roadster",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tesla.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T01:32:45Z",
-   "hot": 39.6,
-   "rank": 9,
-   "metrics": {
-    "points": 1578,
-    "comments": 2861,
-    "discussion": "https://news.ycombinator.com/item?id=50112657"
-   }
-  },
-  {
-   "rawId": "50106747",
-   "title": "Ultramarine 1 Flash",
-   "url": "https://www.paperinstruments.com/ultramarine",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "paperinstruments.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T17:06:01Z",
-   "hot": 7.3,
-   "rank": 10,
-   "metrics": {
-    "points": 350,
-    "comments": 103,
-    "discussion": "https://news.ycombinator.com/item?id=50106747"
-   }
-  },
-  {
-   "rawId": "50121506",
-   "title": "The First Candid",
-   "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "newyorker.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T17:28:19Z",
-   "hot": 1.3,
-   "rank": 11,
-   "metrics": {
-    "points": 31,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50121506"
-   }
-  },
-  {
-   "rawId": "50131189",
-   "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-   "url": "https://github.com/mikroverk/esp32sim",
+   "rawId": "50118098",
+   "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+   "url": "https://github.com/Kapendev/parin",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -245,160 +392,13 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-17T13:51:08Z",
-   "hot": 11.4,
-   "rank": 12,
-   "metrics": {
-    "points": 40,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50131189"
-   }
-  },
-  {
-   "rawId": "50127979",
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-   "url": "https://llmspeed.dev/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "llmspeed.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T04:36:53Z",
-   "hot": 15.4,
-   "rank": 13,
-   "metrics": {
-    "points": 196,
-    "comments": 65,
-    "discussion": "https://news.ycombinator.com/item?id=50127979"
-   }
-  },
-  {
-   "rawId": "50129947",
-   "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-   "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "engadget.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T10:59:31Z",
-   "hot": 23.1,
-   "rank": 14,
-   "metrics": {
-    "points": 147,
-    "comments": 15,
-    "discussion": "https://news.ycombinator.com/item?id=50129947"
-   }
-  },
-  {
-   "rawId": "50115354",
-   "title": "Development of Norton Commander",
-   "url": "https://softpanorama.org/OFM/Paradigm/Ch03/norton_commander.shtml",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "softpanorama.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T07:41:36Z",
-   "hot": 1.2,
-   "rank": 15,
-   "metrics": {
-    "points": 41,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50115354"
-   }
-  },
-  {
-   "rawId": "50122431",
-   "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-   "url": "https://github.com/cobanov/PS5LM",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T18:32:35Z",
-   "hot": 15.2,
-   "rank": 16,
-   "metrics": {
-    "points": 346,
-    "comments": 84,
-    "discussion": "https://news.ycombinator.com/item?id=50122431"
-   }
-  },
-  {
-   "rawId": "50100440",
-   "title": "We Still Use Paper",
-   "url": "https://humanpro.co/articles/we-still-use-paper/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "humanpro.co"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T07:27:55Z",
-   "hot": 0.8,
-   "rank": 17,
-   "metrics": {
-    "points": 48,
-    "comments": 65,
-    "discussion": "https://news.ycombinator.com/item?id=50100440"
-   }
-  },
-  {
-   "rawId": "50132502",
-   "title": "OpenAI discloses four more rogue incidents",
-   "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "fortune.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T16:31:12Z",
-   "hot": 14.0,
-   "rank": 18,
-   "metrics": {
-    "points": 14,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50132502"
-   }
-  },
-  {
-   "rawId": "50122878",
-   "title": "You could have invented transformers from memory",
-   "url": "https://alexwang.ai/posts/associative-memory/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "alexwang.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T19:01:17Z",
-   "hot": 18.7,
+   "publishedAt": "2026-10-16T13:22:49Z",
+   "hot": 0.4,
    "rank": 19,
    "metrics": {
-    "points": 417,
-    "comments": 99,
-    "discussion": "https://news.ycombinator.com/item?id=50122878"
+    "points": 11,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50118098"
    }
   }
  ]
