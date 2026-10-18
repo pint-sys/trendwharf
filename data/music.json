@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:01:07Z",
+ "updated": "2026-10-18T18:43:49Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -249,34 +249,11 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 11,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
-   }
-  },
-  {
-   "rawId": "6818059600",
-   "title": "Cold Shoulder",
-   "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600",
-   "category": "music",
-   "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
-   "metrics": {
-    "artist": "Drake, Don Toliver & Yebba",
-    "rank": 12,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
    }
   },
   {
@@ -287,19 +264,42 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#12 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
+   "hot": 14,
+   "rank": 12,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 13,
+    "rank": 12,
     "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+   }
+  },
+  {
+   "rawId": "6818059600",
+   "title": "Cold Shoulder",
+   "url": "https://music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#13 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 13,
+   "rank": 13,
+   "metrics": {
+    "artist": "Drake, Don Toliver & Yebba",
+    "rank": 13,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
    }
   },
   {
@@ -318,7 +318,7 @@
    "metrics": {
     "artist": "Zach Bryan",
     "rank": 14,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -372,29 +372,6 @@
    }
   },
   {
-   "rawId": "6822390426",
-   "title": "expectations",
-   "url": "https://music.apple.com/us/album/expectations/6822390423?i=6822390426",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
-   "metrics": {
-    "artist": "Olivia Rodrigo & Chappell Roan",
-    "rank": 17,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/expectations/6822390423?i=6822390426"
-   }
-  },
-  {
    "rawId": "1452017954",
    "title": "Best I Ever Had",
    "url": "https://music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954",
@@ -402,19 +379,42 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#18 on Apple Music's most-played songs (US).",
+   "summary": "#17 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 8,
-   "rank": 18,
+   "hot": 9,
+   "rank": 17,
    "metrics": {
     "artist": "Drake",
-    "rank": 18,
+    "rank": 17,
     "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954"
+   }
+  },
+  {
+   "rawId": "6822390426",
+   "title": "expectations",
+   "url": "https://music.apple.com/us/album/expectations/6822390423?i=6822390426",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#18 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 8,
+   "rank": 18,
+   "metrics": {
+    "artist": "Olivia Rodrigo & Chappell Roan",
+    "rank": 18,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/expectations/6822390423?i=6822390426"
    }
   },
   {
@@ -433,7 +433,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 19,
-    "change": 3
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -456,7 +456,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 20,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -479,7 +479,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 21,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -502,7 +502,7 @@
    "metrics": {
     "artist": "Zach Bryan & Turnpike Troubadours",
     "rank": 22,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
