@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T06:07:15Z",
+ "updated": "2026-10-18T11:26:26Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -27,6 +27,52 @@
    }
   },
   {
+   "rawId": "6796864754",
+   "title": "BbY WOW",
+   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+   "category": "music",
+   "tags": [
+    "Latin"
+   ],
+   "summary": "#2 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-08-05T00:00:00Z",
+   "hot": 24,
+   "rank": 2,
+   "metrics": {
+    "artist": "KAROL G, Judeline & rusowsky",
+    "rank": 2,
+    "change": 3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+   }
+  },
+  {
+   "rawId": "6818209989",
+   "title": "Solar Eclipse",
+   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#3 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 23,
+   "rank": 3,
+   "metrics": {
+    "artist": "Drake & Don Toliver",
+    "rank": 3,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+   }
+  },
+  {
    "rawId": "1844932150",
    "title": "Choosin' Texas",
    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
@@ -34,15 +80,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#2 on Apple Music's most-played songs (US).",
+   "summary": "#4 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
    "publishedAt": "2025-10-17T00:00:00Z",
-   "hot": 24,
-   "rank": 2,
+   "hot": 22,
+   "rank": 4,
    "metrics": {
     "artist": "Ella Langley",
-    "rank": 2,
-    "change": 1
+    "rank": 4,
+    "change": -2
    },
    "embed": {
     "kind": "music",
@@ -57,88 +103,19 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#3 on Apple Music's most-played songs (US).",
+   "summary": "#5 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/96/2b/2b962b77-3a04-5650-aefd-37ecfce04b03/196874840146.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 23,
-   "rank": 3,
+   "hot": 21,
+   "rank": 5,
    "metrics": {
     "artist": "Tate McRae",
-    "rank": 3,
-    "change": -1
+    "rank": 5,
+    "change": -2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
-   }
-  },
-  {
-   "rawId": "6818209989",
-   "title": "Solar Eclipse",
-   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
-   "category": "music",
-   "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#4 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 22,
-   "rank": 4,
-   "metrics": {
-    "artist": "Drake & Don Toliver",
-    "rank": 4,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-   }
-  },
-  {
-   "rawId": "6796864754",
-   "title": "BbY WOW",
-   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
-   "category": "music",
-   "tags": [
-    "Latin"
-   ],
-   "summary": "#5 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-08-05T00:00:00Z",
-   "hot": 21,
-   "rank": 5,
-   "metrics": {
-    "artist": "KAROL G, Judeline & rusowsky",
-    "rank": 5,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
-   }
-  },
-  {
-   "rawId": "6822944289",
-   "title": "Lodi When",
-   "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#6 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 20,
-   "rank": 6,
-   "metrics": {
-    "artist": "Zach Bryan",
-    "rank": 6,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
    }
   },
   {
@@ -149,19 +126,42 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#7 on Apple Music's most-played songs (US).",
+   "summary": "#6 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 19,
-   "rank": 7,
+   "hot": 20,
+   "rank": 6,
    "metrics": {
     "artist": "Drake",
-    "rank": 7,
-    "change": 0
+    "rank": 6,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/quebec/6818209777?i=6818209990"
+   }
+  },
+  {
+   "rawId": "6822944289",
+   "title": "Lodi When",
+   "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#7 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 19,
+   "rank": 7,
+   "metrics": {
+    "artist": "Zach Bryan",
+    "rank": 7,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
    }
   },
   {
@@ -188,29 +188,6 @@
    }
   },
   {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 9,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
-   }
-  },
-  {
    "rawId": "6807192825",
    "title": "Nicole Kidman",
    "url": "https://music.apple.com/us/album/nicole-kidman/6807192580?i=6807192825",
@@ -218,14 +195,14 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
+   "summary": "#9 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-09-03T00:00:00Z",
-   "hot": 16,
-   "rank": 10,
+   "hot": 17,
+   "rank": 9,
    "metrics": {
     "artist": "ADÉLA",
-    "rank": 10,
+    "rank": 9,
     "change": 1
    },
    "embed": {
@@ -234,49 +211,26 @@
    }
   },
   {
-   "rawId": "6822944293",
-   "title": "Robot Killed The Working Man",
-   "url": "https://music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293",
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
    "category": "music",
    "tags": [
     "Country"
    ],
-   "summary": "#11 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 15,
-   "rank": 11,
-   "metrics": {
-    "artist": "Zach Bryan",
-    "rank": 11,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293"
-   }
-  },
-  {
-   "rawId": "6812477290",
-   "title": "Last Thing You Need",
-   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-17T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
+   "summary": "#10 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
+   "hot": 16,
+   "rank": 10,
    "metrics": {
     "artist": "Morgan Wallen",
-    "rank": 12,
-    "change": 0
+    "rank": 10,
+    "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -287,15 +241,15 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#11 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
+   "hot": 15,
+   "rank": 11,
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
-    "rank": 13,
-    "change": 5
+    "rank": 11,
+    "change": 2
    },
    "embed": {
     "kind": "music",
@@ -303,118 +257,26 @@
    }
   },
   {
-   "rawId": "6822944298",
-   "title": "Dog Days",
-   "url": "https://music.apple.com/us/album/dog-days/6822944288?i=6822944298",
+   "rawId": "6822944293",
+   "title": "Robot Killed The Working Man",
+   "url": "https://music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293",
    "category": "music",
    "tags": [
     "Country"
    ],
-   "summary": "#14 on Apple Music's most-played songs (US).",
+   "summary": "#12 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 12,
-   "rank": 14,
+   "hot": 14,
+   "rank": 12,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 14,
+    "rank": 12,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/dog-days/6822944288?i=6822944298"
-   }
-  },
-  {
-   "rawId": "6822944302",
-   "title": "Plainsman (feat. Turnpike Troubadours)",
-   "url": "https://music.apple.com/us/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
-   "metrics": {
-    "artist": "Zach Bryan & Turnpike Troubadours",
-    "rank": 15,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
-   }
-  },
-  {
-   "rawId": "6822390426",
-   "title": "expectations",
-   "url": "https://music.apple.com/us/album/expectations/6822390423?i=6822390426",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
-   "metrics": {
-    "artist": "Olivia Rodrigo & Chappell Roan",
-    "rank": 16,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/expectations/6822390423?i=6822390426"
-   }
-  },
-  {
-   "rawId": "6822944301",
-   "title": "Backwards",
-   "url": "https://music.apple.com/us/album/backwards/6822944288?i=6822944301",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
-   "metrics": {
-    "artist": "Zach Bryan",
-    "rank": 17,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/backwards/6822944288?i=6822944301"
-   }
-  },
-  {
-   "rawId": "6822944428",
-   "title": "You'll Get By",
-   "url": "https://music.apple.com/us/album/youll-get-by/6822944288?i=6822944428",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#18 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 8,
-   "rank": 18,
-   "metrics": {
-    "artist": "Zach Bryan",
-    "rank": 18,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/youll-get-by/6822944288?i=6822944428"
+    "value": "https://embed.music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293"
    }
   },
   {
@@ -425,15 +287,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#19 on Apple Music's most-played songs (US).",
+   "summary": "#13 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2017-12-01T00:00:00Z",
-   "hot": 7,
-   "rank": 19,
+   "hot": 13,
+   "rank": 13,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 19,
-    "change": 1
+    "rank": 13,
+    "change": 6
    },
    "embed": {
     "kind": "music",
@@ -448,88 +310,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
+   "summary": "#14 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
+   "hot": 12,
+   "rank": 14,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 20,
-    "change": -1
+    "rank": 14,
+    "change": 6
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
-   }
-  },
-  {
-   "rawId": "6814997425",
-   "title": "Patient Zero",
-   "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-24T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
-   "metrics": {
-    "artist": "Taylor Swift",
-    "rank": 21,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
-   }
-  },
-  {
-   "rawId": "6779097534",
-   "title": "stupid song",
-   "url": "https://music.apple.com/us/album/stupid-song/6779097512?i=6779097534",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-06-12T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
-   "metrics": {
-    "artist": "Olivia Rodrigo",
-    "rank": 22,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stupid-song/6779097512?i=6779097534"
-   }
-  },
-  {
-   "rawId": "6763091996",
-   "title": "I Can't Love You Anymore",
-   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
-   "publishedAt": "2026-04-24T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
-   "metrics": {
-    "artist": "Ella Langley & Morgan Wallen",
-    "rank": 23,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
    }
   },
   {
@@ -540,19 +333,65 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
+   "summary": "#15 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "hot": 11,
+   "rank": 15,
    "metrics": {
     "artist": "Future",
-    "rank": 24,
-    "change": -2
+    "rank": 15,
+    "change": 9
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+   }
+  },
+  {
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#16 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
+   "hot": 10,
+   "rank": 16,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 16,
+    "change": -4
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+   }
+  },
+  {
+   "rawId": "6822390426",
+   "title": "expectations",
+   "url": "https://music.apple.com/us/album/expectations/6822390423?i=6822390426",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#17 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 9,
+   "rank": 17,
+   "metrics": {
+    "artist": "Olivia Rodrigo & Chappell Roan",
+    "rank": 17,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/expectations/6822390423?i=6822390426"
    }
   },
   {
@@ -563,19 +402,180 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#25 on Apple Music's most-played songs (US).",
+   "summary": "#18 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-07-17T00:00:00Z",
-   "hot": 1,
-   "rank": 25,
+   "hot": 8,
+   "rank": 18,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 25,
-    "change": "new"
+    "rank": 18,
+    "change": 7
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+   }
+  },
+  {
+   "rawId": "1452017954",
+   "title": "Best I Ever Had",
+   "url": "https://music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#19 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2009-02-13T00:00:00Z",
+   "hot": 7,
+   "rank": 19,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 19,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954"
+   }
+  },
+  {
+   "rawId": "6779097534",
+   "title": "stupid song",
+   "url": "https://music.apple.com/us/album/stupid-song/6779097512?i=6779097534",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#20 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-06-12T00:00:00Z",
+   "hot": 6,
+   "rank": 20,
+   "metrics": {
+    "artist": "Olivia Rodrigo",
+    "rank": 20,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/stupid-song/6779097512?i=6779097534"
+   }
+  },
+  {
+   "rawId": "6822944302",
+   "title": "Plainsman (feat. Turnpike Troubadours)",
+   "url": "https://music.apple.com/us/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Zach Bryan & Turnpike Troubadours",
+    "rank": 21,
+    "change": -6
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
+   }
+  },
+  {
+   "rawId": "1621803969",
+   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
+   "publishedAt": "2022-05-02T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
+   "metrics": {
+    "artist": "Future",
+    "rank": 22,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+   }
+  },
+  {
+   "rawId": "6822944428",
+   "title": "You'll Get By",
+   "url": "https://music.apple.com/us/album/youll-get-by/6822944288?i=6822944428",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
+   "metrics": {
+    "artist": "Zach Bryan",
+    "rank": 23,
+    "change": -5
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/youll-get-by/6822944288?i=6822944428"
+   }
+  },
+  {
+   "rawId": "6822944298",
+   "title": "Dog Days",
+   "url": "https://music.apple.com/us/album/dog-days/6822944288?i=6822944298",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Zach Bryan",
+    "rank": 24,
+    "change": -10
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/dog-days/6822944288?i=6822944298"
+   }
+  },
+  {
+   "rawId": "6822944301",
+   "title": "Backwards",
+   "url": "https://music.apple.com/us/album/backwards/6822944288?i=6822944301",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#25 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 1,
+   "rank": 25,
+   "metrics": {
+    "artist": "Zach Bryan",
+    "rank": 25,
+    "change": -8
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/backwards/6822944288?i=6822944301"
    }
   }
  ]
