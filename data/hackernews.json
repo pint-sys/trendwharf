@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18T21:37:25Z",
+ "updated": "2026-10-19T00:16:35Z",
  "source": "hackernews",
  "items": [
   {
    "rawId": "50145337",
-   "title": "Hybrid Reasoning Agents",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
    "url": "https://arxiv.org/abs/2610.18861",
    "videoUrl": null,
    "category": "news",
@@ -15,12 +15,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T20:48:14Z",
-   "hot": 32.0,
+   "hot": 46.9,
    "rank": 1,
    "metrics": {
-    "points": 32,
-    "comments": 7,
+    "points": 163,
+    "comments": 98,
     "discussion": "https://news.ycombinator.com/item?id=50145337"
+   }
+  },
+  {
+   "rawId": "50146625",
+   "title": "William Gibson and the Trademarking of Cyberspace",
+   "url": "https://colo.to/cyberspace.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "colo.to"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T23:37:57Z",
+   "hot": 9.0,
+   "rank": 2,
+   "metrics": {
+    "points": 9,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50146625"
    }
   },
   {
@@ -36,12 +57,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T16:32:00Z",
-   "hot": 45.6,
-   "rank": 2,
+   "hot": 37.3,
+   "rank": 3,
    "metrics": {
-    "points": 232,
-    "comments": 89,
+    "points": 289,
+    "comments": 117,
     "discussion": "https://news.ycombinator.com/item?id=50142573"
+   }
+  },
+  {
+   "rawId": "50136150",
+   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "videoUrl": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T23:26:35Z",
+   "hot": 4.9,
+   "rank": 4,
+   "metrics": {
+    "points": 121,
+    "comments": 62,
+    "discussion": "https://news.ycombinator.com/item?id=50136150"
    }
   },
   {
@@ -57,11 +99,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T18:48:04Z",
-   "hot": 24.1,
-   "rank": 3,
+   "hot": 18.6,
+   "rank": 5,
    "metrics": {
-    "points": 68,
-    "comments": 13,
+    "points": 102,
+    "comments": 17,
     "discussion": "https://news.ycombinator.com/item?id=50144066"
    }
   },
@@ -78,54 +120,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T13:48:48Z",
-   "hot": 37.6,
-   "rank": 4,
-   "metrics": {
-    "points": 294,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50141076"
-   }
-  },
-  {
-   "rawId": "50143536",
-   "title": "PalmOS Lemmings",
-   "url": "https://github.com/ardiri/palmos-lemmings",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T17:56:59Z",
-   "hot": 16.3,
-   "rank": 5,
-   "metrics": {
-    "points": 60,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50143536"
-   }
-  },
-  {
-   "rawId": "50136150",
-   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "videoUrl": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T23:26:35Z",
-   "hot": 1.5,
+   "hot": 31.0,
    "rank": 6,
    "metrics": {
-    "points": 34,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50136150"
+    "points": 324,
+    "comments": 51,
+    "discussion": "https://news.ycombinator.com/item?id=50141076"
    }
   },
   {
@@ -141,12 +141,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T01:38:08Z",
-   "hot": 2.8,
+   "hot": 4.9,
    "rank": 7,
    "metrics": {
-    "points": 55,
-    "comments": 36,
+    "points": 110,
+    "comments": 73,
     "discussion": "https://news.ycombinator.com/item?id=50136979"
+   }
+  },
+  {
+   "rawId": "50145715",
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "url": "https://github.com/finereli/whatsapp-mcp",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T21:36:10Z",
+   "hot": 10.1,
+   "rank": 8,
+   "metrics": {
+    "points": 27,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50145715"
+   }
+  },
+  {
+   "rawId": "50143536",
+   "title": "PalmOS Lemmings",
+   "url": "https://github.com/ardiri/palmos-lemmings",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T17:56:59Z",
+   "hot": 12.8,
+   "rank": 9,
+   "metrics": {
+    "points": 81,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50143536"
    }
   },
   {
@@ -162,54 +204,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T06:50:36Z",
-   "hot": 34.0,
-   "rank": 8,
-   "metrics": {
-    "points": 503,
-    "comments": 246,
-    "discussion": "https://news.ycombinator.com/item?id=50138531"
-   }
-  },
-  {
-   "rawId": "50141579",
-   "title": "Java sealed classes and exhaustive pattern matching",
-   "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "neilmadden.blog"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T14:47:37Z",
-   "hot": 16.8,
-   "rank": 9,
-   "metrics": {
-    "points": 115,
-    "comments": 85,
-    "discussion": "https://news.ycombinator.com/item?id=50141579"
-   }
-  },
-  {
-   "rawId": "50096110",
-   "title": "SIGSALY: Churchill's top secret hotline to the president",
-   "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "iwm.org.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T22:07:47Z",
-   "hot": 0.9,
+   "hot": 30.5,
    "rank": 10,
    "metrics": {
-    "points": 89,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50096110"
+    "points": 531,
+    "comments": 255,
+    "discussion": "https://news.ycombinator.com/item?id=50138531"
    }
   },
   {
@@ -225,159 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T18:07:44Z",
-   "hot": 0.3,
+   "hot": 0.6,
    "rank": 11,
    "metrics": {
-    "points": 18,
-    "comments": 3,
+    "points": 35,
+    "comments": 9,
     "discussion": "https://news.ycombinator.com/item?id=50122058"
    }
   },
   {
-   "rawId": "50142449",
-   "title": "The Intel 8087 chip: floating-point addition and subtraction",
-   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+   "rawId": "50123123",
+   "title": "\"Traditional, but Puzzling\"",
+   "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "righto.com"
+    "unsung.aresluna.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T16:20:27Z",
-   "hot": 14.0,
+   "publishedAt": "2026-10-16T19:17:23Z",
+   "hot": 0.2,
    "rank": 12,
-   "metrics": {
-    "points": 74,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50142449"
-   }
-  },
-  {
-   "rawId": "50118165",
-   "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
-   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nytimes.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T13:30:20Z",
-   "hot": 0.3,
-   "rank": 13,
-   "metrics": {
-    "points": 15,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50118165"
-   }
-  },
-  {
-   "rawId": "50140769",
-   "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-   "url": "https://legendofhyrule.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "legendofhyrule.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T13:06:54Z",
-   "hot": 16.9,
-   "rank": 14,
-   "metrics": {
-    "points": 144,
-    "comments": 80,
-    "discussion": "https://news.ycombinator.com/item?id=50140769"
-   }
-  },
-  {
-   "rawId": "50131053",
-   "title": "Developing for Debugging (2025)",
-   "url": "https://www.davepacheco.net/blog/2025/developing-for-debugging-dns-propagation/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "davepacheco.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T13:34:43Z",
-   "hot": 0.4,
-   "rank": 15,
    "metrics": {
     "points": 12,
     "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50131053"
-   }
-  },
-  {
-   "rawId": "50142866",
-   "title": "Namecheap just seized and disabled all my domains",
-   "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reddit.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T16:56:56Z",
-   "hot": 60.1,
-   "rank": 16,
-   "metrics": {
-    "points": 281,
-    "comments": 140,
-    "discussion": "https://news.ycombinator.com/item?id=50142866"
-   }
-  },
-  {
-   "rawId": "50136017",
-   "title": "Beyond Tetris: The other games of Alexey Pajitnov [video]",
-   "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-   "videoUrl": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T23:08:30Z",
-   "hot": 2.0,
-   "rank": 17,
-   "metrics": {
-    "points": 45,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50136017"
-   }
-  },
-  {
-   "rawId": "50093020",
-   "title": "I electrified my push scooter with a power drill",
-   "url": "https://eddieabbondanz.io/post/shop/drill-powered-scooter/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "eddieabbondanz.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T18:53:52Z",
-   "hot": 0.9,
-   "rank": 18,
-   "metrics": {
-    "points": 86,
-    "comments": 33,
-    "discussion": "https://news.ycombinator.com/item?id=50093020"
+    "discussion": "https://news.ycombinator.com/item?id=50123123"
    }
   },
   {
@@ -393,33 +267,159 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T22:26:47Z",
-   "hot": 0.5,
-   "rank": 19,
+   "hot": 2.3,
+   "rank": 13,
    "metrics": {
-    "points": 11,
-    "comments": 12,
+    "points": 60,
+    "comments": 57,
     "discussion": "https://news.ycombinator.com/item?id=50135762"
    }
   },
   {
-   "rawId": "50140001",
-   "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
-   "url": "https://github.com/0x23/MicroManipulatorStepper",
+   "rawId": "50098148",
+   "title": "16-bit fully functional DIY magnetic core memory",
+   "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+   "videoUrl": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T01:51:02Z",
+   "hot": 0.2,
+   "rank": 14,
+   "metrics": {
+    "points": 23,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50098148"
+   }
+  },
+  {
+   "rawId": "50141579",
+   "title": "Java sealed classes and exhaustive pattern matching",
+   "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "neilmadden.blog"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T11:16:22Z",
-   "hot": 15.7,
+   "publishedAt": "2026-10-18T14:47:37Z",
+   "hot": 13.7,
+   "rank": 15,
+   "metrics": {
+    "points": 130,
+    "comments": 101,
+    "discussion": "https://news.ycombinator.com/item?id=50141579"
+   }
+  },
+  {
+   "rawId": "50140383",
+   "title": "A new way to think about borrow checking (in reverse)",
+   "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "verdagon.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T12:11:13Z",
+   "hot": 0.8,
+   "rank": 16,
+   "metrics": {
+    "points": 10,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50140383"
+   }
+  },
+  {
+   "rawId": "50142449",
+   "title": "The Intel 8087 chip: floating-point addition and subtraction",
+   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "righto.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T16:20:27Z",
+   "hot": 10.8,
+   "rank": 17,
+   "metrics": {
+    "points": 86,
+    "comments": 28,
+    "discussion": "https://news.ycombinator.com/item?id=50142449"
+   }
+  },
+  {
+   "rawId": "50096110",
+   "title": "SIGSALY: Churchill's top secret hotline to the president",
+   "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "iwm.org.uk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-14T22:07:47Z",
+   "hot": 1.1,
+   "rank": 18,
+   "metrics": {
+    "points": 105,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50096110"
+   }
+  },
+  {
+   "rawId": "50142866",
+   "title": "Namecheap just seized and disabled all my domains",
+   "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reddit.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T16:56:56Z",
+   "hot": 54.5,
+   "rank": 19,
+   "metrics": {
+    "points": 399,
+    "comments": 190,
+    "discussion": "https://news.ycombinator.com/item?id=50142866"
+   }
+  },
+  {
+   "rawId": "50118165",
+   "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nytimes.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T13:30:20Z",
+   "hot": 1.1,
    "rank": 20,
    "metrics": {
-    "points": 162,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50140001"
+    "points": 63,
+    "comments": 87,
+    "discussion": "https://news.ycombinator.com/item?id=50118165"
    }
   }
  ]
