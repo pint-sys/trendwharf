@@ -1,44 +1,8 @@
 {
- "updated": "2026-10-17T22:28:41Z",
+ "updated": "2026-10-19T10:59:17Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
-  {
-   "rawId": "gbu-43/b moab",
-   "title": "GBU-43/B MOAB",
-   "url": "https://en.wikipedia.org/wiki/GBU-43%2FB_MOAB",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American large-yield bomb. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/MOABAFAM.JPG/330px-MOABAFAM.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 453110,
-   "rank": 1,
-   "metrics": {
-    "views": 453110,
-    "change": 109878
-   }
-  },
-  {
-   "rawId": "katie zacharia",
-   "title": "Katie Zacharia",
-   "url": "https://en.wikipedia.org/wiki/Katie_Zacharia",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American political commentator. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg/330px-Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 428191,
-   "rank": 2,
-   "metrics": {
-    "views": 428191,
-    "change": -53
-   }
-  },
   {
    "rawId": "jailer 2",
    "title": "Jailer 2",
@@ -50,155 +14,47 @@
    "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 341702,
+   "hot": 340362,
+   "rank": 1,
+   "metrics": {
+    "views": 340362,
+    "change": 0
+   }
+  },
+  {
+   "rawId": "elizabeth holmes",
+   "title": "Elizabeth Holmes",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 258023,
+   "rank": 2,
+   "metrics": {
+    "views": 258023,
+    "change": 17
+   }
+  },
+  {
+   "rawId": "you can see everything",
+   "title": "You Can See Everything",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 documentary film by Nathan Fielder and Lance Oppenheim. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 239333,
    "rank": 3,
    "metrics": {
-    "views": 341702,
-    "change": 679
-   }
-  },
-  {
-   "rawId": "bigg boss (hindi tv series) season 20",
-   "title": "Bigg Boss (Hindi TV series) season 20",
-   "url": "https://en.wikipedia.org/wiki/Bigg_Boss_(Hindi_TV_series)_season_20",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Season of television series. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2a/Bigg_Boss_Hindi_Season_20.1_logo.jpg/330px-Bigg_Boss_Hindi_Season_20.1_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 234663,
-   "rank": 4,
-   "metrics": {
-    "views": 234663,
-    "change": 425
-   }
-  },
-  {
-   "rawId": "rj mitte",
-   "title": "RJ Mitte",
-   "url": "https://en.wikipedia.org/wiki/RJ_Mitte",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American actor and activist (1992–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/15131-Mayo_Speaker_Series-_RJ_Mitte-0143_%2816531434123%29_%28cropped%29.jpg/330px-15131-Mayo_Speaker_Series-_RJ_Mitte-0143_%2816531434123%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 185306,
-   "rank": 5,
-   "metrics": {
-    "views": 185306,
-    "change": -55
-   }
-  },
-  {
-   "rawId": "mathematics",
-   "title": "Mathematics",
-   "url": "https://en.wikipedia.org/wiki/Mathematics",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Field of knowledge. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Woman_teaching_geometry.jpg/330px-Woman_teaching_geometry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 160732,
-   "rank": 6,
-   "metrics": {
-    "views": 160732,
-    "change": -32
-   }
-  },
-  {
-   "rawId": "list of equations",
-   "title": "List of equations",
-   "url": "https://en.wikipedia.org/wiki/List_of_equations",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 156839,
-   "rank": 7,
-   "metrics": {
-    "views": 156839,
-    "change": -33
-   }
-  },
-  {
-   "rawId": "imran khan (film actor)",
-   "title": "Imran Khan (film actor)",
-   "url": "https://en.wikipedia.org/wiki/Imran_Khan_(film_actor)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Indian-American actor (born 1983). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Imran_Khan_The_Front_Row.jpg/330px-Imran_Khan_The_Front_Row.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 143474,
-   "rank": 8,
-   "metrics": {
-    "views": 143474,
-    "change": 2827
-   }
-  },
-  {
-   "rawId": "nidal hasan",
-   "title": "Nidal Hasan",
-   "url": "https://en.wikipedia.org/wiki/Nidal_Hasan",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Former U.S. Army officer and mass murderer (born 1970). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Nidal_Hasan%2C_2007.jpg/330px-Nidal_Hasan%2C_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 137761,
-   "rank": 9,
-   "metrics": {
-    "views": 137761,
-    "change": 69
-   }
-  },
-  {
-   "rawId": "deaths in 2026",
-   "title": "Deaths in 2026",
-   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 130252,
-   "rank": 10,
-   "metrics": {
-    "views": 130252,
-    "change": -1
-   }
-  },
-  {
-   "rawId": "visionquest",
-   "title": "VisionQuest",
-   "url": "https://en.wikipedia.org/wiki/VisionQuest",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Marvel Studios television miniseries. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/VisionQuest_logo.jpg/330px-VisionQuest_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 122179,
-   "rank": 11,
-   "metrics": {
-    "views": 122179,
-    "change": -22
+    "views": 239333,
+    "change": 8
    }
   },
   {
@@ -212,47 +68,191 @@
    "summary": "2026 film by Kitao Sakurai. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/Street_Fighter_2026_film_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 113060,
+   "hot": 181850,
+   "rank": 4,
+   "metrics": {
+    "views": 181850,
+    "change": -5
+   }
+  },
+  {
+   "rawId": "wrestledream (2026)",
+   "title": "WrestleDream (2026)",
+   "url": "https://en.wikipedia.org/wiki/WrestleDream_(2026)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "All Elite Wrestling pay-per-view event. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/f0/WrestleDream_%282026%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 140072,
+   "rank": 5,
+   "metrics": {
+    "views": 140072,
+    "change": 245
+   }
+  },
+  {
+   "rawId": "katie zacharia",
+   "title": "Katie Zacharia",
+   "url": "https://en.wikipedia.org/wiki/Katie_Zacharia",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American political commentator. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg/330px-Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 136231,
+   "rank": 6,
+   "metrics": {
+    "views": 136231,
+    "change": -75
+   }
+  },
+  {
+   "rawId": "bear bachmeier",
+   "title": "Bear Bachmeier",
+   "url": "https://en.wikipedia.org/wiki/Bear_Bachmeier",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American football player. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 124883,
+   "rank": 7,
+   "metrics": {
+    "views": 124883,
+    "change": 494
+   }
+  },
+  {
+   "rawId": "deaths in 2026",
+   "title": "Deaths in 2026",
+   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 123878,
+   "rank": 8,
+   "metrics": {
+    "views": 123878,
+    "change": 3
+   }
+  },
+  {
+   "rawId": "kaviya maran",
+   "title": "Kaviya Maran",
+   "url": "https://en.wikipedia.org/wiki/Kaviya_Maran",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Indian businesswoman (born 1992). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 114477,
+   "rank": 9,
+   "metrics": {
+    "views": 114477,
+    "change": -36
+   }
+  },
+  {
+   "rawId": "crystal lake (tv series)",
+   "title": "Crystal Lake (TV series)",
+   "url": "https://en.wikipedia.org/wiki/Crystal_Lake_(TV_series)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 American slasher series. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 103624,
+   "rank": 10,
+   "metrics": {
+    "views": 103624,
+    "change": -13
+   }
+  },
+  {
+   "rawId": "abdul el-sayed",
+   "title": "Abdul El-Sayed",
+   "url": "https://en.wikipedia.org/wiki/Abdul_El-Sayed",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American politician and epidemiologist (born 1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg/330px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 97773,
+   "rank": 11,
+   "metrics": {
+    "views": 97773,
+    "change": -9
+   }
+  },
+  {
+   "rawId": "love of your life (film)",
+   "title": "Love of Your Life (film)",
+   "url": "https://en.wikipedia.org/wiki/Love_of_Your_Life_(film)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 American romantic-drama film. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/ff/Love_of_Your_Life_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 97766,
    "rank": 12,
    "metrics": {
-    "views": 113060,
-    "change": 83
+    "views": 97766,
+    "change": 34
    }
   },
   {
-   "rawId": "jeff bezos",
-   "title": "Jeff Bezos",
-   "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+   "rawId": "nathan fielder",
+   "title": "Nathan Fielder",
+   "url": "https://en.wikipedia.org/wiki/Nathan_Fielder",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American businessman (born 1964). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/330px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Canadian filmmaker (born 1983). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nathan_Fielder.jpg/330px-Nathan_Fielder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 107382,
+   "hot": 95178,
    "rank": 13,
    "metrics": {
-    "views": 107382,
-    "change": 114
+    "views": 95178,
+    "change": 22
    }
   },
   {
-   "rawId": "kimberly guilfoyle",
-   "title": "Kimberly Guilfoyle",
-   "url": "https://en.wikipedia.org/wiki/Kimberly_Guilfoyle",
+   "rawId": "deva (composer)",
+   "title": "Deva (composer)",
+   "url": "https://en.wikipedia.org/wiki/Deva_(composer)",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American diplomat and media personality (born 1969). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Kimberly_Guilfoyle_Official_Portrait_scaled.jpg/330px-Kimberly_Guilfoyle_Official_Portrait_scaled.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Indian film composer and singer (1950–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Music_Director_Deva_at_KJ_Yesudas_50_Concert_Press_Meet.jpg/330px-Music_Director_Deva_at_KJ_Yesudas_50_Concert_Press_Meet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 106358,
+   "hot": 88151,
    "rank": 14,
    "metrics": {
-    "views": 106358,
-    "change": -54
+    "views": 88151,
+    "change": 49098
    }
   },
   {
@@ -266,101 +266,101 @@
    "summary": "2026 miniseries by Mike Flanagan. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Carrie_%282026_TV_series_logo%29.png/330px-Carrie_%282026_TV_series_logo%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 103066,
+   "hot": 88131,
    "rank": 15,
    "metrics": {
-    "views": 103066,
-    "change": -14
+    "views": 88131,
+    "change": 6
    }
   },
   {
-   "rawId": "james talarico",
-   "title": "James Talarico",
-   "url": "https://en.wikipedia.org/wiki/James_Talarico",
+   "rawId": "call of duty: modern warfare 4",
+   "title": "Call of Duty: Modern Warfare 4",
+   "url": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Modern_Warfare_4",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American politician (born 1989). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg/330px-James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "2026 video game. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Modern_Warfare_4_cover_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 98368,
+   "hot": 86806,
    "rank": 16,
    "metrics": {
-    "views": 98368,
-    "change": 108
+    "views": 86806,
+    "change": -9
    }
   },
   {
-   "rawId": "ilhan omar",
-   "title": "Ilhan Omar",
-   "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+   "rawId": "2026 french student protests",
+   "title": "2026 French student protests",
+   "url": "https://en.wikipedia.org/wiki/2026_French_student_protests",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American politician (born 1982). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg/330px-Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Paris_riots%2C_17_October_2026_-_Firefighters_extinguishing_a_burning_car_-_JJxFile_0048.jpg/330px-Paris_riots%2C_17_October_2026_-_Firefighters_extinguishing_a_burning_car_-_JJxFile_0048.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 83752,
+   "hot": 86705,
    "rank": 17,
    "metrics": {
-    "views": 83752,
-    "change": -4
+    "views": 86705,
+    "change": 288
    }
   },
   {
-   "rawId": "limonene",
-   "title": "Limonene",
-   "url": "https://en.wikipedia.org/wiki/Limonene",
+   "rawId": "anirudh ravichander",
+   "title": "Anirudh Ravichander",
+   "url": "https://en.wikipedia.org/wiki/Anirudh_Ravichander",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Chemical compound. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Limonene.jpg/330px-Limonene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Indian composer and playback singer (born 1990). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Anirudh_Ravichander_at_Audi_Ritz_Style_Awards_2017_%28cropped%29.jpg/330px-Anirudh_Ravichander_at_Audi_Ritz_Style_Awards_2017_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 78147,
+   "hot": 85472,
    "rank": 18,
    "metrics": {
-    "views": 78147,
-    "change": 0
+    "views": 85472,
+    "change": -29
    }
   },
   {
-   "rawId": "neatsville, kentucky",
-   "title": "Neatsville, Kentucky",
-   "url": "https://en.wikipedia.org/wiki/Neatsville%2C_Kentucky",
+   "rawId": "ansel adams",
+   "title": "Ansel Adams",
+   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Unincorporated community in Kentucky, US. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
+   "summary": "American photographer and environmentalist (1902–1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/330px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 74324,
+   "hot": 82194,
    "rank": 19,
    "metrics": {
-    "views": 74324,
-    "change": 1
+    "views": 82194,
+    "change": 37
    }
   },
   {
-   "rawId": "below (miniseries)",
-   "title": "Below (miniseries)",
-   "url": "https://en.wikipedia.org/wiki/Below_(miniseries)",
+   "rawId": "tenzing norgay",
+   "title": "Tenzing Norgay",
+   "url": "https://en.wikipedia.org/wiki/Tenzing_Norgay",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "2026 Canadian supernatural drama miniseries. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/73/Below_%282026%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "Nepalese-Indian mountaineer (1914–1986). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Tenzing_Norgay_%28cropped%29.jpg/330px-Tenzing_Norgay_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 74114,
+   "hot": 79866,
    "rank": 20,
    "metrics": {
-    "views": 74114,
-    "change": -16
+    "views": 79866,
+    "change": 3
    }
   }
  ]

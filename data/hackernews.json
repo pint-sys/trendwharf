@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-19T04:57:38Z",
+ "updated": "2026-10-19T10:59:17Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50149392",
+   "title": "Linux 7.3 Released",
+   "url": "https://lwn.net/Articles/1101143/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lwn.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T07:23:57Z",
+   "hot": 65.2,
+   "rank": 1,
+   "metrics": {
+    "points": 234,
+    "comments": 107,
+    "discussion": "https://news.ycombinator.com/item?id=50149392"
+   }
+  },
   {
    "rawId": "50145337",
    "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
@@ -15,12 +36,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T20:48:14Z",
-   "hot": 35.2,
-   "rank": 1,
+   "hot": 28.6,
+   "rank": 2,
    "metrics": {
-    "points": 287,
-    "comments": 157,
+    "points": 406,
+    "comments": 199,
     "discussion": "https://news.ycombinator.com/item?id=50145337"
+   }
+  },
+  {
+   "rawId": "50104874",
+   "title": "How to Train Your Robot",
+   "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "construction-physics.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T15:13:21Z",
+   "hot": 0.5,
+   "rank": 3,
+   "metrics": {
+    "points": 46,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50104874"
    }
   },
   {
@@ -36,12 +78,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T23:37:57Z",
-   "hot": 20.5,
-   "rank": 2,
+   "hot": 16.8,
+   "rank": 4,
    "metrics": {
-    "points": 109,
-    "comments": 22,
+    "points": 191,
+    "comments": 74,
     "discussion": "https://news.ycombinator.com/item?id=50146625"
+   }
+  },
+  {
+   "rawId": "50131315",
+   "title": "Rabbits were a medieval royal luxury in England until the Black Death",
+   "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "phys.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T14:07:36Z",
+   "hot": 2.0,
+   "rank": 5,
+   "metrics": {
+    "points": 91,
+    "comments": 84,
+    "discussion": "https://news.ycombinator.com/item?id=50131315"
    }
   },
   {
@@ -57,33 +120,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T23:26:35Z",
-   "hot": 8.6,
-   "rank": 3,
+   "hot": 10.9,
+   "rank": 6,
    "metrics": {
-    "points": 254,
-    "comments": 290,
+    "points": 386,
+    "comments": 471,
     "discussion": "https://news.ycombinator.com/item?id=50136150"
    }
   },
   {
-   "rawId": "50147492",
-   "title": "Superlite: A Faster Alternatie to Superpowers",
-   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+   "rawId": "50145507",
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "contextfirst.blog"
+    "jrdsgl.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T02:01:16Z",
-   "hot": 9.5,
-   "rank": 4,
+   "publishedAt": "2026-10-18T21:09:12Z",
+   "hot": 13.0,
+   "rank": 7,
    "metrics": {
-    "points": 28,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50147492"
+    "points": 180,
+    "comments": 126,
+    "discussion": "https://news.ycombinator.com/item?id=50145507"
+   }
+  },
+  {
+   "rawId": "50148855",
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "crystl.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T05:55:31Z",
+   "hot": 7.7,
+   "rank": 8,
+   "metrics": {
+    "points": 39,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50148855"
    }
   },
   {
@@ -99,33 +183,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T16:32:00Z",
-   "hot": 29.8,
-   "rank": 5,
+   "hot": 24.7,
+   "rank": 9,
    "metrics": {
-    "points": 370,
-    "comments": 146,
+    "points": 456,
+    "comments": 167,
     "discussion": "https://news.ycombinator.com/item?id=50142573"
-   }
-  },
-  {
-   "rawId": "50148396",
-   "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
-   "url": "https://github.com/strot-ai/Project-STROT",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T04:32:07Z",
-   "hot": 3.0,
-   "rank": 6,
-   "metrics": {
-    "points": 3,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50148396"
    }
   },
   {
@@ -141,33 +204,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-15T22:56:23Z",
-   "hot": 0.8,
-   "rank": 7,
+   "hot": 1.7,
+   "rank": 10,
    "metrics": {
-    "points": 65,
-    "comments": 26,
+    "points": 139,
+    "comments": 61,
     "discussion": "https://news.ycombinator.com/item?id=50111537"
    }
   },
   {
-   "rawId": "50146624",
-   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+   "rawId": "50136979",
+   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "csis.org"
+    "sciencealert.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T23:37:54Z",
-   "hot": 7.9,
-   "rank": 8,
+   "publishedAt": "2026-10-18T01:38:08Z",
+   "hot": 7.6,
+   "rank": 11,
    "metrics": {
-    "points": 42,
-    "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50146624"
+    "points": 253,
+    "comments": 149,
+    "discussion": "https://news.ycombinator.com/item?id=50136979"
    }
   },
   {
@@ -183,11 +246,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T13:48:48Z",
-   "hot": 23.4,
-   "rank": 9,
+   "hot": 18.7,
+   "rank": 12,
    "metrics": {
-    "points": 354,
-    "comments": 56,
+    "points": 397,
+    "comments": 64,
     "discussion": "https://news.ycombinator.com/item?id=50141076"
    }
   },
@@ -204,33 +267,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T22:21:34Z",
-   "hot": 0.6,
-   "rank": 10,
+   "hot": 1.4,
+   "rank": 13,
    "metrics": {
-    "points": 31,
-    "comments": 2,
+    "points": 83,
+    "comments": 10,
     "discussion": "https://news.ycombinator.com/item?id=50125551"
    }
   },
   {
-   "rawId": "50136979",
-   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "rawId": "50147492",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "sciencealert.com"
+    "contextfirst.blog"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T01:38:08Z",
-   "hot": 6.1,
-   "rank": 11,
+   "publishedAt": "2026-10-19T02:01:16Z",
+   "hot": 11.0,
+   "rank": 14,
    "metrics": {
-    "points": 167,
-    "comments": 105,
-    "discussion": "https://news.ycombinator.com/item?id=50136979"
+    "points": 99,
+    "comments": 40,
+    "discussion": "https://news.ycombinator.com/item?id=50147492"
    }
   },
   {
@@ -246,12 +309,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T18:48:04Z",
-   "hot": 13.0,
-   "rank": 12,
+   "hot": 10.3,
+   "rank": 15,
    "metrics": {
-    "points": 132,
-    "comments": 28,
+    "points": 166,
+    "comments": 38,
     "discussion": "https://news.ycombinator.com/item?id=50144066"
+   }
+  },
+  {
+   "rawId": "50112204",
+   "title": "HOL Light Tutorial",
+   "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hol-light.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T00:33:14Z",
+   "hot": 0.1,
+   "rank": 16,
+   "metrics": {
+    "points": 6,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50112204"
+   }
+  },
+  {
+   "rawId": "50141436",
+   "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
+   "url": "https://ranet3.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ranet3.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T14:31:52Z",
+   "hot": 1.4,
+   "rank": 17,
+   "metrics": {
+    "points": 28,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50141436"
+   }
+  },
+  {
+   "rawId": "50146624",
+   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "csis.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T23:37:54Z",
+   "hot": 6.1,
+   "rank": 18,
+   "metrics": {
+    "points": 69,
+    "comments": 82,
+    "discussion": "https://news.ycombinator.com/item?id=50146624"
    }
   },
   {
@@ -267,75 +393,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T21:36:10Z",
-   "hot": 8.7,
-   "rank": 13,
+   "hot": 8.4,
+   "rank": 19,
    "metrics": {
-    "points": 64,
-    "comments": 38,
+    "points": 113,
+    "comments": 64,
     "discussion": "https://news.ycombinator.com/item?id=50145715"
-   }
-  },
-  {
-   "rawId": "50145507",
-   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jrdsgl.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T21:09:12Z",
-   "hot": 10.9,
-   "rank": 14,
-   "metrics": {
-    "points": 85,
-    "comments": 66,
-    "discussion": "https://news.ycombinator.com/item?id=50145507"
-   }
-  },
-  {
-   "rawId": "50143536",
-   "title": "PalmOS Lemmings",
-   "url": "https://github.com/ardiri/palmos-lemmings",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T17:56:59Z",
-   "hot": 9.6,
-   "rank": 15,
-   "metrics": {
-    "points": 106,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50143536"
-   }
-  },
-  {
-   "rawId": "50122058",
-   "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
-   "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "quentinkaiser.be"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T18:07:44Z",
-   "hot": 1.1,
-   "rank": 16,
-   "metrics": {
-    "points": 63,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50122058"
    }
   },
   {
@@ -351,75 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T22:26:47Z",
-   "hot": 3.9,
-   "rank": 17,
-   "metrics": {
-    "points": 120,
-    "comments": 94,
-    "discussion": "https://news.ycombinator.com/item?id=50135762"
-   }
-  },
-  {
-   "rawId": "50140383",
-   "title": "A new way to think about borrow checking (in reverse)",
-   "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "verdagon.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T12:11:13Z",
-   "hot": 2.1,
-   "rank": 18,
-   "metrics": {
-    "points": 36,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50140383"
-   }
-  },
-  {
-   "rawId": "50098148",
-   "title": "16-bit fully functional DIY magnetic core memory",
-   "url": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
-   "videoUrl": "https://www.youtube.com/watch?v=OJ1WYyO2jdY",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T01:51:02Z",
-   "hot": 0.5,
-   "rank": 19,
-   "metrics": {
-    "points": 48,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50098148"
-   }
-  },
-  {
-   "rawId": "50141579",
-   "title": "Java sealed classes and exhaustive pattern matching",
-   "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "neilmadden.blog"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T14:47:37Z",
-   "hot": 10.8,
+   "hot": 5.5,
    "rank": 20,
    "metrics": {
-    "points": 153,
-    "comments": 106,
-    "discussion": "https://news.ycombinator.com/item?id=50141579"
+    "points": 201,
+    "comments": 158,
+    "discussion": "https://news.ycombinator.com/item?id=50135762"
    }
   }
  ]
