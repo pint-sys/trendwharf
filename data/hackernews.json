@@ -1,10 +1,94 @@
 {
- "updated": "2026-10-19T10:59:17Z",
+ "updated": "2026-10-19T17:36:09Z",
  "source": "hackernews",
  "items": [
   {
+   "rawId": "50152307",
+   "title": "Wine Ported to OpenBSD",
+   "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "marc.info"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T13:35:34Z",
+   "hot": 73.1,
+   "rank": 1,
+   "metrics": {
+    "points": 293,
+    "comments": 77,
+    "discussion": "https://news.ycombinator.com/item?id=50152307"
+   }
+  },
+  {
+   "rawId": "50153630",
+   "title": "CERN and Mistral join forces to accelerate AI for science",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "home.cern"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T15:28:24Z",
+   "hot": 64.3,
+   "rank": 2,
+   "metrics": {
+    "points": 137,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50153630"
+   }
+  },
+  {
+   "rawId": "50153431",
+   "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+   "url": "https://netflixtechblog.com/ontology-driven-observability-building-an-end-to-end-knowledge-graph-at-netflix-scale-421392cf5adf",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "netflixtechblog.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T15:10:20Z",
+   "hot": 29.6,
+   "rank": 3,
+   "metrics": {
+    "points": 72,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50153431"
+   }
+  },
+  {
+   "rawId": "50150434",
+   "title": "Timestral: Mistral release time-series foundation models",
+   "url": "https://mistral.ai/news/timestral/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mistral.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T09:59:32Z",
+   "hot": 50.2,
+   "rank": 4,
+   "metrics": {
+    "points": 382,
+    "comments": 72,
+    "discussion": "https://news.ycombinator.com/item?id=50150434"
+   }
+  },
+  {
    "rawId": "50149392",
-   "title": "Linux 7.3 Released",
+   "title": "Linux 7.3",
    "url": "https://lwn.net/Articles/1101143/",
    "videoUrl": null,
    "category": "news",
@@ -15,375 +99,186 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T07:23:57Z",
-   "hot": 65.2,
-   "rank": 1,
+   "hot": 52.8,
+   "rank": 5,
    "metrics": {
-    "points": 234,
-    "comments": 107,
+    "points": 539,
+    "comments": 242,
     "discussion": "https://news.ycombinator.com/item?id=50149392"
    }
   },
   {
-   "rawId": "50145337",
-   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-   "url": "https://arxiv.org/abs/2610.18861",
+   "rawId": "50134472",
+   "title": "It's still OK to enjoy programming",
+   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "chriskiehl.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T20:48:14Z",
-   "hot": 28.6,
-   "rank": 2,
-   "metrics": {
-    "points": 406,
-    "comments": 199,
-    "discussion": "https://news.ycombinator.com/item?id=50145337"
-   }
-  },
-  {
-   "rawId": "50104874",
-   "title": "How to Train Your Robot",
-   "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "construction-physics.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T15:13:21Z",
-   "hot": 0.5,
-   "rank": 3,
-   "metrics": {
-    "points": 46,
-    "comments": 15,
-    "discussion": "https://news.ycombinator.com/item?id=50104874"
-   }
-  },
-  {
-   "rawId": "50146625",
-   "title": "William Gibson and the trademarking of cyberspace",
-   "url": "https://colo.to/cyberspace.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "colo.to"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T23:37:57Z",
-   "hot": 16.8,
-   "rank": 4,
-   "metrics": {
-    "points": 191,
-    "comments": 74,
-    "discussion": "https://news.ycombinator.com/item?id=50146625"
-   }
-  },
-  {
-   "rawId": "50131315",
-   "title": "Rabbits were a medieval royal luxury in England until the Black Death",
-   "url": "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "phys.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T14:07:36Z",
-   "hot": 2.0,
-   "rank": 5,
-   "metrics": {
-    "points": 91,
-    "comments": 84,
-    "discussion": "https://news.ycombinator.com/item?id=50131315"
-   }
-  },
-  {
-   "rawId": "50136150",
-   "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "videoUrl": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T23:26:35Z",
-   "hot": 10.9,
+   "publishedAt": "2026-10-17T19:53:20Z",
+   "hot": 2.6,
    "rank": 6,
    "metrics": {
-    "points": 386,
-    "comments": 471,
-    "discussion": "https://news.ycombinator.com/item?id=50136150"
+    "points": 121,
+    "comments": 124,
+    "discussion": "https://news.ycombinator.com/item?id=50134472"
    }
   },
   {
-   "rawId": "50145507",
-   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+   "rawId": "50150927",
+   "title": "Alternatives to Animal Testing Are Finally Taking Off",
+   "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "jrdsgl.com"
+    "spectrum.ieee.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T21:09:12Z",
-   "hot": 13.0,
+   "publishedAt": "2026-10-19T11:10:54Z",
+   "hot": 30.5,
    "rank": 7,
    "metrics": {
-    "points": 180,
-    "comments": 126,
-    "discussion": "https://news.ycombinator.com/item?id=50145507"
+    "points": 196,
+    "comments": 49,
+    "discussion": "https://news.ycombinator.com/item?id=50150927"
    }
   },
   {
-   "rawId": "50148855",
-   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-   "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "rawId": "50154029",
+   "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+   "url": "https://news.ycombinator.com/item?id=50154029",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "crystl.dev"
+    "Ask HN"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T05:55:31Z",
-   "hot": 7.7,
+   "publishedAt": "2026-10-19T16:00:18Z",
+   "hot": 11.3,
    "rank": 8,
    "metrics": {
-    "points": 39,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50148855"
+    "points": 18,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50154029"
    }
   },
   {
-   "rawId": "50142573",
-   "title": "Someone behind the software",
-   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+   "rawId": "50129102",
+   "title": "Galois Finite Fields and the Advanced Encryption Standard (AES)",
+   "url": "https://www.cs.uaf.edu/2015/spring/cs463/lecture/03_23_AES.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "karrisaarinen.com"
+    "cs.uaf.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T16:32:00Z",
-   "hot": 24.7,
+   "publishedAt": "2026-10-17T08:34:31Z",
+   "hot": 0.3,
    "rank": 9,
    "metrics": {
-    "points": 456,
-    "comments": 167,
-    "discussion": "https://news.ycombinator.com/item?id=50142573"
+    "points": 18,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50129102"
    }
   },
   {
-   "rawId": "50111537",
-   "title": "Laptop Based on 6502 CPU",
-   "url": "https://www.maddox.pro/?p=448",
+   "rawId": "50150809",
+   "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+   "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "maddox.pro"
+    "community.letsencrypt.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-15T22:56:23Z",
-   "hot": 1.7,
+   "publishedAt": "2026-10-19T10:53:39Z",
+   "hot": 26.1,
    "rank": 10,
    "metrics": {
-    "points": 139,
-    "comments": 61,
-    "discussion": "https://news.ycombinator.com/item?id=50111537"
+    "points": 175,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50150809"
    }
   },
   {
-   "rawId": "50136979",
-   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "rawId": "50153934",
+   "title": "Degraded availability for GitHub Actions, GitHub Pages and Webhooks",
+   "url": "https://www.githubstatus.com/incidents/8tzbpcnl75jp",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "sciencealert.com"
+    "githubstatus.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T01:38:08Z",
-   "hot": 7.6,
+   "publishedAt": "2026-10-19T15:52:26Z",
+   "hot": 62.5,
    "rank": 11,
    "metrics": {
-    "points": 253,
-    "comments": 149,
-    "discussion": "https://news.ycombinator.com/item?id=50136979"
+    "points": 108,
+    "comments": 82,
+    "discussion": "https://news.ycombinator.com/item?id=50153934"
    }
   },
   {
-   "rawId": "50141076",
-   "title": "RepRapMicron",
-   "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+   "rawId": "50151980",
+   "title": "Show HN: I built a task system to handle the drudgery so I could focus on tasks",
+   "url": "https://3anddoneapp.com/try",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "3anddoneapp.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T13:48:48Z",
-   "hot": 18.7,
+   "publishedAt": "2026-10-19T13:07:07Z",
+   "hot": 3.6,
    "rank": 12,
    "metrics": {
-    "points": 397,
-    "comments": 64,
-    "discussion": "https://news.ycombinator.com/item?id=50141076"
+    "points": 16,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50151980"
    }
   },
   {
-   "rawId": "50125551",
-   "title": "The DNS Museum",
-   "url": "https://dns.museum",
+   "rawId": "50155245",
+   "title": "Inception \"Mercury 3\", 1000 tok/s diffusion LLM",
+   "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "dns.museum"
+    "inceptionlabs.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-16T22:21:34Z",
-   "hot": 1.4,
+   "publishedAt": "2026-10-19T17:27:11Z",
+   "hot": 5.0,
    "rank": 13,
    "metrics": {
-    "points": 83,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50125551"
-   }
-  },
-  {
-   "rawId": "50147492",
-   "title": "Superlite: A Faster Alternatie to Superpowers",
-   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "contextfirst.blog"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T02:01:16Z",
-   "hot": 11.0,
-   "rank": 14,
-   "metrics": {
-    "points": 99,
-    "comments": 40,
-    "discussion": "https://news.ycombinator.com/item?id=50147492"
-   }
-  },
-  {
-   "rawId": "50144066",
-   "title": "Free Pascal compiler now supports dynamic packages",
-   "url": "https://www.getlazarus.org/dynamic/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "getlazarus.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T18:48:04Z",
-   "hot": 10.3,
-   "rank": 15,
-   "metrics": {
-    "points": 166,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50144066"
-   }
-  },
-  {
-   "rawId": "50112204",
-   "title": "HOL Light Tutorial",
-   "url": "https://hol-light.github.io/tutorial/HTML/tutorial.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "hol-light.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T00:33:14Z",
-   "hot": 0.1,
-   "rank": 16,
-   "metrics": {
-    "points": 6,
+    "points": 5,
     "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50112204"
+    "discussion": "https://news.ycombinator.com/item?id=50155245"
    }
   },
   {
-   "rawId": "50141436",
-   "title": "Show HN: Ranet3 – High performance policy routed IPsec mesh SD-WAN",
-   "url": "https://ranet3.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ranet3.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T14:31:52Z",
-   "hot": 1.4,
-   "rank": 17,
-   "metrics": {
-    "points": 28,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50141436"
-   }
-  },
-  {
-   "rawId": "50146624",
-   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
-   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "csis.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T23:37:54Z",
-   "hot": 6.1,
-   "rank": 18,
-   "metrics": {
-    "points": 69,
-    "comments": 82,
-    "discussion": "https://news.ycombinator.com/item?id=50146624"
-   }
-  },
-  {
-   "rawId": "50145715",
-   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-   "url": "https://github.com/finereli/whatsapp-mcp",
+   "rawId": "50152541",
+   "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+   "url": "https://github.com/kividbio/kividb",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -392,34 +287,118 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T21:36:10Z",
-   "hot": 8.4,
-   "rank": 19,
+   "publishedAt": "2026-10-19T13:53:52Z",
+   "hot": 13.2,
+   "rank": 14,
    "metrics": {
-    "points": 113,
-    "comments": 64,
-    "discussion": "https://news.ycombinator.com/item?id=50145715"
+    "points": 49,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50152541"
    }
   },
   {
-   "rawId": "50135762",
-   "title": "I built a programming language that LLMs can't use",
-   "url": "https://blog.picheta.me/post/killswitch-lang/",
+   "rawId": "50131749",
+   "title": "A death, a plagiarism scandal and a quest for revenge: the tale of Otto Z",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/08/a-death-a-plagiarism-scandal-and-a-quest-for-revenge-the-bizarre-tale-of-otto-z",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.picheta.me"
+    "theguardian.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-17T22:26:47Z",
-   "hot": 5.5,
-   "rank": 20,
+   "publishedAt": "2026-10-17T15:02:08Z",
+   "hot": 0.8,
+   "rank": 15,
    "metrics": {
-    "points": 201,
-    "comments": 158,
-    "discussion": "https://news.ycombinator.com/item?id=50135762"
+    "points": 39,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50131749"
+   }
+  },
+  {
+   "rawId": "50152321",
+   "title": "Plex vulnerabilities being exploited in the wild to drop a cryptominer",
+   "url": "http://www.boredhackerblog.info/2026/10/plex-vulnerabilities-being-exploited-in.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "boredhackerblog.info"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T13:36:43Z",
+   "hot": 10.3,
+   "rank": 16,
+   "metrics": {
+    "points": 41,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50152321"
+   }
+  },
+  {
+   "rawId": "50150935",
+   "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
+   "url": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "spectrum.ieee.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T11:12:02Z",
+   "hot": 8.7,
+   "rank": 17,
+   "metrics": {
+    "points": 56,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50150935"
+   }
+  },
+  {
+   "rawId": "50151928",
+   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+   "url": "https://100toolkit.com/blog/deslop-model/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "100toolkit.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T13:00:47Z",
+   "hot": 26.8,
+   "rank": 18,
+   "metrics": {
+    "points": 123,
+    "comments": 92,
+    "discussion": "https://news.ycombinator.com/item?id=50151928"
+   }
+  },
+  {
+   "rawId": "50124811",
+   "title": "Gdynia and the Dream of a Maritime Poland",
+   "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "engelsbergideas.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T21:13:08Z",
+   "hot": 1.3,
+   "rank": 19,
+   "metrics": {
+    "points": 92,
+    "comments": 28,
+    "discussion": "https://news.ycombinator.com/item?id=50124811"
    }
   }
  ]
