@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:16:35Z",
+ "updated": "2026-10-19T04:57:38Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,17 +15,17 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T20:48:14Z",
-   "hot": 46.9,
+   "hot": 35.2,
    "rank": 1,
    "metrics": {
-    "points": 163,
-    "comments": 98,
+    "points": 287,
+    "comments": 157,
     "discussion": "https://news.ycombinator.com/item?id=50145337"
    }
   },
   {
    "rawId": "50146625",
-   "title": "William Gibson and the Trademarking of Cyberspace",
+   "title": "William Gibson and the trademarking of cyberspace",
    "url": "https://colo.to/cyberspace.html",
    "videoUrl": null,
    "category": "news",
@@ -36,33 +36,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T23:37:57Z",
-   "hot": 9.0,
+   "hot": 20.5,
    "rank": 2,
    "metrics": {
-    "points": 9,
-    "comments": 2,
+    "points": 109,
+    "comments": 22,
     "discussion": "https://news.ycombinator.com/item?id=50146625"
-   }
-  },
-  {
-   "rawId": "50142573",
-   "title": "Someone behind the software",
-   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "karrisaarinen.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T16:32:00Z",
-   "hot": 37.3,
-   "rank": 3,
-   "metrics": {
-    "points": 289,
-    "comments": 117,
-    "discussion": "https://news.ycombinator.com/item?id=50142573"
    }
   },
   {
@@ -78,33 +57,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T23:26:35Z",
-   "hot": 4.9,
-   "rank": 4,
+   "hot": 8.6,
+   "rank": 3,
    "metrics": {
-    "points": 121,
-    "comments": 62,
+    "points": 254,
+    "comments": 290,
     "discussion": "https://news.ycombinator.com/item?id=50136150"
    }
   },
   {
-   "rawId": "50144066",
-   "title": "Free Pascal compiler now supports dynamic packages",
-   "url": "https://www.getlazarus.org/dynamic/",
+   "rawId": "50147492",
+   "title": "Superlite: A Faster Alternatie to Superpowers",
+   "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "getlazarus.org"
+    "contextfirst.blog"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-18T18:48:04Z",
-   "hot": 18.6,
+   "publishedAt": "2026-10-19T02:01:16Z",
+   "hot": 9.5,
+   "rank": 4,
+   "metrics": {
+    "points": 28,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50147492"
+   }
+  },
+  {
+   "rawId": "50142573",
+   "title": "Someone behind the software",
+   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "karrisaarinen.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T16:32:00Z",
+   "hot": 29.8,
    "rank": 5,
    "metrics": {
-    "points": 102,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50144066"
+    "points": 370,
+    "comments": 146,
+    "discussion": "https://news.ycombinator.com/item?id=50142573"
+   }
+  },
+  {
+   "rawId": "50148396",
+   "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+   "url": "https://github.com/strot-ai/Project-STROT",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T04:32:07Z",
+   "hot": 3.0,
+   "rank": 6,
+   "metrics": {
+    "points": 3,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50148396"
+   }
+  },
+  {
+   "rawId": "50111537",
+   "title": "Laptop Based on 6502 CPU",
+   "url": "https://www.maddox.pro/?p=448",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "maddox.pro"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T22:56:23Z",
+   "hot": 0.8,
+   "rank": 7,
+   "metrics": {
+    "points": 65,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50111537"
+   }
+  },
+  {
+   "rawId": "50146624",
+   "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+   "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "csis.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T23:37:54Z",
+   "hot": 7.9,
+   "rank": 8,
+   "metrics": {
+    "points": 42,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50146624"
    }
   },
   {
@@ -120,12 +183,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T13:48:48Z",
-   "hot": 31.0,
-   "rank": 6,
+   "hot": 23.4,
+   "rank": 9,
    "metrics": {
-    "points": 324,
-    "comments": 51,
+    "points": 354,
+    "comments": 56,
     "discussion": "https://news.ycombinator.com/item?id=50141076"
+   }
+  },
+  {
+   "rawId": "50125551",
+   "title": "The DNS Museum",
+   "url": "https://dns.museum",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dns.museum"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T22:21:34Z",
+   "hot": 0.6,
+   "rank": 10,
+   "metrics": {
+    "points": 31,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50125551"
    }
   },
   {
@@ -141,12 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T01:38:08Z",
-   "hot": 4.9,
-   "rank": 7,
+   "hot": 6.1,
+   "rank": 11,
    "metrics": {
-    "points": 110,
-    "comments": 73,
+    "points": 167,
+    "comments": 105,
     "discussion": "https://news.ycombinator.com/item?id=50136979"
+   }
+  },
+  {
+   "rawId": "50144066",
+   "title": "Free Pascal compiler now supports dynamic packages",
+   "url": "https://www.getlazarus.org/dynamic/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "getlazarus.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T18:48:04Z",
+   "hot": 13.0,
+   "rank": 12,
+   "metrics": {
+    "points": 132,
+    "comments": 28,
+    "discussion": "https://news.ycombinator.com/item?id=50144066"
    }
   },
   {
@@ -162,12 +267,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T21:36:10Z",
-   "hot": 10.1,
-   "rank": 8,
+   "hot": 8.7,
+   "rank": 13,
    "metrics": {
-    "points": 27,
-    "comments": 16,
+    "points": 64,
+    "comments": 38,
     "discussion": "https://news.ycombinator.com/item?id=50145715"
+   }
+  },
+  {
+   "rawId": "50145507",
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+   "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "jrdsgl.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T21:09:12Z",
+   "hot": 10.9,
+   "rank": 14,
+   "metrics": {
+    "points": 85,
+    "comments": 66,
+    "discussion": "https://news.ycombinator.com/item?id=50145507"
    }
   },
   {
@@ -183,33 +309,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T17:56:59Z",
-   "hot": 12.8,
-   "rank": 9,
+   "hot": 9.6,
+   "rank": 15,
    "metrics": {
-    "points": 81,
-    "comments": 22,
+    "points": 106,
+    "comments": 24,
     "discussion": "https://news.ycombinator.com/item?id=50143536"
-   }
-  },
-  {
-   "rawId": "50138531",
-   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-   "url": "https://api-docs.deepseek.com/guides/search/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "api-docs.deepseek.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T06:50:36Z",
-   "hot": 30.5,
-   "rank": 10,
-   "metrics": {
-    "points": 531,
-    "comments": 255,
-    "discussion": "https://news.ycombinator.com/item?id=50138531"
    }
   },
   {
@@ -225,33 +330,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-16T18:07:44Z",
-   "hot": 0.6,
-   "rank": 11,
+   "hot": 1.1,
+   "rank": 16,
    "metrics": {
-    "points": 35,
+    "points": 63,
     "comments": 9,
     "discussion": "https://news.ycombinator.com/item?id=50122058"
-   }
-  },
-  {
-   "rawId": "50123123",
-   "title": "\"Traditional, but Puzzling\"",
-   "url": "https://unsung.aresluna.org/traditional-but-puzzling/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "unsung.aresluna.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T19:17:23Z",
-   "hot": 0.2,
-   "rank": 12,
-   "metrics": {
-    "points": 12,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50123123"
    }
   },
   {
@@ -267,12 +351,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T22:26:47Z",
-   "hot": 2.3,
-   "rank": 13,
+   "hot": 3.9,
+   "rank": 17,
    "metrics": {
-    "points": 60,
-    "comments": 57,
+    "points": 120,
+    "comments": 94,
     "discussion": "https://news.ycombinator.com/item?id=50135762"
+   }
+  },
+  {
+   "rawId": "50140383",
+   "title": "A new way to think about borrow checking (in reverse)",
+   "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "verdagon.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T12:11:13Z",
+   "hot": 2.1,
+   "rank": 18,
+   "metrics": {
+    "points": 36,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50140383"
    }
   },
   {
@@ -288,11 +393,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-15T01:51:02Z",
-   "hot": 0.2,
-   "rank": 14,
+   "hot": 0.5,
+   "rank": 19,
    "metrics": {
-    "points": 23,
-    "comments": 12,
+    "points": 48,
+    "comments": 18,
     "discussion": "https://news.ycombinator.com/item?id=50098148"
    }
   },
@@ -309,117 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T14:47:37Z",
-   "hot": 13.7,
-   "rank": 15,
-   "metrics": {
-    "points": 130,
-    "comments": 101,
-    "discussion": "https://news.ycombinator.com/item?id=50141579"
-   }
-  },
-  {
-   "rawId": "50140383",
-   "title": "A new way to think about borrow checking (in reverse)",
-   "url": "https://verdagon.dev/blog/reverse-borrow-checking",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "verdagon.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T12:11:13Z",
-   "hot": 0.8,
-   "rank": 16,
-   "metrics": {
-    "points": 10,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50140383"
-   }
-  },
-  {
-   "rawId": "50142449",
-   "title": "The Intel 8087 chip: floating-point addition and subtraction",
-   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "righto.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T16:20:27Z",
    "hot": 10.8,
-   "rank": 17,
-   "metrics": {
-    "points": 86,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50142449"
-   }
-  },
-  {
-   "rawId": "50096110",
-   "title": "SIGSALY: Churchill's top secret hotline to the president",
-   "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "iwm.org.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-14T22:07:47Z",
-   "hot": 1.1,
-   "rank": 18,
-   "metrics": {
-    "points": 105,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50096110"
-   }
-  },
-  {
-   "rawId": "50142866",
-   "title": "Namecheap just seized and disabled all my domains",
-   "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reddit.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T16:56:56Z",
-   "hot": 54.5,
-   "rank": 19,
-   "metrics": {
-    "points": 399,
-    "comments": 190,
-    "discussion": "https://news.ycombinator.com/item?id=50142866"
-   }
-  },
-  {
-   "rawId": "50118165",
-   "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
-   "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nytimes.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T13:30:20Z",
-   "hot": 1.1,
    "rank": 20,
    "metrics": {
-    "points": 63,
-    "comments": 87,
-    "discussion": "https://news.ycombinator.com/item?id=50118165"
+    "points": 153,
+    "comments": 106,
+    "discussion": "https://news.ycombinator.com/item?id=50141579"
    }
   }
  ]
