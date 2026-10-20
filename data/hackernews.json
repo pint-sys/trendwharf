@@ -1,26 +1,89 @@
 {
- "updated": "2026-10-20T01:56:37Z",
+ "updated": "2026-10-20T07:47:09Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50159993",
-   "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-   "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+   "rawId": "50141581",
+   "title": "Nordwand Mono – A monospace font for coders and adventurers",
+   "url": "https://github.com/tywr/Nordwand-Mono",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "efe.com"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T00:53:52Z",
-   "hot": 68.8,
+   "publishedAt": "2026-10-18T14:48:01Z",
+   "hot": 3.3,
    "rank": 1,
    "metrics": {
-    "points": 72,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50159993"
+    "points": 134,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50141581"
+   }
+  },
+  {
+   "rawId": "50160494",
+   "title": "OpenBSD 8.0",
+   "url": "https://www.openbsd.org/80.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "openbsd.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T02:06:40Z",
+   "hot": 41.1,
+   "rank": 2,
+   "metrics": {
+    "points": 233,
+    "comments": 66,
+    "discussion": "https://news.ycombinator.com/item?id=50160494"
+   }
+  },
+  {
+   "rawId": "50159341",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "redact.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T23:22:18Z",
+   "hot": 41.0,
+   "rank": 3,
+   "metrics": {
+    "points": 345,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50159341"
+   }
+  },
+  {
+   "rawId": "50140111",
+   "title": "Restoration of Retinal Regenerative Potential",
+   "url": "https://www.nature.com/articles/s41467-025-58290-8",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nature.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T11:32:38Z",
+   "hot": 0.6,
+   "rank": 4,
+   "metrics": {
+    "points": 26,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50140111"
    }
   },
   {
@@ -36,12 +99,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T16:39:09Z",
-   "hot": 41.4,
-   "rank": 2,
+   "hot": 29.8,
+   "rank": 5,
    "metrics": {
-    "points": 385,
-    "comments": 165,
+    "points": 451,
+    "comments": 192,
     "discussion": "https://news.ycombinator.com/item?id=50154540"
+   }
+  },
+  {
+   "rawId": "50154244",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reuters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T16:16:46Z",
+   "hot": 11.9,
+   "rank": 6,
+   "metrics": {
+    "points": 184,
+    "comments": 159,
+    "discussion": "https://news.ycombinator.com/item?id=50154244"
+   }
+  },
+  {
+   "rawId": "50160877",
+   "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+   "url": "https://github.com/golang/go/issues/82345",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T03:05:07Z",
+   "hot": 15.7,
+   "rank": 7,
+   "metrics": {
+    "points": 74,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50160877"
+   }
+  },
+  {
+   "rawId": "50162198",
+   "title": "Vite+ an excellent toolchain for AI agent development",
+   "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "janmichalek.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T06:40:49Z",
+   "hot": 20.8,
+   "rank": 8,
+   "metrics": {
+    "points": 23,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50162198"
    }
   },
   {
@@ -57,11 +183,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T00:00:49Z",
-   "hot": 31.6,
-   "rank": 3,
+   "hot": 17.5,
+   "rank": 9,
    "metrics": {
-    "points": 61,
-    "comments": 54,
+    "points": 136,
+    "comments": 112,
     "discussion": "https://news.ycombinator.com/item?id=50159616"
    }
   },
@@ -78,54 +204,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T09:05:07Z",
-   "hot": 23.2,
-   "rank": 4,
+   "hot": 22.4,
+   "rank": 10,
    "metrics": {
-    "points": 391,
-    "comments": 82,
+    "points": 508,
+    "comments": 109,
     "discussion": "https://news.ycombinator.com/item?id=50150089"
-   }
-  },
-  {
-   "rawId": "50152307",
-   "title": "Wine ported to OpenBSD",
-   "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "marc.info"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T13:35:34Z",
-   "hot": 40.9,
-   "rank": 5,
-   "metrics": {
-    "points": 505,
-    "comments": 168,
-    "discussion": "https://news.ycombinator.com/item?id=50152307"
-   }
-  },
-  {
-   "rawId": "50158138",
-   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-   "url": "https://bsd.network/@brynet/117407035545900963",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bsd.network"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T21:11:45Z",
-   "hot": 19.0,
-   "rank": 6,
-   "metrics": {
-    "points": 90,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50158138"
    }
   },
   {
@@ -141,33 +225,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T12:39:56Z",
-   "hot": 1.6,
-   "rank": 7,
+   "hot": 4.0,
+   "rank": 11,
    "metrics": {
-    "points": 58,
-    "comments": 4,
+    "points": 171,
+    "comments": 11,
     "discussion": "https://news.ycombinator.com/item?id=50140584"
    }
   },
   {
-   "rawId": "50136126",
-   "title": "RuneScape Bench: MMOs for Agents [video]",
-   "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-   "videoUrl": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+   "rawId": "50158942",
+   "title": "An ad-free Android TV",
+   "url": "https://cretezy.com/2026/ad-free-android-tv",
+   "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "youtube.com"
+    "cretezy.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-17T23:24:05Z",
-   "hot": 3.1,
-   "rank": 8,
+   "publishedAt": "2026-10-19T22:32:37Z",
+   "hot": 17.9,
+   "rank": 12,
    "metrics": {
-    "points": 156,
-    "comments": 64,
-    "discussion": "https://news.ycombinator.com/item?id=50136126"
+    "points": 165,
+    "comments": 48,
+    "discussion": "https://news.ycombinator.com/item?id=50158942"
+   }
+  },
+  {
+   "rawId": "50152307",
+   "title": "Wine ported to OpenBSD",
+   "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "marc.info"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T13:35:34Z",
+   "hot": 30.3,
+   "rank": 13,
+   "metrics": {
+    "points": 551,
+    "comments": 184,
+    "discussion": "https://news.ycombinator.com/item?id=50152307"
    }
   },
   {
@@ -183,96 +288,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T19:53:20Z",
-   "hot": 8.2,
-   "rank": 9,
+   "hot": 9.4,
+   "rank": 14,
    "metrics": {
-    "points": 445,
-    "comments": 418,
+    "points": 565,
+    "comments": 494,
     "discussion": "https://news.ycombinator.com/item?id=50134472"
-   }
-  },
-  {
-   "rawId": "50154624",
-   "title": "Android apps running native on macOS",
-   "url": "https://github.com/kksimp/Mac.apk",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T16:45:30Z",
-   "hot": 28.2,
-   "rank": 10,
-   "metrics": {
-    "points": 259,
-    "comments": 135,
-    "discussion": "https://news.ycombinator.com/item?id=50154624"
-   }
-  },
-  {
-   "rawId": "50157865",
-   "title": "One Hash Bloom Filters",
-   "url": "https://calabro.io/ohbf",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "calabro.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T20:50:08Z",
-   "hot": 10.4,
-   "rank": 11,
-   "metrics": {
-    "points": 53,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50157865"
-   }
-  },
-  {
-   "rawId": "50135177",
-   "title": "What If Video Games Came on VHS? One Modder Is Finding Out",
-   "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "gardinerbryant.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T21:12:16Z",
-   "hot": 0.2,
-   "rank": 12,
-   "metrics": {
-    "points": 9,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50135177"
-   }
-  },
-  {
-   "rawId": "50158100",
-   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-   "url": "https://josie.lol/blog/linux-rtx-spark",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "josie.lol"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T21:08:18Z",
-   "hot": 38.1,
-   "rank": 13,
-   "metrics": {
-    "points": 183,
-    "comments": 79,
-    "discussion": "https://news.ycombinator.com/item?id=50158100"
    }
   },
   {
@@ -288,38 +309,101 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T15:31:34Z",
-   "hot": 11.4,
-   "rank": 14,
+   "hot": 15.3,
+   "rank": 15,
    "metrics": {
-    "points": 119,
-    "comments": 101,
+    "points": 248,
+    "comments": 172,
     "discussion": "https://news.ycombinator.com/item?id=50153664"
    }
   },
   {
-   "rawId": "50150434",
-   "title": "Timestral: Mistral's time-series foundation models",
-   "url": "https://mistral.ai/news/timestral/",
+   "rawId": "50158138",
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "url": "https://bsd.network/@brynet/117407035545900963",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mistral.ai"
+    "bsd.network"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T09:59:32Z",
-   "hot": 34.7,
-   "rank": 15,
+   "publishedAt": "2026-10-19T21:11:45Z",
+   "hot": 13.9,
+   "rank": 16,
    "metrics": {
-    "points": 554,
-    "comments": 104,
-    "discussion": "https://news.ycombinator.com/item?id=50150434"
+    "points": 147,
+    "comments": 31,
+    "discussion": "https://news.ycombinator.com/item?id=50158138"
+   }
+  },
+  {
+   "rawId": "50152466",
+   "title": "Maxwell: A new kind of model that sits between code and hardware",
+   "url": "https://heymaxwell.ai/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "heymaxwell.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T13:47:56Z",
+   "hot": 2.7,
+   "rank": 17,
+   "metrics": {
+    "points": 49,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50152466"
+   }
+  },
+  {
+   "rawId": "50136126",
+   "title": "RuneScape Bench: MMOs for Agents [video]",
+   "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+   "videoUrl": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T23:24:05Z",
+   "hot": 3.3,
+   "rank": 18,
+   "metrics": {
+    "points": 188,
+    "comments": 67,
+    "discussion": "https://news.ycombinator.com/item?id=50136126"
+   }
+  },
+  {
+   "rawId": "50134809",
+   "title": "How Do Fungi Keep the Planet Healthy?",
+   "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "quantamagazine.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T20:27:22Z",
+   "hot": 0.7,
+   "rank": 19,
+   "metrics": {
+    "points": 42,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50134809"
    }
   },
   {
    "rawId": "50159245",
-   "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+   "title": "How abliterated models can get you pwned",
    "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
    "videoUrl": null,
    "category": "news",
@@ -330,96 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T23:08:52Z",
-   "hot": 11.1,
-   "rank": 16,
-   "metrics": {
-    "points": 31,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50159245"
-   }
-  },
-  {
-   "rawId": "50147233",
-   "title": "Starcraft: Ashfall",
-   "url": "https://starcraft-shooter-2026.pages.dev/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "starcraft-shooter-2026.pages.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T01:18:02Z",
-   "hot": 12.9,
-   "rank": 17,
-   "metrics": {
-    "points": 319,
-    "comments": 108,
-    "discussion": "https://news.ycombinator.com/item?id=50147233"
-   }
-  },
-  {
-   "rawId": "50150927",
-   "title": "Alternatives to animal testing are finally taking off",
-   "url": "https://spectrum.ieee.org/alternatives-to-animal-testing",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "spectrum.ieee.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T11:10:54Z",
-   "hot": 21.8,
-   "rank": 18,
-   "metrics": {
-    "points": 322,
-    "comments": 97,
-    "discussion": "https://news.ycombinator.com/item?id=50150927"
-   }
-  },
-  {
-   "rawId": "50134359",
-   "title": "The fire retardant in the seafood chain",
-   "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "insideclimatenews.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T19:37:54Z",
-   "hot": 2.0,
-   "rank": 19,
-   "metrics": {
-    "points": 111,
-    "comments": 36,
-    "discussion": "https://news.ycombinator.com/item?id=50134359"
-   }
-  },
-  {
-   "rawId": "50151036",
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "url": "https://news.ycombinator.com/item?id=50151036",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T11:24:34Z",
-   "hot": 18.6,
+   "hot": 11.9,
    "rank": 20,
    "metrics": {
-    "points": 271,
-    "comments": 410,
-    "discussion": "https://news.ycombinator.com/item?id=50151036"
+    "points": 103,
+    "comments": 64,
+    "discussion": "https://news.ycombinator.com/item?id=50159245"
    }
   }
  ]
