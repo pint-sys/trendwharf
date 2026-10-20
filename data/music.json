@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:42:26Z",
+ "updated": "2026-10-20T18:33:33Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -73,29 +73,6 @@
    }
   },
   {
-   "rawId": "6818209989",
-   "title": "Solar Eclipse",
-   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
-   "category": "music",
-   "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#4 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 22,
-   "rank": 4,
-   "metrics": {
-    "artist": "Drake & Don Toliver",
-    "rank": 4,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-   }
-  },
-  {
    "rawId": "1844932150",
    "title": "Choosin' Texas",
    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
@@ -103,19 +80,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#5 on Apple Music's most-played songs (US).",
+   "summary": "#4 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
    "publishedAt": "2025-10-17T00:00:00Z",
+   "hot": 22,
+   "rank": 4,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 4,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
+   "rawId": "6818209989",
+   "title": "Solar Eclipse",
+   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#5 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
    "hot": 21,
    "rank": 5,
    "metrics": {
-    "artist": "Ella Langley",
+    "artist": "Drake & Don Toliver",
     "rank": 5,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
    }
   },
   {
@@ -234,6 +234,52 @@
    }
   },
   {
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#11 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
+   "hot": 15,
+   "rank": 11,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 11,
+    "change": 5
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+   }
+  },
+  {
+   "rawId": "6822944293",
+   "title": "Robot Killed The Working Man",
+   "url": "https://music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#12 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 14,
+   "rank": 12,
+   "metrics": {
+    "artist": "Zach Bryan",
+    "rank": 12,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293"
+   }
+  },
+  {
    "rawId": "6779097534",
    "title": "stupid song",
    "url": "https://music.apple.com/us/album/stupid-song/6779097512?i=6779097534",
@@ -241,15 +287,15 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#11 on Apple Music's most-played songs (US).",
+   "summary": "#13 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-06-12T00:00:00Z",
-   "hot": 15,
-   "rank": 11,
+   "hot": 13,
+   "rank": 13,
    "metrics": {
     "artist": "Olivia Rodrigo",
-    "rank": 11,
-    "change": 1
+    "rank": 13,
+    "change": -2
    },
    "embed": {
     "kind": "music",
@@ -264,15 +310,15 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
+   "summary": "#14 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/62/58/98/62589807-decc-d418-eb07-5060de9a2d3e/26UMGIM63617.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
+   "hot": 12,
+   "rank": 14,
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
-    "rank": 12,
-    "change": 1
+    "rank": 14,
+    "change": -2
    },
    "embed": {
     "kind": "music",
@@ -287,42 +333,19 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#15 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-05-22T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
+   "hot": 11,
+   "rank": 15,
    "metrics": {
     "artist": "Olivia Rodrigo",
-    "rank": 13,
-    "change": 2
+    "rank": 15,
+    "change": -2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/the-cure/1889992111?i=1889992123"
-   }
-  },
-  {
-   "rawId": "6822944293",
-   "title": "Robot Killed The Working Man",
-   "url": "https://music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#14 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 12,
-   "rank": 14,
-   "metrics": {
-    "artist": "Zach Bryan",
-    "rank": 14,
-    "change": -3
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293"
    }
   },
   {
@@ -333,42 +356,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
+   "summary": "#16 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
+   "hot": 10,
+   "rank": 16,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 15,
-    "change": 1
+    "rank": 16,
+    "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
-   }
-  },
-  {
-   "rawId": "6812477290",
-   "title": "Last Thing You Need",
-   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-17T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 16,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
    }
   },
   {
@@ -433,57 +433,11 @@
    "metrics": {
     "artist": "The Weeknd",
     "rank": 19,
-    "change": 4
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/wicked-games/1550877895?i=1550878110"
-   }
-  },
-  {
-   "rawId": "6822390426",
-   "title": "expectations",
-   "url": "https://music.apple.com/us/album/expectations/6822390423?i=6822390426",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "Olivia Rodrigo & Chappell Roan",
-    "rank": 20,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/expectations/6822390423?i=6822390426"
-   }
-  },
-  {
-   "rawId": "1453336216",
-   "title": "Best I Ever Had",
-   "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
-   "metrics": {
-    "artist": "Drake",
-    "rank": 21,
-    "change": 3
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
    }
   },
   {
@@ -494,15 +448,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 22,
-    "change": -3
+    "rank": 20,
+    "change": 2
    },
    "embed": {
     "kind": "music",
@@ -517,19 +471,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
+   "summary": "#21 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
+   "hot": 5,
+   "rank": 21,
    "metrics": {
     "artist": "Zach Bryan & Turnpike Troubadours",
-    "rank": 23,
-    "change": -3
+    "rank": 21,
+    "change": 2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/plainsman-feat-turnpike-troubadours/6822944288?i=6822944302"
+   }
+  },
+  {
+   "rawId": "6814997425",
+   "title": "Patient Zero",
+   "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-24T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
+   "metrics": {
+    "artist": "Taylor Swift",
+    "rank": 22,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
    }
   },
   {
@@ -540,15 +517,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
+   "summary": "#23 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "hot": 3,
+   "rank": 23,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 24,
-    "change": -2
+    "rank": 23,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -556,26 +533,49 @@
    }
   },
   {
-   "rawId": "1621803969",
-   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "rawId": "1453336216",
+   "title": "Best I Ever Had",
+   "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216",
    "category": "music",
    "tags": [
     "Hip-Hop/Rap"
    ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2009-02-13T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 24,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
+   }
+  },
+  {
+   "rawId": "1802103970",
+   "title": "I'm The Problem",
+   "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
    "summary": "#25 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
-   "publishedAt": "2022-05-02T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2025-01-31T00:00:00Z",
    "hot": 1,
    "rank": 25,
    "metrics": {
-    "artist": "Future",
+    "artist": "Morgan Wallen",
     "rank": 25,
     "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
    }
   }
  ]
