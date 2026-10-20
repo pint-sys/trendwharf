@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-19T22:30:36Z",
+ "updated": "2026-10-20T01:56:37Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50158100",
-   "title": "Putting Linux on my RTX spark laptop because I don't have a Microsoft account",
-   "url": "https://josie.lol/blog/linux-rtx-spark",
+   "rawId": "50159993",
+   "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+   "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "josie.lol"
+    "efe.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T21:08:18Z",
-   "hot": 76.5,
+   "publishedAt": "2026-10-20T00:53:52Z",
+   "hot": 68.8,
    "rank": 1,
    "metrics": {
-    "points": 105,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50158100"
+    "points": 72,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50159993"
    }
   },
   {
@@ -36,12 +36,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T16:39:09Z",
-   "hot": 53.4,
+   "hot": 41.4,
    "rank": 2,
    "metrics": {
-    "points": 313,
-    "comments": 130,
+    "points": 385,
+    "comments": 165,
     "discussion": "https://news.ycombinator.com/item?id=50154540"
+   }
+  },
+  {
+   "rawId": "50159616",
+   "title": "France's supermarket fridges were vulnerable online for months",
+   "url": "https://ipinfo.io/blog/france-fridges-hack",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ipinfo.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T00:00:49Z",
+   "hot": 31.6,
+   "rank": 3,
+   "metrics": {
+    "points": 61,
+    "comments": 54,
+    "discussion": "https://news.ycombinator.com/item?id=50159616"
    }
   },
   {
@@ -57,33 +78,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T09:05:07Z",
-   "hot": 20.0,
-   "rank": 3,
-   "metrics": {
-    "points": 268,
-    "comments": 48,
-    "discussion": "https://news.ycombinator.com/item?id=50150089"
-   }
-  },
-  {
-   "rawId": "50156206",
-   "title": "The reverts will continue until morale improves",
-   "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "peter.eisentraut.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T18:42:32Z",
-   "hot": 39.5,
+   "hot": 23.2,
    "rank": 4,
    "metrics": {
-    "points": 150,
-    "comments": 22,
-    "discussion": "https://news.ycombinator.com/item?id=50156206"
+    "points": 391,
+    "comments": 82,
+    "discussion": "https://news.ycombinator.com/item?id=50150089"
    }
   },
   {
@@ -99,11 +99,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T13:35:34Z",
-   "hot": 52.4,
+   "hot": 40.9,
    "rank": 5,
    "metrics": {
-    "points": 467,
-    "comments": 154,
+    "points": 505,
+    "comments": 168,
     "discussion": "https://news.ycombinator.com/item?id=50152307"
    }
   },
@@ -120,54 +120,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T21:11:45Z",
-   "hot": 24.4,
+   "hot": 19.0,
    "rank": 6,
    "metrics": {
-    "points": 32,
-    "comments": 6,
+    "points": 90,
+    "comments": 11,
     "discussion": "https://news.ycombinator.com/item?id=50158138"
    }
   },
   {
-   "rawId": "50154624",
-   "title": "Android apps running native on macOS",
-   "url": "https://github.com/kksimp/Mac.apk",
+   "rawId": "50140584",
+   "title": "Weball: Play Katamari on Websites",
+   "url": "https://www.funwithcomputervision.com/weball/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "funwithcomputervision.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T16:45:30Z",
-   "hot": 37.0,
+   "publishedAt": "2026-10-18T12:39:56Z",
+   "hot": 1.6,
    "rank": 7,
    "metrics": {
-    "points": 213,
-    "comments": 95,
-    "discussion": "https://news.ycombinator.com/item?id=50154624"
-   }
-  },
-  {
-   "rawId": "50134472",
-   "title": "It's still ok to enjoy programming",
-   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "chriskiehl.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T19:53:20Z",
-   "hot": 7.2,
-   "rank": 8,
-   "metrics": {
-    "points": 362,
-    "comments": 355,
-    "discussion": "https://news.ycombinator.com/item?id=50134472"
+    "points": 58,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50140584"
    }
   },
   {
@@ -183,33 +162,138 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-17T23:24:05Z",
-   "hot": 2.6,
-   "rank": 9,
+   "hot": 3.1,
+   "rank": 8,
    "metrics": {
-    "points": 121,
-    "comments": 50,
+    "points": 156,
+    "comments": 64,
     "discussion": "https://news.ycombinator.com/item?id=50136126"
    }
   },
   {
-   "rawId": "50134359",
-   "title": "The fire retardant in the seafood chain",
-   "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+   "rawId": "50134472",
+   "title": "It's still ok to enjoy programming",
+   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "insideclimatenews.org"
+    "chriskiehl.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-17T19:37:54Z",
-   "hot": 1.7,
+   "publishedAt": "2026-10-17T19:53:20Z",
+   "hot": 8.2,
+   "rank": 9,
+   "metrics": {
+    "points": 445,
+    "comments": 418,
+    "discussion": "https://news.ycombinator.com/item?id=50134472"
+   }
+  },
+  {
+   "rawId": "50154624",
+   "title": "Android apps running native on macOS",
+   "url": "https://github.com/kksimp/Mac.apk",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T16:45:30Z",
+   "hot": 28.2,
    "rank": 10,
    "metrics": {
-    "points": 84,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50134359"
+    "points": 259,
+    "comments": 135,
+    "discussion": "https://news.ycombinator.com/item?id=50154624"
+   }
+  },
+  {
+   "rawId": "50157865",
+   "title": "One Hash Bloom Filters",
+   "url": "https://calabro.io/ohbf",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "calabro.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T20:50:08Z",
+   "hot": 10.4,
+   "rank": 11,
+   "metrics": {
+    "points": 53,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50157865"
+   }
+  },
+  {
+   "rawId": "50135177",
+   "title": "What If Video Games Came on VHS? One Modder Is Finding Out",
+   "url": "https://gardinerbryant.com/what-if-video-games-came-on-vhs/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "gardinerbryant.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T21:12:16Z",
+   "hot": 0.2,
+   "rank": 12,
+   "metrics": {
+    "points": 9,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50135177"
+   }
+  },
+  {
+   "rawId": "50158100",
+   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+   "url": "https://josie.lol/blog/linux-rtx-spark",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "josie.lol"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T21:08:18Z",
+   "hot": 38.1,
+   "rank": 13,
+   "metrics": {
+    "points": 183,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50158100"
+   }
+  },
+  {
+   "rawId": "50153664",
+   "title": "Ukraine claims first drone evacuation of wounded soldier",
+   "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nbcnews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T15:31:34Z",
+   "hot": 11.4,
+   "rank": 14,
+   "metrics": {
+    "points": 119,
+    "comments": 101,
+    "discussion": "https://news.ycombinator.com/item?id=50153664"
    }
   },
   {
@@ -225,33 +309,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T09:59:32Z",
-   "hot": 41.0,
-   "rank": 11,
+   "hot": 34.7,
+   "rank": 15,
    "metrics": {
-    "points": 513,
-    "comments": 96,
+    "points": 554,
+    "comments": 104,
     "discussion": "https://news.ycombinator.com/item?id=50150434"
    }
   },
   {
-   "rawId": "50158131",
-   "title": "Diablo 2 Survivors",
-   "url": "https://d2survivors.lol/",
+   "rawId": "50159245",
+   "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+   "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "d2survivors.lol"
+    "projectdiscovery.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T21:10:57Z",
-   "hot": 14.3,
-   "rank": 12,
+   "publishedAt": "2026-10-19T23:08:52Z",
+   "hot": 11.1,
+   "rank": 16,
    "metrics": {
-    "points": 19,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50158131"
+    "points": 31,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50159245"
    }
   },
   {
@@ -267,11 +351,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T01:18:02Z",
-   "hot": 10.8,
-   "rank": 13,
+   "hot": 12.9,
+   "rank": 17,
    "metrics": {
-    "points": 229,
-    "comments": 77,
+    "points": 319,
+    "comments": 108,
     "discussion": "https://news.ycombinator.com/item?id=50147233"
    }
   },
@@ -288,12 +372,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T11:10:54Z",
-   "hot": 25.9,
-   "rank": 14,
+   "hot": 21.8,
+   "rank": 18,
    "metrics": {
-    "points": 293,
-    "comments": 91,
+    "points": 322,
+    "comments": 97,
     "discussion": "https://news.ycombinator.com/item?id=50150927"
+   }
+  },
+  {
+   "rawId": "50134359",
+   "title": "The fire retardant in the seafood chain",
+   "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "insideclimatenews.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T19:37:54Z",
+   "hot": 2.0,
+   "rank": 19,
+   "metrics": {
+    "points": 111,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50134359"
    }
   },
   {
@@ -309,96 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T11:24:34Z",
-   "hot": 15.9,
-   "rank": 15,
+   "hot": 18.6,
+   "rank": 20,
    "metrics": {
-    "points": 177,
-    "comments": 288,
+    "points": 271,
+    "comments": 410,
     "discussion": "https://news.ycombinator.com/item?id=50151036"
-   }
-  },
-  {
-   "rawId": "50121834",
-   "title": "Credit where credit is due",
-   "url": "https://thefloatingcontinent.com/blog/credit-is-due/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thefloatingcontinent.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-16T17:53:05Z",
-   "hot": 0.6,
-   "rank": 16,
-   "metrics": {
-    "points": 44,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50121834"
-   }
-  },
-  {
-   "rawId": "50147462",
-   "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-   "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "simpleflying.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T01:56:39Z",
-   "hot": 4.1,
-   "rank": 17,
-   "metrics": {
-    "points": 84,
-    "comments": 68,
-    "discussion": "https://news.ycombinator.com/item?id=50147462"
-   }
-  },
-  {
-   "rawId": "50154029",
-   "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-   "url": "https://news.ycombinator.com/item?id=50154029",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T16:00:18Z",
-   "hot": 6.0,
-   "rank": 18,
-   "metrics": {
-    "points": 39,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50154029"
-   }
-  },
-  {
-   "rawId": "50152976",
-   "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
-   "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "stealthium.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T14:31:27Z",
-   "hot": 1.5,
-   "rank": 19,
-   "metrics": {
-    "points": 12,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50152976"
    }
   }
  ]

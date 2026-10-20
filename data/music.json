@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T22:30:36Z",
+ "updated": "2026-10-20T01:56:37Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -73,29 +73,6 @@
    }
   },
   {
-   "rawId": "6818209989",
-   "title": "Solar Eclipse",
-   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
-   "category": "music",
-   "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#4 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 22,
-   "rank": 4,
-   "metrics": {
-    "artist": "Drake & Don Toliver",
-    "rank": 4,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-   }
-  },
-  {
    "rawId": "6796864754",
    "title": "BbY WOW",
    "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
@@ -103,19 +80,42 @@
    "tags": [
     "Latin"
    ],
-   "summary": "#5 on Apple Music's most-played songs (US).",
+   "summary": "#4 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-08-05T00:00:00Z",
-   "hot": 21,
-   "rank": 5,
+   "hot": 22,
+   "rank": 4,
    "metrics": {
     "artist": "KAROL G, Judeline & rusowsky",
-    "rank": 5,
-    "change": 0
+    "rank": 4,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+   }
+  },
+  {
+   "rawId": "6818209989",
+   "title": "Solar Eclipse",
+   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#5 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 21,
+   "rank": 5,
+   "metrics": {
+    "artist": "Drake & Don Toliver",
+    "rank": 5,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
    }
   },
   {
@@ -188,29 +188,6 @@
    }
   },
   {
-   "rawId": "6769568596",
-   "title": "Janice STFU",
-   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-15T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
-   "metrics": {
-    "artist": "Drake",
-    "rank": 9,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-   }
-  },
-  {
    "rawId": "6792676860",
    "title": "Been By Now",
    "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
@@ -218,19 +195,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
+   "summary": "#9 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-07-24T00:00:00Z",
-   "hot": 16,
-   "rank": 10,
+   "hot": 17,
+   "rank": 9,
    "metrics": {
     "artist": "Morgan Wallen",
-    "rank": 10,
-    "change": 0
+    "rank": 9,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+   }
+  },
+  {
+   "rawId": "6769568596",
+   "title": "Janice STFU",
+   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#10 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-15T00:00:00Z",
+   "hot": 16,
+   "rank": 10,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 10,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
    }
   },
   {
@@ -318,80 +318,11 @@
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
     "rank": 14,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/cold-shoulder/6818059268?i=6818059600"
-   }
-  },
-  {
-   "rawId": "1648587330",
-   "title": "In A Minute",
-   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 15,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
-   }
-  },
-  {
-   "rawId": "1889992123",
-   "title": "the cure",
-   "url": "https://music.apple.com/us/album/the-cure/1889992111?i=1889992123",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-22T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
-   "metrics": {
-    "artist": "Olivia Rodrigo",
-    "rank": 16,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/the-cure/1889992111?i=1889992123"
-   }
-  },
-  {
-   "rawId": "1440929293",
-   "title": "Freestyle",
-   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2017-12-01T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 17,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
    }
   },
   {
@@ -402,15 +333,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#18 on Apple Music's most-played songs (US).",
+   "summary": "#15 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 8,
-   "rank": 18,
+   "hot": 11,
+   "rank": 15,
    "metrics": {
     "artist": "Zach Bryan & Turnpike Troubadours",
-    "rank": 18,
-    "change": 1
+    "rank": 15,
+    "change": 3
    },
    "embed": {
     "kind": "music",
@@ -418,26 +349,26 @@
    }
   },
   {
-   "rawId": "1621119447",
-   "title": "WAIT FOR U (feat. Drake & Tems)",
-   "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447",
+   "rawId": "1648587330",
+   "title": "In A Minute",
+   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
    "category": "music",
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 7,
-   "rank": 19,
+   "summary": "#16 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-08T00:00:00Z",
+   "hot": 10,
+   "rank": 16,
    "metrics": {
-    "artist": "Future",
-    "rank": 19,
+    "artist": "Lil Baby",
+    "rank": 16,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -448,15 +379,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
+   "summary": "#17 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
+   "hot": 9,
+   "rank": 17,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 20,
-    "change": 1
+    "rank": 17,
+    "change": 3
    },
    "embed": {
     "kind": "music",
@@ -471,15 +402,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#18 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 8,
+   "rank": 18,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 21,
-    "change": 2
+    "rank": 18,
+    "change": 3
    },
    "embed": {
     "kind": "music",
@@ -487,26 +418,72 @@
    }
   },
   {
-   "rawId": "6822390426",
-   "title": "expectations",
-   "url": "https://music.apple.com/us/album/expectations/6822390423?i=6822390426",
+   "rawId": "1889992123",
+   "title": "the cure",
+   "url": "https://music.apple.com/us/album/the-cure/1889992111?i=1889992123",
    "category": "music",
    "tags": [
     "Pop"
    ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
+   "summary": "#19 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-22T00:00:00Z",
+   "hot": 7,
+   "rank": 19,
    "metrics": {
-    "artist": "Olivia Rodrigo & Chappell Roan",
-    "rank": 22,
+    "artist": "Olivia Rodrigo",
+    "rank": 19,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/the-cure/1889992111?i=1889992123"
+   }
+  },
+  {
+   "rawId": "1440929293",
+   "title": "Freestyle",
+   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#20 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2017-12-01T00:00:00Z",
+   "hot": 6,
+   "rank": 20,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 20,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
+   }
+  },
+  {
+   "rawId": "1621119447",
+   "title": "WAIT FOR U (feat. Drake & Tems)",
+   "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Future",
+    "rank": 21,
     "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/expectations/6822390423?i=6822390426"
+    "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
    }
   },
   {
@@ -517,15 +494,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
+   "summary": "#22 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
+   "hot": 4,
+   "rank": 22,
    "metrics": {
     "artist": "Zach Bryan",
-    "rank": 23,
-    "change": 2
+    "rank": 22,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -533,26 +510,49 @@
    }
   },
   {
-   "rawId": "1550878110",
-   "title": "Wicked Games",
-   "url": "https://music.apple.com/us/album/wicked-games/1550877895?i=1550878110",
+   "rawId": "6822390426",
+   "title": "expectations",
+   "url": "https://music.apple.com/us/album/expectations/6822390423?i=6822390426",
    "category": "music",
    "tags": [
-    "R&B/Soul"
+    "Pop"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2011-03-21T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d2/3c/b2/d23cb283-5f3e-7433-bc41-86c7d77c4503/26UM1IM29619.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
    "metrics": {
-    "artist": "The Weeknd",
-    "rank": 24,
-    "change": -2
+    "artist": "Olivia Rodrigo & Chappell Roan",
+    "rank": 23,
+    "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wicked-games/1550877895?i=1550878110"
+    "value": "https://embed.music.apple.com/us/album/expectations/6822390423?i=6822390426"
+   }
+  },
+  {
+   "rawId": "6814997425",
+   "title": "Patient Zero",
+   "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-24T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Taylor Swift",
+    "rank": 24,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
    }
   },
   {
@@ -571,7 +571,7 @@
    "metrics": {
     "artist": "Ella Langley & Morgan Wallen",
     "rank": 25,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
