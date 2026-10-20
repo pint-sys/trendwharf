@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T18:33:33Z",
+ "updated": "2026-10-20T22:26:33Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -88,7 +88,7 @@
    "metrics": {
     "artist": "Ella Langley",
     "rank": 4,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -111,7 +111,7 @@
    "metrics": {
     "artist": "Drake & Don Toliver",
     "rank": 5,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -249,7 +249,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 11,
-    "change": 5
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -272,7 +272,7 @@
    "metrics": {
     "artist": "Zach Bryan",
     "rank": 12,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -295,7 +295,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 13,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -318,7 +318,7 @@
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
     "rank": 14,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -341,7 +341,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 15,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -364,7 +364,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 16,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -456,7 +456,7 @@
    "metrics": {
     "artist": "Zach Bryan",
     "rank": 20,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -479,7 +479,7 @@
    "metrics": {
     "artist": "Zach Bryan & Turnpike Troubadours",
     "rank": 21,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -502,7 +502,7 @@
    "metrics": {
     "artist": "Taylor Swift",
     "rank": 22,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -525,7 +525,7 @@
    "metrics": {
     "artist": "Zach Bryan",
     "rank": 23,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -548,7 +548,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 24,
-    "change": -3
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -571,7 +571,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 25,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",

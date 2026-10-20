@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-20T18:33:33Z",
+ "updated": "2026-10-20T22:26:33Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50168396",
-   "title": "Voxtral 3",
-   "url": "https://mistral.ai/news/voxtral-3/",
+   "rawId": "50170593",
+   "title": "SimCity, but with Permits",
+   "url": "https://permit.petercai.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mistral.ai"
+    "permit.petercai.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T16:02:07Z",
-   "hot": 101.4,
+   "publishedAt": "2026-10-20T18:29:09Z",
+   "hot": 95.3,
    "rank": 1,
    "metrics": {
-    "points": 256,
-    "comments": 67,
-    "discussion": "https://news.ycombinator.com/item?id=50168396"
+    "points": 377,
+    "comments": 209,
+    "discussion": "https://news.ycombinator.com/item?id=50170593"
    }
   },
   {
@@ -36,12 +36,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T09:08:54Z",
-   "hot": 202.6,
+   "hot": 154.8,
    "rank": 2,
    "metrics": {
-    "points": 1907,
-    "comments": 729,
+    "points": 2058,
+    "comments": 806,
     "discussion": "https://news.ycombinator.com/item?id=50163277"
+   }
+  },
+  {
+   "rawId": "50168396",
+   "title": "Voxtral 3",
+   "url": "https://mistral.ai/news/voxtral-3/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mistral.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T16:02:07Z",
+   "hot": 71.3,
+   "rank": 3,
+   "metrics": {
+    "points": 457,
+    "comments": 126,
+    "discussion": "https://news.ycombinator.com/item?id=50168396"
+   }
+  },
+  {
+   "rawId": "50169707",
+   "title": "What shall I teach my son?",
+   "url": "https://stevekrouse.com/ends",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "stevekrouse.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T17:25:07Z",
+   "hot": 35.0,
+   "rank": 4,
+   "metrics": {
+    "points": 176,
+    "comments": 253,
+    "discussion": "https://news.ycombinator.com/item?id=50169707"
+   }
+  },
+  {
+   "rawId": "50108717",
+   "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+   "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-15T19:09:34Z",
+   "hot": 0.9,
+   "rank": 5,
+   "metrics": {
+    "points": 110,
+    "comments": 45,
+    "discussion": "https://news.ycombinator.com/item?id=50108717"
    }
   },
   {
@@ -57,33 +120,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T16:40:24Z",
-   "hot": 48.8,
-   "rank": 3,
+   "hot": 36.7,
+   "rank": 6,
    "metrics": {
-    "points": 92,
-    "comments": 25,
+    "points": 212,
+    "comments": 50,
     "discussion": "https://news.ycombinator.com/item?id=50169053"
-   }
-  },
-  {
-   "rawId": "50166579",
-   "title": "EMudhra Intermediate CA Compromise",
-   "url": "https://emudhra.we-have-a-problem.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "emudhra.we-have-a-problem.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T13:58:33Z",
-   "hot": 66.8,
-   "rank": 4,
-   "metrics": {
-    "points": 306,
-    "comments": 149,
-    "discussion": "https://news.ycombinator.com/item?id=50166579"
    }
   },
   {
@@ -99,33 +141,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T12:17:28Z",
-   "hot": 52.8,
-   "rank": 5,
+   "hot": 43.4,
+   "rank": 7,
    "metrics": {
-    "points": 331,
-    "comments": 193,
+    "points": 441,
+    "comments": 241,
     "discussion": "https://news.ycombinator.com/item?id=50165208"
    }
   },
   {
-   "rawId": "50169955",
-   "title": "Advanced coding in low-resource programming languages",
-   "url": "https://openai.com/index/low-resource-programming-languages/",
+   "rawId": "50171771",
+   "title": "On AI writing",
+   "url": "https://www.bolkunov.com/p/on-ai-writing",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openai.com"
+    "bolkunov.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T17:43:11Z",
-   "hot": 15.0,
-   "rank": 6,
+   "publishedAt": "2026-10-20T19:55:11Z",
+   "hot": 27.0,
+   "rank": 8,
    "metrics": {
-    "points": 15,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50169955"
+    "points": 68,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50171771"
    }
   },
   {
@@ -141,54 +183,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T14:30:31Z",
-   "hot": 39.5,
-   "rank": 7,
+   "hot": 35.8,
+   "rank": 9,
    "metrics": {
-    "points": 160,
-    "comments": 86,
+    "points": 284,
+    "comments": 192,
     "discussion": "https://news.ycombinator.com/item?id=50167028"
    }
   },
   {
-   "rawId": "50165801",
-   "title": "Publish fake stats, get cited in LLMs",
-   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-   "videoUrl": null,
+   "rawId": "50139728",
+   "title": "Making Solar Panels with a Microwave [video]",
+   "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
+   "videoUrl": "https://www.youtube.com/watch?v=zcWkApGjyGM",
    "category": "news",
    "tags": [
     "tech",
-    "peec.ai"
+    "youtube.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T13:06:22Z",
-   "hot": 44.6,
-   "rank": 8,
+   "publishedAt": "2026-10-18T10:25:07Z",
+   "hot": 0.2,
+   "rank": 10,
    "metrics": {
-    "points": 243,
-    "comments": 131,
-    "discussion": "https://news.ycombinator.com/item?id=50165801"
+    "points": 10,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50139728"
    }
   },
   {
-   "rawId": "50167536",
-   "title": "Facebook Pages require paid subscription to post more than two links per month",
-   "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+   "rawId": "50152886",
+   "title": "Meta's GB{2,3}00 Cluster",
+   "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mastodon.gamedev.place"
+    "engineering.fb.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T15:06:08Z",
-   "hot": 95.7,
-   "rank": 9,
+   "publishedAt": "2026-10-19T14:23:55Z",
+   "hot": 1.1,
+   "rank": 11,
    "metrics": {
-    "points": 331,
-    "comments": 272,
-    "discussion": "https://news.ycombinator.com/item?id=50167536"
+    "points": 35,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50152886"
+   }
+  },
+  {
+   "rawId": "50166579",
+   "title": "EMudhra Intermediate CA Compromise",
+   "url": "https://emudhra.we-have-a-problem.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "emudhra.we-have-a-problem.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T13:58:33Z",
+   "hot": 62.2,
+   "rank": 12,
+   "metrics": {
+    "points": 527,
+    "comments": 284,
+    "discussion": "https://news.ycombinator.com/item?id=50166579"
+   }
+  },
+  {
+   "rawId": "50168357",
+   "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+   "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "e360.yale.edu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T15:59:06Z",
+   "hot": 20.3,
+   "rank": 13,
+   "metrics": {
+    "points": 131,
+    "comments": 80,
+    "discussion": "https://news.ycombinator.com/item?id=50168357"
    }
   },
   {
@@ -204,12 +288,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T13:18:07Z",
-   "hot": 37.9,
-   "rank": 10,
+   "hot": 33.9,
+   "rank": 14,
    "metrics": {
-    "points": 199,
-    "comments": 95,
+    "points": 310,
+    "comments": 143,
     "discussion": "https://news.ycombinator.com/item?id=50165953"
+   }
+  },
+  {
+   "rawId": "50170021",
+   "title": "Claude designed protein binders against scorpion neurotoxins",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T17:48:29Z",
+   "hot": 14.7,
+   "rank": 15,
+   "metrics": {
+    "points": 68,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50170021"
+   }
+  },
+  {
+   "rawId": "50170917",
+   "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+   "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blogs.lse.ac.uk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T18:51:40Z",
+   "hot": 10.6,
+   "rank": 16,
+   "metrics": {
+    "points": 38,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50170917"
    }
   },
   {
@@ -225,159 +351,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T13:39:24Z",
-   "hot": 40.8,
-   "rank": 11,
-   "metrics": {
-    "points": 200,
-    "comments": 53,
-    "discussion": "https://news.ycombinator.com/item?id=50166257"
-   }
-  },
-  {
-   "rawId": "50131997",
-   "title": "Triplet of 'ghostly' galaxies hints at what dark matter is and isn't",
-   "url": "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "quantamagazine.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T15:33:12Z",
-   "hot": 0.9,
-   "rank": 12,
-   "metrics": {
-    "points": 69,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50131997"
-   }
-  },
-  {
-   "rawId": "50138490",
-   "title": "JAXA is about to perform a Phobos sample return mission",
-   "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "science.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T06:40:55Z",
-   "hot": 0.7,
-   "rank": 13,
-   "metrics": {
-    "points": 39,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50138490"
-   }
-  },
-  {
-   "rawId": "50168096",
-   "title": "IKEA – 3D Guide",
-   "url": "https://sael.net/flatpack/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sael.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T15:42:45Z",
-   "hot": 19.0,
-   "rank": 14,
-   "metrics": {
-    "points": 54,
-    "comments": 15,
-    "discussion": "https://news.ycombinator.com/item?id=50168096"
-   }
-  },
-  {
-   "rawId": "50166502",
-   "title": "2026 is an exciting year for the Rust compiler (and me)",
-   "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "yoyo-code.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T13:53:48Z",
-   "hot": 21.2,
-   "rank": 15,
-   "metrics": {
-    "points": 99,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50166502"
-   }
-  },
-  {
-   "rawId": "50165276",
-   "title": "Demographic \"doomsday\" misses the mark",
-   "url": "https://www.science.org/doi/10.1126/science.ael8752",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "science.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T12:22:28Z",
-   "hot": 8.4,
-   "rank": 16,
-   "metrics": {
-    "points": 52,
-    "comments": 77,
-    "discussion": "https://news.ycombinator.com/item?id=50165276"
-   }
-  },
-  {
-   "rawId": "50166794",
-   "title": "My Friend Bob Cringely",
-   "url": "https://tyma.com/my-cringe-story/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tyma.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T14:13:49Z",
-   "hot": 25.2,
+   "hot": 32.2,
    "rank": 17,
    "metrics": {
-    "points": 109,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50166794"
-   }
-  },
-  {
-   "rawId": "50128197",
-   "title": "Archive of Our Own",
-   "url": "https://archiveofourown.org/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "archiveofourown.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T05:23:14Z",
-   "hot": 0.3,
-   "rank": 18,
-   "metrics": {
-    "points": 22,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50128197"
+    "points": 283,
+    "comments": 69,
+    "discussion": "https://news.ycombinator.com/item?id=50166257"
    }
   },
   {
@@ -393,12 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T10:26:02Z",
-   "hot": 27.3,
+   "hot": 24.3,
+   "rank": 18,
+   "metrics": {
+    "points": 292,
+    "comments": 148,
+    "discussion": "https://news.ycombinator.com/item?id=50163961"
+   }
+  },
+  {
+   "rawId": "50168096",
+   "title": "IKEA – 3D Guide",
+   "url": "https://sael.net/flatpack/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sael.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T15:42:45Z",
+   "hot": 17.5,
    "rank": 19,
    "metrics": {
-    "points": 222,
-    "comments": 100,
-    "discussion": "https://news.ycombinator.com/item?id=50163961"
+    "points": 118,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50168096"
+   }
+  },
+  {
+   "rawId": "50138490",
+   "title": "JAXA is about to perform a Phobos sample return mission",
+   "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "science.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T06:40:55Z",
+   "hot": 1.2,
+   "rank": 20,
+   "metrics": {
+    "points": 76,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50138490"
    }
   }
  ]
