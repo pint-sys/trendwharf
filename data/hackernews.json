@@ -1,7 +1,70 @@
 {
- "updated": "2026-10-20T07:47:09Z",
+ "updated": "2026-10-20T13:42:26Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50163277",
+   "title": "DeepSeek just open-sourced its inference engine",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T09:08:54Z",
+   "hot": 223.5,
+   "rank": 1,
+   "metrics": {
+    "points": 1019,
+    "comments": 348,
+    "discussion": "https://news.ycombinator.com/item?id=50163277"
+   }
+  },
+  {
+   "rawId": "50165208",
+   "title": "Apple broke an essential presentation feature of iPads",
+   "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "teddysvoronos.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T12:17:28Z",
+   "hot": 21.9,
+   "rank": 2,
+   "metrics": {
+    "points": 31,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50165208"
+   }
+  },
+  {
+   "rawId": "50162177",
+   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+   "url": "https://github.com/microg/GmsCore/wiki",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T06:37:07Z",
+   "hot": 28.2,
+   "rank": 3,
+   "metrics": {
+    "points": 200,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50162177"
+   }
+  },
   {
    "rawId": "50141581",
    "title": "Nordwand Mono – A monospace font for coders and adventurers",
@@ -15,12 +78,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T14:48:01Z",
-   "hot": 3.3,
-   "rank": 1,
+   "hot": 8.4,
+   "rank": 4,
    "metrics": {
-    "points": 134,
-    "comments": 25,
+    "points": 396,
+    "comments": 119,
     "discussion": "https://news.ycombinator.com/item?id=50141581"
+   }
+  },
+  {
+   "rawId": "50165484",
+   "title": "NixOS is making me less afraid",
+   "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "entropicthoughts.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T12:43:05Z",
+   "hot": 14.0,
+   "rank": 5,
+   "metrics": {
+    "points": 14,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50165484"
    }
   },
   {
@@ -36,11 +120,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T02:06:40Z",
-   "hot": 41.1,
-   "rank": 2,
+   "hot": 33.0,
+   "rank": 6,
    "metrics": {
-    "points": 233,
-    "comments": 66,
+    "points": 383,
+    "comments": 120,
     "discussion": "https://news.ycombinator.com/item?id=50160494"
    }
   },
@@ -57,17 +141,122 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T23:22:18Z",
-   "hot": 41.0,
-   "rank": 3,
+   "hot": 41.2,
+   "rank": 7,
    "metrics": {
-    "points": 345,
-    "comments": 79,
+    "points": 590,
+    "comments": 168,
     "discussion": "https://news.ycombinator.com/item?id=50159341"
    }
   },
   {
+   "rawId": "50154244",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reuters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T16:16:46Z",
+   "hot": 18.2,
+   "rank": 8,
+   "metrics": {
+    "points": 391,
+    "comments": 336,
+    "discussion": "https://news.ycombinator.com/item?id=50154244"
+   }
+  },
+  {
+   "rawId": "50132198",
+   "title": "Making a 88x31 button book using ImageMagick",
+   "url": "https://k.sosnierz.me/08-11-24/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "k.sosnierz.me"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-17T15:55:43Z",
+   "hot": 1.3,
+   "rank": 9,
+   "metrics": {
+    "points": 88,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50132198"
+   }
+  },
+  {
+   "rawId": "50163961",
+   "title": "Google cloud outage takes down banks",
+   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "neowin.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T10:26:02Z",
+   "hot": 42.2,
+   "rank": 10,
+   "metrics": {
+    "points": 138,
+    "comments": 59,
+    "discussion": "https://news.ycombinator.com/item?id=50163961"
+   }
+  },
+  {
+   "rawId": "50147034",
+   "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+   "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "flatwaterfreepress.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T00:43:01Z",
+   "hot": 0.9,
+   "rank": 11,
+   "metrics": {
+    "points": 34,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50147034"
+   }
+  },
+  {
+   "rawId": "50165801",
+   "title": "Publish fake stats, get cited in LLMs",
+   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "peec.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T13:06:22Z",
+   "hot": 5.0,
+   "rank": 12,
+   "metrics": {
+    "points": 5,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50165801"
+   }
+  },
+  {
    "rawId": "50140111",
-   "title": "Restoration of Retinal Regenerative Potential",
+   "title": "Restoration of Retinal Regenerative Potential (2025)",
    "url": "https://www.nature.com/articles/s41467-025-58290-8",
    "videoUrl": null,
    "category": "news",
@@ -78,11 +267,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-18T11:32:38Z",
-   "hot": 0.6,
-   "rank": 4,
+   "hot": 1.8,
+   "rank": 13,
    "metrics": {
-    "points": 26,
-    "comments": 0,
+    "points": 88,
+    "comments": 6,
     "discussion": "https://news.ycombinator.com/item?id=50140111"
    }
   },
@@ -99,138 +288,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T16:39:09Z",
-   "hot": 29.8,
-   "rank": 5,
+   "hot": 23.5,
+   "rank": 14,
    "metrics": {
-    "points": 451,
-    "comments": 192,
+    "points": 495,
+    "comments": 207,
     "discussion": "https://news.ycombinator.com/item?id=50154540"
-   }
-  },
-  {
-   "rawId": "50154244",
-   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reuters.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T16:16:46Z",
-   "hot": 11.9,
-   "rank": 6,
-   "metrics": {
-    "points": 184,
-    "comments": 159,
-    "discussion": "https://news.ycombinator.com/item?id=50154244"
-   }
-  },
-  {
-   "rawId": "50160877",
-   "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-   "url": "https://github.com/golang/go/issues/82345",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T03:05:07Z",
-   "hot": 15.7,
-   "rank": 7,
-   "metrics": {
-    "points": 74,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50160877"
-   }
-  },
-  {
-   "rawId": "50162198",
-   "title": "Vite+ an excellent toolchain for AI agent development",
-   "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "janmichalek.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T06:40:49Z",
-   "hot": 20.8,
-   "rank": 8,
-   "metrics": {
-    "points": 23,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50162198"
-   }
-  },
-  {
-   "rawId": "50159616",
-   "title": "France's supermarket fridges were vulnerable online for months",
-   "url": "https://ipinfo.io/blog/france-fridges-hack",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ipinfo.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T00:00:49Z",
-   "hot": 17.5,
-   "rank": 9,
-   "metrics": {
-    "points": 136,
-    "comments": 112,
-    "discussion": "https://news.ycombinator.com/item?id=50159616"
-   }
-  },
-  {
-   "rawId": "50150089",
-   "title": "I built a drone with only one motor [video]",
-   "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-   "videoUrl": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T09:05:07Z",
-   "hot": 22.4,
-   "rank": 10,
-   "metrics": {
-    "points": 508,
-    "comments": 109,
-    "discussion": "https://news.ycombinator.com/item?id=50150089"
-   }
-  },
-  {
-   "rawId": "50140584",
-   "title": "Weball: Play Katamari on Websites",
-   "url": "https://www.funwithcomputervision.com/weball/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "funwithcomputervision.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-18T12:39:56Z",
-   "hot": 4.0,
-   "rank": 11,
-   "metrics": {
-    "points": 171,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50140584"
    }
   },
   {
@@ -246,12 +309,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T22:32:37Z",
-   "hot": 17.9,
-   "rank": 12,
+   "hot": 19.7,
+   "rank": 15,
    "metrics": {
-    "points": 165,
-    "comments": 48,
+    "points": 299,
+    "comments": 116,
     "discussion": "https://news.ycombinator.com/item?id=50158942"
+   }
+  },
+  {
+   "rawId": "50120748",
+   "title": "There Are over 1M New York City Street Signs. Here's How They Are Made.",
+   "url": "https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nytimes.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-16T16:42:48Z",
+   "hot": 0.2,
+   "rank": 16,
+   "metrics": {
+    "points": 23,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50120748"
+   }
+  },
+  {
+   "rawId": "50140584",
+   "title": "Weball: Play Katamari on Websites",
+   "url": "https://www.funwithcomputervision.com/weball/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "funwithcomputervision.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T12:39:56Z",
+   "hot": 5.4,
+   "rank": 17,
+   "metrics": {
+    "points": 267,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50140584"
    }
   },
   {
@@ -267,103 +372,19 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T13:35:34Z",
-   "hot": 30.3,
-   "rank": 13,
+   "hot": 24.6,
+   "rank": 18,
    "metrics": {
-    "points": 551,
-    "comments": 184,
+    "points": 593,
+    "comments": 198,
     "discussion": "https://news.ycombinator.com/item?id=50152307"
    }
   },
   {
-   "rawId": "50134472",
-   "title": "It's still ok to enjoy programming",
-   "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "chriskiehl.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T19:53:20Z",
-   "hot": 9.4,
-   "rank": 14,
-   "metrics": {
-    "points": 565,
-    "comments": 494,
-    "discussion": "https://news.ycombinator.com/item?id=50134472"
-   }
-  },
-  {
-   "rawId": "50153664",
-   "title": "Ukraine claims first drone evacuation of wounded soldier",
-   "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nbcnews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T15:31:34Z",
-   "hot": 15.3,
-   "rank": 15,
-   "metrics": {
-    "points": 248,
-    "comments": 172,
-    "discussion": "https://news.ycombinator.com/item?id=50153664"
-   }
-  },
-  {
-   "rawId": "50158138",
-   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-   "url": "https://bsd.network/@brynet/117407035545900963",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bsd.network"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T21:11:45Z",
-   "hot": 13.9,
-   "rank": 16,
-   "metrics": {
-    "points": 147,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50158138"
-   }
-  },
-  {
-   "rawId": "50152466",
-   "title": "Maxwell: A new kind of model that sits between code and hardware",
-   "url": "https://heymaxwell.ai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "heymaxwell.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T13:47:56Z",
-   "hot": 2.7,
-   "rank": 17,
-   "metrics": {
-    "points": 49,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50152466"
-   }
-  },
-  {
-   "rawId": "50136126",
-   "title": "RuneScape Bench: MMOs for Agents [video]",
-   "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-   "videoUrl": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+   "rawId": "50150089",
+   "title": "I built a drone with only one motor [video]",
+   "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+   "videoUrl": "https://www.youtube.com/watch?v=Ndftcft6XhU",
    "category": "news",
    "tags": [
     "tech",
@@ -371,55 +392,13 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-17T23:24:05Z",
-   "hot": 3.3,
-   "rank": 18,
-   "metrics": {
-    "points": 188,
-    "comments": 67,
-    "discussion": "https://news.ycombinator.com/item?id=50136126"
-   }
-  },
-  {
-   "rawId": "50134809",
-   "title": "How Do Fungi Keep the Planet Healthy?",
-   "url": "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "quantamagazine.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-17T20:27:22Z",
-   "hot": 0.7,
+   "publishedAt": "2026-10-19T09:05:07Z",
+   "hot": 21.2,
    "rank": 19,
    "metrics": {
-    "points": 42,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50134809"
-   }
-  },
-  {
-   "rawId": "50159245",
-   "title": "How abliterated models can get you pwned",
-   "url": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "projectdiscovery.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T23:08:52Z",
-   "hot": 11.9,
-   "rank": 20,
-   "metrics": {
-    "points": 103,
-    "comments": 64,
-    "discussion": "https://news.ycombinator.com/item?id=50159245"
+    "points": 608,
+    "comments": 138,
+    "discussion": "https://news.ycombinator.com/item?id=50150089"
    }
   }
  ]
