@@ -1,255 +1,255 @@
 {
- "updated": "2026-10-21T07:50:48Z",
+ "updated": "2026-10-21T13:58:23Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "food lion",
-   "query": "food lion",
+   "rawId": "marta kostyuk",
+   "query": "marta kostyuk",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-10-21T13:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvS1FBHZdc1xKv6HdC1bCOHAPE82RAkd6mfVFXpxqVrvDokDARhZp6Rhnbxw8",
+   "news": [
+    {
+     "title": "October 22, 2026: Kubler / Peers vs Lammons / Withrow Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/kubler-peers-vs-lammons-withrow-oct-22-2026/",
+     "source": "Robinhood"
+    },
+    {
+     "title": "October 20, 2026: Villanueva vs Tobon Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/villanueva-vs-tobon-oct-20-2026/",
+     "source": "Robinhood"
+    },
+    {
+     "title": "October 21, 2026: Rybakina vs Kudermetova Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/rybakina-vs-kudermetova-oct-21-2026/",
+     "source": "Robinhood"
+    }
+   ]
+  },
+  {
+   "rawId": "giancarlo esposito",
+   "query": "giancarlo esposito",
    "traffic": "1000+",
    "trafficNum": 1000,
-   "publishedAt": "2026-10-21T07:30:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgsRXeHcFuB40FYU0WSl4sIF4Rmbk-TBl9K1CzTfJ0wYUm83Axfbj2hfuKpQI",
+   "publishedAt": "2026-10-21T13:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJkk4OU1gSrSINfJB4dlHsO3dhpLMH2H6SGNu5iXr99h7bqZQD1q5q6S5-MD4",
    "news": [
     {
-     "title": "Hannaford still offline a week after cyberattack on French supermarkets",
-     "url": "https://www.pressherald.com/2026/10/19/hannaford-still-offline-after-supermarkets-in-france-face-cyberattack/",
-     "source": "Portland Press Herald - Maine Sunday Telegram"
+     "title": "Mark Wahlberg's New FBI Crime Thriller Officially Releases On Digital This Week",
+     "url": "https://www.imdb.com/news/ni66070099/?ref_=ttnw_art_perm",
+     "source": "IMDb"
     },
     {
-     "title": "Food Lion restores app, website after cybersecurity incident",
-     "url": "https://www.wral.com/news/local/food-lion-app-website-restored-cybersecurity-incident-october-2026/",
-     "source": "WRAL"
+     "title": "By Any Means 4K Blu-ray",
+     "url": "https://www.blu-ray.com/news/?id=39211",
+     "source": "Blu-ray.com"
     },
     {
-     "title": "Ahold Delhaize update on status of cybersecurity incident",
-     "url": "https://newsroom.aholddelhaize.com/ahold-delhaize-update-on-status-of-cybersecurity-incident/",
-     "source": "Ahold Delhaize"
+     "title": "‘By Any Means’ comes to digital, but when will Mark Wahlberg’s ‘By Any Means’ movie be streaming?",
+     "url": "https://decider.com/2026/10/19/watch-by-any-means-movie-streaming-paramount-plus-release-date/",
+     "source": "Decider"
     }
    ]
   },
   {
-   "rawId": "james duckworth",
-   "query": "james duckworth",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-21T07:20:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO8zig_qjiw5JGV0XH3LlAJCuAnFDThSSgMJl4AzE7xbgqJiMwo7vgNvuv90k",
+   "rawId": "andy cohen",
+   "query": "andy cohen",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-21T13:20:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyWSSp8L-qq1jKYm0MJ-GLo_eR5xdEmX5lb_O5e8LeFQ1Itw_O7ELf-SDN7g",
    "news": [
     {
-     "title": "October 22, 2026: Donski / Pieczonka vs Bhambri / Seggerman Tennis Prediction Market",
-     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/donski-pieczonka-vs-bhambri-seggerman-oct-22-2026/",
-     "source": "Robinhood"
+     "title": "Andy Cohen dishes on his latest sexy viral Speedo pics",
+     "url": "https://www.out.com/celebs/andy-cohen-speedo-pics",
+     "source": "Out Magazine"
     },
     {
-     "title": "October 22, 2026: Doumbia / Stevens vs Griekspoor / Van de Zandschulp Tennis Prediction Market",
-     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/doumbia-stevens-vs-griekspoor-van-de-zandschulp-oct-22-2026/",
-     "source": "Robinhood"
+     "title": "Andy Cohen Debunks Viral AI Photo of Him in a ‘Micro’ Speedo, Says He Looks ‘Like a Ken Doll’",
+     "url": "https://people.com/andy-cohen-reacts-to-ai-photo-of-him-in-a-micro-speedo-12184297",
+     "source": "People.com"
     },
     {
-     "title": "October 20, 2026: Wolf vs Zink Tennis Prediction Market",
-     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/wolf-vs-zink-oct-20-2026/",
-     "source": "Robinhood"
+     "title": "Andy Cohen Addresses Viral AI Speedo Photo on Fallon",
+     "url": "https://www.broadwayworld.com/bwwtv/article/Andy-Cohen-Addresses-Viral-AI-Speedo-Photo-on-Fallon-20261020",
+     "source": "BroadwayWorld"
     }
    ]
   },
   {
-   "rawId": "deepinfer",
-   "query": "deepinfer",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-21T07:00:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYgA07XMErCbDih-FQPMgWS9dL_iwGLUB0nmY5QAcIVOFKZ1LNRG3RX981930",
+   "rawId": "andrew shue",
+   "query": "andrew shue",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-21T13:00:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEy1WuljUxbR25ZwhwYufXV3d1umkj74ZWwKV_icoFCqFTpJGkJu7-svDjquk",
    "news": [
     {
-     "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
-     "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+     "title": "Amy Robach and T.J. Holmes' Exes Andrew Shue, Marilee Fiebig Are Engaged",
+     "url": "https://www.eonline.com/news/1437312/amy-robach-t-j-holmes-exes-andrew-shue-marilee-fiebig-are-engaged",
+     "source": "E! News"
+    },
+    {
+     "title": "Andrew Shue and Marilee Fiebig Are Engaged: ‘There’s a Happy Ending’ (Exclusive)",
+     "url": "https://people.com/andrew-shue-marilee-fiebig-reveal-engagement-exclusive-12184644",
+     "source": "People.com"
+    },
+    {
+     "title": "Andrew Shue, Marilee Fiebig engaged after exes Amy Robach, T.J. Holmes' private wedding ceremony",
+     "url": "https://pagesix.com/2026/10/21/celebrity-news/andrew-shue-marilee-fiebig-engaged-after-exes-amy-robach-t-j-holmes-private-wedding-ceremony/",
+     "source": "Page Six"
+    }
+   ]
+  },
+  {
+   "rawId": "bob iger",
+   "query": "bob iger",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-21T12:30:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyomtAoakVJGVIPBOSbWvwj_KtrfNqus4zrwPGD8kN1gjtT1FSHCOASWYsK04",
+   "news": [
+    {
+     "title": "Bob Iger Reflects On Challenges Of His Disney CEO Comeback In New Memoir ‘One Last Time’",
+     "url": "https://deadline.com/2026/10/bob-iger-new-book-one-last-time-disney-1237168842/",
+     "source": "Deadline"
+    },
+    {
+     "title": "Bob Iger to Log Bob Qualms in New Book",
+     "url": "https://www.vulture.com/article/disney-ceo-bob-iger-memoir-one-last-time.html",
+     "source": "Vulture"
+    },
+    {
+     "title": "BREAKING: Bob Iger Announces Second Memoir 'One Last Time' About Return as Disney CEO",
+     "url": "https://wdwnt.com/2026/10/breaking-bob-iger-announces-second-memoir-one-last-time-about-return-as-disney-ceo/",
+     "source": "WDW News Today"
+    }
+   ]
+  },
+  {
+   "rawId": "sam franklin jr",
+   "query": "sam franklin jr",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-21T13:20:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mlLiWxrvcgomxEgCifdtV96znDvjEUJc2LstseOHZ3X5NWg63SnHlVt1IiQ",
+   "news": [
+    {
+     "title": "Bills S Sam Franklin suspended one game for spitting at a Raiders player",
+     "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-s-sam-franklin-suspended-one-game-for-spitting-at-a-raiders-player",
+     "source": "NBC Sports"
+    },
+    {
+     "title": "NFL suspends Bills DB Sam Franklin Jr. 1 game for spitting at a Raiders player",
+     "url": "https://sports.yahoo.com/nfl/breaking-news/article/nfl-suspends-bills-db-sam-franklin-jr-1-game-for-spitting-at-a-raiders-player-132206712.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Joe Brady addresses C.J. Gardner-Johnson suspension, Jim Leonhard says Davison Igbinosun has earned \"majority of the snaps\"",
+     "url": "https://www.buffalobills.com/news/joe-brady-address-c-j-gardner-johnson-suspension-jim-leonhard-says-davison-igbinosun-has-earned-majority-of-the-snaps",
+     "source": "Buffalo Bills"
+    }
+   ]
+  },
+  {
+   "rawId": "africa",
+   "query": "africa",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-21T13:00:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZM4H9L6HJ2FGV5IAONtMkjCnU1L83HrgeCoBkRj1V0zN3DcymdPNnqiWMyyc",
+   "news": [
+    {
+     "title": "Highlights of South Africa Finance Minister’s 2026 Budget Update",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-21/highlights-of-south-africa-finance-minister-s-2026-budget-update",
      "source": "Bloomberg.com"
     },
     {
-     "title": "DeepSeek Dials Up the Pressure on OpenAI and Anthropic With Open-Source Inference Tool",
-     "url": "https://gizmodo.com/deepseek-dials-up-the-pressure-on-openai-and-anthropic-with-open-source-inference-tool-2000828261",
-     "source": "Gizmodo"
+     "title": "South Africa set for brighter fiscal outlook in Wednesday's mid-term budget",
+     "url": "https://www.reuters.com/world/africa/south-africa-set-brighter-fiscal-outlook-wednesdays-mid-term-budget-2026-10-19/",
+     "source": "Reuters"
     },
     {
-     "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
-     "url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
-     "source": "MarkTechPost"
+     "title": "Vote pressure, coalition maths and a fuel levy question: what to watch in the mini-budget",
+     "url": "https://www.news24.com/opinions/analysis/vote-pressure-coalition-maths-and-a-fuel-levy-question-what-to-watch-in-the-mini-budget-20261020-1134",
+     "source": "News24"
     }
    ]
   },
   {
-   "rawId": "汇率",
-   "query": "汇率",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-21T07:20:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRzRSGjAPzEw1YnRLKUaOGgqD_gu4650oPkU4KxDLsgyIFuJBfeGjDbqKw0NY",
+   "rawId": "zach bryan presale",
+   "query": "zach bryan presale",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-21T12:50:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ79cR_nik5wmcpgM5F5otpTL09wFu0W_bRZi1aYRzbJdkTasWimnOqoTjxjfU",
    "news": [
     {
-     "title": "科技股反弹美元获提振 法国动荡冲击欧洲市场",
-     "url": "https://www.forex.com/cn/news-and-analysis/tech-rebound-lifted-dollar-while-euro-remained-weak/",
-     "source": "FOREX.com"
+     "title": "Global Music Star Zach Bryan Announces 2027 Young Manhood and Other Donatable Organs Tour",
+     "url": "https://www.buffalobills.com/news/zach-bryan-concert-tour-announcement-highmark-stadium-2027",
+     "source": "Buffalo Bills"
     },
     {
-     "title": "法国骚乱冲击金融市场：股债双杀，欧元下跌 地缘紧张加剧市场波动",
-     "url": "https://news.china.com/socialgd/10000169/20261020/49805534.html",
-     "source": "中华网"
+     "title": "Zach Bryan Announces 2027 Stadium Tour with John Fogerty and Ryan Bingham",
+     "url": "https://consequence.net/2026/10/zach-bryan-2027-stadium-tour/",
+     "source": "Consequence of Sound"
     },
     {
-     "title": "科技、能源和法国危机引发市场动荡之际，各避险资产表现如何？",
-     "url": "https://news.10jqka.com.cn/20261021/c680903288.shtml",
-     "source": "同花顺财经"
+     "title": "Hey Boise, Here's How to Get Early Access to Zach Bryan Tickets",
+     "url": "https://liteonline.com/ixp/737/p/zach-bryan-tickets-presale-access-boise/",
+     "source": "107.9 LITE FM"
     }
    ]
   },
   {
-   "rawId": "leylah fernandez",
-   "query": "leylah fernandez",
+   "rawId": "ekaterina alexandrova",
+   "query": "ekaterina alexandrova",
    "traffic": "200+",
    "trafficNum": 200,
-   "publishedAt": "2026-10-21T07:00:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnuf_bNvGHYZfz2XURy9qc8re18u_zzgUrqI8DVqwgZEB1cFN9p_exVPq0xrU",
+   "publishedAt": "2026-10-21T13:40:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSDNHHG4pG4MWSlAQs4fp9s4NYascXN-SBUHcsuxOCE2YsU8nT3aWkdyEcmQso",
    "news": [
     {
-     "title": "Fernandez escapes Mertens from 5-3 down in decider to win Ningbo thriller",
-     "url": "https://www.wtatennis.com/videos/4594481/fernandez-escapes-mertens-from-5-3-down-in-decider-to-win-ningbo-thriller",
-     "source": "WTA Tennis"
+     "title": "WTA Ningbo Round of 16 Best Bets Including Ekaterina Alexandrova vs Marta Kostyuk",
+     "url": "https://lastwordonsports.com/tennis/2026/10/21/wta-ningbo-alexandrova-kostyuk/",
+     "source": "Last Word On Sports"
     },
     {
-     "title": "Elise Mertens vs Leylah Fernandez Prediction & Picks - Ningbo Open",
-     "url": "https://www.sportytrader.com/us/picks/elise-mertens-leylah-annie-fernandez-380352/",
+     "title": "Hanyu Guo vs Ekaterina Alexandrova Prediction & Picks - Ningbo Open",
+     "url": "https://www.sportytrader.com/us/picks/hanyu-guo-ekaterina-alexandrova-380624/",
      "source": "SportyTrader"
     },
     {
-     "title": "How to watch the women’s Ningbo Open: Streaming options for the Round of 16",
-     "url": "https://www.nytimes.com/athletic/7708986/2026/10/20/womens-ningbo-open-stream-how-to-watch-october-21/",
-     "source": "The New York Times"
+     "title": "Marta Kostyuk learned who her potential opponents will be at the tournament in China",
+     "url": "https://ua.news/en/sport/marta-kostiuk-diznalasia-mozhlivikh-supernits-na-turniri-v-kitayi",
+     "source": "UA.NEWS"
     }
    ]
   },
   {
-   "rawId": "helen haines attack",
-   "query": "helen haines attack",
+   "rawId": "warren buffett stock market warning strategy",
+   "query": "warren buffett stock market warning strategy",
    "traffic": "200+",
    "trafficNum": 200,
-   "publishedAt": "2026-10-21T06:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QXN6HBRlKyUW-aNLQP9MqjLrsWnhQYNFu2iTd9mHlY6A04q_lR58FxoAvO4",
+   "publishedAt": "2026-10-21T13:30:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqu7tdqo8HPwiUgqJwgAxdCjQTVFowRhvOrZHb72CjWZJMZCdu2sCjtHrh5YA",
    "news": [
     {
-     "title": "Helen Haines: Attacked Australian MP had both legs amputated, says husband",
-     "url": "https://www.bbc.com/news/live/cxvgymz3zzrmt",
-     "source": "BBC"
+     "title": "If a Stock Market Crash Is Coming, Warren Buffett Says This Is the Smartest Move Investors Can Make",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-crash-coming-warren-072000508.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "Australian politician who was hit by car has lost both legs",
-     "url": "https://thehill.com/homenews/ap/ap-international/ap-australian-politician-who-was-hit-by-car-has-lost-both-legs/",
-     "source": "The Hill"
+     "title": "Warren Buffett Has 1 Rule for Investing During Volatility, and It's More Important Than Ever Right Now",
+     "url": "https://www.fool.com/investing/2026/10/20/buffett-has-1-rule-for-investing-during-volatility/",
+     "source": "The Motley Fool"
     },
     {
-     "title": "Australian lawmaker loses both legs in vehicle attack as suspect appears in court",
-     "url": "https://www.reuters.com/world/asia-pacific/man-accused-ramming-car-into-australian-lawmaker-face-three-charges-court-2026-10-20/",
-     "source": "Reuters"
-    }
-   ]
-  },
-  {
-   "rawId": "jordan mason",
-   "query": "jordan mason",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-21T07:20:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGqQxKnSAPX9LzcJm6zAibrI-ksetu10ulGhkapv9vXeAnwDFLb2x7Jwa-AAo",
-   "news": [
-    {
-     "title": "Vikings Announce RB Jordan Mason to Return to Practice in Week 7",
-     "url": "https://www.vikings.com/news/running-back-jordan-mason-return-to-practice-week-7",
-     "source": "Minnesota Vikings"
-    },
-    {
-     "title": "Encouraging injury updates could have Vikings’ offense poised to explode",
-     "url": "https://bringmethesports.com/encouraging-injury-updates-could-have-vikings-offense-poised-to-explode",
-     "source": "Bring Me the Sports"
-    },
-    {
-     "title": "What can fantasy managers expect from Jordan Mason's return?",
-     "url": "https://sports.yahoo.com/video/what-can-fantasy-managers-expect-from-jordan-masons-return-020016525.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "paul walker",
-   "query": "paul walker",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-21T07:00:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5HWHzhuqRgC46rmwXi8r4c0vfm9-KNGnrWpRTc1aabYyAVgtdUm-jWUUkhI",
-   "news": [
-    {
-     "title": "Forget ‘Fast X,’ the Franchise’s Wildest Street-Racing Adventure Is Officially Leaving Netflix",
-     "url": "https://collider.com/fast-and-furious-tokyo-drift-leaving-netflix-november-2026/",
-     "source": "Collider"
-    },
-    {
-     "title": "Netflix Seals Fast & Furious Fate Ahead of Long-Awaited Sequel",
-     "url": "https://www.cbr.com/netflix-removing-fast-furious-november-2026/",
-     "source": "Comic Book Resources"
-    },
-    {
-     "title": "Netflix Subscribers Need to be Quick to Binge-Watch This $7.3B Crazy Action Franchise Before It Leaves Streaming",
-     "url": "https://comicbook.com/movies/news/netflix-subscribers-need-to-be-quick-to-binge-watch-this-7-3b-crazy-action-franchise-before-it-leaves-streaming/",
-     "source": "ComicBook.com"
-    }
-   ]
-  },
-  {
-   "rawId": "seattle mariners",
-   "query": "seattle mariners",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-21T06:50:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8CVQYeaX6wjJwlffRSR50sKtrJy_VuOM7KCp8S2Itlw_dLgEwbkDJoutqZqs",
-   "news": [
-    {
-     "title": "Pair of Former Seattle Mariners on Doorstop of World Series",
-     "url": "https://sports.yahoo.com/articles/pair-former-seattle-mariners-doorstop-042331473.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Ex-Mariners Infielder Going to World Series With Rays",
-     "url": "https://heavy.com/sports/mlb/seattle-mariners/ex-mariners-infielder-going-world-series-rays/",
-     "source": "Heavy.com"
-    },
-    {
-     "title": "Rays Reach World Series With Former Mariners Infielder Williamson",
-     "url": "https://suaragarut.id/en/rays-world-series-williamson-mariners",
-     "source": "SuaraGarut.ID"
-    }
-   ]
-  },
-  {
-   "rawId": "singapore airlines",
-   "query": "singapore airlines",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-21T06:50:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTOeeHgyflKoGJxYCLth8sXTtn-9Z4qY5gvhy7QKVyKb3tN568Bmd4l1v78ZX0",
-   "news": [
-    {
-     "title": "How I used Capital One miles to book a 16-hour Singapore Airlines business-class flight | CNN Underscored",
-     "url": "https://www.cnn.com/cnn-underscored/travel/singapore-airlines-business-class-savings",
-     "source": "CNN"
-    },
-    {
-     "title": "How I used Capital One miles to book a 16-hour Singapore Airlines business-class flight",
-     "url": "https://edition.cnn.com/cnn-underscored/travel/singapore-airlines-business-class-savings",
-     "source": "CNN"
-    },
-    {
-     "title": "Singapore Airlines Launches New 8-Hour Long-Haul Route In 1 Month: See Map Now",
-     "url": "https://simpleflying.com/singapore-airlines-launches-new-8-hour-route-1-month/",
-     "source": "Simple Flying"
+     "title": "Warren Buffett Isn't Worried About Bear Markets, and You Shouldn't Be, Either. Here's Why.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-isnt-worried-bear-082200154.html",
+     "source": "Yahoo Finance"
     }
    ]
   }

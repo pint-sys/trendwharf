@@ -1,7 +1,154 @@
 {
- "updated": "2026-10-21T07:50:48Z",
+ "updated": "2026-10-21T13:58:23Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50180873",
+   "title": "Updated PHP version released to GitHub",
+   "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T13:45:33Z",
+   "hot": 83.0,
+   "rank": 1,
+   "metrics": {
+    "points": 83,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50180873"
+   }
+  },
+  {
+   "rawId": "50180943",
+   "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+   "url": "https://www.php.net/index.php",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "php.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T13:50:05Z",
+   "hot": 39.0,
+   "rank": 2,
+   "metrics": {
+    "points": 39,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50180943"
+   }
+  },
+  {
+   "rawId": "50177916",
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "scotthelme.co.uk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T09:08:08Z",
+   "hot": 88.3,
+   "rank": 3,
+   "metrics": {
+    "points": 427,
+    "comments": 191,
+    "discussion": "https://news.ycombinator.com/item?id=50177916"
+   }
+  },
+  {
+   "rawId": "50179706",
+   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hirundo.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T12:22:39Z",
+   "hot": 72.1,
+   "rank": 4,
+   "metrics": {
+    "points": 115,
+    "comments": 53,
+    "discussion": "https://news.ycombinator.com/item?id=50179706"
+   }
+  },
+  {
+   "rawId": "50180444",
+   "title": "Most advice is right for the person giving it",
+   "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "coached.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T13:17:33Z",
+   "hot": 30.0,
+   "rank": 5,
+   "metrics": {
+    "points": 30,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50180444"
+   }
+  },
+  {
+   "rawId": "50179857",
+   "title": "LayerFS: The filesystem for AI coding agents",
+   "url": "https://layerfs.ai/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "layerfs.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T12:34:46Z",
+   "hot": 18.7,
+   "rank": 6,
+   "metrics": {
+    "points": 26,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50179857"
+   }
+  },
+  {
+   "rawId": "50178455",
+   "title": "Whatever Happened to Fire Escapes",
+   "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "practical.engineering"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T10:14:43Z",
+   "hot": 25.5,
+   "rank": 7,
+   "metrics": {
+    "points": 95,
+    "comments": 51,
+    "discussion": "https://news.ycombinator.com/item?id=50178455"
+   }
+  },
   {
    "rawId": "50175070",
    "title": "The Future of CSS",
@@ -15,12 +162,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T01:47:28Z",
-   "hot": 46.7,
-   "rank": 1,
+   "hot": 39.7,
+   "rank": 8,
    "metrics": {
-    "points": 283,
-    "comments": 110,
+    "points": 484,
+    "comments": 200,
     "discussion": "https://news.ycombinator.com/item?id=50175070"
+   }
+  },
+  {
+   "rawId": "50172041",
+   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+   "url": "https://news-web.php.net/php.announce/509",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "news-web.php.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T20:15:50Z",
+   "hot": 75.7,
+   "rank": 9,
+   "metrics": {
+    "points": 1341,
+    "comments": 558,
+    "discussion": "https://news.ycombinator.com/item?id=50172041"
+   }
+  },
+  {
+   "rawId": "50179828",
+   "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+   "url": "https://www.ncsc.nl/actueel",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ncsc.nl"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T12:31:28Z",
+   "hot": 122.9,
+   "rank": 10,
+   "metrics": {
+    "points": 178,
+    "comments": 63,
+    "discussion": "https://news.ycombinator.com/item?id=50179828"
+   }
+  },
+  {
+   "rawId": "50150214",
+   "title": "Way to Play Super Mario 64: On Apple Vision Pro",
+   "url": "https://www.pagetable.com/303",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pagetable.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T09:21:34Z",
+   "hot": 1.6,
+   "rank": 11,
+   "metrics": {
+    "points": 83,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50150214"
+   }
+  },
+  {
+   "rawId": "50180836",
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "wiz.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T13:43:19Z",
+   "hot": 6.0,
+   "rank": 12,
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50180836"
    }
   },
   {
@@ -36,11 +267,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T18:29:09Z",
-   "hot": 55.7,
-   "rank": 2,
+   "hot": 43.9,
+   "rank": 13,
    "metrics": {
-    "points": 744,
-    "comments": 359,
+    "points": 856,
+    "comments": 392,
     "discussion": "https://news.ycombinator.com/item?id=50170593"
    }
   },
@@ -57,75 +288,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T00:45:59Z",
-   "hot": 17.2,
-   "rank": 3,
+   "hot": 19.7,
+   "rank": 14,
    "metrics": {
-    "points": 122,
-    "comments": 34,
+    "points": 260,
+    "comments": 112,
     "discussion": "https://news.ycombinator.com/item?id=50174687"
-   }
-  },
-  {
-   "rawId": "50173487",
-   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "krebsonsecurity.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T22:21:05Z",
-   "hot": 19.4,
-   "rank": 4,
-   "metrics": {
-    "points": 184,
-    "comments": 76,
-    "discussion": "https://news.ycombinator.com/item?id=50173487"
-   }
-  },
-  {
-   "rawId": "50172041",
-   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-   "url": "https://news-web.php.net/php.announce/509",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "news-web.php.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T20:15:50Z",
-   "hot": 48.4,
-   "rank": 5,
-   "metrics": {
-    "points": 561,
-    "comments": 205,
-    "discussion": "https://news.ycombinator.com/item?id=50172041"
-   }
-  },
-  {
-   "rawId": "50168396",
-   "title": "Voxtral 3",
-   "url": "https://mistral.ai/news/voxtral-3/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "mistral.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T16:02:07Z",
-   "hot": 40.0,
-   "rank": 6,
-   "metrics": {
-    "points": 633,
-    "comments": 162,
-    "discussion": "https://news.ycombinator.com/item?id=50168396"
    }
   },
   {
@@ -141,285 +309,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T13:58:33Z",
-   "hot": 49.0,
-   "rank": 7,
+   "hot": 45.5,
+   "rank": 15,
    "metrics": {
-    "points": 876,
-    "comments": 384,
+    "points": 1092,
+    "comments": 424,
     "discussion": "https://news.ycombinator.com/item?id=50166579"
    }
   },
   {
-   "rawId": "50175185",
-   "title": "In Hilbert space, all things are quantumly possible",
-   "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+   "rawId": "50149861",
+   "title": "The Decoherence Trap",
+   "url": "https://maevyn.codes/decoherence",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "quantamagazine.org"
+    "maevyn.codes"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T02:04:15Z",
-   "hot": 12.8,
-   "rank": 8,
-   "metrics": {
-    "points": 74,
-    "comments": 40,
-    "discussion": "https://news.ycombinator.com/item?id=50175185"
-   }
-  },
-  {
-   "rawId": "50175059",
-   "title": "Good type against all odds",
-   "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "unsung.aresluna.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T01:45:07Z",
-   "hot": 16.1,
-   "rank": 9,
-   "metrics": {
-    "points": 98,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50175059"
-   }
-  },
-  {
-   "rawId": "50148845",
-   "title": "Composite objects and C++26 the std:polymorphic type",
-   "url": "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "mariusbancila.ro"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T05:54:43Z",
-   "hot": 0.3,
-   "rank": 10,
-   "metrics": {
-    "points": 13,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50148845"
-   }
-  },
-  {
-   "rawId": "50176298",
-   "title": "Battlezone Online: BZFlag in the Browser",
-   "url": "https://github.com/timriker/bzo",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T05:05:19Z",
-   "hot": 8.3,
-   "rank": 11,
-   "metrics": {
-    "points": 23,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50176298"
-   }
-  },
-  {
-   "rawId": "50173891",
-   "title": "The Other Epidemic: Trying to get off benzodiazepines",
-   "url": "https://www.thebeliever.net/the-other-epidemic/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thebeliever.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T23:04:09Z",
-   "hot": 18.9,
-   "rank": 12,
-   "metrics": {
-    "points": 166,
-    "comments": 122,
-    "discussion": "https://news.ycombinator.com/item?id=50173891"
-   }
-  },
-  {
-   "rawId": "50175882",
-   "title": "Setting Up SSH Keys on macOS with Touch ID",
-   "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nmattia.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T03:51:25Z",
-   "hot": 8.3,
-   "rank": 13,
-   "metrics": {
-    "points": 33,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50175882"
-   }
-  },
-  {
-   "rawId": "50147799",
-   "title": "ZX Spectrum Next Laptop",
-   "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dorchester3d.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T02:48:11Z",
-   "hot": 0.9,
-   "rank": 14,
-   "metrics": {
-    "points": 47,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50147799"
-   }
-  },
-  {
-   "rawId": "50176301",
-   "title": "Pillowfort Is Closing",
-   "url": "https://www.pillowfort.social/posts/8413273",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pillowfort.social"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T05:05:37Z",
-   "hot": 12.0,
-   "rank": 15,
-   "metrics": {
-    "points": 33,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50176301"
-   }
-  },
-  {
-   "rawId": "50165215",
-   "title": "Four Years with Decker",
-   "url": "https://beyondloom.com/blog/fouryearsdecker.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "beyondloom.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T12:18:02Z",
-   "hot": 1.3,
+   "publishedAt": "2026-10-19T08:35:44Z",
+   "hot": 1.7,
    "rank": 16,
+   "metrics": {
+    "points": 93,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50149861"
+   }
+  },
+  {
+   "rawId": "50168396",
+   "title": "Voxtral 3",
+   "url": "https://mistral.ai/news/voxtral-3/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mistral.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T16:02:07Z",
+   "hot": 33.1,
+   "rank": 17,
+   "metrics": {
+    "points": 726,
+    "comments": 180,
+    "discussion": "https://news.ycombinator.com/item?id=50168396"
+   }
+  },
+  {
+   "rawId": "50151175",
+   "title": "The Lucrative World of Literary Scams",
+   "url": "https://www.thedial.world/articles/news/ai-book-scams",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "thedial.world"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T11:43:35Z",
+   "hot": 0.5,
+   "rank": 18,
    "metrics": {
     "points": 25,
     "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50165215"
+    "discussion": "https://news.ycombinator.com/item?id=50151175"
    }
   },
   {
-   "rawId": "50160440",
-   "title": "Ship Your Interpreter",
-   "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+   "rawId": "50173487",
+   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "basis.ai"
+    "krebsonsecurity.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T01:57:24Z",
-   "hot": 0.6,
-   "rank": 17,
-   "metrics": {
-    "points": 18,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50160440"
-   }
-  },
-  {
-   "rawId": "50169053",
-   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-   "url": "https://github.com/google-pytorch/torch_tpu",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T16:40:24Z",
-   "hot": 21.6,
-   "rank": 18,
-   "metrics": {
-    "points": 327,
-    "comments": 74,
-    "discussion": "https://news.ycombinator.com/item?id=50169053"
-   }
-  },
-  {
-   "rawId": "50151771",
-   "title": "Borrow Checking Zero-Cost Cyclic Mutability",
-   "url": "https://antelang.org/blog/safe_cyclic_mutability/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "antelang.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T12:47:42Z",
-   "hot": 0.7,
+   "publishedAt": "2026-10-20T22:21:05Z",
+   "hot": 15.0,
    "rank": 19,
    "metrics": {
-    "points": 28,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50151771"
-   }
-  },
-  {
-   "rawId": "50108717",
-   "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-   "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-15T19:09:34Z",
-   "hot": 1.8,
-   "rank": 20,
-   "metrics": {
-    "points": 245,
-    "comments": 94,
-    "discussion": "https://news.ycombinator.com/item?id=50108717"
+    "points": 234,
+    "comments": 111,
+    "discussion": "https://news.ycombinator.com/item?id=50173487"
    }
   }
  ]
