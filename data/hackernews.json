@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-21T13:58:23Z",
+ "updated": "2026-10-21T18:46:53Z",
  "source": "hackernews",
  "items": [
   {
    "rawId": "50180873",
-   "title": "Updated PHP version released to GitHub",
+   "title": "PHP 8.2.35",
    "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
    "videoUrl": null,
    "category": "news",
@@ -15,33 +15,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T13:45:33Z",
-   "hot": 83.0,
+   "hot": 167.3,
    "rank": 1,
    "metrics": {
-    "points": 83,
-    "comments": 12,
+    "points": 840,
+    "comments": 471,
     "discussion": "https://news.ycombinator.com/item?id=50180873"
    }
   },
   {
-   "rawId": "50180943",
-   "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
-   "url": "https://www.php.net/index.php",
+   "rawId": "50182987",
+   "title": "Today's PHP security release, and how we're strengthening security",
+   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "php.net"
+    "thephp.foundation"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T13:50:05Z",
-   "hot": 39.0,
+   "publishedAt": "2026-10-21T15:48:56Z",
+   "hot": 102.5,
    "rank": 2,
    "metrics": {
-    "points": 39,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50180943"
+    "points": 304,
+    "comments": 155,
+    "discussion": "https://news.ycombinator.com/item?id=50182987"
+   }
+  },
+  {
+   "rawId": "50181114",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "safedep.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T14:00:26Z",
+   "hot": 50.5,
+   "rank": 3,
+   "metrics": {
+    "points": 241,
+    "comments": 92,
+    "discussion": "https://news.ycombinator.com/item?id=50181114"
+   }
+  },
+  {
+   "rawId": "50181136",
+   "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+   "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "duckdb.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T14:01:22Z",
+   "hot": 55.3,
+   "rank": 4,
+   "metrics": {
+    "points": 263,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50181136"
    }
   },
   {
@@ -57,348 +99,306 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T09:08:08Z",
-   "hot": 88.3,
-   "rank": 3,
+   "hot": 71.3,
+   "rank": 5,
    "metrics": {
-    "points": 427,
-    "comments": 191,
+    "points": 688,
+    "comments": 323,
     "discussion": "https://news.ycombinator.com/item?id=50177916"
    }
   },
   {
-   "rawId": "50179706",
-   "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-   "url": "https://www.hirundo.io/blog/qwen3-coder-vulnerabilities",
+   "rawId": "50181175",
+   "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hirundo.io"
+    "openai.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T12:22:39Z",
-   "hot": 72.1,
-   "rank": 4,
-   "metrics": {
-    "points": 115,
-    "comments": 53,
-    "discussion": "https://news.ycombinator.com/item?id=50179706"
-   }
-  },
-  {
-   "rawId": "50180444",
-   "title": "Most advice is right for the person giving it",
-   "url": "https://coached.com/essays/most-advice-is-right-for-the-person-giving-it/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "coached.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T13:17:33Z",
-   "hot": 30.0,
-   "rank": 5,
-   "metrics": {
-    "points": 30,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50180444"
-   }
-  },
-  {
-   "rawId": "50179857",
-   "title": "LayerFS: The filesystem for AI coding agents",
-   "url": "https://layerfs.ai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "layerfs.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T12:34:46Z",
-   "hot": 18.7,
+   "publishedAt": "2026-10-21T14:03:43Z",
+   "hot": 36.7,
    "rank": 6,
    "metrics": {
-    "points": 26,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50179857"
+    "points": 173,
+    "comments": 102,
+    "discussion": "https://news.ycombinator.com/item?id=50181175"
    }
   },
   {
-   "rawId": "50178455",
-   "title": "Whatever Happened to Fire Escapes",
-   "url": "https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes",
+   "rawId": "50162044",
+   "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+   "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "practical.engineering"
+    "bbc.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T10:14:43Z",
-   "hot": 25.5,
+   "publishedAt": "2026-10-20T06:20:54Z",
+   "hot": 2.1,
    "rank": 7,
    "metrics": {
-    "points": 95,
-    "comments": 51,
-    "discussion": "https://news.ycombinator.com/item?id=50178455"
+    "points": 75,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50162044"
    }
   },
   {
-   "rawId": "50175070",
-   "title": "The Future of CSS",
-   "url": "https://www.joshwcomeau.com/css/interop-2027/",
+   "rawId": "50182526",
+   "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+   "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "joshwcomeau.com"
+    "apnews.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T01:47:28Z",
-   "hot": 39.7,
+   "publishedAt": "2026-10-21T15:20:04Z",
+   "hot": 29.9,
    "rank": 8,
    "metrics": {
-    "points": 484,
-    "comments": 200,
-    "discussion": "https://news.ycombinator.com/item?id=50175070"
+    "points": 103,
+    "comments": 61,
+    "discussion": "https://news.ycombinator.com/item?id=50182526"
    }
   },
   {
-   "rawId": "50172041",
-   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-   "url": "https://news-web.php.net/php.announce/509",
+   "rawId": "50184586",
+   "title": "EA is shutting down BioWare",
+   "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "news-web.php.net"
+    "theverge.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T20:15:50Z",
-   "hot": 75.7,
+   "publishedAt": "2026-10-21T17:29:33Z",
+   "hot": 108.6,
    "rank": 9,
    "metrics": {
-    "points": 1341,
-    "comments": 558,
-    "discussion": "https://news.ycombinator.com/item?id=50172041"
+    "points": 140,
+    "comments": 67,
+    "discussion": "https://news.ycombinator.com/item?id=50184586"
    }
   },
   {
-   "rawId": "50179828",
-   "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-   "url": "https://www.ncsc.nl/actueel",
+   "rawId": "50180079",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ncsc.nl"
+    "openai.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T12:31:28Z",
-   "hot": 122.9,
+   "publishedAt": "2026-10-21T12:53:11Z",
+   "hot": 20.7,
    "rank": 10,
    "metrics": {
-    "points": 178,
-    "comments": 63,
-    "discussion": "https://news.ycombinator.com/item?id=50179828"
+    "points": 122,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50180079"
    }
   },
   {
-   "rawId": "50150214",
-   "title": "Way to Play Super Mario 64: On Apple Vision Pro",
-   "url": "https://www.pagetable.com/303",
+   "rawId": "50183512",
+   "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+   "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "pagetable.com"
+    "oist.jp"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T09:21:34Z",
-   "hot": 1.6,
+   "publishedAt": "2026-10-21T16:20:37Z",
+   "hot": 11.1,
    "rank": 11,
    "metrics": {
-    "points": 83,
-    "comments": 26,
-    "discussion": "https://news.ycombinator.com/item?id=50150214"
+    "points": 27,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50183512"
    }
   },
   {
-   "rawId": "50180836",
-   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "rawId": "50180752",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "wiz.io"
+    "openai.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T13:43:19Z",
-   "hot": 6.0,
+   "publishedAt": "2026-10-21T13:37:00Z",
+   "hot": 17.6,
    "rank": 12,
    "metrics": {
-    "points": 6,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50180836"
+    "points": 91,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50180752"
    }
   },
   {
-   "rawId": "50170593",
-   "title": "Show HN: SimCity, but with Permits",
-   "url": "https://permit.petercai.com/",
+   "rawId": "50185045",
+   "title": "The compiler was supposed to end programming too",
+   "url": "https://hrih.si/articles/the-compiler-was-supposed-to-end-programming/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "permit.petercai.com"
+    "hrih.si"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T18:29:09Z",
-   "hot": 43.9,
+   "publishedAt": "2026-10-21T18:00:51Z",
+   "hot": 9.0,
    "rank": 13,
    "metrics": {
-    "points": 856,
-    "comments": 392,
-    "discussion": "https://news.ycombinator.com/item?id=50170593"
+    "points": 9,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50185045"
    }
   },
   {
-   "rawId": "50174687",
-   "title": "Muse exposes users' personal and business secrets when they share conversations",
-   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "rawId": "50158408",
+   "title": "Drupal is now light-years ahead of its reputation",
+   "url": "https://dri.es/state-of-drupal-presentation-september-2026",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arstechnica.com"
+    "dri.es"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T00:45:59Z",
-   "hot": 19.7,
+   "publishedAt": "2026-10-19T21:38:02Z",
+   "hot": 1.6,
    "rank": 14,
    "metrics": {
-    "points": 260,
-    "comments": 112,
-    "discussion": "https://news.ycombinator.com/item?id=50174687"
+    "points": 74,
+    "comments": 88,
+    "discussion": "https://news.ycombinator.com/item?id=50158408"
    }
   },
   {
-   "rawId": "50166579",
-   "title": "eMudhra intermediate CA compromise",
-   "url": "https://emudhra.we-have-a-problem.com/",
+   "rawId": "50183280",
+   "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
+   "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "emudhra.we-have-a-problem.com"
+    "danielmangum.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T13:58:33Z",
-   "hot": 45.5,
+   "publishedAt": "2026-10-21T16:05:05Z",
+   "hot": 11.5,
    "rank": 15,
    "metrics": {
-    "points": 1092,
-    "comments": 424,
-    "discussion": "https://news.ycombinator.com/item?id=50166579"
+    "points": 31,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50183280"
    }
   },
   {
-   "rawId": "50149861",
-   "title": "The Decoherence Trap",
-   "url": "https://maevyn.codes/decoherence",
+   "rawId": "50183344",
+   "title": "The bridge to agent-scale Git infrastructure",
+   "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "maevyn.codes"
+    "github.blog"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T08:35:44Z",
-   "hot": 1.7,
+   "publishedAt": "2026-10-21T16:09:28Z",
+   "hot": 7.6,
    "rank": 16,
    "metrics": {
-    "points": 93,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50149861"
+    "points": 20,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50183344"
    }
   },
   {
-   "rawId": "50168396",
-   "title": "Voxtral 3",
-   "url": "https://mistral.ai/news/voxtral-3/",
+   "rawId": "50185438",
+   "title": "Anthropic's Public Benefit Charter",
+   "url": "https://www.anthropic.com/public-benefit-charter",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mistral.ai"
+    "anthropic.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T16:02:07Z",
-   "hot": 33.1,
+   "publishedAt": "2026-10-21T18:29:54Z",
+   "hot": 7.0,
    "rank": 17,
    "metrics": {
-    "points": 726,
-    "comments": 180,
-    "discussion": "https://news.ycombinator.com/item?id=50168396"
+    "points": 7,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50185438"
    }
   },
   {
-   "rawId": "50151175",
-   "title": "The Lucrative World of Literary Scams",
-   "url": "https://www.thedial.world/articles/news/ai-book-scams",
+   "rawId": "50176908",
+   "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+   "url": "https://alterauth.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "thedial.world"
+    "alterauth.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T11:43:35Z",
-   "hot": 0.5,
+   "publishedAt": "2026-10-21T06:42:12Z",
+   "hot": 1.5,
    "rank": 18,
    "metrics": {
-    "points": 25,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50151175"
+    "points": 18,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50176908"
    }
   },
   {
-   "rawId": "50173487",
-   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-   "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "rawId": "50155751",
+   "title": "C++ futures part 1: The mental model",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20261012-00/?p=112767/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "krebsonsecurity.com"
+    "devblogs.microsoft.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T22:21:05Z",
-   "hot": 15.0,
+   "publishedAt": "2026-10-19T18:05:53Z",
+   "hot": 1.0,
    "rank": 19,
    "metrics": {
-    "points": 234,
-    "comments": 111,
-    "discussion": "https://news.ycombinator.com/item?id=50173487"
+    "points": 49,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50155751"
    }
   }
  ]
