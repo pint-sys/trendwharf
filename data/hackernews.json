@@ -1,47 +1,131 @@
 {
- "updated": "2026-10-22T07:46:31Z",
+ "updated": "2026-10-22T13:56:52Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50191507",
-   "title": "OpenAI CLI",
-   "url": "https://github.com/openai/openai-cli",
+   "rawId": "50192900",
+   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "nvd.nist.gov"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T05:23:11Z",
-   "hot": 27.2,
+   "publishedAt": "2026-10-22T08:51:31Z",
+   "hot": 57.4,
    "rank": 1,
    "metrics": {
-    "points": 65,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50191507"
+    "points": 292,
+    "comments": 93,
+    "discussion": "https://news.ycombinator.com/item?id=50192900"
    }
   },
   {
-   "rawId": "50190455",
-   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+   "rawId": "50150163",
+   "title": "What Is Gridifcation",
+   "url": "https://musicalform.substack.com/p/what-is-gridifcation",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "web.maths.unsw.edu.au"
+    "musicalform.substack.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T02:30:52Z",
-   "hot": 32.9,
+   "publishedAt": "2026-10-19T09:13:12Z",
+   "hot": 1.4,
    "rank": 2,
    "metrics": {
-    "points": 173,
-    "comments": 95,
-    "discussion": "https://news.ycombinator.com/item?id=50190455"
+    "points": 109,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50150163"
+   }
+  },
+  {
+   "rawId": "50192536",
+   "title": "Jailbreaking the Switch 2",
+   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pepsipu.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T08:01:52Z",
+   "hot": 49.5,
+   "rank": 3,
+   "metrics": {
+    "points": 293,
+    "comments": 102,
+    "discussion": "https://news.ycombinator.com/item?id=50192536"
+   }
+  },
+  {
+   "rawId": "50193170",
+   "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+   "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "globus.software"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T09:31:18Z",
+   "hot": 24.9,
+   "rank": 4,
+   "metrics": {
+    "points": 110,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50193170"
+   }
+  },
+  {
+   "rawId": "50194833",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "techspot.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T13:11:00Z",
+   "hot": 84.0,
+   "rank": 5,
+   "metrics": {
+    "points": 84,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50194833"
+   }
+  },
+  {
+   "rawId": "50194909",
+   "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+   "url": "https://news.ycombinator.com/item?id=50194909",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T13:17:29Z",
+   "hot": 45.0,
+   "rank": 6,
+   "metrics": {
+    "points": 45,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50194909"
    }
   },
   {
@@ -57,75 +141,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T02:18:41Z",
-   "hot": 19.2,
-   "rank": 3,
+   "hot": 29.6,
+   "rank": 7,
    "metrics": {
-    "points": 105,
-    "comments": 43,
+    "points": 345,
+    "comments": 110,
     "discussion": "https://news.ycombinator.com/item?id=50190363"
    }
   },
   {
-   "rawId": "50188948",
-   "title": "There isn't an easy exploit for this PHP vulnerability",
-   "url": "https://eliastaylor.com/noexploit/",
+   "rawId": "50157456",
+   "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+   "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "eliastaylor.com"
+    "arstechnica.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T23:13:27Z",
-   "hot": 55.3,
-   "rank": 4,
+   "publishedAt": "2026-10-19T20:12:49Z",
+   "hot": 0.8,
+   "rank": 8,
    "metrics": {
-    "points": 473,
-    "comments": 253,
-    "discussion": "https://news.ycombinator.com/item?id=50188948"
+    "points": 51,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50157456"
    }
   },
   {
-   "rawId": "50185869",
-   "title": "GitLab critical patch release",
-   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "rawId": "50193804",
+   "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+   "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "docs.gitlab.com"
+    "phoronix.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T19:01:12Z",
-   "hot": 25.8,
-   "rank": 5,
+   "publishedAt": "2026-10-22T11:12:37Z",
+   "hot": 46.0,
+   "rank": 9,
    "metrics": {
-    "points": 329,
-    "comments": 76,
-    "discussion": "https://news.ycombinator.com/item?id=50185869"
+    "points": 126,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50193804"
    }
   },
   {
-   "rawId": "50181114",
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "rawId": "50190455",
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "safedep.io"
+    "web.maths.unsw.edu.au"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T14:00:26Z",
-   "hot": 27.6,
-   "rank": 6,
+   "publishedAt": "2026-10-22T02:30:52Z",
+   "hot": 21.7,
+   "rank": 10,
    "metrics": {
-    "points": 491,
-    "comments": 167,
-    "discussion": "https://news.ycombinator.com/item?id=50181114"
+    "points": 248,
+    "comments": 197,
+    "discussion": "https://news.ycombinator.com/item?id=50190455"
+   }
+  },
+  {
+   "rawId": "50194070",
+   "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "aws.amazon.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T11:50:36Z",
+   "hot": 45.6,
+   "rank": 11,
+   "metrics": {
+    "points": 96,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50194070"
+   }
+  },
+  {
+   "rawId": "50173944",
+   "title": "The painter behind Manhattan’s Gilded Age interiors",
+   "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "engelsbergideas.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T23:09:43Z",
+   "hot": 0.3,
+   "rank": 12,
+   "metrics": {
+    "points": 12,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50173944"
    }
   },
   {
@@ -141,54 +267,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T21:58:03Z",
-   "hot": 43.8,
-   "rank": 7,
+   "hot": 32.9,
+   "rank": 13,
    "metrics": {
-    "points": 430,
-    "comments": 249,
+    "points": 525,
+    "comments": 303,
     "discussion": "https://news.ycombinator.com/item?id=50188228"
    }
   },
   {
-   "rawId": "50176082",
-   "title": "Using LLM for confidence scoring is a bad idea",
-   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+   "rawId": "50186037",
+   "title": "Claude Duet",
+   "url": "https://claude.com/product/claude-duet",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "rumple.github.io"
+    "claude.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T04:27:51Z",
-   "hot": 2.5,
-   "rank": 8,
+   "publishedAt": "2026-10-21T19:14:01Z",
+   "hot": 24.9,
+   "rank": 14,
    "metrics": {
-    "points": 67,
-    "comments": 41,
-    "discussion": "https://news.ycombinator.com/item?id=50176082"
-   }
-  },
-  {
-   "rawId": "50186010",
-   "title": "Rust Style Guide",
-   "url": "https://google.github.io/styleguide/rustguide.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "google.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T19:11:57Z",
-   "hot": 22.4,
-   "rank": 9,
-   "metrics": {
-    "points": 282,
-    "comments": 167,
-    "discussion": "https://news.ycombinator.com/item?id=50186010"
+    "points": 466,
+    "comments": 432,
+    "discussion": "https://news.ycombinator.com/item?id=50186037"
    }
   },
   {
@@ -204,222 +309,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T04:27:08Z",
-   "hot": 5.4,
-   "rank": 10,
+   "hot": 6.8,
+   "rank": 15,
    "metrics": {
-    "points": 279,
-    "comments": 173,
+    "points": 389,
+    "comments": 225,
     "discussion": "https://news.ycombinator.com/item?id=50161346"
    }
   },
   {
-   "rawId": "50166590",
-   "title": "Beyond the &",
-   "url": "https://lwn.net/Articles/1096028/",
+   "rawId": "50181114",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "lwn.net"
+    "safedep.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T13:59:11Z",
-   "hot": 1.2,
-   "rank": 11,
-   "metrics": {
-    "points": 52,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50166590"
-   }
-  },
-  {
-   "rawId": "50184820",
-   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cnbc.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T17:45:13Z",
-   "hot": 36.4,
-   "rank": 12,
-   "metrics": {
-    "points": 510,
-    "comments": 311,
-    "discussion": "https://news.ycombinator.com/item?id=50184820"
-   }
-  },
-  {
-   "rawId": "50173716",
-   "title": "PingCap TiDB Leaks",
-   "url": "https://fulcrumsec.vg/pingcap/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "fulcrumsec.vg"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T22:45:39Z",
-   "hot": 9.4,
-   "rank": 13,
-   "metrics": {
-    "points": 309,
-    "comments": 47,
-    "discussion": "https://news.ycombinator.com/item?id=50173716"
-   }
-  },
-  {
-   "rawId": "50189232",
-   "title": "mitmproxy adds --emudhra option",
-   "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T23:51:37Z",
-   "hot": 52.9,
-   "rank": 14,
-   "metrics": {
-    "points": 419,
-    "comments": 110,
-    "discussion": "https://news.ycombinator.com/item?id=50189232"
-   }
-  },
-  {
-   "rawId": "50161283",
-   "title": "ThinkPad I9990303 Error Catch-22",
-   "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "os2museum.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T04:16:10Z",
-   "hot": 0.4,
-   "rank": 15,
-   "metrics": {
-    "points": 19,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50161283"
-   }
-  },
-  {
-   "rawId": "50162044",
-   "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-   "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bbc.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T06:20:54Z",
-   "hot": 3.9,
+   "publishedAt": "2026-10-21T14:00:26Z",
+   "hot": 23.3,
    "rank": 16,
    "metrics": {
-    "points": 195,
-    "comments": 41,
-    "discussion": "https://news.ycombinator.com/item?id=50162044"
+    "points": 557,
+    "comments": 182,
+    "discussion": "https://news.ycombinator.com/item?id=50181114"
    }
   },
   {
-   "rawId": "50160241",
-   "title": "What Is the Karakoram Anomaly?",
-   "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+   "rawId": "50186010",
+   "title": "Rust Style Guide",
+   "url": "https://google.github.io/styleguide/rustguide.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nsidc.org"
+    "google.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T01:26:53Z",
-   "hot": 0.3,
+   "publishedAt": "2026-10-21T19:11:57Z",
+   "hot": 18.3,
    "rank": 17,
    "metrics": {
-    "points": 18,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50160241"
+    "points": 344,
+    "comments": 202,
+    "discussion": "https://news.ycombinator.com/item?id=50186010"
    }
   },
   {
-   "rawId": "50180079",
-   "title": "OpenAI models are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud/",
+   "rawId": "50185869",
+   "title": "GitLab critical patch release",
+   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openai.com"
+    "docs.gitlab.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T12:53:11Z",
-   "hot": 15.0,
+   "publishedAt": "2026-10-21T19:01:12Z",
+   "hot": 19.8,
    "rank": 18,
    "metrics": {
-    "points": 283,
-    "comments": 117,
-    "discussion": "https://news.ycombinator.com/item?id=50180079"
+    "points": 375,
+    "comments": 87,
+    "discussion": "https://news.ycombinator.com/item?id=50185869"
    }
   },
   {
-   "rawId": "50183892",
-   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-   "url": "https://github.com/omnara-ai/omnara",
+   "rawId": "50194522",
+   "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+   "url": "https://lastmuseum.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "lastmuseum.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T16:44:53Z",
-   "hot": 4.6,
+   "publishedAt": "2026-10-22T12:40:04Z",
+   "hot": 2.3,
    "rank": 19,
    "metrics": {
-    "points": 69,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50183892"
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50194522"
    }
   },
   {
-   "rawId": "50182987",
-   "title": "Today's PHP security release, and how we're strengthening security",
-   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+   "rawId": "50155616",
+   "title": "The Robot I Didn't Expect to Build",
+   "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "thephp.foundation"
+    "spectrum.ieee.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T15:48:56Z",
-   "hot": 45.3,
+   "publishedAt": "2026-10-19T17:57:18Z",
+   "hot": 0.6,
    "rank": 20,
    "metrics": {
-    "points": 723,
-    "comments": 350,
-    "discussion": "https://news.ycombinator.com/item?id=50182987"
+    "points": 38,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50155616"
    }
   }
  ]
