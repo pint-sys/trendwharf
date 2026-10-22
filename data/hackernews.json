@@ -1,26 +1,131 @@
 {
- "updated": "2026-10-22T13:56:52Z",
+ "updated": "2026-10-22T18:40:05Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50192900",
-   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+   "rawId": "50195959",
+   "title": "Quad9 (DNS Resolver) to Exit France",
+   "url": "https://quad9.net/news/blog/au-revoir-france/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nvd.nist.gov"
+    "quad9.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T08:51:31Z",
-   "hot": 57.4,
+   "publishedAt": "2026-10-22T14:32:38Z",
+   "hot": 117.8,
    "rank": 1,
    "metrics": {
-    "points": 292,
-    "comments": 93,
-    "discussion": "https://news.ycombinator.com/item?id=50192900"
+    "points": 486,
+    "comments": 169,
+    "discussion": "https://news.ycombinator.com/item?id=50195959"
+   }
+  },
+  {
+   "rawId": "50195110",
+   "title": "eMudhra to exit global SSL/TLS certificate business",
+   "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "emudhra.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T13:33:39Z",
+   "hot": 131.0,
+   "rank": 2,
+   "metrics": {
+    "points": 669,
+    "comments": 485,
+    "discussion": "https://news.ycombinator.com/item?id=50195110"
+   }
+  },
+  {
+   "rawId": "50198675",
+   "title": "Nvidia OpenShell",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T17:44:06Z",
+   "hot": 42.0,
+   "rank": 3,
+   "metrics": {
+    "points": 42,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50198675"
+   }
+  },
+  {
+   "rawId": "50197404",
+   "title": "Getting ready to operate GNU Taler in Germany",
+   "url": "https://www.taler.net/en/news/2026-13.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "taler.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T16:14:31Z",
+   "hot": 35.4,
+   "rank": 4,
+   "metrics": {
+    "points": 86,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50197404"
+   }
+  },
+  {
+   "rawId": "50196718",
+   "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T15:26:22Z",
+   "hot": 45.5,
+   "rank": 5,
+   "metrics": {
+    "points": 147,
+    "comments": 52,
+    "discussion": "https://news.ycombinator.com/item?id=50196718"
+   }
+  },
+  {
+   "rawId": "50195543",
+   "title": "What's Getting Pwned",
+   "url": "https://pwn.watch/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pwn.watch"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T14:08:12Z",
+   "hot": 50.3,
+   "rank": 6,
+   "metrics": {
+    "points": 228,
+    "comments": 119,
+    "discussion": "https://news.ycombinator.com/item?id=50195543"
    }
   },
   {
@@ -36,11 +141,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-19T09:13:12Z",
-   "hot": 1.4,
-   "rank": 2,
+   "hot": 3.5,
+   "rank": 7,
    "metrics": {
-    "points": 109,
-    "comments": 27,
+    "points": 286,
+    "comments": 137,
     "discussion": "https://news.ycombinator.com/item?id=50150163"
    }
   },
@@ -57,12 +162,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T08:01:52Z",
-   "hot": 49.5,
-   "rank": 3,
+   "hot": 52.5,
+   "rank": 8,
    "metrics": {
-    "points": 293,
-    "comments": 102,
+    "points": 558,
+    "comments": 202,
     "discussion": "https://news.ycombinator.com/item?id=50192536"
+   }
+  },
+  {
+   "rawId": "50198936",
+   "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+   "url": "https://github.com/rbartoli/agent-usage-guard",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T18:02:38Z",
+   "hot": 7.0,
+   "rank": 9,
+   "metrics": {
+    "points": 7,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50198936"
+   }
+  },
+  {
+   "rawId": "50154109",
+   "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+   "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "boristhebrave.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-19T16:06:40Z",
+   "hot": 0.8,
+   "rank": 10,
+   "metrics": {
+    "points": 60,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50154109"
+   }
+  },
+  {
+   "rawId": "50197601",
+   "title": "A farewell to Arc browser",
+   "url": "https://arc.net/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arc.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T16:27:47Z",
+   "hot": 51.2,
+   "rank": 11,
+   "metrics": {
+    "points": 113,
+    "comments": 86,
+    "discussion": "https://news.ycombinator.com/item?id=50197601"
+   }
+  },
+  {
+   "rawId": "50196837",
+   "title": "Google cleared 300 hectares of Finnish forest",
+   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "techspot.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T15:32:46Z",
+   "hot": 69.8,
+   "rank": 12,
+   "metrics": {
+    "points": 218,
+    "comments": 149,
+    "discussion": "https://news.ycombinator.com/item?id=50196837"
    }
   },
   {
@@ -78,306 +267,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T09:31:18Z",
-   "hot": 24.9,
-   "rank": 4,
+   "hot": 18.5,
+   "rank": 13,
    "metrics": {
-    "points": 110,
-    "comments": 19,
+    "points": 169,
+    "comments": 34,
     "discussion": "https://news.ycombinator.com/item?id=50193170"
    }
   },
   {
-   "rawId": "50194833",
-   "title": "Woman faces six years in prison over Cash App account she never opened",
-   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "rawId": "50195873",
+   "title": "MPs moving to restrict gambling ads in Canada",
+   "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "techspot.com"
+    "cbc.ca"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T13:11:00Z",
-   "hot": 84.0,
-   "rank": 5,
-   "metrics": {
-    "points": 84,
-    "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50194833"
-   }
-  },
-  {
-   "rawId": "50194909",
-   "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
-   "url": "https://news.ycombinator.com/item?id=50194909",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T13:17:29Z",
-   "hot": 45.0,
-   "rank": 6,
-   "metrics": {
-    "points": 45,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50194909"
-   }
-  },
-  {
-   "rawId": "50190363",
-   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "simedw.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T02:18:41Z",
-   "hot": 29.6,
-   "rank": 7,
-   "metrics": {
-    "points": 345,
-    "comments": 110,
-    "discussion": "https://news.ycombinator.com/item?id=50190363"
-   }
-  },
-  {
-   "rawId": "50157456",
-   "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-   "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arstechnica.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T20:12:49Z",
-   "hot": 0.8,
-   "rank": 8,
-   "metrics": {
-    "points": 51,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50157456"
-   }
-  },
-  {
-   "rawId": "50193804",
-   "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-   "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "phoronix.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T11:12:37Z",
-   "hot": 46.0,
-   "rank": 9,
-   "metrics": {
-    "points": 126,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50193804"
-   }
-  },
-  {
-   "rawId": "50190455",
-   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "web.maths.unsw.edu.au"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T02:30:52Z",
-   "hot": 21.7,
-   "rank": 10,
-   "metrics": {
-    "points": 248,
-    "comments": 197,
-    "discussion": "https://news.ycombinator.com/item?id=50190455"
-   }
-  },
-  {
-   "rawId": "50194070",
-   "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-   "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "aws.amazon.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T11:50:36Z",
-   "hot": 45.6,
-   "rank": 11,
-   "metrics": {
-    "points": 96,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50194070"
-   }
-  },
-  {
-   "rawId": "50173944",
-   "title": "The painter behind Manhattan’s Gilded Age interiors",
-   "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "engelsbergideas.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T23:09:43Z",
-   "hot": 0.3,
-   "rank": 12,
-   "metrics": {
-    "points": 12,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50173944"
-   }
-  },
-  {
-   "rawId": "50188228",
-   "title": "Security Disclosure",
-   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.railway.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T21:58:03Z",
-   "hot": 32.9,
-   "rank": 13,
-   "metrics": {
-    "points": 525,
-    "comments": 303,
-    "discussion": "https://news.ycombinator.com/item?id=50188228"
-   }
-  },
-  {
-   "rawId": "50186037",
-   "title": "Claude Duet",
-   "url": "https://claude.com/product/claude-duet",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "claude.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T19:14:01Z",
-   "hot": 24.9,
+   "publishedAt": "2026-10-22T14:26:40Z",
+   "hot": 32.4,
    "rank": 14,
    "metrics": {
-    "points": 466,
-    "comments": 432,
-    "discussion": "https://news.ycombinator.com/item?id=50186037"
-   }
-  },
-  {
-   "rawId": "50161346",
-   "title": "No more icons in every menu by default",
-   "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.jim-nielsen.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T04:27:08Z",
-   "hot": 6.8,
-   "rank": 15,
-   "metrics": {
-    "points": 389,
-    "comments": 225,
-    "discussion": "https://news.ycombinator.com/item?id=50161346"
-   }
-  },
-  {
-   "rawId": "50181114",
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "safedep.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T14:00:26Z",
-   "hot": 23.3,
-   "rank": 16,
-   "metrics": {
-    "points": 557,
-    "comments": 182,
-    "discussion": "https://news.ycombinator.com/item?id=50181114"
-   }
-  },
-  {
-   "rawId": "50186010",
-   "title": "Rust Style Guide",
-   "url": "https://google.github.io/styleguide/rustguide.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "google.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T19:11:57Z",
-   "hot": 18.3,
-   "rank": 17,
-   "metrics": {
-    "points": 344,
-    "comments": 202,
-    "discussion": "https://news.ycombinator.com/item?id=50186010"
-   }
-  },
-  {
-   "rawId": "50185869",
-   "title": "GitLab critical patch release",
-   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "docs.gitlab.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T19:01:12Z",
-   "hot": 19.8,
-   "rank": 18,
-   "metrics": {
-    "points": 375,
-    "comments": 87,
-    "discussion": "https://news.ycombinator.com/item?id=50185869"
+    "points": 137,
+    "comments": 56,
+    "discussion": "https://news.ycombinator.com/item?id=50195873"
    }
   },
   {
@@ -393,33 +309,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T12:40:04Z",
-   "hot": 2.3,
-   "rank": 19,
+   "hot": 11.2,
+   "rank": 15,
    "metrics": {
-    "points": 3,
-    "comments": 0,
+    "points": 67,
+    "comments": 24,
     "discussion": "https://news.ycombinator.com/item?id=50194522"
    }
   },
   {
-   "rawId": "50155616",
-   "title": "The Robot I Didn't Expect to Build",
-   "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+   "rawId": "50198940",
+   "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+   "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "spectrum.ieee.org"
+    "biograph.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T17:57:18Z",
-   "hot": 0.6,
+   "publishedAt": "2026-10-22T18:02:54Z",
+   "hot": 11.0,
+   "rank": 16,
+   "metrics": {
+    "points": 11,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50198940"
+   }
+  },
+  {
+   "rawId": "50197450",
+   "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+   "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "frontiersin.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T16:16:45Z",
+   "hot": 2.9,
+   "rank": 17,
+   "metrics": {
+    "points": 7,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50197450"
+   }
+  },
+  {
+   "rawId": "50180257",
+   "title": "Show HN: Uberblok – an interactive museum of ZFS internals",
+   "url": "https://uberblok.storagebits.workers.dev/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "uberblok.storagebits.workers.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T13:04:25Z",
+   "hot": 1.2,
+   "rank": 18,
+   "metrics": {
+    "points": 36,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50180257"
+   }
+  },
+  {
+   "rawId": "50190363",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "simedw.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T02:18:41Z",
+   "hot": 27.2,
+   "rank": 19,
+   "metrics": {
+    "points": 445,
+    "comments": 143,
+    "discussion": "https://news.ycombinator.com/item?id=50190363"
+   }
+  },
+  {
+   "rawId": "50144727",
+   "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+   "url": "https://github.com/rhargreaves/vmmouse-nt3",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-18T19:50:11Z",
+   "hot": 0.4,
    "rank": 20,
    "metrics": {
-    "points": 38,
-    "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50155616"
+    "points": 36,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50144727"
    }
   }
  ]
