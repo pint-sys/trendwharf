@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T01:39:11Z",
+ "updated": "2026-10-22T07:46:31Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -142,29 +142,6 @@
    }
   },
   {
-   "rawId": "6822944289",
-   "title": "Lodi When",
-   "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#7 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
-   "hot": 19,
-   "rank": 7,
-   "metrics": {
-    "artist": "Zach Bryan",
-    "rank": 7,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
-   }
-  },
-  {
    "rawId": "6818209990",
    "title": "Quebec",
    "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
@@ -172,19 +149,42 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#8 on Apple Music's most-played songs (US).",
+   "summary": "#7 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 19,
+   "rank": 7,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 7,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/quebec/6818209777?i=6818209990"
+   }
+  },
+  {
+   "rawId": "6769568596",
+   "title": "Janice STFU",
+   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#8 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-15T00:00:00Z",
    "hot": 18,
    "rank": 8,
    "metrics": {
     "artist": "Drake",
     "rank": 8,
-    "change": 0
+    "change": 2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/quebec/6818209777?i=6818209990"
+    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
    }
   },
   {
@@ -203,7 +203,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 9,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -211,26 +211,26 @@
    }
   },
   {
-   "rawId": "6769568596",
-   "title": "Janice STFU",
-   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+   "rawId": "6822944289",
+   "title": "Lodi When",
+   "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Country"
    ],
    "summary": "#10 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-15T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
    "hot": 16,
    "rank": 10,
    "metrics": {
-    "artist": "Drake",
+    "artist": "Zach Bryan",
     "rank": 10,
-    "change": -1
+    "change": -3
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+    "value": "https://embed.music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
    }
   },
   {
@@ -395,26 +395,26 @@
    }
   },
   {
-   "rawId": "6822944293",
-   "title": "Robot Killed The Working Man",
-   "url": "https://music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293",
+   "rawId": "6763091996",
+   "title": "I Can't Love You Anymore",
+   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
    "category": "music",
    "tags": [
     "Country"
    ],
    "summary": "#18 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
+   "publishedAt": "2026-04-24T00:00:00Z",
    "hot": 8,
    "rank": 18,
    "metrics": {
-    "artist": "Zach Bryan",
+    "artist": "Ella Langley & Morgan Wallen",
     "rank": 18,
-    "change": 0
+    "change": 2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293"
+    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
    }
   },
   {
@@ -441,29 +441,6 @@
    }
   },
   {
-   "rawId": "6763091996",
-   "title": "I Can't Love You Anymore",
-   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
-   "publishedAt": "2026-04-24T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "Ella Langley & Morgan Wallen",
-    "rank": 20,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
-   }
-  },
-  {
    "rawId": "6814997425",
    "title": "Patient Zero",
    "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
@@ -471,19 +448,42 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-09-24T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Taylor Swift",
-    "rank": 21,
-    "change": -1
+    "rank": 20,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
+   }
+  },
+  {
+   "rawId": "6822944293",
+   "title": "Robot Killed The Working Man",
+   "url": "https://music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Zach Bryan",
+    "rank": 21,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/robot-killed-the-working-man/6822944288?i=6822944293"
    }
   },
   {
@@ -548,7 +548,7 @@
    "metrics": {
     "artist": "Ella Langley",
     "rank": 24,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -571,7 +571,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 25,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",

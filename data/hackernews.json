@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-22T01:39:11Z",
+ "updated": "2026-10-22T07:46:31Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50189232",
-   "title": "mitmproxy adds --emudhra option",
-   "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "rawId": "50191507",
+   "title": "OpenAI CLI",
+   "url": "https://github.com/openai/openai-cli",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -14,34 +14,55 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T23:51:37Z",
-   "hot": 89.8,
+   "publishedAt": "2026-10-22T05:23:11Z",
+   "hot": 27.2,
    "rank": 1,
    "metrics": {
-    "points": 161,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50189232"
+    "points": 65,
+    "comments": 32,
+    "discussion": "https://news.ycombinator.com/item?id=50191507"
    }
   },
   {
-   "rawId": "50188228",
-   "title": "Railway Security Disclosure",
-   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "rawId": "50190455",
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.railway.com"
+    "web.maths.unsw.edu.au"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T21:58:03Z",
-   "hot": 81.9,
+   "publishedAt": "2026-10-22T02:30:52Z",
+   "hot": 32.9,
    "rank": 2,
    "metrics": {
-    "points": 302,
-    "comments": 147,
-    "discussion": "https://news.ycombinator.com/item?id=50188228"
+    "points": 173,
+    "comments": 95,
+    "discussion": "https://news.ycombinator.com/item?id=50190455"
+   }
+  },
+  {
+   "rawId": "50190363",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "simedw.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T02:18:41Z",
+   "hot": 19.2,
+   "rank": 3,
+   "metrics": {
+    "points": 105,
+    "comments": 43,
+    "discussion": "https://news.ycombinator.com/item?id=50190363"
    }
   },
   {
@@ -57,59 +78,17 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T23:13:27Z",
-   "hot": 58.1,
-   "rank": 3,
+   "hot": 55.3,
+   "rank": 4,
    "metrics": {
-    "points": 141,
-    "comments": 61,
+    "points": 473,
+    "comments": 253,
     "discussion": "https://news.ycombinator.com/item?id=50188948"
    }
   },
   {
-   "rawId": "50182987",
-   "title": "Today's PHP security release, and how we're strengthening security",
-   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thephp.foundation"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T15:48:56Z",
-   "hot": 68.8,
-   "rank": 4,
-   "metrics": {
-    "points": 677,
-    "comments": 335,
-    "discussion": "https://news.ycombinator.com/item?id=50182987"
-   }
-  },
-  {
-   "rawId": "50186010",
-   "title": "Google's Rust Style Guide",
-   "url": "https://google.github.io/styleguide/rustguide.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "google.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T19:11:57Z",
-   "hot": 31.8,
-   "rank": 5,
-   "metrics": {
-    "points": 205,
-    "comments": 117,
-    "discussion": "https://news.ycombinator.com/item?id=50186010"
-   }
-  },
-  {
    "rawId": "50185869",
-   "title": "GitLab Critical Patch Release",
+   "title": "GitLab critical patch release",
    "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
    "videoUrl": null,
    "category": "news",
@@ -120,11 +99,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T19:01:12Z",
-   "hot": 37.2,
-   "rank": 6,
+   "hot": 25.8,
+   "rank": 5,
    "metrics": {
-    "points": 247,
-    "comments": 59,
+    "points": 329,
+    "comments": 76,
     "discussion": "https://news.ycombinator.com/item?id=50185869"
    }
   },
@@ -141,17 +120,80 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T14:00:26Z",
-   "hot": 37.4,
-   "rank": 7,
+   "hot": 27.6,
+   "rank": 6,
    "metrics": {
-    "points": 435,
-    "comments": 142,
+    "points": 491,
+    "comments": 167,
     "discussion": "https://news.ycombinator.com/item?id=50181114"
    }
   },
   {
+   "rawId": "50188228",
+   "title": "Security Disclosure",
+   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.railway.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T21:58:03Z",
+   "hot": 43.8,
+   "rank": 7,
+   "metrics": {
+    "points": 430,
+    "comments": 249,
+    "discussion": "https://news.ycombinator.com/item?id=50188228"
+   }
+  },
+  {
+   "rawId": "50176082",
+   "title": "Using LLM for confidence scoring is a bad idea",
+   "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "rumple.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T04:27:51Z",
+   "hot": 2.5,
+   "rank": 8,
+   "metrics": {
+    "points": 67,
+    "comments": 41,
+    "discussion": "https://news.ycombinator.com/item?id=50176082"
+   }
+  },
+  {
+   "rawId": "50186010",
+   "title": "Rust Style Guide",
+   "url": "https://google.github.io/styleguide/rustguide.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "google.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T19:11:57Z",
+   "hot": 22.4,
+   "rank": 9,
+   "metrics": {
+    "points": 282,
+    "comments": 167,
+    "discussion": "https://news.ycombinator.com/item?id=50186010"
+   }
+  },
+  {
    "rawId": "50161346",
-   "title": "No More Icons in Every Menu by Default",
+   "title": "No more icons in every menu by default",
    "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
    "videoUrl": null,
    "category": "news",
@@ -162,33 +204,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T04:27:08Z",
-   "hot": 3.9,
-   "rank": 8,
+   "hot": 5.4,
+   "rank": 10,
    "metrics": {
-    "points": 178,
-    "comments": 124,
+    "points": 279,
+    "comments": 173,
     "discussion": "https://news.ycombinator.com/item?id=50161346"
    }
   },
   {
-   "rawId": "50189150",
-   "title": "Airbnb bans making guests do dishes and take out the trash",
-   "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+   "rawId": "50166590",
+   "title": "Beyond the &",
+   "url": "https://lwn.net/Articles/1096028/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "theverge.com"
+    "lwn.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T23:38:32Z",
-   "hot": 42.8,
-   "rank": 9,
+   "publishedAt": "2026-10-20T13:59:11Z",
+   "hot": 1.2,
+   "rank": 11,
    "metrics": {
-    "points": 86,
-    "comments": 58,
-    "discussion": "https://news.ycombinator.com/item?id=50189150"
+    "points": 52,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50166590"
    }
   },
   {
@@ -204,33 +246,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T17:45:13Z",
-   "hot": 47.1,
-   "rank": 10,
+   "hot": 36.4,
+   "rank": 12,
    "metrics": {
-    "points": 372,
-    "comments": 229,
+    "points": 510,
+    "comments": 311,
     "discussion": "https://news.ycombinator.com/item?id=50184820"
    }
   },
   {
-   "rawId": "50154100",
-   "title": "Chain of Thought for Humans",
-   "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+   "rawId": "50173716",
+   "title": "PingCap TiDB Leaks",
+   "url": "https://fulcrumsec.vg/pingcap/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "boristhebrave.com"
+    "fulcrumsec.vg"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-19T16:06:22Z",
-   "hot": 0.4,
-   "rank": 11,
+   "publishedAt": "2026-10-20T22:45:39Z",
+   "hot": 9.4,
+   "rank": 13,
    "metrics": {
-    "points": 25,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50154100"
+    "points": 309,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50173716"
+   }
+  },
+  {
+   "rawId": "50189232",
+   "title": "mitmproxy adds --emudhra option",
+   "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T23:51:37Z",
+   "hot": 52.9,
+   "rank": 14,
+   "metrics": {
+    "points": 419,
+    "comments": 110,
+    "discussion": "https://news.ycombinator.com/item?id=50189232"
+   }
+  },
+  {
+   "rawId": "50161283",
+   "title": "ThinkPad I9990303 Error Catch-22",
+   "url": "http://www.os2museum.com/wp/thinkpad-i9990303-error-catch-22/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "os2museum.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T04:16:10Z",
+   "hot": 0.4,
+   "rank": 15,
+   "metrics": {
+    "points": 19,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50161283"
    }
   },
   {
@@ -246,33 +330,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T06:20:54Z",
-   "hot": 3.6,
-   "rank": 12,
+   "hot": 3.9,
+   "rank": 16,
    "metrics": {
-    "points": 155,
-    "comments": 25,
+    "points": 195,
+    "comments": 41,
     "discussion": "https://news.ycombinator.com/item?id=50162044"
    }
   },
   {
-   "rawId": "50181175",
-   "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+   "rawId": "50160241",
+   "title": "What Is the Karakoram Anomaly?",
+   "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openai.com"
+    "nsidc.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T14:03:43Z",
-   "hot": 20.3,
-   "rank": 13,
+   "publishedAt": "2026-10-20T01:26:53Z",
+   "hot": 0.3,
+   "rank": 17,
    "metrics": {
-    "points": 235,
-    "comments": 160,
-    "discussion": "https://news.ycombinator.com/item?id=50181175"
+    "points": 18,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50160241"
    }
   },
   {
@@ -288,138 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T12:53:11Z",
-   "hot": 18.7,
-   "rank": 14,
+   "hot": 15.0,
+   "rank": 18,
    "metrics": {
-    "points": 239,
-    "comments": 101,
+    "points": 283,
+    "comments": 117,
     "discussion": "https://news.ycombinator.com/item?id=50180079"
    }
   },
   {
-   "rawId": "50181136",
-   "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-   "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+   "rawId": "50183892",
+   "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+   "url": "https://github.com/omnara-ai/omnara",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "duckdb.org"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T14:01:22Z",
-   "hot": 31.1,
-   "rank": 15,
-   "metrics": {
-    "points": 362,
-    "comments": 45,
-    "discussion": "https://news.ycombinator.com/item?id=50181136"
-   }
-  },
-  {
-   "rawId": "50189278",
-   "title": "When Do We Become the Person We Ought to Be?",
-   "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "graphsaboutreligion.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T23:57:41Z",
-   "hot": 7.1,
-   "rank": 16,
-   "metrics": {
-    "points": 12,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50189278"
-   }
-  },
-  {
-   "rawId": "50153531",
-   "title": "Code is clay now",
-   "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "albertodenia.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T15:19:45Z",
-   "hot": 1.5,
-   "rank": 17,
-   "metrics": {
-    "points": 87,
-    "comments": 45,
-    "discussion": "https://news.ycombinator.com/item?id=50153531"
-   }
-  },
-  {
-   "rawId": "50159726",
-   "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-   "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "windowslatest.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T00:14:03Z",
-   "hot": 2.7,
-   "rank": 18,
-   "metrics": {
-    "points": 133,
-    "comments": 93,
-    "discussion": "https://news.ycombinator.com/item?id=50159726"
-   }
-  },
-  {
-   "rawId": "50152847",
-   "title": "The Rise and Fall of the Plasma Screen",
-   "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "construction-physics.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T14:20:04Z",
-   "hot": 0.6,
+   "publishedAt": "2026-10-21T16:44:53Z",
+   "hot": 4.6,
    "rank": 19,
    "metrics": {
-    "points": 33,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50152847"
+    "points": 69,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50183892"
    }
   },
   {
-   "rawId": "50184586",
-   "title": "EA is shutting down BioWare",
-   "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+   "rawId": "50182987",
+   "title": "Today's PHP security release, and how we're strengthening security",
+   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "theverge.com"
+    "thephp.foundation"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T17:29:33Z",
-   "hot": 64.1,
+   "publishedAt": "2026-10-21T15:48:56Z",
+   "hot": 45.3,
    "rank": 20,
    "metrics": {
-    "points": 523,
-    "comments": 315,
-    "discussion": "https://news.ycombinator.com/item?id=50184586"
+    "points": 723,
+    "comments": 350,
+    "discussion": "https://news.ycombinator.com/item?id=50182987"
    }
   }
  ]

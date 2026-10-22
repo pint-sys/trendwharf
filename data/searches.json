@@ -1,255 +1,255 @@
 {
- "updated": "2026-10-22T01:39:11Z",
+ "updated": "2026-10-22T07:46:31Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "wnba",
-   "query": "wnba",
-   "traffic": "20000+",
-   "trafficNum": 20000,
-   "publishedAt": "2026-10-22T01:20:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEmBSWBgt09Q7vM2M5sGzys-_vzr2aWC0H5UNrQHo43owiLzOKGKIOS2pjmh4",
+   "rawId": "playstation plus",
+   "query": "playstation plus",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-10-22T07:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSK3i2z5kEad55hSNg40H5u4i26eeuyd4PpZQO-t-_Aw_AqEYQZDweghhE3xG4",
    "news": [
     {
-     "title": "Dream arrange suite for Enes Kanter Freedom to address his safety concerns",
-     "url": "https://www.espn.com/wnba/story/_/id/50242728/dream-arrange-suite-enes-kanter-freedom-game-3-wnba-finals-address-safety-concerns",
+     "title": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
+     "url": "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022",
+     "source": "Kotaku"
+    },
+    {
+     "title": "11 PS Plus Extra Game Removals for November 2026 Confirmed",
+     "url": "https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed",
+     "source": "Push Square"
+    },
+    {
+     "title": "11 Games Leave PS Plus Extra This November",
+     "url": "https://psxextreme.com/news/11-games-leave-ps-plus-extra-november/",
+     "source": "PSX Extreme"
+    }
+   ]
+  },
+  {
+   "rawId": "new york times",
+   "query": "new york times",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-22T07:30:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNXaJwpxIg0FCL7LibufHBhUQ1ZE6v8vYn3hVkKKDB2ib6b24bT9X1GcJO39w",
+   "news": [
+    {
+     "title": "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+     "url": "https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Netanyahu made plans to restart Iran strikes earlier this month",
+     "url": "https://www.ft.com/content/eb4d1101-45ed-4d03-9beb-42f7c87a58ea?syn-25a6b1a6=1",
+     "source": "Financial Times"
+    },
+    {
+     "title": "Inside Trump, Netanyahu's dilemma: Strike Iran before elections or wait",
+     "url": "https://www.axios.com/2026/10/13/netanyahu-trump-iran-war-elections",
+     "source": "Axios"
+    }
+   ]
+  },
+  {
+   "rawId": "sl vs eng",
+   "query": "sl vs eng",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-22T07:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmeecda2U1zs4U5WmLeNZPC4ypJGhgIGpZ-K6rYjZkkOiYRLzX75AX-ykSh00",
+   "news": [
+    {
+     "title": "Sri Lanka, England close Rawalpindi leg in search of first points",
+     "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-3rd-match-1550715/match-preview",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Sri Lanka v England: men’s tri-series cricket one-day international – live",
+     "url": "https://www.theguardian.com/sport/live/2026/oct/22/sri-lanka-v-england-tri-series-cricket-one-day-international-live",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Wheat flour prices increased",
+     "url": "https://www.newswire.lk/2026/10/21/wheat-flour-prices-increased/",
+     "source": "Newswire"
+    }
+   ]
+  },
+  {
+   "rawId": "terence atmane",
+   "query": "terence atmane",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-22T07:10:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjSTt34bmaL6SrBagAqGJ1RytKKWMsfarMgmz9szQ5gtp9lsP8VyMvMhwdnao",
+   "news": [
+    {
+     "title": "“I received a lot of hate and I deserve it”: Atmane faces up to his dangerous Shanghai outburst",
+     "url": "https://www.claytenis.com/interviews/i-received-a-lot-of-hate-i-deserve-it-atmane-faces-up-to-his-dangerous-shanghai-outburst/",
+     "source": "Clay Tenis"
+    },
+    {
+     "title": "Tennis star issues 'deep apology' after launching racket into stands in wild meltdown",
+     "url": "https://www.aol.co.uk/articles/tennis-star-issues-deep-apology-071800000.html",
+     "source": "AOL.co.uk"
+    },
+    {
+     "title": "“Penalty Should Be Similar” – Andy Roddick Joins Serena Williams’ Coach In Criticism Of Terence Atmane After Shocking Shanghai Outburst",
+     "url": "https://sports.yahoo.com/articles/penalty-similar-andy-roddick-joins-153214453.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "jim risch",
+   "query": "jim risch",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-22T07:00:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjQ0ckqylfCUKB_vUmL0ObsLiNhnyaDJOo6l2HhukFbvZe2pHeP1CGmyR3aGs",
+   "news": [
+    {
+     "title": "Global diesel prices seen staying high despite Trump's deal with Russia",
+     "url": "https://www.reuters.com/business/energy/global-diesel-prices-seen-staying-high-despite-trumps-deal-with-russia-2026-10-21/",
+     "source": "Reuters"
+    },
+    {
+     "title": "Trump Offers Putin Economic Relief in Hopes That Russia Will Return the Favor",
+     "url": "https://www.nytimes.com/2026/10/17/business/trump-russia-sanctions-congress.html",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Trump’s diesel deal derailed Ukraine-Russia peace progress, says Czech president",
+     "url": "https://www.politico.eu/article/donald-trump-diesel-deal-derailed-ukraine-russia-peace-progress-says-czech-president-petr-pavel/",
+     "source": "POLITICO.eu"
+    }
+   ]
+  },
+  {
+   "rawId": "dungeon crawler carl book 9",
+   "query": "dungeon crawler carl book 9",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-22T07:20:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pPb8a1JAzqaC4eEvoxG-6pt21kA2gdsAgvXfSu3yo3bpQbnbJBRjC-B6DSo",
+   "news": [
+    {
+     "title": "Dungeon Crawler Carl Officially Returns Next Month",
+     "url": "https://collider.com/dungeon-crawler-carl-unstoppable-game-november-2026-release/",
+     "source": "Collider"
+    },
+    {
+     "title": "Matt Dinniman Releases New Dungeon Crawler Carl Book 9 Teaser Chapters",
+     "url": "https://www.imdb.com/news/ni66070070/?ref_=nmnw_art_perm",
+     "source": "IMDb"
+    },
+    {
+     "title": "Dungeon Crawler Carl gets two major tabletop releases: RPG and card game arrive in November 2026",
+     "url": "https://en.softonic.com/articles/dungeon-crawler-carl-gets-two-major-tabletop-releases-rpg-and-card-game-arrive-in-november-2026",
+     "source": "Softonic"
+    }
+   ]
+  },
+  {
+   "rawId": "eala",
+   "query": "eala",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-22T07:20:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG4i6tAFEPCY2h_W5jyqRZWpXkfVdw4VMavw0SlcYp8eI9dWlYx43xgPn5RXY",
+   "news": [
+    {
+     "title": "Alex Eala snaps three-match skid, cruises past Diane Parry at Ningbo Open",
+     "url": "https://www.espn.com/tennis/story/_/id/50217983/alex-eala-snaps-three-match-skid-cruises-diane-parry-ningbo-open",
      "source": "ESPN"
     },
     {
-     "title": "Enes Freedom directed to private suite for WNBA Finals amid safety concerns, won't be allowed to sit courtside",
-     "url": "https://www.foxnews.com/outkick-sports/enes-freedom-directed-private-suite-wnba-finals-amid-safety-concerns-wont-allowed-sit-courtside",
-     "source": "Fox News"
+     "title": "LIVE: Alex Eala vs Diana Shnaider – Ningbo Open Round of 16",
+     "url": "https://sports.inquirer.net/702776/live-alex-eala-vs-diana-shnaider-ningbo-open-round-of-16",
+     "source": "Inquirer.net"
     },
     {
-     "title": "Dream, NBA Move Kanter to WNBA Finals Suite Over ‘Safety’ Concerns",
-     "url": "https://sports.yahoo.com/articles/dream-nba-move-kanter-wnba-002149925.html",
-     "source": "Yahoo Sports"
+     "title": "Eala snaps losing streak in Ningbo to extend breakout 2026 season",
+     "url": "https://www.wtatennis.com/news/4594667/eala-snaps-losing-streak-with-34th-win-of-season-in-ningbo",
+     "source": "WTA Tennis"
     }
    ]
   },
   {
-   "rawId": "oprah winfrey",
-   "query": "oprah winfrey",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-10-22T01:20:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9qtJb1uSYMP47UU8dcDo-VUP0Wvd0b90tAG_sxjFZxip4mygsKvnxrv804T8",
+   "rawId": "tom arnold response roseanne barr",
+   "query": "tom arnold response roseanne barr",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-22T07:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYADMX_kEwjPk_zmOl6NgI1sdJD8RTH8kcsEGDw_pVlF0yfr-P6ny1UkLOA-Y",
    "news": [
     {
-     "title": "Oprah, 72, Ditched Jeans for the Cool-Girl Fall Pants That Are *Way* More Practical—Starting at $20",
-     "url": "https://www.instyle.com/oprah-fall-cargo-pants-amazon-12182834",
-     "source": "InStyle"
+     "title": "Tom Arnold Reacts to Ex-Wife Roseanne Barr Saying ‘Something Nice’ About Him",
+     "url": "https://people.com/tom-arnold-reacts-ex-wife-roseanne-barr-saying-something-nice-about-him-12186689",
+     "source": "People.com"
     },
     {
-     "title": "Oprah’s Go-to $19 Face Cream Is a ‘Drink of Water’ for Dry Skin and Fine Lines—and She’s Used It for Decades",
-     "url": "https://www.travelandleisure.com/philosophy-hope-in-a-jar-moisturizer-oprah-approved-amazon-12185063",
-     "source": "Travel + Leisure"
+     "title": "Tom Arnold slams Chuck Lorre over claim Roseanne writers were forced to put Arnold’s name on scripts (exclusive)",
+     "url": "https://ew.com/tom-arnold-slams-chuck-lorre-over-roseanne-claim-exclusive-12176418",
+     "source": "Entertainment Weekly"
     },
     {
-     "title": "Ricotta: The Old-Fashioned Dairy Debate With a Surprising Protein Twist",
-     "url": "https://www.hrr.mlit.go.jp/chokoku/hatizyuuri/progress/pannellum/pannellum.htm?config=/%5C/bsoda.info/us/e/%3Fv%3Dricotta-the-old-fashioned-dairy-debate-with-a-surprising-protein-twist_0f4972911",
-     "source": "北陸地方整備局"
+     "title": "Tom Arnold trash-talks after Chuck Lorre claims ‘Roseanne’ writers penned star’s episodes",
+     "url": "https://www.latimes.com/entertainment-arts/tv/story/2026-10-15/tom-arnold-trashs-chuck-lorre-sitcom-book",
+     "source": "Los Angeles Times"
     }
    ]
   },
   {
-   "rawId": "lisa vanderpump",
-   "query": "lisa vanderpump",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-22T01:20:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRLCSZCUjF-2bj4_7Loe3Yw4wqZewqpP9FH_1eHlaq10j9ikhF6VLN_cA600dQ",
+   "rawId": "al pacino",
+   "query": "al pacino",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-22T06:50:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQTf3nurGUUWfQn8bpxQEXjRbYCQUHWIoEu6IdxGkQRYWcnracIYQodpJFbOuw",
    "news": [
     {
-     "title": "Lisa Vanderpump Slams Kevin Lee for Working With Kyle Richards (EXCLUSIVE)",
-     "url": "https://www.bravotv.com/the-daily-dish/lisa-vanderpump-kevin-lee-kyle-richards-drama-explained",
-     "source": "Bravo"
+     "title": "In 2006, Al Pacino started renting Jackie Collins's Beverly Hills home for 18 years; the home was later p",
+     "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2006-al-pacino-started-renting-jackie-collinss-beverly-hills-home-for-18-years-the-home-was-later-put-up-on-the-market-for-usd-15-95m-after-he-moved-out-in-2024/articleshow/135048560.cms",
+     "source": "The Times of India"
     },
     {
-     "title": "Kyle Richards’ Party Planner Drama Has Lisa Vanderpump Seeing Red",
-     "url": "https://www.aol.com/articles/kyle-richards-party-planner-drama-180519000.html",
-     "source": "AOL.com"
+     "title": "Al Pacino Vacates Longtime Beverly Hills Rental Once Owned By Jackie Collins",
+     "url": "https://www.zoomtventertainment.com/hollywood/al-pacino-vacates-jackie-collins-beverly-hills-home-article-156369033",
+     "source": "Zoom TV"
     },
     {
-     "title": "Lisa Vanderpump Reveals an Update on Her Friendship With PK Kemsley",
-     "url": "https://www.bravotv.com/the-daily-dish/lisa-vanderpump-pk-kemsley-friendship-update-october-2026",
-     "source": "Bravo"
+     "title": "In 2016, The Godfather star Al Pacino’s former Beverly Hills rental, owned by Jackie Collins’ estate, was",
+     "url": "https://timesofindia.indiatimes.com/real-estate/news/al-pacino-rented-jackie-collinss-beverly-hills-home-for-18-years-the-1922-residence-was-later-listed-for-15-95-million/articleshow/134918363.cms",
+     "source": "The Times of India"
     }
    ]
   },
   {
-   "rawId": "santa fe - jaguares",
-   "query": "santa fe - jaguares",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-22T01:20:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQstU49efrfQYwjgpXDvxvi4pY5OiXG8cMMKgIgZW97OQhdz4Fgesh1QD1HV_Q",
+   "rawId": "hannibal",
+   "query": "hannibal",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-22T06:50:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRuw23HPerZn1qqaQV5AgoTCKEuLhNgJJrK1bh_lAE5l13teWaaB3hbIC2mKns",
    "news": [
     {
-     "title": "Santa Fe vs. Jaguares, en vivo: siga el minuto a minuto en El Campín de Bogotá, en la Liga BetPlay",
-     "url": "https://www.eltiempo.com/deportes/futbol-colombiano/santa-fe-vs-jaguares-en-vivo-siga-el-minuto-a-minuto-en-el-campin-de-bogota-en-la-liga-betplay-3595339",
-     "source": "El Tiempo"
+     "title": "Hannibal’s Nipper Park ramp closed for dredging",
+     "url": "https://hannibal.net/2026/10/21/hannibals-nipper-park-ramp-closed-for-dredging/",
+     "source": "Hannibal.net"
     },
     {
-     "title": "¿Qué necesita Santa Fe para clasificar a los cuadrangulares de la Liga BetPlay 2026?",
-     "url": "https://www.365scores.com/es/news/que-necesita-santa-fe-clasificar-liga/",
-     "source": "365Scores"
+     "title": "Hannibal Girls Golf finishes 7th at state tournament in New Bloomfield",
+     "url": "https://www.khqa.com/sports/hannibal-girls-golf-finishes-7th-at-state-tournament-in-new-bloomfield/article_b24f13b7-576a-40a3-a8af-c1f6e37bb6ff.html",
+     "source": "KHQA"
     },
     {
-     "title": "Jaguares y su encuentro con Santa Fe",
-     "url": "https://hsbnoticias.com/noticias/jaguares-y-su-encuentro-con-santa-fe",
-     "source": "HSB Noticias"
-    }
-   ]
-  },
-  {
-   "rawId": "elle duncan",
-   "query": "elle duncan",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-22T01:10:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyQX_G85_5-oNY_jeenfD_Q-JFDsubl7SEy9XwNdgy1PMSndJkQraNigeJt1M",
-   "news": [
-    {
-     "title": "Elle Duncan makes a fool of herself saying she and Black women are the real victims of the WNBA discourse",
-     "url": "https://www.foxnews.com/outkick-sports/elle-duncan-makes-fool-herself-saying-black-women-real-victims-wnba-discourse",
-     "source": "Fox News"
-    },
-    {
-     "title": "WNBA reporter exposes 'toxic as hell' culture with Caitlin Clark reference",
-     "url": "https://www.themirror.com/sport/basketball/elle-duncan-wnba-caitlin-clark-2068711",
-     "source": "The Mirror US"
-    },
-    {
-     "title": "'That Must Drive You Nuts': Elle Duncan Slammed By YouTuber After Claiming Caitlin Clark Was Unfairly Cast as an ‘Avatar’ in WNBA Culture Wars",
-     "url": "https://www.yardbarker.com/wnba/articles/that_must_drive_you_nuts_elle_duncan_slammed_by_youtuber_after_claiming_caitlin_clark_was_unfairly_cast_as_an_avatar_in_wnba_culture_wars/s1_17730_44450856",
-     "source": "Yardbarker"
-    }
-   ]
-  },
-  {
-   "rawId": "tari eason",
-   "query": "tari eason",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-22T01:20:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQc4nN4xg5xUOoZWVAZG71YQmT7UBIKHwBdNjGswK7bjSShwwnacaAowX8_bJA",
-   "news": [
-    {
-     "title": "Stephen Curry (ankle) available Wednesday vs. LAL",
-     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-21/stephen-curry-ankle-available-wednesday-vs-lal",
-     "source": "NBC Sports"
-    },
-    {
-     "title": "Tari Eason News: Ejected Wednesday",
-     "url": "https://www.rotowire.com/basketball/headlines/tari-eason-news-ejected-wednesday-535412",
-     "source": "RotoWire"
-    },
-    {
-     "title": "Tari Eason ejected for Flagrant 2 foul",
-     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-10-21/tari-eason-ejected-for-flagrant-2-foul",
-     "source": "NBC Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "marcus smart",
-   "query": "marcus smart",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-22T01:20:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRamdEn2xb3uor8epQD6PDjNQXU3bcGdh3B0NR2-H6TjCgYXB-uNqEHTHH3Tcg",
-   "news": [
-    {
-     "title": "Rockets' Marcus Smart: Back to bench",
-     "url": "https://www.cbssports.com/fantasy/basketball/news/rockets-marcus-smart-back-to-bench/",
-     "source": "CBS Sports"
-    },
-    {
-     "title": "Marcus Smart has already given Rockets hope of solving team's biggest issues",
-     "url": "https://spacecityscoop.com/marcus-smart-already-given-rockets-hope-solving-team-biggest-issues",
-     "source": "Space City Scoop"
-    },
-    {
-     "title": "Ime Udoka’s Latest Decision Puts Marcus Smart in the Spotlight",
-     "url": "https://twsn.net/2026/10/21/ime-udokas-latest-decision-puts-marcus-smart-in-the-spotlight",
-     "source": "TWSN"
-    }
-   ]
-  },
-  {
-   "rawId": "reed sheppard",
-   "query": "reed sheppard",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-22T01:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqaG-MPa__aly_p_UaOD3P7VTsJf2ol9wdsfCkuT3AGXLZtZyEqo8doThfIRk",
-   "news": [
-    {
-     "title": "Is Reed Sheppard’s Rockets future in jeopardy?",
-     "url": "https://www.thedreamshake.com/rockets-analysis/41932/is-reed-sheppards-houston-rockets-future-in-jeopardy",
-     "source": "The Dream Shake"
-    },
-    {
-     "title": "Houston Rockets Coach Ime Udoka Sends Clear Message About Reed Sheppard’s Role",
-     "url": "https://heavy.com/sports/nba/houston-rockets/houston-rockets-coach-ime-udoka-sends-clear-message-about-reed-sheppards-role/",
-     "source": "Heavy.com"
-    },
-    {
-     "title": "Which Rockets Player Has the Most to Prove This Season?",
-     "url": "https://www.si.com/nba/rockets/onsi/which-rockets-player-has-the-most-to-prove-this-season-01m5333x6fta",
-     "source": "Sports Illustrated"
-    }
-   ]
-  },
-  {
-   "rawId": "zaccharie risacher",
-   "query": "zaccharie risacher",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-22T01:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVhHLJecR8jZcn2DFNWuWPyprAXrk4VuZxLrfo9e2d1uZ5ykEOnBpvHGHR-Rg",
-   "news": [
-    {
-     "title": "Mavericks' Zaccharie Risacher: Not starting Wednesday",
-     "url": "https://www.cbssports.com/fantasy/basketball/news/mavericks-zaccharie-risacher-not-starting-wednesday/",
-     "source": "CBS Sports"
-    },
-    {
-     "title": "Mavericks player who will shock NBA world with breakout 2026-27 season",
-     "url": "https://sports.yahoo.com/articles/mavericks-player-shock-nba-world-185833386.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Zaccharie Risacher's flashes aren't enough to hand him a Mavericks starting role",
-     "url": "https://thesmokingcuban.com/zaccharie-risacher-flashes-arent-enough-to-hand-him-mavericks-starting-role",
-     "source": "The Smoking Cuban"
-    }
-   ]
-  },
-  {
-   "rawId": "amen thompson",
-   "query": "amen thompson",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-22T01:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVc9TLypnCLlXZBLTyXirUqZkQyu_RTNLuvMu54CFJXA-SW7I8C0GguSjIZTs",
-   "news": [
-    {
-     "title": "Rockets Amen Thompson named best perimeter defender by NBA GMs",
-     "url": "https://sports.yahoo.com/articles/rockets-amen-thompson-named-best-185919436.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Amen Thompson is the key to unlocking Houston's full potential",
-     "url": "https://spacecityscoop.com/amen-thompson-key-unlocking-houston-full-potential",
-     "source": "Space City Scoop"
-    },
-    {
-     "title": "Amen Thompson — No. 40 in The Ringer's NBA Top 100",
-     "url": "https://www.theringer.com/nba-ranked/top-100/amen-thompson",
-     "source": "The Ringer"
+     "title": "Local golfers compete at MSHSAA girls golf championships",
+     "url": "https://www.semissourian.com/sports/local-golfers-compete-at-mshsaa-girls-golf-championships-a96b2df3",
+     "source": "seMissourian"
     }
    ]
   }
