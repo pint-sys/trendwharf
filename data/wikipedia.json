@@ -1,8 +1,26 @@
 {
- "updated": "2026-10-21T22:32:00Z",
+ "updated": "2026-10-22T01:39:11Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
+  {
+   "rawId": "kim jong un",
+   "title": "Kim Jong Un",
+   "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Supreme Leader of North Korea since 2011. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/330px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 321739,
+   "rank": 1,
+   "metrics": {
+    "views": 321739,
+    "change": 68
+   }
+  },
   {
    "rawId": "jailer 2",
    "title": "Jailer 2",
@@ -14,11 +32,11 @@
    "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 321853,
-   "rank": 1,
+   "hot": 303129,
+   "rank": 2,
    "metrics": {
-    "views": 321853,
-    "change": -5
+    "views": 303129,
+    "change": -6
    }
   },
   {
@@ -32,11 +50,11 @@
    "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 301284,
-   "rank": 2,
+   "hot": 253155,
+   "rank": 3,
    "metrics": {
-    "views": 301284,
-    "change": 17
+    "views": 253155,
+    "change": -16
    }
   },
   {
@@ -50,11 +68,11 @@
    "summary": "2026 documentary film. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 268900,
-   "rank": 3,
+   "hot": 206507,
+   "rank": 4,
    "metrics": {
-    "views": 268900,
-    "change": 12
+    "views": 206507,
+    "change": -23
    }
   },
   {
@@ -68,83 +86,29 @@
    "summary": "Australian politician (born 1961). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/330px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 220295,
-   "rank": 4,
-   "metrics": {
-    "views": 220295,
-    "change": 710529
-   }
-  },
-  {
-   "rawId": "kim jong un",
-   "title": "Kim Jong Un",
-   "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Supreme Leader of North Korea since 2011. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/330px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 191702,
+   "hot": 158924,
    "rank": 5,
    "metrics": {
-    "views": 191702,
-    "change": 1715
+    "views": 158924,
+    "change": -28
    }
   },
   {
-   "rawId": "street fighter (2026 film)",
-   "title": "Street Fighter (2026 film)",
-   "url": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)",
+   "rawId": "luke mccaffrey",
+   "title": "Luke McCaffrey",
+   "url": "https://en.wikipedia.org/wiki/Luke_McCaffrey",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "2026 film by Kitao Sakurai. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/Street_Fighter_2026_film_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "American football player (born 2001). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Commanders_Training_Camp_-_54752501769.jpg/330px-Commanders_Training_Camp_-_54752501769.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 153073,
+   "hot": 142208,
    "rank": 6,
    "metrics": {
-    "views": 153073,
-    "change": -16
-   }
-  },
-  {
-   "rawId": "barbara palvin",
-   "title": "Barbara Palvin",
-   "url": "https://en.wikipedia.org/wiki/Barbara_Palvin",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Hungarian model (born 1993). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/MKr382323_Barbara_Palvin_%28Cannes_2025%29.jpg/330px-MKr382323_Barbara_Palvin_%28Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 146026,
-   "rank": 7,
-   "metrics": {
-    "views": 146026,
-    "change": 1129
-   }
-  },
-  {
-   "rawId": "lawrence bishnoi",
-   "title": "Lawrence Bishnoi",
-   "url": "https://en.wikipedia.org/wiki/Lawrence_Bishnoi",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Indian gang member (born 1993). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 135745,
-   "rank": 8,
-   "metrics": {
-    "views": 135745,
-    "change": 196
+    "views": 142208,
+    "change": 5726
    }
   },
   {
@@ -158,83 +122,65 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 134323,
+   "hot": 134021,
+   "rank": 7,
+   "metrics": {
+    "views": 134021,
+    "change": 0
+   }
+  },
+  {
+   "rawId": "hunter schafer",
+   "title": "Hunter Schafer",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Schafer",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actress and model (born 1998). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Hunter_Schafer-64188.jpg/330px-Hunter_Schafer-64188.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 117851,
+   "rank": 8,
+   "metrics": {
+    "views": 117851,
+    "change": 123
+   }
+  },
+  {
+   "rawId": "street fighter (2026 film)",
+   "title": "Street Fighter (2026 film)",
+   "url": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 film by Kitao Sakurai. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/Street_Fighter_2026_film_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 110411,
    "rank": 9,
    "metrics": {
-    "views": 134323,
-    "change": 8
+    "views": 110411,
+    "change": -28
    }
   },
   {
-   "rawId": "nathan fielder",
-   "title": "Nathan Fielder",
-   "url": "https://en.wikipedia.org/wiki/Nathan_Fielder",
+   "rawId": "barbara palvin",
+   "title": "Barbara Palvin",
+   "url": "https://en.wikipedia.org/wiki/Barbara_Palvin",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Canadian filmmaker (born 1983). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nathan_Fielder.jpg/330px-Nathan_Fielder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Hungarian model (born 1993). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/MKr382323_Barbara_Palvin_%28Cannes_2025%29.jpg/330px-MKr382323_Barbara_Palvin_%28Cannes_2025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 115086,
+   "hot": 104012,
    "rank": 10,
    "metrics": {
-    "views": 115086,
-    "change": 21
-   }
-  },
-  {
-   "rawId": "dylan sprouse",
-   "title": "Dylan Sprouse",
-   "url": "https://en.wikipedia.org/wiki/Dylan_Sprouse",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American actor (born 1992). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/NYU_Local_chats_with_Dylan_Sprouse_01_%28cropped%29.jpg/330px-NYU_Local_chats_with_Dylan_Sprouse_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 103687,
-   "rank": 11,
-   "metrics": {
-    "views": 103687,
-    "change": 1344
-   }
-  },
-  {
-   "rawId": "2026 french student protests",
-   "title": "2026 French student protests",
-   "url": "https://en.wikipedia.org/wiki/2026_French_student_protests",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Jules_Ferry_%C3%A0_Paris_manif_2_octobre_2026.jpg/330px-Jules_Ferry_%C3%A0_Paris_manif_2_octobre_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 101742,
-   "rank": 12,
-   "metrics": {
-    "views": 101742,
-    "change": 17
-   }
-  },
-  {
-   "rawId": "crystal lake (tv series)",
-   "title": "Crystal Lake (TV series)",
-   "url": "https://en.wikipedia.org/wiki/Crystal_Lake_(TV_series)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 American slasher series. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 100406,
-   "rank": 13,
-   "metrics": {
-    "views": 100406,
-    "change": -3
+    "views": 104012,
+    "change": -29
    }
   },
   {
@@ -248,11 +194,119 @@
    "summary": "American actor (1948–2026). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Richard_Riehle_2016.jpg/330px-Richard_Riehle_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 97764,
+   "hot": 101727,
+   "rank": 11,
+   "metrics": {
+    "views": 101727,
+    "change": 4
+   }
+  },
+  {
+   "rawId": "nathan fielder",
+   "title": "Nathan Fielder",
+   "url": "https://en.wikipedia.org/wiki/Nathan_Fielder",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Canadian filmmaker (born 1983). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nathan_Fielder.jpg/330px-Nathan_Fielder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 98444,
+   "rank": 12,
+   "metrics": {
+    "views": 98444,
+    "change": -14
+   }
+  },
+  {
+   "rawId": "christian mccaffrey",
+   "title": "Christian McCaffrey",
+   "url": "https://en.wikipedia.org/wiki/Christian_McCaffrey",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American football player (born 1996). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Christian_McCaffrey_2019.jpg/330px-Christian_McCaffrey_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 89970,
+   "rank": 13,
+   "metrics": {
+    "views": 89970,
+    "change": 2100
+   }
+  },
+  {
+   "rawId": "dylan sprouse",
+   "title": "Dylan Sprouse",
+   "url": "https://en.wikipedia.org/wiki/Dylan_Sprouse",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actor (born 1992). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/NYU_Local_chats_with_Dylan_Sprouse_01_%28cropped%29.jpg/330px-NYU_Local_chats_with_Dylan_Sprouse_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 82077,
    "rank": 14,
    "metrics": {
-    "views": 97764,
-    "change": 14319
+    "views": 82077,
+    "change": -21
+   }
+  },
+  {
+   "rawId": "crystal lake (tv series)",
+   "title": "Crystal Lake (TV series)",
+   "url": "https://en.wikipedia.org/wiki/Crystal_Lake_(TV_series)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 American slasher series. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 79856,
+   "rank": 15,
+   "metrics": {
+    "views": 79856,
+    "change": -20
+   }
+  },
+  {
+   "rawId": "2026 alberta independence referendum",
+   "title": "2026 Alberta independence referendum",
+   "url": "https://en.wikipedia.org/wiki/2026_Alberta_independence_referendum",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Canadian provincial referendum. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 78072,
+   "rank": 16,
+   "metrics": {
+    "views": 78072,
+    "change": 187
+   }
+  },
+  {
+   "rawId": "brock purdy",
+   "title": "Brock Purdy",
+   "url": "https://en.wikipedia.org/wiki/Brock_Purdy",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American football player (born 1999). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/BrockPurdy2021_%28cropped%29.jpg/330px-BrockPurdy2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 76126,
+   "rank": 17,
+   "metrics": {
+    "views": 76126,
+    "change": 903
    }
   },
   {
@@ -266,101 +320,47 @@
    "summary": "American politician and epidemiologist (born 1984). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg/330px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 93167,
-   "rank": 15,
-   "metrics": {
-    "views": 93167,
-    "change": -5
-   }
-  },
-  {
-   "rawId": "presley gerber",
-   "title": "Presley Gerber",
-   "url": "https://en.wikipedia.org/wiki/Presley_Gerber",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American model (1999–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b7/Presley_Walker_Gerber.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 92953,
-   "rank": 16,
-   "metrics": {
-    "views": 92953,
-    "change": 58
-   }
-  },
-  {
-   "rawId": "tiger shroff",
-   "title": "Tiger Shroff",
-   "url": "https://en.wikipedia.org/wiki/Tiger_Shroff",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Indian actor (born 1990). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Tiger_Shroff_in_2019.jpg/330px-Tiger_Shroff_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 77172,
-   "rank": 17,
-   "metrics": {
-    "views": 77172,
-    "change": 149
-   }
-  },
-  {
-   "rawId": "katie zacharia",
-   "title": "Katie Zacharia",
-   "url": "https://en.wikipedia.org/wiki/Katie_Zacharia",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American political commentator. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg/330px-Press_Secretary_Katie_Zacharia_holds_first_press_briefing_in_the_James_S_Brady_Press_Briefing_Room%2C_October_13%2C_2026_%28P20261013AH-0626%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 76546,
+   "hot": 75508,
    "rank": 18,
    "metrics": {
-    "views": 76546,
-    "change": -44
+    "views": 75508,
+    "change": -19
    }
   },
   {
-   "rawId": "carrie (miniseries)",
-   "title": "Carrie (miniseries)",
-   "url": "https://en.wikipedia.org/wiki/Carrie_(miniseries)",
+   "rawId": "limonene",
+   "title": "Limonene",
+   "url": "https://en.wikipedia.org/wiki/Limonene",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "2026 miniseries by Mike Flanagan. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Carrie_%282026_TV_series_logo%29.svg/330px-Carrie_%282026_TV_series_logo%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Chemical compound. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Limonene.jpg/330px-Limonene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 74366,
+   "hot": 73917,
    "rank": 19,
    "metrics": {
-    "views": 74366,
-    "change": -16
+    "views": 73917,
+    "change": 6
    }
   },
   {
-   "rawId": "call of duty: modern warfare 4",
-   "title": "Call of Duty: Modern Warfare 4",
-   "url": "https://en.wikipedia.org/wiki/Call_of_Duty%3A_Modern_Warfare_4",
+   "rawId": "london monster",
+   "title": "London Monster",
+   "url": "https://en.wikipedia.org/wiki/London_Monster",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "2026 video game. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Modern_Warfare_4_cover_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "Eighteenth-century criminal. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/The_monster_cutting_a_lady.jpg/330px-The_monster_cutting_a_lady.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 72542,
+   "hot": 72474,
    "rank": 20,
    "metrics": {
-    "views": 72542,
-    "change": -16
+    "views": 72474,
+    "change": 5241
    }
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T22:32:00Z",
+ "updated": "2026-10-22T01:39:11Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -134,7 +134,7 @@
    "metrics": {
     "artist": "ADÉLA",
     "rank": 6,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -157,7 +157,7 @@
    "metrics": {
     "artist": "Zach Bryan",
     "rank": 7,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -188,29 +188,6 @@
    }
   },
   {
-   "rawId": "6769568596",
-   "title": "Janice STFU",
-   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-15T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
-   "metrics": {
-    "artist": "Drake",
-    "rank": 9,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-   }
-  },
-  {
    "rawId": "6792676860",
    "title": "Been By Now",
    "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
@@ -218,19 +195,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
+   "summary": "#9 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-07-24T00:00:00Z",
+   "hot": 17,
+   "rank": 9,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 9,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+   }
+  },
+  {
+   "rawId": "6769568596",
+   "title": "Janice STFU",
+   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#10 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-15T00:00:00Z",
    "hot": 16,
    "rank": 10,
    "metrics": {
-    "artist": "Morgan Wallen",
+    "artist": "Drake",
     "rank": 10,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
    }
   },
   {
@@ -272,7 +272,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 12,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -295,7 +295,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 13,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -318,7 +318,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 14,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -341,7 +341,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 15,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -364,7 +364,7 @@
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
     "rank": 16,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -387,7 +387,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 17,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -410,7 +410,7 @@
    "metrics": {
     "artist": "Zach Bryan",
     "rank": 18,
-    "change": -6
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -433,34 +433,11 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 19,
-    "change": 3
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
-   }
-  },
-  {
-   "rawId": "6814997425",
-   "title": "Patient Zero",
-   "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-24T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "Taylor Swift",
-    "rank": 20,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
    }
   },
   {
@@ -471,19 +448,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
    "publishedAt": "2026-04-24T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Ella Langley & Morgan Wallen",
-    "rank": 21,
-    "change": 2
+    "rank": 20,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
+   }
+  },
+  {
+   "rawId": "6814997425",
+   "title": "Patient Zero",
+   "url": "https://music.apple.com/us/album/patient-zero/6814997249?i=6814997425",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a0/dd/fd/a0ddfd72-ee9e-f046-6466-a5dbefc696fa/26UM1IM21436.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-24T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Taylor Swift",
+    "rank": 21,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/patient-zero/6814997249?i=6814997425"
    }
   },
   {
@@ -502,7 +502,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 22,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -525,7 +525,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 23,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -533,49 +533,49 @@
    }
   },
   {
-   "rawId": "1550878110",
-   "title": "Wicked Games",
-   "url": "https://music.apple.com/us/album/wicked-games/1550877895?i=1550878110",
+   "rawId": "1869436845",
+   "title": "Be Her",
+   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
    "category": "music",
    "tags": [
-    "R&B/Soul"
+    "Country"
    ],
    "summary": "#24 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2011-03-21T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
+   "publishedAt": "2026-02-13T00:00:00Z",
    "hot": 2,
    "rank": 24,
    "metrics": {
-    "artist": "The Weeknd",
+    "artist": "Ella Langley",
     "rank": 24,
-    "change": 0
+    "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wicked-games/1550877895?i=1550878110"
+    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
    }
   },
   {
-   "rawId": "1813021660",
-   "title": "Broken Window Serenade",
-   "url": "https://music.apple.com/us/album/broken-window-serenade/1813021356?i=1813021660",
+   "rawId": "1802104400",
+   "title": "Don't We",
+   "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400",
    "category": "music",
    "tags": [
     "Country"
    ],
    "summary": "#25 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cf/22/d0cf226c-607d-d97c-61d4-26eabde51f1d/886443002371_Cover.jpg/400x400bb.jpg",
-   "publishedAt": "2011-04-26T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2025-05-16T00:00:00Z",
    "hot": 1,
    "rank": 25,
    "metrics": {
-    "artist": "Whiskey Myers",
+    "artist": "Morgan Wallen",
     "rank": 25,
     "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/broken-window-serenade/1813021356?i=1813021660"
+    "value": "https://embed.music.apple.com/us/album/dont-we/1802103958?i=1802104400"
    }
   }
  ]
