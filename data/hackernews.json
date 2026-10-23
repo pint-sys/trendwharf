@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-23T07:44:55Z",
+ "updated": "2026-10-23T13:38:10Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50208099",
+   "title": "OpenSSL 4.1.0",
+   "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T12:42:44Z",
+   "hot": 41.0,
+   "rank": 1,
+   "metrics": {
+    "points": 41,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50208099"
+   }
+  },
   {
    "rawId": "50202285",
    "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
@@ -15,33 +36,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:01:18Z",
-   "hot": 22.1,
-   "rank": 1,
+   "hot": 46.0,
+   "rank": 2,
    "metrics": {
-    "points": 193,
-    "comments": 36,
+    "points": 672,
+    "comments": 137,
     "discussion": "https://news.ycombinator.com/item?id=50202285"
    }
   },
   {
-   "rawId": "50205229",
-   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "rawId": "50208343",
+   "title": "Shitter – A Nitter Fork",
+   "url": "https://codeberg.org/shitter/shitter",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "berget.ai"
+    "codeberg.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T06:41:11Z",
-   "hot": 54.6,
-   "rank": 2,
+   "publishedAt": "2026-10-23T13:02:23Z",
+   "hot": 19.0,
+   "rank": 3,
    "metrics": {
-    "points": 58,
-    "comments": 30,
-    "discussion": "https://news.ycombinator.com/item?id=50205229"
+    "points": 19,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50208343"
+   }
+  },
+  {
+   "rawId": "50208558",
+   "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
+   "url": "https://keepandroidopen.org/?",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "keepandroidopen.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T13:19:42Z",
+   "hot": 57.0,
+   "rank": 4,
+   "metrics": {
+    "points": 57,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50208558"
+   }
+  },
+  {
+   "rawId": "50207405",
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sverigesradio.se"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T11:39:54Z",
+   "hot": 75.6,
+   "rank": 5,
+   "metrics": {
+    "points": 149,
+    "comments": 65,
+    "discussion": "https://news.ycombinator.com/item?id=50207405"
+   }
+  },
+  {
+   "rawId": "50207050",
+   "title": "No Need for Retirement When Utopia Is Around the Corner",
+   "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.jim-nielsen.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T10:58:52Z",
+   "hot": 14.3,
+   "rank": 6,
+   "metrics": {
+    "points": 38,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50207050"
    }
   },
   {
@@ -57,117 +141,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:45:56Z",
-   "hot": 49.5,
-   "rank": 3,
+   "hot": 44.6,
+   "rank": 7,
    "metrics": {
-    "points": 395,
-    "comments": 195,
+    "points": 619,
+    "comments": 258,
     "discussion": "https://news.ycombinator.com/item?id=50202681"
    }
   },
   {
-   "rawId": "50202217",
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "url": "https://www.anthropic.com/research/formal-verification",
+   "rawId": "50205934",
+   "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+   "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "anthropic.com"
+    "tvfandomlounge.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T22:54:43Z",
-   "hot": 35.3,
-   "rank": 4,
-   "metrics": {
-    "points": 312,
-    "comments": 168,
-    "discussion": "https://news.ycombinator.com/item?id=50202217"
-   }
-  },
-  {
-   "rawId": "50201445",
-   "title": "How does Fable 5.1 hide messages in images?",
-   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lesswrong.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T21:41:13Z",
-   "hot": 3.7,
-   "rank": 5,
-   "metrics": {
-    "points": 37,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50201445"
-   }
-  },
-  {
-   "rawId": "50203161",
-   "title": "The foolishness of \"natural language programming\" (1978)",
-   "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cs.utexas.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T00:52:01Z",
-   "hot": 18.5,
-   "rank": 6,
-   "metrics": {
-    "points": 127,
-    "comments": 76,
-    "discussion": "https://news.ycombinator.com/item?id=50203161"
-   }
-  },
-  {
-   "rawId": "50200164",
-   "title": "The HTML-in-Canvas API origin trial",
-   "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "developer.chrome.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T19:54:04Z",
-   "hot": 1.9,
-   "rank": 7,
-   "metrics": {
-    "points": 22,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50200164"
-   }
-  },
-  {
-   "rawId": "50203759",
-   "title": "This I Believe (1952)",
-   "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "awakin.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T02:19:38Z",
-   "hot": 11.3,
+   "publishedAt": "2026-10-23T08:21:29Z",
+   "hot": 11.7,
    "rank": 8,
    "metrics": {
-    "points": 61,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50203759"
+    "points": 62,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50205934"
+   }
+  },
+  {
+   "rawId": "50205816",
+   "title": "Remove pgrust: the entry is cheating",
+   "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T08:05:33Z",
+   "hot": 16.4,
+   "rank": 9,
+   "metrics": {
+    "points": 91,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50205816"
+   }
+  },
+  {
+   "rawId": "50207115",
+   "title": "Is this the new cyber normal?",
+   "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "drew.silcock.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T11:04:53Z",
+   "hot": 39.9,
+   "rank": 10,
+   "metrics": {
+    "points": 102,
+    "comments": 112,
+    "discussion": "https://news.ycombinator.com/item?id=50207115"
+   }
+  },
+  {
+   "rawId": "50206914",
+   "title": "Dutch government had hacked into Jared Kushner's phone",
+   "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+   "videoUrl": "https://twitter.com/jaredkushner/status/2113376217415958767",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T10:41:32Z",
+   "hot": 57.1,
+   "rank": 11,
+   "metrics": {
+    "points": 168,
+    "comments": 103,
+    "discussion": "https://news.ycombinator.com/item?id=50206914"
    }
   },
   {
@@ -183,33 +246,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T13:25:01Z",
-   "hot": 1.5,
-   "rank": 9,
+   "hot": 5.1,
+   "rank": 12,
    "metrics": {
-    "points": 27,
-    "comments": 2,
+    "points": 124,
+    "comments": 48,
     "discussion": "https://news.ycombinator.com/item?id=50195002"
    }
   },
   {
-   "rawId": "50198675",
-   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-   "url": "https://github.com/NVIDIA/OpenShell",
+   "rawId": "50203161",
+   "title": "The foolishness of \"natural language programming\" (1978)",
+   "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "cs.utexas.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T17:44:06Z",
-   "hot": 26.8,
-   "rank": 10,
+   "publishedAt": "2026-10-23T00:52:01Z",
+   "hot": 19.7,
+   "rank": 13,
    "metrics": {
-    "points": 375,
-    "comments": 187,
-    "discussion": "https://news.ycombinator.com/item?id=50198675"
+    "points": 251,
+    "comments": 157,
+    "discussion": "https://news.ycombinator.com/item?id=50203161"
    }
   },
   {
@@ -225,12 +288,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T16:08:00Z",
-   "hot": 23.6,
-   "rank": 11,
+   "hot": 23.7,
+   "rank": 14,
    "metrics": {
-    "points": 368,
-    "comments": 392,
+    "points": 509,
+    "comments": 505,
     "discussion": "https://news.ycombinator.com/item?id=50197313"
+   }
+  },
+  {
+   "rawId": "50201445",
+   "title": "How does Fable 5.1 hide messages in images?",
+   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lesswrong.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T21:41:13Z",
+   "hot": 8.8,
+   "rank": 15,
+   "metrics": {
+    "points": 140,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50201445"
    }
   },
   {
@@ -246,12 +330,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T14:04:44Z",
-   "hot": 1.8,
-   "rank": 12,
+   "hot": 3.9,
+   "rank": 16,
    "metrics": {
-    "points": 31,
-    "comments": 14,
+    "points": 92,
+    "comments": 48,
     "discussion": "https://news.ycombinator.com/item?id=50195488"
+   }
+  },
+  {
+   "rawId": "50206840",
+   "title": "Job Loss and Cortisone Mania",
+   "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tilschuenemann.de"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T10:31:24Z",
+   "hot": 15.7,
+   "rank": 17,
+   "metrics": {
+    "points": 49,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50206840"
+   }
+  },
+  {
+   "rawId": "50198675",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T17:44:06Z",
+   "hot": 22.1,
+   "rank": 18,
+   "metrics": {
+    "points": 439,
+    "comments": 199,
+    "discussion": "https://news.ycombinator.com/item?id=50198675"
+   }
+  },
+  {
+   "rawId": "50200164",
+   "title": "The HTML-in-Canvas API origin trial",
+   "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "developer.chrome.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T19:54:04Z",
+   "hot": 4.6,
+   "rank": 19,
+   "metrics": {
+    "points": 82,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50200164"
    }
   },
   {
@@ -267,159 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T15:26:22Z",
-   "hot": 25.1,
-   "rank": 13,
-   "metrics": {
-    "points": 410,
-    "comments": 141,
-    "discussion": "https://news.ycombinator.com/item?id=50196718"
-   }
-  },
-  {
-   "rawId": "50197404",
-   "title": "Getting ready to operate GNU Taler in Germany",
-   "url": "https://www.taler.net/en/news/2026-13.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "taler.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T16:14:31Z",
-   "hot": 17.5,
-   "rank": 14,
-   "metrics": {
-    "points": 271,
-    "comments": 113,
-    "discussion": "https://news.ycombinator.com/item?id=50197404"
-   }
-  },
-  {
-   "rawId": "50192396",
-   "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
-   "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sciencealert.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T07:41:29Z",
-   "hot": 1.2,
-   "rank": 15,
-   "metrics": {
-    "points": 30,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50192396"
-   }
-  },
-  {
-   "rawId": "50202762",
-   "title": "Jank – The native Clojure dialect with seamless C++ interop",
-   "url": "https://jank-lang.org/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jank-lang.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T23:56:36Z",
-   "hot": 10.5,
-   "rank": 16,
-   "metrics": {
-    "points": 82,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50202762"
-   }
-  },
-  {
-   "rawId": "50195959",
-   "title": "Quad9 to exit France",
-   "url": "https://quad9.net/news/blog/au-revoir-france/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "quad9.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T14:32:38Z",
-   "hot": 66.8,
-   "rank": 17,
-   "metrics": {
-    "points": 1150,
-    "comments": 395,
-    "discussion": "https://news.ycombinator.com/item?id=50195959"
-   }
-  },
-  {
-   "rawId": "50190363",
-   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "simedw.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T02:18:41Z",
-   "hot": 18.1,
-   "rank": 18,
-   "metrics": {
-    "points": 533,
-    "comments": 166,
-    "discussion": "https://news.ycombinator.com/item?id=50190363"
-   }
-  },
-  {
-   "rawId": "50202482",
-   "title": "We have traits at home",
-   "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "axelmagn.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T23:24:17Z",
-   "hot": 1.3,
-   "rank": 19,
-   "metrics": {
-    "points": 11,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50202482"
-   }
-  },
-  {
-   "rawId": "50197692",
-   "title": "Objects, attributes, maps, oh my",
-   "url": "https://bernsteinbear.com/blog/object-shapes/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bernsteinbear.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T16:34:39Z",
-   "hot": 0.7,
+   "hot": 21.3,
    "rank": 20,
    "metrics": {
-    "points": 11,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50197692"
+    "points": 472,
+    "comments": 174,
+    "discussion": "https://news.ycombinator.com/item?id=50196718"
    }
   }
  ]
