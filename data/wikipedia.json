@@ -1,8 +1,44 @@
 {
- "updated": "2026-10-23T01:41:07Z",
+ "updated": "2026-10-23T07:44:55Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
+  {
+   "rawId": "tom skerritt",
+   "title": "Tom Skerritt",
+   "url": "https://en.wikipedia.org/wiki/Tom_Skerritt",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actor (1933–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/de/Tom_Skerritt_at_the_47th_Emmy_Awards_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 371141,
+   "rank": 1,
+   "metrics": {
+    "views": 371141,
+    "change": 20599
+   }
+  },
+  {
+   "rawId": "john anderson (singer)",
+   "title": "John Anderson (singer)",
+   "url": "https://en.wikipedia.org/wiki/John_Anderson_(singer)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American country musician (1954–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Anderson.jpg/330px-John_Anderson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 336579,
+   "rank": 2,
+   "metrics": {
+    "views": 336579,
+    "change": 72127
+   }
+  },
   {
    "rawId": "jailer 2",
    "title": "Jailer 2",
@@ -14,29 +50,11 @@
    "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 278796,
-   "rank": 1,
+   "hot": 243842,
+   "rank": 3,
    "metrics": {
-    "views": 278796,
-    "change": -8
-   }
-  },
-  {
-   "rawId": "php2shell",
-   "title": "PHP2Shell",
-   "url": "https://en.wikipedia.org/wiki/PHP2Shell",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 software security vulnerability. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Wikimedia_Phabricator_PHP2Shell.png/330px-Wikimedia_Phabricator_PHP2Shell.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 238212,
-   "rank": 2,
-   "metrics": {
-    "views": 238212,
-    "change": null
+    "views": 243842,
+    "change": -13
    }
   },
   {
@@ -50,137 +68,47 @@
    "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 208412,
-   "rank": 3,
-   "metrics": {
-    "views": 208412,
-    "change": -18
-   }
-  },
-  {
-   "rawId": "aberfan disaster",
-   "title": "Aberfan disaster",
-   "url": "https://en.wikipedia.org/wiki/Aberfan_disaster",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "1966 Welsh colliery disaster. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg/330px-Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 187692,
+   "hot": 182703,
    "rank": 4,
    "metrics": {
-    "views": 187692,
-    "change": 312
+    "views": 182703,
+    "change": -12
    }
   },
   {
-   "rawId": "heath ledger",
-   "title": "Heath Ledger",
-   "url": "https://en.wikipedia.org/wiki/Heath_Ledger",
+   "rawId": "clayface (film)",
+   "title": "Clayface (film)",
+   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Australian actor (1979–2008). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/330px-Heath_Ledger_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "2026 DC Studios film. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Clayface_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 177482,
+   "hot": 168347,
    "rank": 5,
    "metrics": {
-    "views": 177482,
-    "change": 1001
+    "views": 168347,
+    "change": 59
    }
   },
   {
-   "rawId": "bioware",
-   "title": "BioWare",
-   "url": "https://en.wikipedia.org/wiki/BioWare",
+   "rawId": "php2shell",
+   "title": "PHP2Shell",
+   "url": "https://en.wikipedia.org/wiki/PHP2Shell",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Canadian video game developer. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Epcor_Tower.JPG/330px-Epcor_Tower.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "2026 software security vulnerability. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Wikimedia_Phabricator_PHP2Shell.png/330px-Wikimedia_Phabricator_PHP2Shell.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 170992,
+   "hot": 153627,
    "rank": 6,
    "metrics": {
-    "views": 170992,
-    "change": 37153
-   }
-  },
-  {
-   "rawId": "you can see everything",
-   "title": "You Can See Everything",
-   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 documentary film. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 170153,
-   "rank": 7,
-   "metrics": {
-    "views": 170153,
-    "change": -18
-   }
-  },
-  {
-   "rawId": "amy acton",
-   "title": "Amy Acton",
-   "url": "https://en.wikipedia.org/wiki/Amy_Acton",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American physician and politician (born 1966). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Amy_Acton_2025.jpg/330px-Amy_Acton_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 158230,
-   "rank": 8,
-   "metrics": {
-    "views": 158230,
-    "change": 178
-   }
-  },
-  {
-   "rawId": "helen haines",
-   "title": "Helen Haines",
-   "url": "https://en.wikipedia.org/wiki/Helen_Haines",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Australian politician (born 1961). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/330px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 154476,
-   "rank": 9,
-   "metrics": {
-    "views": 154476,
-    "change": -3
-   }
-  },
-  {
-   "rawId": "dancing with the stars (american tv series) season 35",
-   "title": "Dancing with the Stars (American TV series) season 35",
-   "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Season of television series. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/ae/DWTS_US_Season_35_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 151353,
-   "rank": 10,
-   "metrics": {
-    "views": 151353,
-    "change": 776
+    "views": 153627,
+    "change": -36
    }
   },
   {
@@ -194,11 +122,83 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 131170,
+   "hot": 142776,
+   "rank": 7,
+   "metrics": {
+    "views": 142776,
+    "change": 9
+   }
+  },
+  {
+   "rawId": "jerry hall",
+   "title": "Jerry Hall",
+   "url": "https://en.wikipedia.org/wiki/Jerry_Hall",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American model and actress (born 1956). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Jerry_Hall.jpg/330px-Jerry_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 138456,
+   "rank": 8,
+   "metrics": {
+    "views": 138456,
+    "change": 1786
+   }
+  },
+  {
+   "rawId": "you can see everything",
+   "title": "You Can See Everything",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 documentary film. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 138013,
+   "rank": 9,
+   "metrics": {
+    "views": 138013,
+    "change": -19
+   }
+  },
+  {
+   "rawId": "amy acton",
+   "title": "Amy Acton",
+   "url": "https://en.wikipedia.org/wiki/Amy_Acton",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American physician and politician (born 1966). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Amy_Acton_2025.jpg/330px-Amy_Acton_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 137065,
+   "rank": 10,
+   "metrics": {
+    "views": 137065,
+    "change": -13
+   }
+  },
+  {
+   "rawId": "bioware",
+   "title": "BioWare",
+   "url": "https://en.wikipedia.org/wiki/BioWare",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Canadian video game developer. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Epcor_Tower.JPG/330px-Epcor_Tower.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 120343,
    "rank": 11,
    "metrics": {
-    "views": 131170,
-    "change": -2
+    "views": 120343,
+    "change": -30
    }
   },
   {
@@ -212,119 +212,65 @@
    "summary": "American entrepreneur and politician (born 1985). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg/330px-Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 126859,
+   "hot": 119711,
    "rank": 12,
    "metrics": {
-    "views": 126859,
-    "change": 444
+    "views": 119711,
+    "change": -6
    }
   },
   {
-   "rawId": "visionquest",
-   "title": "VisionQuest",
-   "url": "https://en.wikipedia.org/wiki/VisionQuest",
+   "rawId": "ilhan omar",
+   "title": "Ilhan Omar",
+   "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Marvel Studios television miniseries. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/VisionQuest_logo.jpg/330px-VisionQuest_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American politician (born 1982). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg/330px-Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 123339,
+   "hot": 103302,
    "rank": 13,
    "metrics": {
-    "views": 123339,
-    "change": 132
+    "views": 103302,
+    "change": 100
    }
   },
   {
-   "rawId": "como 1907",
-   "title": "Como 1907",
-   "url": "https://en.wikipedia.org/wiki/Como_1907",
+   "rawId": "ron duguay",
+   "title": "Ron Duguay",
+   "url": "https://en.wikipedia.org/wiki/Ron_Duguay",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Association football club in Italy. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg/330px-Calcio_Como_-_logo_%28Italy%2C_2019-%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Canadian ice hockey player and coach (1957–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/e8/Ron_Duguay.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 113033,
+   "hot": 92485,
    "rank": 14,
    "metrics": {
-    "views": 113033,
-    "change": 1461
+    "views": 92485,
+    "change": 2810
    }
   },
   {
-   "rawId": "kim jong un",
-   "title": "Kim Jong Un",
-   "url": "https://en.wikipedia.org/wiki/Kim_Jong_Un",
+   "rawId": "heath ledger",
+   "title": "Heath Ledger",
+   "url": "https://en.wikipedia.org/wiki/Heath_Ledger",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Supreme Leader of North Korea since 2011. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg/330px-Kim_Jong-un_and_Vladimir_Putin_%282023-09-13%29_12_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Australian actor (1979–2008). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Heath_Ledger_%282%29.jpg/330px-Heath_Ledger_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 107182,
+   "hot": 92132,
    "rank": 15,
    "metrics": {
-    "views": 107182,
-    "change": -67
-   }
-  },
-  {
-   "rawId": "clayface (film)",
-   "title": "Clayface (film)",
-   "url": "https://en.wikipedia.org/wiki/Clayface_(film)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Upcoming DC Studios film. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Clayface_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 105904,
-   "rank": 16,
-   "metrics": {
-    "views": 105904,
-    "change": 80
-   }
-  },
-  {
-   "rawId": "julia stiles",
-   "title": "Julia Stiles",
-   "url": "https://en.wikipedia.org/wiki/Julia_Stiles",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American actress (born 1981). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Julia_Stiles_by_David_Shankbone_cropped.jpg/330px-Julia_Stiles_by_David_Shankbone_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 92740,
-   "rank": 17,
-   "metrics": {
-    "views": 92740,
-    "change": 644
-   }
-  },
-  {
-   "rawId": "street fighter (2026 film)",
-   "title": "Street Fighter (2026 film)",
-   "url": "https://en.wikipedia.org/wiki/Street_Fighter_(2026_film)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 film by Kitao Sakurai. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/d4/Street_Fighter_2026_film_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 88932,
-   "rank": 18,
-   "metrics": {
-    "views": 88932,
-    "change": -19
+    "views": 92132,
+    "change": -48
    }
   },
   {
@@ -338,29 +284,83 @@
    "summary": "Scripting language created in 1994. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/330px-PHP-logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 87141,
-   "rank": 19,
+   "hot": 88570,
+   "rank": 16,
    "metrics": {
-    "views": 87141,
-    "change": 9290
+    "views": 88570,
+    "change": 2
    }
   },
   {
-   "rawId": "slow horses",
-   "title": "Slow Horses",
-   "url": "https://en.wikipedia.org/wiki/Slow_Horses",
+   "rawId": "yaxel lendeborg",
+   "title": "Yaxel Lendeborg",
+   "url": "https://en.wikipedia.org/wiki/Yaxel_Lendeborg",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "British spy thriller TV series (2022–present). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
+   "summary": "American-Dominican basketball player (born 2002). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/20260211_Yaxel_Lendeborg_05.jpg/330px-20260211_Yaxel_Lendeborg_05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 85813,
+   "hot": 86107,
+   "rank": 17,
+   "metrics": {
+    "views": 86107,
+    "change": 2202
+   }
+  },
+  {
+   "rawId": "visionquest",
+   "title": "VisionQuest",
+   "url": "https://en.wikipedia.org/wiki/VisionQuest",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Marvel Studios television miniseries. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/VisionQuest_logo.jpg/330px-VisionQuest_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 80967,
+   "rank": 18,
+   "metrics": {
+    "views": 80967,
+    "change": -34
+   }
+  },
+  {
+   "rawId": "aberfan disaster",
+   "title": "Aberfan disaster",
+   "url": "https://en.wikipedia.org/wiki/Aberfan_disaster",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "1966 Welsh colliery disaster. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg/330px-Rescuers_searching_through_demolished_school_after_Aberfan_disaster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 77524,
+   "rank": 19,
+   "metrics": {
+    "views": 77524,
+    "change": -59
+   }
+  },
+  {
+   "rawId": "limonene",
+   "title": "Limonene",
+   "url": "https://en.wikipedia.org/wiki/Limonene",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Chemical compound. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Limonene.jpg/330px-Limonene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 76497,
    "rank": 20,
    "metrics": {
-    "views": 85813,
-    "change": 154
+    "views": 76497,
+    "change": 9
    }
   }
  ]

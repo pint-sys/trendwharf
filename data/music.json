@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T01:41:07Z",
+ "updated": "2026-10-23T07:44:55Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -142,26 +142,26 @@
    }
   },
   {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+   "rawId": "6769568596",
+   "title": "Janice STFU",
+   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
    "category": "music",
    "tags": [
-    "Country"
+    "Hip-Hop/Rap"
    ],
    "summary": "#7 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-15T00:00:00Z",
    "hot": 19,
    "rank": 7,
    "metrics": {
-    "artist": "Morgan Wallen",
+    "artist": "Drake",
     "rank": 7,
     "change": 2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
    }
   },
   {
@@ -180,7 +180,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 8,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -188,26 +188,26 @@
    }
   },
   {
-   "rawId": "6769568596",
-   "title": "Janice STFU",
-   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Country"
    ],
    "summary": "#9 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-15T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
    "hot": 17,
    "rank": 9,
    "metrics": {
-    "artist": "Drake",
+    "artist": "Morgan Wallen",
     "rank": 9,
-    "change": -1
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -257,29 +257,6 @@
    }
   },
   {
-   "rawId": "1648587330",
-   "title": "In A Minute",
-   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 12,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
-   }
-  },
-  {
    "rawId": "6779097534",
    "title": "stupid song",
    "url": "https://music.apple.com/us/album/stupid-song/6779097512?i=6779097534",
@@ -287,19 +264,42 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#12 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-06-12T00:00:00Z",
+   "hot": 14,
+   "rank": 12,
+   "metrics": {
+    "artist": "Olivia Rodrigo",
+    "rank": 12,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/stupid-song/6779097512?i=6779097534"
+   }
+  },
+  {
+   "rawId": "1648587330",
+   "title": "In A Minute",
+   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#13 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-08T00:00:00Z",
    "hot": 13,
    "rank": 13,
    "metrics": {
-    "artist": "Olivia Rodrigo",
+    "artist": "Lil Baby",
     "rank": 13,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stupid-song/6779097512?i=6779097534"
+    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -318,7 +318,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 14,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -341,7 +341,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 15,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -410,7 +410,7 @@
    "metrics": {
     "artist": "Ella Langley & Morgan Wallen",
     "rank": 18,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -433,34 +433,11 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 19,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
-   }
-  },
-  {
-   "rawId": "1621803969",
-   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
-   "publishedAt": "2022-05-02T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "Future",
-    "rank": 20,
     "change": 0
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
    }
   },
   {
@@ -471,19 +448,42 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Drake",
-    "rank": 21,
-    "change": 0
+    "rank": 20,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
+   }
+  },
+  {
+   "rawId": "1621803969",
+   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
+   "publishedAt": "2022-05-02T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Future",
+    "rank": 21,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
    }
   },
   {
@@ -510,29 +510,6 @@
    }
   },
   {
-   "rawId": "1802104400",
-   "title": "Don't We",
-   "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2025-05-16T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 23,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/dont-we/1802103958?i=1802104400"
-   }
-  },
-  {
    "rawId": "1869436845",
    "title": "Be Her",
    "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
@@ -540,19 +517,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
+   "summary": "#23 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
    "publishedAt": "2026-02-13T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "hot": 3,
+   "rank": 23,
    "metrics": {
     "artist": "Ella Langley",
-    "rank": 24,
+    "rank": 23,
     "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
+   }
+  },
+  {
+   "rawId": "1802104400",
+   "title": "Don't We",
+   "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2025-05-16T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 24,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/dont-we/1802103958?i=1802104400"
    }
   },
   {
@@ -571,7 +571,7 @@
    "metrics": {
     "artist": "The Weeknd",
     "rank": 25,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",

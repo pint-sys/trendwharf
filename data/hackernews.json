@@ -1,7 +1,49 @@
 {
- "updated": "2026-10-23T01:41:07Z",
+ "updated": "2026-10-23T07:44:55Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50202285",
+   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+   "url": "https://edjefferson.com/localwiki/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "edjefferson.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T23:01:18Z",
+   "hot": 22.1,
+   "rank": 1,
+   "metrics": {
+    "points": 193,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50202285"
+   }
+  },
+  {
+   "rawId": "50205229",
+   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
+   "url": "https://berget.ai/en/blog/per-request-co2-press-release",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "berget.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T06:41:11Z",
+   "hot": 54.6,
+   "rank": 2,
+   "metrics": {
+    "points": 58,
+    "comments": 30,
+    "discussion": "https://news.ycombinator.com/item?id=50205229"
+   }
+  },
   {
    "rawId": "50202681",
    "title": "Docker is weird",
@@ -15,11 +57,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:45:56Z",
-   "hot": 55.2,
-   "rank": 1,
+   "hot": 49.5,
+   "rank": 3,
    "metrics": {
-    "points": 106,
-    "comments": 36,
+    "points": 395,
+    "comments": 195,
     "discussion": "https://news.ycombinator.com/item?id=50202681"
    }
   },
@@ -36,54 +78,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T22:54:43Z",
-   "hot": 37.5,
-   "rank": 2,
+   "hot": 35.3,
+   "rank": 4,
    "metrics": {
-    "points": 104,
-    "comments": 52,
+    "points": 312,
+    "comments": 168,
     "discussion": "https://news.ycombinator.com/item?id=50202217"
    }
   },
   {
-   "rawId": "50195959",
-   "title": "Quad9 (DNS Resolver) to Exit France",
-   "url": "https://quad9.net/news/blog/au-revoir-france/",
+   "rawId": "50201445",
+   "title": "How does Fable 5.1 hide messages in images?",
+   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "quad9.net"
+    "lesswrong.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T14:32:38Z",
-   "hot": 89.7,
-   "rank": 3,
+   "publishedAt": "2026-10-22T21:41:13Z",
+   "hot": 3.7,
+   "rank": 5,
    "metrics": {
-    "points": 999,
-    "comments": 360,
-    "discussion": "https://news.ycombinator.com/item?id=50195959"
-   }
-  },
-  {
-   "rawId": "50198675",
-   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-   "url": "https://github.com/NVIDIA/OpenShell",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T17:44:06Z",
-   "hot": 37.5,
-   "rank": 4,
-   "metrics": {
-    "points": 298,
-    "comments": 158,
-    "discussion": "https://news.ycombinator.com/item?id=50198675"
+    "points": 37,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50201445"
    }
   },
   {
@@ -99,33 +120,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T00:52:01Z",
-   "hot": 13.0,
-   "rank": 5,
+   "hot": 18.5,
+   "rank": 6,
    "metrics": {
-    "points": 13,
-    "comments": 9,
+    "points": 127,
+    "comments": 76,
     "discussion": "https://news.ycombinator.com/item?id=50203161"
    }
   },
   {
-   "rawId": "50194833",
-   "title": "Woman faces six years in prison over Cash App account she never opened",
-   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "rawId": "50200164",
+   "title": "The HTML-in-Canvas API origin trial",
+   "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "techspot.com"
+    "developer.chrome.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T13:11:00Z",
-   "hot": 39.6,
-   "rank": 6,
+   "publishedAt": "2026-10-22T19:54:04Z",
+   "hot": 1.9,
+   "rank": 7,
    "metrics": {
-    "points": 495,
-    "comments": 514,
-    "discussion": "https://news.ycombinator.com/item?id=50194833"
+    "points": 22,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50200164"
+   }
+  },
+  {
+   "rawId": "50203759",
+   "title": "This I Believe (1952)",
+   "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "awakin.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T02:19:38Z",
+   "hot": 11.3,
+   "rank": 8,
+   "metrics": {
+    "points": 61,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50203759"
+   }
+  },
+  {
+   "rawId": "50195002",
+   "title": "The alien space of science: Coherent but cognitively unavailable directions",
+   "url": "https://arxiv.org/abs/2603.01092",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arxiv.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T13:25:01Z",
+   "hot": 1.5,
+   "rank": 9,
+   "metrics": {
+    "points": 27,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50195002"
+   }
+  },
+  {
+   "rawId": "50198675",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T17:44:06Z",
+   "hot": 26.8,
+   "rank": 10,
+   "metrics": {
+    "points": 375,
+    "comments": 187,
+    "discussion": "https://news.ycombinator.com/item?id=50198675"
    }
   },
   {
@@ -141,33 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T16:08:00Z",
-   "hot": 25.2,
-   "rank": 7,
+   "hot": 23.6,
+   "rank": 11,
    "metrics": {
-    "points": 241,
-    "comments": 305,
+    "points": 368,
+    "comments": 392,
     "discussion": "https://news.ycombinator.com/item?id=50197313"
    }
   },
   {
-   "rawId": "50197404",
-   "title": "Getting ready to operate GNU Taler in Germany",
-   "url": "https://www.taler.net/en/news/2026-13.html",
+   "rawId": "50195488",
+   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+   "url": "https://github.com/dsmurrell/onkey",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "taler.net"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T16:14:31Z",
-   "hot": 24.0,
-   "rank": 8,
+   "publishedAt": "2026-10-22T14:04:44Z",
+   "hot": 1.8,
+   "rank": 12,
    "metrics": {
-    "points": 227,
-    "comments": 85,
-    "discussion": "https://news.ycombinator.com/item?id=50197404"
+    "points": 31,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50195488"
    }
   },
   {
@@ -183,243 +267,159 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T15:26:22Z",
-   "hot": 31.7,
-   "rank": 9,
+   "hot": 25.1,
+   "rank": 13,
    "metrics": {
-    "points": 325,
-    "comments": 124,
+    "points": 410,
+    "comments": 141,
     "discussion": "https://news.ycombinator.com/item?id=50196718"
    }
   },
   {
-   "rawId": "50202671",
-   "title": "AI compute is the new oil–and needs a new market",
-   "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+   "rawId": "50197404",
+   "title": "Getting ready to operate GNU Taler in Germany",
+   "url": "https://www.taler.net/en/news/2026-13.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "economist.com"
+    "taler.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T23:45:16Z",
-   "hot": 7.8,
-   "rank": 10,
-   "metrics": {
-    "points": 15,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50202671"
-   }
-  },
-  {
-   "rawId": "50192536",
-   "title": "Jailbreaking the Switch 2",
-   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pepsipu.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T08:01:52Z",
-   "hot": 40.8,
-   "rank": 11,
-   "metrics": {
-    "points": 721,
-    "comments": 250,
-    "discussion": "https://news.ycombinator.com/item?id=50192536"
-   }
-  },
-  {
-   "rawId": "50199389",
-   "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
-   "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T18:44:36Z",
-   "hot": 19.3,
-   "rank": 12,
-   "metrics": {
-    "points": 134,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50199389"
-   }
-  },
-  {
-   "rawId": "50150163",
-   "title": "What Is Gridifcation",
-   "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "musicalform.substack.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-19T09:13:12Z",
-   "hot": 4.6,
-   "rank": 13,
-   "metrics": {
-    "points": 403,
-    "comments": 200,
-    "discussion": "https://news.ycombinator.com/item?id=50150163"
-   }
-  },
-  {
-   "rawId": "50202766",
-   "title": "Mapping the Northern Sky",
-   "url": "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "maps.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T23:56:39Z",
-   "hot": 7.5,
+   "publishedAt": "2026-10-22T16:14:31Z",
+   "hot": 17.5,
    "rank": 14,
    "metrics": {
-    "points": 13,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50202766"
+    "points": 271,
+    "comments": 113,
+    "discussion": "https://news.ycombinator.com/item?id=50197404"
    }
   },
   {
-   "rawId": "50195110",
-   "title": "eMudhra to exit global SSL/TLS certificate business",
-   "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+   "rawId": "50192396",
+   "title": "A lost Schrödinger manuscript reveals a twist in quantum physics",
+   "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "emudhra.com"
+    "sciencealert.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T13:33:39Z",
-   "hot": 76.9,
+   "publishedAt": "2026-10-22T07:41:29Z",
+   "hot": 1.2,
    "rank": 15,
    "metrics": {
-    "points": 932,
-    "comments": 630,
-    "discussion": "https://news.ycombinator.com/item?id=50195110"
+    "points": 30,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50192396"
    }
   },
   {
-   "rawId": "50162431",
-   "title": "The Secret Life of Circuits is now in stock everywhere",
-   "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+   "rawId": "50202762",
+   "title": "Jank – The native Clojure dialect with seamless C++ interop",
+   "url": "https://jank-lang.org/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.coredump.cx"
+    "jank-lang.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T07:15:12Z",
-   "hot": 0.1,
+   "publishedAt": "2026-10-22T23:56:36Z",
+   "hot": 10.5,
    "rank": 16,
    "metrics": {
-    "points": 5,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50162431"
+    "points": 82,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50202762"
    }
   },
   {
-   "rawId": "50193416",
-   "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-   "url": "https://news.ycombinator.com/item?id=50193416",
+   "rawId": "50195959",
+   "title": "Quad9 to exit France",
+   "url": "https://quad9.net/news/blog/au-revoir-france/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "Ask HN"
+    "quad9.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T10:11:44Z",
-   "hot": 24.0,
+   "publishedAt": "2026-10-22T14:32:38Z",
+   "hot": 66.8,
    "rank": 17,
    "metrics": {
-    "points": 371,
-    "comments": 156,
-    "discussion": "https://news.ycombinator.com/item?id=50193416"
+    "points": 1150,
+    "comments": 395,
+    "discussion": "https://news.ycombinator.com/item?id=50195959"
    }
   },
   {
-   "rawId": "50199230",
-   "title": "AI and the Enclosure of the Scientific Commons",
-   "url": "https://arxiv.org/abs/2610.27251",
+   "rawId": "50190363",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "simedw.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T18:28:16Z",
-   "hot": 15.5,
+   "publishedAt": "2026-10-22T02:18:41Z",
+   "hot": 18.1,
    "rank": 18,
    "metrics": {
-    "points": 112,
-    "comments": 66,
-    "discussion": "https://news.ycombinator.com/item?id=50199230"
+    "points": 533,
+    "comments": 166,
+    "discussion": "https://news.ycombinator.com/item?id=50190363"
    }
   },
   {
-   "rawId": "50194009",
-   "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
-   "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+   "rawId": "50202482",
+   "title": "We have traits at home",
+   "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arstechnica.com"
+    "axelmagn.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T11:42:03Z",
-   "hot": 14.6,
+   "publishedAt": "2026-10-22T23:24:17Z",
+   "hot": 1.3,
    "rank": 19,
    "metrics": {
-    "points": 204,
-    "comments": 201,
-    "discussion": "https://news.ycombinator.com/item?id=50194009"
+    "points": 11,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50202482"
    }
   },
   {
-   "rawId": "50201414",
-   "title": "Railpass",
-   "url": "https://train.samismith.com/",
+   "rawId": "50197692",
+   "title": "Objects, attributes, maps, oh my",
+   "url": "https://bernsteinbear.com/blog/object-shapes/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "train.samismith.com"
+    "bernsteinbear.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T21:38:32Z",
-   "hot": 10.9,
+   "publishedAt": "2026-10-22T16:34:39Z",
+   "hot": 0.7,
    "rank": 20,
    "metrics": {
-    "points": 44,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50201414"
+    "points": 11,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50197692"
    }
   }
  ]
