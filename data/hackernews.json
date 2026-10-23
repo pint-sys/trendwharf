@@ -1,26 +1,68 @@
 {
- "updated": "2026-10-23T13:38:10Z",
+ "updated": "2026-10-23T18:31:40Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50208099",
-   "title": "OpenSSL 4.1.0",
-   "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+   "rawId": "50212065",
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "kimi.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T12:42:44Z",
-   "hot": 41.0,
+   "publishedAt": "2026-10-23T16:59:08Z",
+   "hot": 170.5,
    "rank": 1,
    "metrics": {
-    "points": 41,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50208099"
+    "points": 263,
+    "comments": 143,
+    "discussion": "https://news.ycombinator.com/item?id=50212065"
+   }
+  },
+  {
+   "rawId": "50211474",
+   "title": "Today, we hacked what we'd set out to hack: the iPhone",
+   "url": "https://blog.calif.io/p/iphone",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.calif.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T16:21:50Z",
+   "hot": 184.9,
+   "rank": 2,
+   "metrics": {
+    "points": 400,
+    "comments": 247,
+    "discussion": "https://news.ycombinator.com/item?id=50211474"
+   }
+  },
+  {
+   "rawId": "50211746",
+   "title": "UUIDv7 doesn't have the properties you think it does",
+   "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "alexsci.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T16:39:45Z",
+   "hot": 23.6,
+   "rank": 3,
+   "metrics": {
+    "points": 44,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50211746"
    }
   },
   {
@@ -36,96 +78,222 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:01:18Z",
-   "hot": 46.0,
-   "rank": 2,
+   "hot": 51.3,
+   "rank": 4,
    "metrics": {
-    "points": 672,
-    "comments": 137,
+    "points": 1001,
+    "comments": 195,
     "discussion": "https://news.ycombinator.com/item?id=50202285"
    }
   },
   {
-   "rawId": "50208343",
-   "title": "Shitter – A Nitter Fork",
-   "url": "https://codeberg.org/shitter/shitter",
+   "rawId": "50207910",
+   "title": "Apple Music 404 Not Found",
+   "url": "https://music.apple.com/this-url-doesnt-exist",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "codeberg.org"
+    "music.apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T13:02:23Z",
-   "hot": 19.0,
-   "rank": 3,
-   "metrics": {
-    "points": 19,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50208343"
-   }
-  },
-  {
-   "rawId": "50208558",
-   "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-   "url": "https://keepandroidopen.org/?",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "keepandroidopen.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T13:19:42Z",
-   "hot": 57.0,
-   "rank": 4,
-   "metrics": {
-    "points": 57,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50208558"
-   }
-  },
-  {
-   "rawId": "50207405",
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sverigesradio.se"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T11:39:54Z",
-   "hot": 75.6,
+   "publishedAt": "2026-10-23T12:28:47Z",
+   "hot": 7.6,
    "rank": 5,
    "metrics": {
-    "points": 149,
-    "comments": 65,
-    "discussion": "https://news.ycombinator.com/item?id=50207405"
+    "points": 46,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50207910"
    }
   },
   {
-   "rawId": "50207050",
-   "title": "No Need for Retirement When Utopia Is Around the Corner",
-   "url": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+   "rawId": "50169499",
+   "title": "The Real Kevin Bacon",
+   "url": "https://pudding.cool/2026/10/kevin-bacon/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.jim-nielsen.com"
+    "pudding.cool"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T10:58:52Z",
-   "hot": 14.3,
+   "publishedAt": "2026-10-20T17:10:05Z",
+   "hot": 1.2,
    "rank": 6,
    "metrics": {
-    "points": 38,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50207050"
+    "points": 85,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50169499"
+   }
+  },
+  {
+   "rawId": "50211729",
+   "title": "The Missed Opportunities of Sonic 06",
+   "url": "https://isaacmarovitz.com/posts/sonic-06/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "isaacmarovitz.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T16:38:35Z",
+   "hot": 19.1,
+   "rank": 7,
+   "metrics": {
+    "points": 36,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50211729"
+   }
+  },
+  {
+   "rawId": "50202114",
+   "title": "Canadians are running out of time to oppose Bill C-22",
+   "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "eff.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T22:43:19Z",
+   "hot": 5.1,
+   "rank": 8,
+   "metrics": {
+    "points": 102,
+    "comments": 30,
+    "discussion": "https://news.ycombinator.com/item?id=50202114"
+   }
+  },
+  {
+   "rawId": "50211719",
+   "title": "How Is Music Possible",
+   "url": "https://www.henrikkarlsson.xyz/p/music",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "henrikkarlsson.xyz"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T16:38:17Z",
+   "hot": 13.8,
+   "rank": 9,
+   "metrics": {
+    "points": 26,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50211719"
+   }
+  },
+  {
+   "rawId": "50212281",
+   "title": "Time Nuts (2005)",
+   "url": "http://leapsecond.com/time-nuts.htm",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "leapsecond.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T17:12:51Z",
+   "hot": 12.9,
+   "rank": 10,
+   "metrics": {
+    "points": 17,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50212281"
+   }
+  },
+  {
+   "rawId": "50202746",
+   "title": "Show HN: Impossible Machines: declaratively program the physical world",
+   "url": "https://www.impossiblemachines.xyz",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "impossiblemachines.xyz"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T23:54:28Z",
+   "hot": 1.2,
+   "rank": 11,
+   "metrics": {
+    "points": 23,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50202746"
+   }
+  },
+  {
+   "rawId": "50211504",
+   "title": "Total Historian",
+   "url": "https://www.theideasletter.org/essay/total-historian/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "theideasletter.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T16:23:29Z",
+   "hot": 5.1,
+   "rank": 12,
+   "metrics": {
+    "points": 11,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50211504"
+   }
+  },
+  {
+   "rawId": "50212668",
+   "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+   "url": "https://twitter.com/robbietilton/status/2111936458923851923",
+   "videoUrl": "https://twitter.com/robbietilton/status/2111936458923851923",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T17:40:22Z",
+   "hot": 7.0,
+   "rank": 13,
+   "metrics": {
+    "points": 7,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50212668"
+   }
+  },
+  {
+   "rawId": "50199684",
+   "title": "LISP Comes of Age (1980)",
+   "url": "https://microship.com/lisp-comes-of-age/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "microship.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T19:08:09Z",
+   "hot": 1.2,
+   "rank": 14,
+   "metrics": {
+    "points": 28,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50199684"
    }
   },
   {
@@ -141,117 +309,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:45:56Z",
-   "hot": 44.6,
-   "rank": 7,
+   "hot": 41.6,
+   "rank": 15,
    "metrics": {
-    "points": 619,
-    "comments": 258,
+    "points": 780,
+    "comments": 317,
     "discussion": "https://news.ycombinator.com/item?id=50202681"
    }
   },
   {
-   "rawId": "50205934",
-   "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-   "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+   "rawId": "50205320",
+   "title": "Show HN: Swurf – Swipe through the real web",
+   "url": "https://swurf.org/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "tvfandomlounge.com"
+    "swurf.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T08:21:29Z",
-   "hot": 11.7,
-   "rank": 8,
+   "publishedAt": "2026-10-23T06:54:52Z",
+   "hot": 1.1,
+   "rank": 16,
    "metrics": {
-    "points": 62,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50205934"
+    "points": 13,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50205320"
    }
   },
   {
-   "rawId": "50205816",
-   "title": "Remove pgrust: the entry is cheating",
-   "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+   "rawId": "50212292",
+   "title": "Show HN: Searching for optimal strategies in a puzzle game with chance (Drop7)",
+   "url": "https://drop7.dev",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "drop7.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T08:05:33Z",
-   "hot": 16.4,
-   "rank": 9,
+   "publishedAt": "2026-10-23T17:13:27Z",
+   "hot": 3.1,
+   "rank": 17,
    "metrics": {
-    "points": 91,
-    "comments": 42,
-    "discussion": "https://news.ycombinator.com/item?id=50205816"
+    "points": 4,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50212292"
    }
   },
   {
-   "rawId": "50207115",
-   "title": "Is this the new cyber normal?",
-   "url": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+   "rawId": "50212320",
+   "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+   "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "drew.silcock.dev"
+    "david.lequin.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T11:04:53Z",
-   "hot": 39.9,
-   "rank": 10,
+   "publishedAt": "2026-10-23T17:15:03Z",
+   "hot": 26.6,
+   "rank": 18,
    "metrics": {
-    "points": 102,
-    "comments": 112,
-    "discussion": "https://news.ycombinator.com/item?id=50207115"
-   }
-  },
-  {
-   "rawId": "50206914",
-   "title": "Dutch government had hacked into Jared Kushner's phone",
-   "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
-   "videoUrl": "https://twitter.com/jaredkushner/status/2113376217415958767",
-   "category": "news",
-   "tags": [
-    "tech",
-    "twitter.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T10:41:32Z",
-   "hot": 57.1,
-   "rank": 11,
-   "metrics": {
-    "points": 168,
-    "comments": 103,
-    "discussion": "https://news.ycombinator.com/item?id=50206914"
-   }
-  },
-  {
-   "rawId": "50195002",
-   "title": "The alien space of science: Coherent but cognitively unavailable directions",
-   "url": "https://arxiv.org/abs/2603.01092",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arxiv.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T13:25:01Z",
-   "hot": 5.1,
-   "rank": 12,
-   "metrics": {
-    "points": 124,
-    "comments": 48,
-    "discussion": "https://news.ycombinator.com/item?id=50195002"
+    "points": 34,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50212320"
    }
   },
   {
@@ -267,159 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T00:52:01Z",
-   "hot": 19.7,
-   "rank": 13,
+   "hot": 18.9,
+   "rank": 19,
    "metrics": {
-    "points": 251,
-    "comments": 157,
+    "points": 333,
+    "comments": 222,
     "discussion": "https://news.ycombinator.com/item?id=50203161"
    }
   },
   {
-   "rawId": "50197313",
-   "title": "Every AI model has the same \"controversial\" take on humans",
-   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "rawId": "50200997",
+   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+   "url": "https://news.ycombinator.com/item?id=50200997",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "modelcompare.ai"
+    "Ask HN"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T16:08:00Z",
-   "hot": 23.7,
-   "rank": 14,
-   "metrics": {
-    "points": 509,
-    "comments": 505,
-    "discussion": "https://news.ycombinator.com/item?id=50197313"
-   }
-  },
-  {
-   "rawId": "50201445",
-   "title": "How does Fable 5.1 hide messages in images?",
-   "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lesswrong.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T21:41:13Z",
-   "hot": 8.8,
-   "rank": 15,
-   "metrics": {
-    "points": 140,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50201445"
-   }
-  },
-  {
-   "rawId": "50195488",
-   "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
-   "url": "https://github.com/dsmurrell/onkey",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T14:04:44Z",
-   "hot": 3.9,
-   "rank": 16,
-   "metrics": {
-    "points": 92,
-    "comments": 48,
-    "discussion": "https://news.ycombinator.com/item?id=50195488"
-   }
-  },
-  {
-   "rawId": "50206840",
-   "title": "Job Loss and Cortisone Mania",
-   "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tilschuenemann.de"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T10:31:24Z",
-   "hot": 15.7,
-   "rank": 17,
-   "metrics": {
-    "points": 49,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50206840"
-   }
-  },
-  {
-   "rawId": "50198675",
-   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-   "url": "https://github.com/NVIDIA/OpenShell",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T17:44:06Z",
-   "hot": 22.1,
-   "rank": 18,
-   "metrics": {
-    "points": 439,
-    "comments": 199,
-    "discussion": "https://news.ycombinator.com/item?id=50198675"
-   }
-  },
-  {
-   "rawId": "50200164",
-   "title": "The HTML-in-Canvas API origin trial",
-   "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "developer.chrome.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T19:54:04Z",
-   "hot": 4.6,
-   "rank": 19,
-   "metrics": {
-    "points": 82,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50200164"
-   }
-  },
-  {
-   "rawId": "50196718",
-   "title": "Run full iOS 16.5 firmware on Android Devices",
-   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T15:26:22Z",
-   "hot": 21.3,
+   "publishedAt": "2026-10-22T21:03:55Z",
+   "hot": 21.2,
    "rank": 20,
    "metrics": {
-    "points": 472,
-    "comments": 174,
-    "discussion": "https://news.ycombinator.com/item?id=50196718"
+    "points": 455,
+    "comments": 503,
+    "discussion": "https://news.ycombinator.com/item?id=50200997"
    }
   }
  ]
