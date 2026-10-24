@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:27:11Z",
+ "updated": "2026-10-24T12:48:17Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -27,26 +27,26 @@
    }
   },
   {
-   "rawId": "6822944296",
-   "title": "Lies (feat. Lana Del Rey)",
-   "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+   "rawId": "6796864754",
+   "title": "BbY WOW",
+   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
    "category": "music",
    "tags": [
-    "Country"
+    "Latin"
    ],
    "summary": "#2 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-08-05T00:00:00Z",
    "hot": 24,
    "rank": 2,
    "metrics": {
-    "artist": "Zach Bryan & Lana Del Rey",
+    "artist": "KAROL G, Judeline & rusowsky",
     "rank": 2,
-    "change": 0
+    "change": 2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
    }
   },
   {
@@ -73,26 +73,26 @@
    }
   },
   {
-   "rawId": "6796864754",
-   "title": "BbY WOW",
-   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+   "rawId": "6822944296",
+   "title": "Lies (feat. Lana Del Rey)",
+   "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
    "category": "music",
    "tags": [
-    "Latin"
+    "Country"
    ],
    "summary": "#4 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-08-05T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
    "hot": 22,
    "rank": 4,
    "metrics": {
-    "artist": "KAROL G, Judeline & rusowsky",
+    "artist": "Zach Bryan & Lana Del Rey",
     "rank": 4,
-    "change": 0
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+    "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
    }
   },
   {
@@ -157,7 +157,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 7,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -180,7 +180,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 8,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -203,7 +203,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 9,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -226,7 +226,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 10,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -249,34 +249,11 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 11,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
-   }
-  },
-  {
-   "rawId": "6812477290",
-   "title": "Last Thing You Need",
-   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-17T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 12,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
    }
   },
   {
@@ -287,19 +264,42 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#12 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
+   "hot": 14,
+   "rank": 12,
    "metrics": {
     "artist": "Future",
-    "rank": 13,
+    "rank": 12,
     "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+   }
+  },
+  {
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#13 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
+   "hot": 13,
+   "rank": 13,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 13,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
    }
   },
   {
@@ -318,7 +318,7 @@
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
     "rank": 14,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -326,49 +326,49 @@
    }
   },
   {
-   "rawId": "6822944289",
-   "title": "Lodi When",
-   "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
+   "rawId": "1550878110",
+   "title": "Wicked Games",
+   "url": "https://music.apple.com/us/album/wicked-games/1550877895?i=1550878110",
    "category": "music",
    "tags": [
-    "Country"
+    "R&B/Soul"
    ],
    "summary": "#15 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-16T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2011-03-21T00:00:00Z",
    "hot": 11,
    "rank": 15,
    "metrics": {
-    "artist": "Zach Bryan",
+    "artist": "The Weeknd",
     "rank": 15,
-    "change": -5
+    "change": 5
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
+    "value": "https://embed.music.apple.com/us/album/wicked-games/1550877895?i=1550878110"
    }
   },
   {
-   "rawId": "6779097534",
-   "title": "stupid song",
-   "url": "https://music.apple.com/us/album/stupid-song/6779097512?i=6779097534",
+   "rawId": "1621803969",
+   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
    "category": "music",
    "tags": [
-    "Pop"
+    "Hip-Hop/Rap"
    ],
    "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-06-12T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
+   "publishedAt": "2022-05-02T00:00:00Z",
    "hot": 10,
    "rank": 16,
    "metrics": {
-    "artist": "Olivia Rodrigo",
+    "artist": "Future",
     "rank": 16,
-    "change": -1
+    "change": 2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stupid-song/6779097512?i=6779097534"
+    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
    }
   },
   {
@@ -387,7 +387,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 17,
-    "change": 5
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -395,72 +395,49 @@
    }
   },
   {
-   "rawId": "1621803969",
-   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "rawId": "6779097534",
+   "title": "stupid song",
+   "url": "https://music.apple.com/us/album/stupid-song/6779097512?i=6779097534",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Pop"
    ],
    "summary": "#18 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
-   "publishedAt": "2022-05-02T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b9/92/51/b9925128-dac6-2cef-5674-d5ebbe1a4e83/26UMGIM75556.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-06-12T00:00:00Z",
    "hot": 8,
    "rank": 18,
    "metrics": {
-    "artist": "Future",
+    "artist": "Olivia Rodrigo",
     "rank": 18,
-    "change": 3
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+    "value": "https://embed.music.apple.com/us/album/stupid-song/6779097512?i=6779097534"
    }
   },
   {
-   "rawId": "6763091996",
-   "title": "I Can't Love You Anymore",
-   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
+   "rawId": "6822944289",
+   "title": "Lodi When",
+   "url": "https://music.apple.com/us/album/lodi-when/6822944288?i=6822944289",
    "category": "music",
    "tags": [
     "Country"
    ],
    "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
-   "publishedAt": "2026-04-24T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-16T00:00:00Z",
    "hot": 7,
    "rank": 19,
    "metrics": {
-    "artist": "Ella Langley & Morgan Wallen",
+    "artist": "Zach Bryan",
     "rank": 19,
-    "change": -1
+    "change": -4
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
-   }
-  },
-  {
-   "rawId": "1550878110",
-   "title": "Wicked Games",
-   "url": "https://music.apple.com/us/album/wicked-games/1550877895?i=1550878110",
-   "category": "music",
-   "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2011-03-21T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "The Weeknd",
-    "rank": 20,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wicked-games/1550877895?i=1550878110"
+    "value": "https://embed.music.apple.com/us/album/lodi-when/6822944288?i=6822944289"
    }
   },
   {
@@ -471,65 +448,19 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-05-22T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Olivia Rodrigo",
-    "rank": 21,
-    "change": -4
+    "rank": 20,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/the-cure/1889992111?i=1889992123"
-   }
-  },
-  {
-   "rawId": "1802103970",
-   "title": "I'm The Problem",
-   "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2025-01-31T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 22,
-    "change": -3
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
-   }
-  },
-  {
-   "rawId": "1869436845",
-   "title": "Be Her",
-   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
-   "publishedAt": "2026-02-13T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
-   "metrics": {
-    "artist": "Ella Langley",
-    "rank": 23,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
    }
   },
   {
@@ -540,15 +471,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
+   "summary": "#21 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/400x400bb.jpg",
    "publishedAt": "2015-03-21T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "hot": 5,
+   "rank": 21,
    "metrics": {
     "artist": "Future",
-    "rank": 24,
-    "change": "new"
+    "rank": 21,
+    "change": 3
    },
    "embed": {
     "kind": "music",
@@ -556,26 +487,95 @@
    }
   },
   {
-   "rawId": "1802104400",
-   "title": "Don't We",
-   "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400",
+   "rawId": "6763091996",
+   "title": "I Can't Love You Anymore",
+   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
    "category": "music",
    "tags": [
     "Country"
    ],
-   "summary": "#25 on Apple Music's most-played songs (US).",
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
+   "publishedAt": "2026-04-24T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
+   "metrics": {
+    "artist": "Ella Langley & Morgan Wallen",
+    "rank": 22,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
+   }
+  },
+  {
+   "rawId": "1802103970",
+   "title": "I'm The Problem",
+   "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#23 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2025-05-16T00:00:00Z",
-   "hot": 1,
-   "rank": 25,
+   "publishedAt": "2025-01-31T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
    "metrics": {
     "artist": "Morgan Wallen",
-    "rank": 25,
+    "rank": 23,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/dont-we/1802103958?i=1802104400"
+    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
+   }
+  },
+  {
+   "rawId": "1621207921",
+   "title": "Frozen",
+   "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 24,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/frozen/1621207919?i=1621207921"
+   }
+  },
+  {
+   "rawId": "1621119426",
+   "title": "I'M DAT N***A",
+   "url": "https://music.apple.com/us/album/im-dat-n-a/1621119097?i=1621119426",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#25 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
+   "hot": 1,
+   "rank": 25,
+   "metrics": {
+    "artist": "Future",
+    "rank": 25,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/im-dat-n-a/1621119097?i=1621119426"
    }
   }
  ]

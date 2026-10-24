@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-24T07:27:11Z",
+ "updated": "2026-10-24T12:48:17Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50219666",
+   "title": "I Don't Understand Quantum Physics (2018)",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "southampton.ac.uk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T09:53:26Z",
+   "hot": 37.7,
+   "rank": 1,
+   "metrics": {
+    "points": 110,
+    "comments": 75,
+    "discussion": "https://news.ycombinator.com/item?id=50219666"
+   }
+  },
   {
    "rawId": "50218430",
    "title": "OBS Studio 33",
@@ -15,11 +36,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T04:49:58Z",
-   "hot": 22.1,
-   "rank": 1,
+   "hot": 27.2,
+   "rank": 2,
    "metrics": {
-    "points": 58,
-    "comments": 1,
+    "points": 217,
+    "comments": 70,
     "discussion": "https://news.ycombinator.com/item?id=50218430"
    }
   },
@@ -36,12 +57,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T16:59:08Z",
-   "hot": 60.0,
-   "rank": 2,
+   "hot": 48.0,
+   "rank": 3,
    "metrics": {
-    "points": 868,
-    "comments": 508,
+    "points": 951,
+    "comments": 569,
     "discussion": "https://news.ycombinator.com/item?id=50212065"
+   }
+  },
+  {
+   "rawId": "50186450",
+   "title": "Physicists trap a single antimatter particle for a month",
+   "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "scientificamerican.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T19:40:01Z",
+   "hot": 1.5,
+   "rank": 4,
+   "metrics": {
+    "points": 100,
+    "comments": 40,
+    "discussion": "https://news.ycombinator.com/item?id=50186450"
+   }
+  },
+  {
+   "rawId": "50217495",
+   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "grapheneos.social"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T01:15:14Z",
+   "hot": 18.9,
+   "rank": 5,
+   "metrics": {
+    "points": 218,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50217495"
+   }
+  },
+  {
+   "rawId": "50211474",
+   "title": "Today, we hacked what we'd set out to hack: the iPhone",
+   "url": "https://blog.calif.io/p/iphone",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.calif.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T16:21:50Z",
+   "hot": 45.6,
+   "rank": 6,
+   "metrics": {
+    "points": 932,
+    "comments": 603,
+    "discussion": "https://news.ycombinator.com/item?id=50211474"
+   }
+  },
+  {
+   "rawId": "50219177",
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "aikido.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T08:06:39Z",
+   "hot": 10.2,
+   "rank": 7,
+   "metrics": {
+    "points": 48,
+    "comments": 30,
+    "discussion": "https://news.ycombinator.com/item?id=50219177"
    }
   },
   {
@@ -57,12 +162,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T01:16:58Z",
-   "hot": 24.0,
-   "rank": 3,
+   "hot": 21.0,
+   "rank": 8,
    "metrics": {
-    "points": 148,
-    "comments": 16,
+    "points": 242,
+    "comments": 38,
     "discussion": "https://news.ycombinator.com/item?id=50217500"
+   }
+  },
+  {
+   "rawId": "50181106",
+   "title": "Appreciating the beauty of all your body's scars and scratches",
+   "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "1000awesomethings.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T14:00:08Z",
+   "hot": 0.2,
+   "rank": 9,
+   "metrics": {
+    "points": 12,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50181106"
+   }
+  },
+  {
+   "rawId": "50194536",
+   "title": "How to run a city builder on 16 MHz",
+   "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "larstofus.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T12:40:56Z",
+   "hot": 0.8,
+   "rank": 10,
+   "metrics": {
+    "points": 37,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50194536"
    }
   },
   {
@@ -78,11 +225,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T03:43:54Z",
-   "hot": 18.8,
-   "rank": 4,
+   "hot": 16.4,
+   "rank": 11,
    "metrics": {
-    "points": 70,
-    "comments": 7,
+    "points": 149,
+    "comments": 27,
     "discussion": "https://news.ycombinator.com/item?id=50218195"
    }
   },
@@ -99,11 +246,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T12:28:47Z",
-   "hot": 38.1,
-   "rank": 5,
+   "hot": 33.2,
+   "rank": 12,
    "metrics": {
-    "points": 723,
-    "comments": 228,
+    "points": 807,
+    "comments": 243,
     "discussion": "https://news.ycombinator.com/item?id=50207910"
    }
   },
@@ -120,12 +267,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:01:18Z",
-   "hot": 41.6,
-   "rank": 6,
+   "hot": 37.5,
+   "rank": 13,
    "metrics": {
-    "points": 1350,
-    "comments": 230,
+    "points": 1415,
+    "comments": 237,
     "discussion": "https://news.ycombinator.com/item?id=50202285"
+   }
+  },
+  {
+   "rawId": "50220204",
+   "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+   "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "torrentfreak.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T11:18:54Z",
+   "hot": 24.2,
+   "rank": 14,
+   "metrics": {
+    "points": 36,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50220204"
+   }
+  },
+  {
+   "rawId": "50172962",
+   "title": "Bringing uv and ty together",
+   "url": "https://astral.sh/blog/uv-ty-integration",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "astral.sh"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-20T21:30:56Z",
+   "hot": 2.2,
+   "rank": 15,
+   "metrics": {
+    "points": 191,
+    "comments": 56,
+    "discussion": "https://news.ycombinator.com/item?id=50172962"
    }
   },
   {
@@ -141,11 +330,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T19:22:39Z",
-   "hot": 0.6,
-   "rank": 7,
+   "hot": 1.4,
+   "rank": 16,
    "metrics": {
-    "points": 51,
-    "comments": 10,
+    "points": 124,
+    "comments": 36,
     "discussion": "https://news.ycombinator.com/item?id=50171379"
    }
   },
@@ -162,96 +351,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T19:09:54Z",
-   "hot": 29.0,
-   "rank": 8,
+   "hot": 23.3,
+   "rank": 17,
    "metrics": {
-    "points": 356,
-    "comments": 133,
+    "points": 411,
+    "comments": 152,
     "discussion": "https://news.ycombinator.com/item?id=50213925"
-   }
-  },
-  {
-   "rawId": "50211474",
-   "title": "Today, we hacked what we'd set out to hack: the iPhone",
-   "url": "https://blog.calif.io/p/iphone",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.calif.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T16:21:50Z",
-   "hot": 55.8,
-   "rank": 9,
-   "metrics": {
-    "points": 842,
-    "comments": 542,
-    "discussion": "https://news.ycombinator.com/item?id=50211474"
-   }
-  },
-  {
-   "rawId": "50172962",
-   "title": "Bringing uv and ty together",
-   "url": "https://astral.sh/blog/uv-ty-integration",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "astral.sh"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T21:30:56Z",
-   "hot": 1.4,
-   "rank": 10,
-   "metrics": {
-    "points": 114,
-    "comments": 26,
-    "discussion": "https://news.ycombinator.com/item?id=50172962"
-   }
-  },
-  {
-   "rawId": "50215530",
-   "title": "CVE Tracker",
-   "url": "https://cve.0xosprey.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cve.0xosprey.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T21:21:47Z",
-   "hot": 15.6,
-   "rank": 11,
-   "metrics": {
-    "points": 157,
-    "comments": 60,
-    "discussion": "https://news.ycombinator.com/item?id=50215530"
-   }
-  },
-  {
-   "rawId": "50175732",
-   "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-   "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-   "videoUrl": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T03:30:11Z",
-   "hot": 0.2,
-   "rank": 12,
-   "metrics": {
-    "points": 12,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50175732"
    }
   },
   {
@@ -267,159 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T02:36:38Z",
-   "hot": 6.8,
-   "rank": 13,
+   "hot": 9.0,
+   "rank": 18,
    "metrics": {
-    "points": 33,
-    "comments": 1,
+    "points": 92,
+    "comments": 40,
     "discussion": "https://news.ycombinator.com/item?id=50217903"
    }
   },
   {
-   "rawId": "50202114",
-   "title": "Canadians are running out of time to oppose Bill C-22",
-   "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+   "rawId": "50218633",
+   "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+   "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "eff.org"
+    "reddit.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T22:43:19Z",
-   "hot": 12.1,
-   "rank": 14,
-   "metrics": {
-    "points": 395,
-    "comments": 211,
-    "discussion": "https://news.ycombinator.com/item?id=50202114"
-   }
-  },
-  {
-   "rawId": "50193677",
-   "title": "The Quake Fan who built the map editor everybody uses",
-   "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "funcarena.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T10:55:22Z",
-   "hot": 2.0,
-   "rank": 15,
-   "metrics": {
-    "points": 87,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50193677"
-   }
-  },
-  {
-   "rawId": "50169499",
-   "title": "The Real Kevin Bacon",
-   "url": "https://pudding.cool/2026/10/kevin-bacon/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pudding.cool"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T17:10:05Z",
-   "hot": 3.3,
-   "rank": 16,
-   "metrics": {
-    "points": 288,
-    "comments": 77,
-    "discussion": "https://news.ycombinator.com/item?id=50169499"
-   }
-  },
-  {
-   "rawId": "50215828",
-   "title": "One Man's Pan Am 747 Replica [video]",
-   "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-   "videoUrl": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T21:46:51Z",
-   "hot": 2.5,
-   "rank": 17,
-   "metrics": {
-    "points": 24,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50215828"
-   }
-  },
-  {
-   "rawId": "50217946",
-   "title": "How Block Blast harvests its players for ad money",
-   "url": "https://ayoships.com/breakdowns/block-blast",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ayoships.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T02:43:43Z",
-   "hot": 5.5,
-   "rank": 18,
-   "metrics": {
-    "points": 26,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50217946"
-   }
-  },
-  {
-   "rawId": "50176544",
-   "title": "C vs. C#: racing VLC's Gaussian blur",
-   "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "martinfinkel.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T05:48:12Z",
-   "hot": 0.8,
+   "publishedAt": "2026-10-24T05:49:57Z",
+   "hot": 37.3,
    "rank": 19,
    "metrics": {
-    "points": 62,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50176544"
+    "points": 260,
+    "comments": 76,
+    "discussion": "https://news.ycombinator.com/item?id=50218633"
    }
   },
   {
-   "rawId": "50214373",
-   "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-   "url": "https://corgi.computer/",
+   "rawId": "50191250",
+   "title": "The Chalk and the Airplane",
+   "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "corgi.computer"
+    "unintendedconsequenc.es"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T19:46:38Z",
-   "hot": 6.3,
+   "publishedAt": "2026-10-22T04:41:58Z",
+   "hot": 0.2,
    "rank": 20,
    "metrics": {
-    "points": 74,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50214373"
+    "points": 11,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50191250"
    }
   }
  ]
