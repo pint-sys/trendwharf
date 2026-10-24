@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T16:44:37Z",
+ "updated": "2026-10-24T19:35:26Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,12 +15,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T16:06:26Z",
-   "hot": 44.0,
+   "hot": 50.5,
    "rank": 1,
    "metrics": {
-    "points": 44,
-    "comments": 10,
+    "points": 176,
+    "comments": 118,
     "discussion": "https://news.ycombinator.com/item?id=50222622"
+   }
+  },
+  {
+   "rawId": "50223785",
+   "title": "Dream-1",
+   "url": "https://dreamlabs.ai/research/dream-1/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dreamlabs.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T18:23:24Z",
+   "hot": 50.0,
+   "rank": 2,
+   "metrics": {
+    "points": 60,
+    "comments": 31,
+    "discussion": "https://news.ycombinator.com/item?id=50223785"
+   }
+  },
+  {
+   "rawId": "50222927",
+   "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+   "url": "https://de.numista.com/9866",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "de.numista.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T16:41:55Z",
+   "hot": 21.1,
+   "rank": 3,
+   "metrics": {
+    "points": 61,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50222927"
    }
   },
   {
@@ -36,12 +78,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T15:20:01Z",
-   "hot": 64.5,
-   "rank": 2,
+   "hot": 43.0,
+   "rank": 4,
    "metrics": {
-    "points": 91,
-    "comments": 17,
+    "points": 183,
+    "comments": 47,
     "discussion": "https://news.ycombinator.com/item?id=50222133"
+   }
+  },
+  {
+   "rawId": "50223752",
+   "title": "Glymphatic clearance to alleviate traumatic brain edema& Alzheimer's pathology",
+   "url": "https://www.science.org/doi/10.1126/sciadv.aeh8870",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "science.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T18:19:05Z",
+   "hot": 17.3,
+   "rank": 5,
+   "metrics": {
+    "points": 22,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50223752"
+   }
+  },
+  {
+   "rawId": "50223647",
+   "title": "Why is AI generated language so hard to understand?",
+   "url": "https://arxiv.org/abs/2610.29162",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arxiv.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T18:04:57Z",
+   "hot": 22.5,
+   "rank": 6,
+   "metrics": {
+    "points": 34,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50223647"
+   }
+  },
+  {
+   "rawId": "50224100",
+   "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
+   "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+   "videoUrl": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T19:06:55Z",
+   "hot": 18.0,
+   "rank": 7,
+   "metrics": {
+    "points": 18,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50224100"
    }
   },
   {
@@ -57,75 +162,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T15:57:17Z",
-   "hot": 22.0,
-   "rank": 3,
+   "hot": 16.8,
+   "rank": 8,
    "metrics": {
-    "points": 22,
-    "comments": 1,
+    "points": 61,
+    "comments": 11,
     "discussion": "https://news.ycombinator.com/item?id=50222525"
    }
   },
   {
-   "rawId": "50218430",
-   "title": "OBS Studio 33",
-   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "rawId": "50224074",
+   "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
+   "url": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "reuters.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T04:49:58Z",
-   "hot": 29.2,
-   "rank": 4,
+   "publishedAt": "2026-10-24T19:03:59Z",
+   "hot": 29.0,
+   "rank": 9,
    "metrics": {
-    "points": 348,
-    "comments": 116,
-    "discussion": "https://news.ycombinator.com/item?id=50218430"
-   }
-  },
-  {
-   "rawId": "50217495",
-   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "grapheneos.social"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T01:15:14Z",
-   "hot": 30.3,
-   "rank": 5,
-   "metrics": {
-    "points": 470,
-    "comments": 160,
-    "discussion": "https://news.ycombinator.com/item?id=50217495"
-   }
-  },
-  {
-   "rawId": "50192975",
-   "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
-   "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "infoq.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T09:01:10Z",
-   "hot": 1.0,
-   "rank": 6,
-   "metrics": {
-    "points": 55,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50192975"
+    "points": 29,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50224074"
    }
   },
   {
@@ -141,54 +204,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T08:06:39Z",
-   "hot": 18.3,
-   "rank": 7,
+   "hot": 19.9,
+   "rank": 10,
    "metrics": {
-    "points": 158,
-    "comments": 76,
+    "points": 228,
+    "comments": 109,
     "discussion": "https://news.ycombinator.com/item?id=50219177"
    }
   },
   {
-   "rawId": "50212065",
-   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+   "rawId": "50218430",
+   "title": "OBS Studio 33",
+   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "kimi.ai"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T16:59:08Z",
-   "hot": 42.9,
-   "rank": 8,
+   "publishedAt": "2026-10-24T04:49:58Z",
+   "hot": 27.4,
+   "rank": 11,
    "metrics": {
-    "points": 1019,
-    "comments": 623,
-    "discussion": "https://news.ycombinator.com/item?id=50212065"
+    "points": 404,
+    "comments": 143,
+    "discussion": "https://news.ycombinator.com/item?id=50218430"
    }
   },
   {
-   "rawId": "50219666",
-   "title": "I Don't Understand Quantum Physics (2018)",
-   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "rawId": "50171936",
+   "title": "Symbolic Learning in Python and Julia",
+   "url": "https://github.com/astroautomata/PySR",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "southampton.ac.uk"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T09:53:26Z",
-   "hot": 29.0,
-   "rank": 9,
+   "publishedAt": "2026-10-20T20:07:35Z",
+   "hot": 0.2,
+   "rank": 12,
    "metrics": {
-    "points": 199,
-    "comments": 138,
-    "discussion": "https://news.ycombinator.com/item?id=50219666"
+    "points": 23,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50171936"
+   }
+  },
+  {
+   "rawId": "50223844",
+   "title": "Danish Government silently drops plan to dump MS Office",
+   "url": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "computerworld.dk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T18:31:48Z",
+   "hot": 43.4,
+   "rank": 13,
+   "metrics": {
+    "points": 46,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50223844"
+   }
+  },
+  {
+   "rawId": "50192975",
+   "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+   "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "infoq.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T09:01:10Z",
+   "hot": 1.2,
+   "rank": 14,
+   "metrics": {
+    "points": 72,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50192975"
    }
   },
   {
@@ -204,54 +309,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-21T19:40:01Z",
-   "hot": 2.7,
-   "rank": 10,
+   "hot": 3.4,
+   "rank": 15,
    "metrics": {
-    "points": 189,
-    "comments": 65,
+    "points": 244,
+    "comments": 71,
     "discussion": "https://news.ycombinator.com/item?id=50186450"
-   }
-  },
-  {
-   "rawId": "50211474",
-   "title": "Today, we hacked what we'd set out to hack: the iPhone",
-   "url": "https://blog.calif.io/p/iphone",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.calif.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T16:21:50Z",
-   "hot": 41.8,
-   "rank": 11,
-   "metrics": {
-    "points": 1020,
-    "comments": 640,
-    "discussion": "https://news.ycombinator.com/item?id=50211474"
-   }
-  },
-  {
-   "rawId": "50181106",
-   "title": "Appreciating the beauty of all your body's scars and scratches",
-   "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "1000awesomethings.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-21T14:00:08Z",
-   "hot": 0.8,
-   "rank": 12,
-   "metrics": {
-    "points": 59,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50181106"
    }
   },
   {
@@ -267,54 +330,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T09:58:27Z",
-   "hot": 9.3,
-   "rank": 13,
+   "hot": 12.6,
+   "rank": 16,
    "metrics": {
-    "points": 63,
-    "comments": 36,
+    "points": 121,
+    "comments": 48,
     "discussion": "https://news.ycombinator.com/item?id=50219700"
    }
   },
   {
-   "rawId": "50217500",
-   "title": "Twelve years of distributed SQLite",
-   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "rawId": "50211474",
+   "title": "Today, we hacked what we'd set out to hack: the iPhone",
+   "url": "https://blog.calif.io/p/iphone",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "philipotoole.com"
+    "blog.calif.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T01:16:58Z",
-   "hot": 19.9,
-   "rank": 14,
+   "publishedAt": "2026-10-23T16:21:50Z",
+   "hot": 38.9,
+   "rank": 17,
    "metrics": {
-    "points": 307,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50217500"
+    "points": 1058,
+    "comments": 658,
+    "discussion": "https://news.ycombinator.com/item?id=50211474"
    }
   },
   {
-   "rawId": "50195535",
-   "title": "Parsing EDIFACT in Python with syntax trees",
-   "url": "https://github.com/AmadeusITGroup/Edison",
+   "rawId": "50219666",
+   "title": "I Don't Understand Quantum Physics (2018)",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "southampton.ac.uk"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T14:07:48Z",
-   "hot": 0.1,
-   "rank": 15,
+   "publishedAt": "2026-10-24T09:53:26Z",
+   "hot": 24.0,
+   "rank": 18,
    "metrics": {
-    "points": 6,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50195535"
+    "points": 233,
+    "comments": 167,
+    "discussion": "https://news.ycombinator.com/item?id=50219666"
+   }
+  },
+  {
+   "rawId": "50222283",
+   "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+   "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "terrytao.wordpress.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T15:35:17Z",
+   "hot": 3.7,
+   "rank": 19,
+   "metrics": {
+    "points": 15,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50222283"
    }
   },
   {
@@ -330,96 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:01:18Z",
-   "hot": 35.4,
-   "rank": 16,
-   "metrics": {
-    "points": 1477,
-    "comments": 238,
-    "discussion": "https://news.ycombinator.com/item?id=50202285"
-   }
-  },
-  {
-   "rawId": "50207910",
-   "title": "Apple Music 404 Not Found",
-   "url": "https://music.apple.com/this-url-doesnt-exist",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "music.apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T12:28:47Z",
-   "hot": 30.4,
-   "rank": 17,
-   "metrics": {
-    "points": 860,
-    "comments": 251,
-    "discussion": "https://news.ycombinator.com/item?id=50207910"
-   }
-  },
-  {
-   "rawId": "50171379",
-   "title": "A practical guide to AI image generation, from diffusion to agents",
-   "url": "https://danielball.com/notes/ai_image_generation.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "danielball.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T19:22:39Z",
-   "hot": 2.1,
-   "rank": 18,
-   "metrics": {
-    "points": 195,
-    "comments": 57,
-    "discussion": "https://news.ycombinator.com/item?id=50171379"
-   }
-  },
-  {
-   "rawId": "50218195",
-   "title": "How close can pure functional programming get to C?",
-   "url": "https://rtfeldman.com/fp-vs-c",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "rtfeldman.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T03:43:54Z",
-   "hot": 15.5,
-   "rank": 19,
-   "metrics": {
-    "points": 202,
-    "comments": 57,
-    "discussion": "https://news.ycombinator.com/item?id=50218195"
-   }
-  },
-  {
-   "rawId": "50194536",
-   "title": "How to run a city builder on 16 MHz",
-   "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "larstofus.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T12:40:56Z",
-   "hot": 1.3,
+   "hot": 33.8,
    "rank": 20,
    "metrics": {
-    "points": 66,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50194536"
+    "points": 1507,
+    "comments": 240,
+    "discussion": "https://news.ycombinator.com/item?id=50202285"
    }
   }
  ]
