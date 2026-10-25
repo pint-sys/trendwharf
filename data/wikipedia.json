@@ -1,26 +1,8 @@
 {
- "updated": "2026-10-25T01:20:03Z",
+ "updated": "2026-10-25T12:39:33Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
-  {
-   "rawId": "tom skerritt",
-   "title": "Tom Skerritt",
-   "url": "https://en.wikipedia.org/wiki/Tom_Skerritt",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American actor (1933–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tom_Skerritt_2014_%28cropped%29.jpg/330px-Tom_Skerritt_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 406636,
-   "rank": 1,
-   "metrics": {
-    "views": 406636,
-    "change": 10
-   }
-  },
   {
    "rawId": "clayface (film)",
    "title": "Clayface (film)",
@@ -32,11 +14,29 @@
    "summary": "2026 DC Studios film. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/4f/Clayface_%28film%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 264281,
+   "hot": 231483,
+   "rank": 1,
+   "metrics": {
+    "views": 231483,
+    "change": -12
+   }
+  },
+  {
+   "rawId": "ufc 333",
+   "title": "UFC 333",
+   "url": "https://en.wikipedia.org/wiki/UFC_333",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Mixed martial arts event in 2026. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/f/fe/UFC_333_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 224691,
    "rank": 2,
    "metrics": {
-    "views": 264281,
-    "change": 57
+    "views": 224691,
+    "change": 1015
    }
   },
   {
@@ -50,11 +50,11 @@
    "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 192717,
+   "hot": 190945,
    "rank": 3,
    "metrics": {
-    "views": 192717,
-    "change": -21
+    "views": 190945,
+    "change": -1
    }
   },
   {
@@ -65,32 +65,14 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "American businesswoman and convicted felon (born 1984). Among the most-read articles on Wikipedia yesterday.",
+   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 170289,
+   "hot": 188874,
    "rank": 4,
    "metrics": {
-    "views": 170289,
-    "change": -7
-   }
-  },
-  {
-   "rawId": "deaths in 2026",
-   "title": "Deaths in 2026",
-   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 134088,
-   "rank": 5,
-   "metrics": {
-    "views": 134088,
-    "change": -6
+    "views": 188874,
+    "change": 11
    }
   },
   {
@@ -104,29 +86,47 @@
    "summary": "2026 documentary film. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 128351,
-   "rank": 6,
+   "hot": 152908,
+   "rank": 5,
    "metrics": {
-    "views": 128351,
-    "change": -7
+    "views": 152908,
+    "change": 19
    }
   },
   {
-   "rawId": "ilhan omar",
-   "title": "Ilhan Omar",
-   "url": "https://en.wikipedia.org/wiki/Ilhan_Omar",
+   "rawId": "jacob misiorowski",
+   "title": "Jacob Misiorowski",
+   "url": "https://en.wikipedia.org/wiki/Jacob_Misiorowski",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American politician (born 1982). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg/330px-Ilhan_Omar%2C_official_portrait%2C_116th_Congress_%28cropped%29_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American baseball player (born 2002). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jacob_Misiorowski.jpg/330px-Jacob_Misiorowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 103972,
+   "hot": 133083,
+   "rank": 6,
+   "metrics": {
+    "views": 133083,
+    "change": 856
+   }
+  },
+  {
+   "rawId": "deaths in 2026",
+   "title": "Deaths in 2026",
+   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 124463,
    "rank": 7,
    "metrics": {
-    "views": 103972,
-    "change": 1
+    "views": 124463,
+    "change": -7
    }
   },
   {
@@ -140,137 +140,29 @@
    "summary": "American photographer and environmentalist (1902–1984). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/330px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 102156,
+   "hot": 124107,
    "rank": 8,
    "metrics": {
-    "views": 102156,
-    "change": 69
+    "views": 124107,
+    "change": 21
    }
   },
   {
-   "rawId": "miranda hart",
-   "title": "Miranda Hart",
-   "url": "https://en.wikipedia.org/wiki/Miranda_Hart",
+   "rawId": "kehlsteinhaus",
+   "title": "Kehlsteinhaus",
+   "url": "https://en.wikipedia.org/wiki/Kehlsteinhaus",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "English actress, comedian and writer (born 1972). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Miranda_Hart_in_2011.jpg/330px-Miranda_Hart_in_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Former Nazi residence in Obersalzberg, Germany. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/4_Kehlsteinhaus_Orl%C3%AD_hn%C3%ADzdo_2026.jpg/330px-4_Kehlsteinhaus_Orl%C3%AD_hn%C3%ADzdo_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 100427,
+   "hot": 110874,
    "rank": 9,
    "metrics": {
-    "views": 100427,
-    "change": 519
-   }
-  },
-  {
-   "rawId": "john anderson (singer)",
-   "title": "John Anderson (singer)",
-   "url": "https://en.wikipedia.org/wiki/John_Anderson_(singer)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American country musician (1954–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Anderson.jpg/330px-John_Anderson.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 98885,
-   "rank": 10,
-   "metrics": {
-    "views": 98885,
-    "change": -71
-   }
-  },
-  {
-   "rawId": "amy acton",
-   "title": "Amy Acton",
-   "url": "https://en.wikipedia.org/wiki/Amy_Acton",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American physician and politician (born 1966). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Amy_Acton_2025.jpg/330px-Amy_Acton_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 97593,
-   "rank": 11,
-   "metrics": {
-    "views": 97593,
-    "change": -29
-   }
-  },
-  {
-   "rawId": "vivek ramaswamy",
-   "title": "Vivek Ramaswamy",
-   "url": "https://en.wikipedia.org/wiki/Vivek_Ramaswamy",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American entrepreneur and politician (born 1985). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg/330px-Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 97367,
-   "rank": 12,
-   "metrics": {
-    "views": 97367,
-    "change": -19
-   }
-  },
-  {
-   "rawId": "h3h3productions",
-   "title": "H3h3Productions",
-   "url": "https://en.wikipedia.org/wiki/H3h3Productions",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "YouTube channel. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/H3h3Productions_logo_new.png/330px-H3h3Productions_logo_new.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 91812,
-   "rank": 13,
-   "metrics": {
-    "views": 91812,
-    "change": 23935
-   }
-  },
-  {
-   "rawId": "united states",
-   "title": "United States",
-   "url": "https://en.wikipedia.org/wiki/United_States",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Country primarily in North America. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg/330px-Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 81754,
-   "rank": 14,
-   "metrics": {
-    "views": 81754,
-    "change": 40
-   }
-  },
-  {
-   "rawId": "death of kyle plush",
-   "title": "Death of Kyle Plush",
-   "url": "https://en.wikipedia.org/wiki/Death_of_Kyle_Plush",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2018 death in Cincinnati, Ohio. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/1d/Kyle_Jacob_Plush.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 79910,
-   "rank": 15,
-   "metrics": {
-    "views": 79910,
-    "change": 11045
+    "views": 110874,
+    "change": 2999
    }
   },
   {
@@ -284,83 +176,191 @@
    "summary": "2026 film by Travis Knight. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/aa/Wildwood_2026_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 78675,
+   "hot": 96858,
+   "rank": 10,
+   "metrics": {
+    "views": 96858,
+    "change": 23
+   }
+  },
+  {
+   "rawId": "tom skerritt",
+   "title": "Tom Skerritt",
+   "url": "https://en.wikipedia.org/wiki/Tom_Skerritt",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actor (1933–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Tom_Skerritt_2014_%28cropped%29.jpg/330px-Tom_Skerritt_2014_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 88131,
+   "rank": 11,
+   "metrics": {
+    "views": 88131,
+    "change": -78
+   }
+  },
+  {
+   "rawId": "téa leoni",
+   "title": "Téa Leoni",
+   "url": "https://en.wikipedia.org/wiki/T%C3%A9a_Leoni",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actress (born 1966). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/T%C3%A9aLeoniJun07.jpg/330px-T%C3%A9aLeoniJun07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 88011,
+   "rank": 12,
+   "metrics": {
+    "views": 88011,
+    "change": 36
+   }
+  },
+  {
+   "rawId": "alexander volkanovski",
+   "title": "Alexander Volkanovski",
+   "url": "https://en.wikipedia.org/wiki/Alexander_Volkanovski",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Australian mixed martial artist (born 1988). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c8/Volkanovski_2021_red_shirt.jpeg/330px-Volkanovski_2021_red_shirt.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 87200,
+   "rank": 13,
+   "metrics": {
+    "views": 87200,
+    "change": 606
+   }
+  },
+  {
+   "rawId": "dorothy (film)",
+   "title": "Dorothy (film)",
+   "url": "https://en.wikipedia.org/wiki/Dorothy_(film)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 Indian film by Karthik Subbaraj. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/22/Dorothy_film_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 86581,
+   "rank": 14,
+   "metrics": {
+    "views": 86581,
+    "change": 29
+   }
+  },
+  {
+   "rawId": "ainsley earhardt",
+   "title": "Ainsley Earhardt",
+   "url": "https://en.wikipedia.org/wiki/Ainsley_Earhardt",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American television host and author (born 1975/76). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ainsley_Earhardt_on_USS_New_York.jpg/330px-Ainsley_Earhardt_on_USS_New_York.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 84850,
+   "rank": 15,
+   "metrics": {
+    "views": 84850,
+    "change": 10834
+   }
+  },
+  {
+   "rawId": "wicker (film)",
+   "title": "Wicker (film)",
+   "url": "https://en.wikipedia.org/wiki/Wicker_(film)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 film by Alex Huston Fischer and Eleanor Wilson. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a3/Wicker_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 83719,
    "rank": 16,
    "metrics": {
-    "views": 78675,
-    "change": 79
+    "views": 83719,
+    "change": 28
    }
   },
   {
-   "rawId": "india at the 2026 asian para games",
-   "title": "India at the 2026 Asian Para Games",
-   "url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Para_Games",
+   "rawId": "h3h3productions",
+   "title": "H3h3Productions",
+   "url": "https://en.wikipedia.org/wiki/H3h3Productions",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/330px-Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "YouTube channel. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/H3h3Productions_logo_new.png/330px-H3h3Productions_logo_new.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 76790,
+   "hot": 83511,
    "rank": 17,
    "metrics": {
-    "views": 76790,
-    "change": 13
+    "views": 83511,
+    "change": -9
    }
   },
   {
-   "rawId": "php2shell",
-   "title": "PHP2Shell",
-   "url": "https://en.wikipedia.org/wiki/PHP2Shell",
+   "rawId": "billy evans (businessman)",
+   "title": "Billy Evans (businessman)",
+   "url": "https://en.wikipedia.org/wiki/Billy_Evans_(businessman)",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "2026 software security vulnerability. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Wikimedia_Phabricator_PHP2Shell.png/330px-Wikimedia_Phabricator_PHP2Shell.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American entrepreneur. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
-   "hot": 76748,
+   "hot": 82296,
    "rank": 18,
    "metrics": {
-    "views": 76748,
-    "change": -50
+    "views": 82296,
+    "change": 45
    }
   },
   {
-   "rawId": "limonene",
-   "title": "Limonene",
-   "url": "https://en.wikipedia.org/wiki/Limonene",
+   "rawId": "māori people",
+   "title": "Māori people",
+   "url": "https://en.wikipedia.org/wiki/M%C4%81ori_people",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Chemical compound. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Limonene.jpg/330px-Limonene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Indigenous Polynesian people of New Zealand. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/New_Zealand_-_Maori_rowing_-_8444.jpg/330px-New_Zealand_-_Maori_rowing_-_8444.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 73075,
+   "hot": 81051,
    "rank": 19,
    "metrics": {
-    "views": 73075,
-    "change": -4
+    "views": 81051,
+    "change": 3743
    }
   },
   {
-   "rawId": "jerry hall",
-   "title": "Jerry Hall",
-   "url": "https://en.wikipedia.org/wiki/Jerry_Hall",
+   "rawId": "nathan fielder",
+   "title": "Nathan Fielder",
+   "url": "https://en.wikipedia.org/wiki/Nathan_Fielder",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American model and actress (born 1956). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Jerry_Hall.jpg/330px-Jerry_Hall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Canadian filmmaker (born 1983). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Nathan_Fielder.jpg/330px-Nathan_Fielder.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 71093,
+   "hot": 79888,
    "rank": 20,
    "metrics": {
-    "views": 71093,
-    "change": -49
+    "views": 79888,
+    "change": 20
    }
   }
  ]
