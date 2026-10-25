@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-25T01:20:03Z",
+ "updated": "2026-10-25T06:27:34Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50226419",
-   "title": "America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
-   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "rawId": "50228167",
+   "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+   "url": "https://github.com/slee-persis/GVS5H",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "apricitas.io"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T23:11:54Z",
-   "hot": 55.2,
+   "publishedAt": "2026-10-25T03:56:01Z",
+   "hot": 46.7,
    "rank": 1,
    "metrics": {
     "points": 118,
-    "comments": 93,
-    "discussion": "https://news.ycombinator.com/item?id=50226419"
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50228167"
    }
   },
   {
@@ -36,33 +36,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T21:47:31Z",
-   "hot": 42.1,
+   "hot": 35.8,
    "rank": 2,
    "metrics": {
-    "points": 149,
-    "comments": 100,
+    "points": 310,
+    "comments": 268,
     "discussion": "https://news.ycombinator.com/item?id=50225695"
    }
   },
   {
-   "rawId": "50227138",
-   "title": "Tailworm – Tailscale Vulnerabilities",
-   "url": "https://tailworm.com/",
+   "rawId": "50227356",
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "tailworm.com"
+    "cerebras.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-25T00:59:48Z",
-   "hot": 11.0,
+   "publishedAt": "2026-10-25T01:33:49Z",
+   "hot": 17.4,
    "rank": 3,
    "metrics": {
-    "points": 11,
+    "points": 85,
+    "comments": 28,
+    "discussion": "https://news.ycombinator.com/item?id=50227356"
+   }
+  },
+  {
+   "rawId": "50193612",
+   "title": "Picasa Photo Viewer Rebuilt for Linux, Project Named Licasa",
+   "url": "https://github.com/sanxchep/licasa",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T10:44:52Z",
+   "hot": 0.2,
+   "rank": 4,
+   "metrics": {
+    "points": 13,
     "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50227138"
+    "discussion": "https://news.ycombinator.com/item?id=50193612"
    }
   },
   {
@@ -78,117 +99,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T19:06:55Z",
-   "hot": 37.3,
-   "rank": 4,
-   "metrics": {
-    "points": 232,
-    "comments": 156,
-    "discussion": "https://news.ycombinator.com/item?id=50224100"
-   }
-  },
-  {
-   "rawId": "50222622",
-   "title": "Roku developer repositories moved from GitHub to GitLab",
-   "url": "https://blog.roku.com/developer/gitlab-move",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.roku.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T16:06:26Z",
-   "hot": 27.9,
+   "hot": 29.1,
    "rank": 5,
    "metrics": {
-    "points": 257,
-    "comments": 168,
-    "discussion": "https://news.ycombinator.com/item?id=50222622"
-   }
-  },
-  {
-   "rawId": "50224422",
-   "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-   "url": "https://missileer.watch",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "missileer.watch"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T19:43:27Z",
-   "hot": 19.8,
-   "rank": 6,
-   "metrics": {
-    "points": 111,
-    "comments": 76,
-    "discussion": "https://news.ycombinator.com/item?id=50224422"
-   }
-  },
-  {
-   "rawId": "50226577",
-   "title": "Why Gopher in 2026?",
-   "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "gopher.muffinlabs.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T23:33:19Z",
-   "hot": 10.7,
-   "rank": 7,
-   "metrics": {
-    "points": 19,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50226577"
-   }
-  },
-  {
-   "rawId": "50224916",
-   "title": "Show HN: Steal My Bitcoin",
-   "url": "https://stealmybitcoin.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "stealmybitcoin.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T20:30:31Z",
-   "hot": 81.4,
-   "rank": 8,
-   "metrics": {
-    "points": 393,
-    "comments": 235,
-    "discussion": "https://news.ycombinator.com/item?id=50224916"
-   }
-  },
-  {
-   "rawId": "50225674",
-   "title": "Small Programs and Languages",
-   "url": "https://ratfactor.com/cards/pl-small",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ratfactor.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T21:44:23Z",
-   "hot": 9.5,
-   "rank": 9,
-   "metrics": {
-    "points": 34,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50225674"
+    "points": 330,
+    "comments": 222,
+    "discussion": "https://news.ycombinator.com/item?id=50224100"
    }
   },
   {
@@ -204,12 +120,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T19:19:43Z",
-   "hot": 11.3,
+   "hot": 10.6,
+   "rank": 6,
+   "metrics": {
+    "points": 118,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50224210"
+   }
+  },
+  {
+   "rawId": "50225674",
+   "title": "Small Programs and Languages",
+   "url": "https://ratfactor.com/cards/pl-small",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ratfactor.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T21:44:23Z",
+   "hot": 9.3,
+   "rank": 7,
+   "metrics": {
+    "points": 81,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50225674"
+   }
+  },
+  {
+   "rawId": "50226419",
+   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "apricitas.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T23:11:54Z",
+   "hot": 40.2,
+   "rank": 8,
+   "metrics": {
+    "points": 292,
+    "comments": 298,
+    "discussion": "https://news.ycombinator.com/item?id=50226419"
+   }
+  },
+  {
+   "rawId": "50224422",
+   "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+   "url": "https://missileer.watch",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "missileer.watch"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T19:43:27Z",
+   "hot": 14.7,
+   "rank": 9,
+   "metrics": {
+    "points": 158,
+    "comments": 105,
+    "discussion": "https://news.ycombinator.com/item?id=50224422"
+   }
+  },
+  {
+   "rawId": "50194935",
+   "title": "In Rainbows",
+   "url": "https://hitogata.neocities.org/Rainbows",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hitogata.neocities.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T13:20:04Z",
+   "hot": 0.3,
    "rank": 10,
    "metrics": {
-    "points": 68,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50224210"
+    "points": 19,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50194935"
    }
   },
   {
@@ -225,75 +225,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-20T20:45:52Z",
-   "hot": 0.3,
+   "hot": 0.5,
    "rank": 11,
    "metrics": {
-    "points": 26,
-    "comments": 0,
+    "points": 58,
+    "comments": 8,
     "discussion": "https://news.ycombinator.com/item?id=50172432"
    }
   },
   {
-   "rawId": "50225663",
-   "title": "The Importance of Limitations for Creativity and Learning",
-   "url": "https://ratfactor.com/cards/limitations",
+   "rawId": "50176674",
+   "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+   "url": "https://pragtical.dev/blog/pragtical-v3140-release",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ratfactor.com"
+    "pragtical.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T21:42:47Z",
-   "hot": 6.6,
+   "publishedAt": "2026-10-21T06:09:04Z",
+   "hot": 0.1,
    "rank": 12,
    "metrics": {
-    "points": 24,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50225663"
+    "points": 9,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50176674"
    }
   },
   {
-   "rawId": "50169450",
-   "title": "Social dynamics of toxic metal industry in medieval Europe",
-   "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+   "rawId": "50226577",
+   "title": "Why Gopher in 2026?",
+   "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cambridge.org"
+    "gopher.muffinlabs.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-20T17:06:48Z",
-   "hot": 0.1,
+   "publishedAt": "2026-10-24T23:33:19Z",
+   "hot": 8.0,
    "rank": 13,
    "metrics": {
-    "points": 9,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50169450"
+    "points": 55,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50226577"
    }
   },
   {
-   "rawId": "50222133",
-   "title": "FreeDNS",
-   "url": "https://freedns.afraid.org/",
+   "rawId": "50186289",
+   "title": "A story of a Figma bug that wasn't a bug at all (2021)",
+   "url": "https://aresluna.org/this-is-a-story-of-a-figma-bug/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "freedns.afraid.org"
+    "aresluna.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T15:20:01Z",
-   "hot": 24.7,
+   "publishedAt": "2026-10-21T19:30:52Z",
+   "hot": 0.2,
    "rank": 14,
    "metrics": {
-    "points": 247,
-    "comments": 62,
-    "discussion": "https://news.ycombinator.com/item?id=50222133"
+    "points": 20,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50186289"
    }
   },
   {
@@ -309,117 +309,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T09:53:26Z",
-   "hot": 18.1,
+   "hot": 14.5,
    "rank": 15,
    "metrics": {
-    "points": 280,
-    "comments": 211,
+    "points": 298,
+    "comments": 238,
     "discussion": "https://news.ycombinator.com/item?id=50219666"
    }
   },
   {
-   "rawId": "50222927",
-   "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-   "url": "https://de.numista.com/9866",
+   "rawId": "50222133",
+   "title": "FreeDNS",
+   "url": "https://freedns.afraid.org/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "de.numista.com"
+    "freedns.afraid.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T16:41:55Z",
-   "hot": 10.8,
+   "publishedAt": "2026-10-24T15:20:01Z",
+   "hot": 18.2,
    "rank": 16,
    "metrics": {
-    "points": 93,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50222927"
+    "points": 275,
+    "comments": 69,
+    "discussion": "https://news.ycombinator.com/item?id=50222133"
    }
   },
   {
-   "rawId": "50222525",
-   "title": "Neural chip decodes interactions between brain regions",
-   "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+   "rawId": "50169450",
+   "title": "Social dynamics of toxic metal industry in medieval Europe",
+   "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "actu.epfl.ch"
+    "cambridge.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T15:57:17Z",
-   "hot": 9.5,
+   "publishedAt": "2026-10-20T17:06:48Z",
+   "hot": 0.3,
    "rank": 17,
    "metrics": {
-    "points": 89,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50222525"
+    "points": 31,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50169450"
    }
   },
   {
-   "rawId": "50219177",
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "rawId": "50225663",
+   "title": "The Importance of Limitations for Creativity and Learning (2023)",
+   "url": "https://ratfactor.com/cards/limitations",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "aikido.dev"
+    "ratfactor.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T08:06:39Z",
-   "hot": 16.0,
+   "publishedAt": "2026-10-24T21:42:47Z",
+   "hot": 5.8,
    "rank": 18,
    "metrics": {
-    "points": 275,
-    "comments": 137,
-    "discussion": "https://news.ycombinator.com/item?id=50219177"
+    "points": 51,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50225663"
    }
   },
   {
-   "rawId": "50188440",
-   "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-   "url": "https://xingjianbai.com/reactive-optimizers/",
+   "rawId": "50227639",
+   "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+   "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "xingjianbai.com"
+    "aljazeera.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-21T22:17:12Z",
-   "hot": 0.0,
+   "publishedAt": "2026-10-25T02:18:35Z",
+   "hot": 30.4,
    "rank": 19,
    "metrics": {
-    "points": 3,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50188440"
+    "points": 126,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50227639"
    }
   },
   {
-   "rawId": "50226434",
-   "title": "Google has officially turned these Nest thermostats back into dumb thermostats",
-   "url": "https://www.makeuseof.com/google-nest-thermostats-unsupported/",
+   "rawId": "50224916",
+   "title": "Show HN: Steal My Bitcoin",
+   "url": "https://stealmybitcoin.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "makeuseof.com"
+    "stealmybitcoin.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T23:14:30Z",
-   "hot": 16.2,
+   "publishedAt": "2026-10-24T20:30:31Z",
+   "hot": 45.3,
    "rank": 20,
    "metrics": {
-    "points": 34,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50226434"
+    "points": 451,
+    "comments": 274,
+    "discussion": "https://news.ycombinator.com/item?id=50224916"
    }
   }
  ]
