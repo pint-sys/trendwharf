@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T12:39:33Z",
+ "updated": "2026-10-25T19:47:58Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -27,29 +27,6 @@
    }
   },
   {
-   "rawId": "6796864754",
-   "title": "BbY WOW",
-   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
-   "category": "music",
-   "tags": [
-    "Latin"
-   ],
-   "summary": "#2 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-08-05T00:00:00Z",
-   "hot": 24,
-   "rank": 2,
-   "metrics": {
-    "artist": "KAROL G, Judeline & rusowsky",
-    "rank": 2,
-    "change": 2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
-   }
-  },
-  {
    "rawId": "1844932150",
    "title": "Choosin' Texas",
    "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
@@ -57,19 +34,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#3 on Apple Music's most-played songs (US).",
+   "summary": "#2 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
    "publishedAt": "2025-10-17T00:00:00Z",
+   "hot": 24,
+   "rank": 2,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 2,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
+   "rawId": "6796864754",
+   "title": "BbY WOW",
+   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+   "category": "music",
+   "tags": [
+    "Latin"
+   ],
+   "summary": "#3 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-08-05T00:00:00Z",
    "hot": 23,
    "rank": 3,
    "metrics": {
-    "artist": "Ella Langley",
+    "artist": "KAROL G, Judeline & rusowsky",
     "rank": 3,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
    }
   },
   {
@@ -88,7 +88,7 @@
    "metrics": {
     "artist": "Drake & Don Toliver",
     "rank": 4,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -111,7 +111,7 @@
    "metrics": {
     "artist": "Zach Bryan & Lana Del Rey",
     "rank": 5,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -134,7 +134,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 6,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -157,7 +157,7 @@
    "metrics": {
     "artist": "ADÉLA",
     "rank": 7,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -180,7 +180,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 8,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -203,7 +203,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 9,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -257,29 +257,6 @@
    }
   },
   {
-   "rawId": "1641781867",
-   "title": "Thriller 7\" (Special Edit)",
-   "url": "https://music.apple.com/us/album/thriller-7-special-edit/1641780996?i=1641781867",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/8c/e1/738ce1db-60bd-eb25-0059-18778c1ca9b3/196589412409.jpg/400x400bb.jpg",
-   "publishedAt": "1983-01-01T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
-   "metrics": {
-    "artist": "Michael Jackson",
-    "rank": 12,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/thriller-7-special-edit/1641780996?i=1641781867"
-   }
-  },
-  {
    "rawId": "1621119447",
    "title": "WAIT FOR U (feat. Drake & Tems)",
    "url": "https://music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447",
@@ -287,19 +264,65 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#12 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
+   "hot": 14,
+   "rank": 12,
    "metrics": {
     "artist": "Future",
-    "rank": 13,
-    "change": 0
+    "rank": 12,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+   }
+  },
+  {
+   "rawId": "1641781867",
+   "title": "Thriller 7\" (Special Edit)",
+   "url": "https://music.apple.com/us/album/thriller-7-special-edit/1641780996?i=1641781867",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#13 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/73/8c/e1/738ce1db-60bd-eb25-0059-18778c1ca9b3/196589412409.jpg/400x400bb.jpg",
+   "publishedAt": "1983-01-01T00:00:00Z",
+   "hot": 13,
+   "rank": 13,
+   "metrics": {
+    "artist": "Michael Jackson",
+    "rank": 13,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/thriller-7-special-edit/1641780996?i=1641781867"
+   }
+  },
+  {
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#14 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
+   "hot": 12,
+   "rank": 14,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 14,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
    }
   },
   {
@@ -310,15 +333,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#14 on Apple Music's most-played songs (US).",
+   "summary": "#15 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
    "publishedAt": "2022-05-02T00:00:00Z",
-   "hot": 12,
-   "rank": 14,
+   "hot": 11,
+   "rank": 15,
    "metrics": {
     "artist": "Future",
-    "rank": 14,
-    "change": 1
+    "rank": 15,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -333,42 +356,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
+   "summary": "#16 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
+   "hot": 10,
+   "rank": 16,
    "metrics": {
     "artist": "Drake",
-    "rank": 15,
-    "change": 3
+    "rank": 16,
+    "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
-   }
-  },
-  {
-   "rawId": "6812477290",
-   "title": "Last Thing You Need",
-   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-17T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 16,
-    "change": -4
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
    }
   },
   {
@@ -387,7 +387,7 @@
    "metrics": {
     "artist": "Drake, Don Toliver & Yebba",
     "rank": 17,
-    "change": -3
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -410,7 +410,7 @@
    "metrics": {
     "artist": "The Weeknd",
     "rank": 18,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -433,7 +433,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 19,
-    "change": 3
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -456,7 +456,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 20,
-    "change": 5
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -479,34 +479,11 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 21,
-    "change": -4
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/stupid-song/6779097512?i=6779097534"
-   }
-  },
-  {
-   "rawId": "1621119426",
-   "title": "I'M DAT N***A",
-   "url": "https://music.apple.com/us/album/im-dat-n-a/1621119097?i=1621119426",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
-   "metrics": {
-    "artist": "Future",
-    "rank": 22,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/im-dat-n-a/1621119097?i=1621119426"
    }
   },
   {
@@ -517,15 +494,15 @@
    "tags": [
     "Country"
    ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
+   "summary": "#22 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
    "publishedAt": "2026-04-24T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
+   "hot": 4,
+   "rank": 22,
    "metrics": {
     "artist": "Ella Langley & Morgan Wallen",
-    "rank": 23,
-    "change": -4
+    "rank": 22,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -533,26 +510,26 @@
    }
   },
   {
-   "rawId": "6790569133",
-   "title": "Dead Fresh",
-   "url": "https://music.apple.com/us/album/dead-fresh/6790569132?i=6790569133",
+   "rawId": "1621119426",
+   "title": "I'M DAT N***A",
+   "url": "https://music.apple.com/us/album/im-dat-n-a/1621119097?i=1621119426",
    "category": "music",
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-17T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
    "metrics": {
-    "artist": "Lil Baby",
-    "rank": 24,
-    "change": "new"
+    "artist": "Future",
+    "rank": 23,
+    "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+    "value": "https://embed.music.apple.com/us/album/im-dat-n-a/1621119097?i=1621119426"
    }
   },
   {
@@ -563,19 +540,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#25 on Apple Music's most-played songs (US).",
+   "summary": "#24 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2025-01-31T00:00:00Z",
-   "hot": 1,
-   "rank": 25,
+   "hot": 2,
+   "rank": 24,
    "metrics": {
     "artist": "Morgan Wallen",
-    "rank": 25,
-    "change": -4
+    "rank": 24,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
+   }
+  },
+  {
+   "rawId": "1869436845",
+   "title": "Be Her",
+   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#25 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
+   "publishedAt": "2026-02-13T00:00:00Z",
+   "hot": 1,
+   "rank": 25,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 25,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
    }
   }
  ]
