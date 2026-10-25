@@ -1,28 +1,7 @@
 {
- "updated": "2026-10-25T12:39:33Z",
+ "updated": "2026-10-25T17:07:06Z",
  "source": "hackernews",
  "items": [
-  {
-   "rawId": "50229587",
-   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "panamericandispatch.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T09:00:40Z",
-   "hot": 80.6,
-   "rank": 1,
-   "metrics": {
-    "points": 294,
-    "comments": 182,
-    "discussion": "https://news.ycombinator.com/item?id=50229587"
-   }
-  },
   {
    "rawId": "50230384",
    "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
@@ -37,11 +16,53 @@
    "thumbnail": null,
    "publishedAt": "2026-10-25T11:09:12Z",
    "hot": 24.6,
+   "rank": 1,
+   "metrics": {
+    "points": 147,
+    "comments": 48,
+    "discussion": "https://news.ycombinator.com/item?id=50230384"
+   }
+  },
+  {
+   "rawId": "50231349",
+   "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+   "url": "https://github.com/winnin/farol",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T13:28:06Z",
+   "hot": 13.4,
    "rank": 2,
    "metrics": {
-    "points": 37,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50230384"
+    "points": 49,
+    "comments": 28,
+    "discussion": "https://news.ycombinator.com/item?id=50231349"
+   }
+  },
+  {
+   "rawId": "50232312",
+   "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+   "url": "https://bigwhalehunting.com/workforce/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bigwhalehunting.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T15:05:39Z",
+   "hot": 50.9,
+   "rank": 3,
+   "metrics": {
+    "points": 103,
+    "comments": 31,
+    "discussion": "https://news.ycombinator.com/item?id=50232312"
    }
   },
   {
@@ -57,12 +78,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T21:47:31Z",
-   "hot": 33.3,
-   "rank": 3,
+   "hot": 31.3,
+   "rank": 4,
    "metrics": {
-    "points": 495,
-    "comments": 424,
+    "points": 605,
+    "comments": 590,
     "discussion": "https://news.ycombinator.com/item?id=50225695"
+   }
+  },
+  {
+   "rawId": "50232035",
+   "title": "A few thoughts on intensity",
+   "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tylerhogge.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T14:37:49Z",
+   "hot": 16.9,
+   "rank": 5,
+   "metrics": {
+    "points": 42,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50232035"
+   }
+  },
+  {
+   "rawId": "50195184",
+   "title": "Bring Back the Cool Save File Screens",
+   "url": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "scabshack.lol"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T13:40:05Z",
+   "hot": 0.3,
+   "rank": 6,
+   "metrics": {
+    "points": 22,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50195184"
    }
   },
   {
@@ -78,33 +141,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T01:33:49Z",
-   "hot": 19.5,
-   "rank": 4,
+   "hot": 19.0,
+   "rank": 7,
    "metrics": {
-    "points": 216,
-    "comments": 67,
+    "points": 295,
+    "comments": 102,
     "discussion": "https://news.ycombinator.com/item?id=50227356"
    }
   },
   {
-   "rawId": "50230181",
-   "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-   "url": "https://twitter.com/mike64_t/status/2114150399406202896",
-   "videoUrl": "https://twitter.com/mike64_t/status/2114150399406202896",
+   "rawId": "50223435",
+   "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
+   "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
+   "videoUrl": "https://www.youtube.com/watch?v=46wxttvq9qY",
    "category": "news",
    "tags": [
     "tech",
-    "twitter.com"
+    "youtube.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-25T10:42:01Z",
-   "hot": 38.8,
-   "rank": 5,
+   "publishedAt": "2026-10-24T17:42:08Z",
+   "hot": 0.1,
+   "rank": 8,
    "metrics": {
-    "points": 76,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50230181"
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50223435"
    }
   },
   {
@@ -120,11 +183,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T11:31:03Z",
-   "hot": 1.0,
-   "rank": 6,
+   "hot": 1.8,
+   "rank": 9,
    "metrics": {
-    "points": 74,
-    "comments": 21,
+    "points": 142,
+    "comments": 38,
     "discussion": "https://news.ycombinator.com/item?id=50193936"
    }
   },
@@ -141,75 +204,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T19:06:55Z",
-   "hot": 25.4,
-   "rank": 7,
+   "hot": 23.5,
+   "rank": 10,
    "metrics": {
-    "points": 445,
-    "comments": 273,
+    "points": 516,
+    "comments": 313,
     "discussion": "https://news.ycombinator.com/item?id=50224100"
    }
   },
   {
-   "rawId": "50194645",
-   "title": "Rewriting a Commercial Engine in Jai",
-   "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-   "videoUrl": null,
+   "rawId": "50230181",
+   "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+   "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+   "videoUrl": "https://twitter.com/mike64_t/status/2114150399406202896",
    "category": "news",
    "tags": [
     "tech",
-    "polygonjs.com"
+    "twitter.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T12:50:43Z",
-   "hot": 0.6,
-   "rank": 8,
+   "publishedAt": "2026-10-25T10:42:01Z",
+   "hot": 43.0,
+   "rank": 11,
    "metrics": {
-    "points": 43,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50194645"
-   }
-  },
-  {
-   "rawId": "50229827",
-   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
-   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "techspot.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T09:51:17Z",
-   "hot": 10.0,
-   "rank": 9,
-   "metrics": {
-    "points": 28,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50229827"
-   }
-  },
-  {
-   "rawId": "50224210",
-   "title": "SpeedCrunch 1.1",
-   "url": "https://www.speedcrunch.org/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "speedcrunch.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T19:19:43Z",
-   "hot": 9.7,
-   "rank": 10,
-   "metrics": {
-    "points": 168,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50224210"
+    "points": 276,
+    "comments": 179,
+    "discussion": "https://news.ycombinator.com/item?id=50230181"
    }
   },
   {
@@ -225,12 +246,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T16:16:01Z",
-   "hot": 0.3,
-   "rank": 11,
+   "hot": 0.7,
+   "rank": 12,
    "metrics": {
-    "points": 18,
-    "comments": 15,
+    "points": 51,
+    "comments": 34,
     "discussion": "https://news.ycombinator.com/item?id=50197434"
+   }
+  },
+  {
+   "rawId": "50233347",
+   "title": "A Mathematician Reads the AI Future",
+   "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "theatlantic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T16:31:21Z",
+   "hot": 8.0,
+   "rank": 13,
+   "metrics": {
+    "points": 8,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50233347"
+   }
+  },
+  {
+   "rawId": "50224210",
+   "title": "SpeedCrunch 1.1",
+   "url": "https://www.speedcrunch.org/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "speedcrunch.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T19:19:43Z",
+   "hot": 9.3,
+   "rank": 14,
+   "metrics": {
+    "points": 203,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50224210"
+   }
+  },
+  {
+   "rawId": "50218633",
+   "title": "Root shell on Samsung TV",
+   "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+   "videoUrl": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T05:49:57Z",
+   "hot": 15.1,
+   "rank": 15,
+   "metrics": {
+    "points": 532,
+    "comments": 271,
+    "discussion": "https://news.ycombinator.com/item?id=50218633"
    }
   },
   {
@@ -246,54 +330,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-24T21:44:23Z",
-   "hot": 8.8,
-   "rank": 12,
+   "hot": 8.6,
+   "rank": 16,
    "metrics": {
-    "points": 132,
-    "comments": 18,
+    "points": 166,
+    "comments": 24,
     "discussion": "https://news.ycombinator.com/item?id=50225674"
-   }
-  },
-  {
-   "rawId": "50169939",
-   "title": "XPS 16 Creator Edition Laptop",
-   "url": "https://www.dell.com/en-us/shop/laptop-computers/spd/xps16dx16263",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dell.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-20T17:42:13Z",
-   "hot": 0.1,
-   "rank": 13,
-   "metrics": {
-    "points": 7,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50169939"
-   }
-  },
-  {
-   "rawId": "50226577",
-   "title": "Why Gopher in 2026?",
-   "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "gopher.muffinlabs.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T23:33:19Z",
-   "hot": 6.9,
-   "rank": 14,
-   "metrics": {
-    "points": 90,
-    "comments": 36,
-    "discussion": "https://news.ycombinator.com/item?id=50226577"
    }
   },
   {
@@ -309,117 +351,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T23:01:18Z",
-   "hot": 26.1,
-   "rank": 15,
+   "hot": 24.7,
+   "rank": 17,
    "metrics": {
-    "points": 1608,
-    "comments": 249,
+    "points": 1635,
+    "comments": 251,
     "discussion": "https://news.ycombinator.com/item?id=50202285"
    }
   },
   {
-   "rawId": "50226419",
-   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "rawId": "50229827",
+   "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+   "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "apricitas.io"
+    "techspot.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T23:11:54Z",
-   "hot": 29.2,
-   "rank": 16,
-   "metrics": {
-    "points": 393,
-    "comments": 406,
-    "discussion": "https://news.ycombinator.com/item?id=50226419"
-   }
-  },
-  {
-   "rawId": "50219177",
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "aikido.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T08:06:39Z",
-   "hot": 11.9,
-   "rank": 17,
-   "metrics": {
-    "points": 339,
-    "comments": 164,
-    "discussion": "https://news.ycombinator.com/item?id=50219177"
-   }
-  },
-  {
-   "rawId": "50219666",
-   "title": "I don't understand quantum physics (2018)",
-   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "southampton.ac.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T09:53:26Z",
-   "hot": 12.3,
+   "publishedAt": "2026-10-25T09:51:17Z",
+   "hot": 13.6,
    "rank": 18,
    "metrics": {
-    "points": 329,
-    "comments": 259,
-    "discussion": "https://news.ycombinator.com/item?id=50219666"
+    "points": 99,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50229827"
    }
   },
   {
-   "rawId": "50225663",
-   "title": "The Importance of Limitations for Creativity and Learning (2023)",
-   "url": "https://ratfactor.com/cards/limitations",
+   "rawId": "50167528",
+   "title": "Washing machines took decades to catch on",
+   "url": "https://daily.jstor.org/why-washing-machines-took-decades-to-catch-on/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ratfactor.com"
+    "daily.jstor.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T21:42:47Z",
-   "hot": 5.9,
+   "publishedAt": "2026-10-20T15:05:34Z",
+   "hot": 0.3,
    "rank": 19,
    "metrics": {
-    "points": 88,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50225663"
+    "points": 37,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50167528"
    }
   },
   {
-   "rawId": "50222133",
-   "title": "FreeDNS",
-   "url": "https://freedns.afraid.org/",
+   "rawId": "50232682",
+   "title": "Anthropic Wanted to Replace Engineers. Instead, They Shot Their Own Customers",
+   "url": "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "freedns.afraid.org"
+    "techbronerd.substack.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T15:20:01Z",
-   "hot": 14.4,
+   "publishedAt": "2026-10-25T15:34:44Z",
+   "hot": 8.4,
    "rank": 20,
    "metrics": {
-    "points": 308,
-    "comments": 83,
-    "discussion": "https://news.ycombinator.com/item?id=50222133"
+    "points": 13,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50232682"
    }
   }
  ]
