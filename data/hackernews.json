@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T22:40:37Z",
+ "updated": "2026-10-26T01:23:38Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,33 +15,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T18:23:54Z",
-   "hot": 63.6,
+   "hot": 52.7,
    "rank": 1,
    "metrics": {
-    "points": 272,
-    "comments": 49,
+    "points": 369,
+    "comments": 66,
     "discussion": "https://news.ycombinator.com/item?id=50234474"
    }
   },
   {
-   "rawId": "50235738",
-   "title": "What goes into making an animated film?",
-   "url": "https://www.disneyanimation.com/process/",
+   "rawId": "50237078",
+   "title": "F-Zero X on Nintendo 3DS",
+   "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "disneyanimation.com"
+    "hypnotize.works"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-25T20:27:09Z",
-   "hot": 20.7,
+   "publishedAt": "2026-10-25T23:27:30Z",
+   "hot": 19.6,
    "rank": 2,
    "metrics": {
-    "points": 46,
+    "points": 38,
     "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50235738"
+    "discussion": "https://news.ycombinator.com/item?id=50237078"
    }
   },
   {
@@ -57,12 +57,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-22T15:52:21Z",
-   "hot": 0.7,
+   "hot": 1.5,
    "rank": 3,
    "metrics": {
-    "points": 52,
-    "comments": 13,
+    "points": 126,
+    "comments": 38,
     "discussion": "https://news.ycombinator.com/item?id=50197108"
+   }
+  },
+  {
+   "rawId": "50237485",
+   "title": "Lula wins election after final votes tallied",
+   "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reuters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T00:31:07Z",
+   "hot": 115.0,
+   "rank": 4,
+   "metrics": {
+    "points": 115,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50237485"
    }
   },
   {
@@ -78,12 +99,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T19:11:31Z",
-   "hot": 22.1,
-   "rank": 4,
+   "hot": 21.1,
+   "rank": 5,
    "metrics": {
-    "points": 77,
-    "comments": 14,
+    "points": 131,
+    "comments": 43,
     "discussion": "https://news.ycombinator.com/item?id=50235017"
+   }
+  },
+  {
+   "rawId": "50235738",
+   "title": "What goes into making an animated film?",
+   "url": "https://www.disneyanimation.com/process/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "disneyanimation.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T20:27:09Z",
+   "hot": 17.0,
+   "rank": 6,
+   "metrics": {
+    "points": 84,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50235738"
+   }
+  },
+  {
+   "rawId": "50237224",
+   "title": "Attention Is Not What You Need",
+   "url": "https://arxiv.org/abs/2512.19428",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arxiv.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T23:52:05Z",
+   "hot": 7.9,
+   "rank": 7,
+   "metrics": {
+    "points": 12,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50237224"
    }
   },
   {
@@ -99,11 +162,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T20:32:31Z",
-   "hot": 11.7,
-   "rank": 5,
+   "hot": 14.4,
+   "rank": 8,
    "metrics": {
-    "points": 25,
-    "comments": 3,
+    "points": 70,
+    "comments": 21,
     "discussion": "https://news.ycombinator.com/item?id=50235780"
    }
   },
@@ -120,12 +183,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T17:15:38Z",
-   "hot": 63.3,
-   "rank": 6,
+   "hot": 52.0,
+   "rank": 9,
    "metrics": {
-    "points": 343,
-    "comments": 177,
+    "points": 423,
+    "comments": 202,
     "discussion": "https://news.ycombinator.com/item?id=50233779"
+   }
+  },
+  {
+   "rawId": "50236102",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "minimaxir.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T21:11:31Z",
+   "hot": 30.5,
+   "rank": 10,
+   "metrics": {
+    "points": 128,
+    "comments": 151,
+    "discussion": "https://news.ycombinator.com/item?id=50236102"
    }
   },
   {
@@ -141,11 +225,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T17:30:55Z",
-   "hot": 62.8,
-   "rank": 7,
+   "hot": 48.6,
+   "rank": 11,
    "metrics": {
-    "points": 324,
-    "comments": 168,
+    "points": 383,
+    "comments": 186,
     "discussion": "https://news.ycombinator.com/item?id=50233929"
    }
   },
@@ -162,75 +246,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T18:04:11Z",
-   "hot": 67.1,
-   "rank": 8,
+   "hot": 51.5,
+   "rank": 12,
    "metrics": {
-    "points": 309,
-    "comments": 77,
+    "points": 377,
+    "comments": 94,
     "discussion": "https://news.ycombinator.com/item?id=50234232"
-   }
-  },
-  {
-   "rawId": "50196623",
-   "title": "The U.S. Power Grid",
-   "url": "https://nomagicpill.site/knowledge/powergrid.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nomagicpill.site"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-22T15:20:04Z",
-   "hot": 0.6,
-   "rank": 9,
-   "metrics": {
-    "points": 48,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50196623"
-   }
-  },
-  {
-   "rawId": "50235010",
-   "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-   "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wiz.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T19:10:36Z",
-   "hot": 11.1,
-   "rank": 10,
-   "metrics": {
-    "points": 39,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50235010"
-   }
-  },
-  {
-   "rawId": "50236081",
-   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reuters.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T21:08:28Z",
-   "hot": 65.8,
-   "rank": 11,
-   "metrics": {
-    "points": 101,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50236081"
    }
   },
   {
@@ -246,138 +267,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-25T18:58:14Z",
-   "hot": 6.2,
-   "rank": 12,
-   "metrics": {
-    "points": 23,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50234879"
-   }
-  },
-  {
-   "rawId": "50225695",
-   "title": "We should be more ambitious with the software we build",
-   "url": "https://danluu.com/ambitious/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "danluu.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T21:47:31Z",
-   "hot": 29.3,
+   "hot": 7.0,
    "rank": 13,
    "metrics": {
-    "points": 730,
-    "comments": 671,
-    "discussion": "https://news.ycombinator.com/item?id=50225695"
-   }
-  },
-  {
-   "rawId": "50233438",
-   "title": "UTS #39: Unicode Security Mechanisms",
-   "url": "https://unicode.org/reports/tr39/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "unicode.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T16:40:37Z",
-   "hot": 4.7,
-   "rank": 14,
-   "metrics": {
-    "points": 28,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50233438"
-   }
-  },
-  {
-   "rawId": "50227330",
-   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-   "url": "https://huggingface.co/destined/hurston-1",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "huggingface.co"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T01:30:13Z",
-   "hot": 1.5,
-   "rank": 15,
-   "metrics": {
-    "points": 32,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50227330"
-   }
-  },
-  {
-   "rawId": "50231166",
-   "title": "Active incident at Dreamhost forcing password reset",
-   "url": "https://www.dreamhoststatus.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dreamhoststatus.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T13:09:16Z",
-   "hot": 9.9,
-   "rank": 16,
-   "metrics": {
-    "points": 94,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50231166"
-   }
-  },
-  {
-   "rawId": "50233294",
-   "title": "JetBrains Thinkrail",
-   "url": "https://github.com/JetBrains/thinkrail",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T16:27:12Z",
-   "hot": 22.5,
-   "rank": 17,
-   "metrics": {
-    "points": 140,
-    "comments": 100,
-    "discussion": "https://news.ycombinator.com/item?id=50233294"
-   }
-  },
-  {
-   "rawId": "50223435",
-   "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-   "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
-   "videoUrl": "https://www.youtube.com/watch?v=46wxttvq9qY",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T17:42:08Z",
-   "hot": 1.7,
-   "rank": 18,
-   "metrics": {
-    "points": 48,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50223435"
+    "points": 45,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50234879"
    }
   },
   {
@@ -393,33 +288,138 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T18:46:00Z",
-   "hot": 0.1,
-   "rank": 19,
+   "hot": 0.3,
+   "rank": 14,
    "metrics": {
-    "points": 3,
+    "points": 18,
     "comments": 0,
     "discussion": "https://news.ycombinator.com/item?id=50213610"
    }
   },
   {
-   "rawId": "50233304",
-   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-   "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "rawId": "50235316",
+   "title": "Eunice is almost here",
+   "url": "https://armincat.com/articles/eunice-is-almost-here",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "dailycal.org"
+    "armincat.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-25T16:28:26Z",
-   "hot": 27.6,
+   "publishedAt": "2026-10-25T19:40:27Z",
+   "hot": 10.3,
+   "rank": 15,
+   "metrics": {
+    "points": 59,
+    "comments": 53,
+    "discussion": "https://news.ycombinator.com/item?id=50235316"
+   }
+  },
+  {
+   "rawId": "50236081",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reuters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T21:08:28Z",
+   "hot": 53.6,
+   "rank": 16,
+   "metrics": {
+    "points": 228,
+    "comments": 123,
+    "discussion": "https://news.ycombinator.com/item?id=50236081"
+   }
+  },
+  {
+   "rawId": "50208628",
+   "title": "Reverse engineering a Beyblade launch tracker",
+   "url": "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.simone.computer"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T13:25:12Z",
+   "hot": 0.5,
+   "rank": 17,
+   "metrics": {
+    "points": 30,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50208628"
+   }
+  },
+  {
+   "rawId": "50225695",
+   "title": "We should be more ambitious with the software we build",
+   "url": "https://danluu.com/ambitious/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "danluu.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T21:47:31Z",
+   "hot": 26.9,
+   "rank": 18,
+   "metrics": {
+    "points": 742,
+    "comments": 691,
+    "discussion": "https://news.ycombinator.com/item?id=50225695"
+   }
+  },
+  {
+   "rawId": "50199199",
+   "title": "Retired decorator's Pokémon cards sell for £1.5M",
+   "url": "https://www.bbc.co.uk/news/articles/cvp8gy1zwxxwo",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bbc.co.uk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T18:25:40Z",
+   "hot": 0.2,
+   "rank": 19,
+   "metrics": {
+    "points": 12,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50199199"
+   }
+  },
+  {
+   "rawId": "50185534",
+   "title": "Amazon's \"digital pacifier\" for toddlers",
+   "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "oligarchwatch.substack.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-21T18:37:48Z",
+   "hot": 0.8,
    "rank": 20,
    "metrics": {
-    "points": 171,
-    "comments": 252,
-    "discussion": "https://news.ycombinator.com/item?id=50233304"
+    "points": 79,
+    "comments": 135,
+    "discussion": "https://news.ycombinator.com/item?id=50185534"
    }
   }
  ]
