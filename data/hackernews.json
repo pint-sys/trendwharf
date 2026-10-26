@@ -1,53 +1,11 @@
 {
- "updated": "2026-10-26T15:19:30Z",
+ "updated": "2026-10-26T20:38:56Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50242870",
-   "title": "Fixing Tool-Call Accuracy in vLLM",
-   "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ubicloud.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T12:59:48Z",
-   "hot": 31.4,
-   "rank": 1,
-   "metrics": {
-    "points": 73,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50242870"
-   }
-  },
-  {
-   "rawId": "50215997",
-   "title": "Birdwatching rewires the brain and slows cognitive decline",
-   "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bbc.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T22:04:55Z",
-   "hot": 4.4,
-   "rank": 2,
-   "metrics": {
-    "points": 287,
-    "comments": 116,
-    "discussion": "https://news.ycombinator.com/item?id=50215997"
-   }
-  },
-  {
-   "rawId": "50244583",
-   "title": "Partyline: A group voice application for Reticulum, built on LXST",
-   "url": "https://github.com/RFnexus/partyline",
+   "rawId": "50248371",
+   "title": "Type Server Protocol",
+   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -56,202 +14,202 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T14:42:24Z",
-   "hot": 9.0,
+   "publishedAt": "2026-10-26T18:14:49Z",
+   "hot": 51.2,
+   "rank": 1,
+   "metrics": {
+    "points": 123,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50248371"
+   }
+  },
+  {
+   "rawId": "50245138",
+   "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+   "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "magazine.sebastianraschka.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T15:11:59Z",
+   "hot": 78.9,
+   "rank": 2,
+   "metrics": {
+    "points": 430,
+    "comments": 58,
+    "discussion": "https://news.ycombinator.com/item?id=50245138"
+   }
+  },
+  {
+   "rawId": "50248055",
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.enlyth.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T17:56:55Z",
+   "hot": 48.9,
    "rank": 3,
    "metrics": {
-    "points": 9,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50244583"
+    "points": 132,
+    "comments": 63,
+    "discussion": "https://news.ycombinator.com/item?id=50248055"
    }
   },
   {
-   "rawId": "50200152",
-   "title": "One of the Greatest Inventions in the History of Human Transport",
-   "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+   "rawId": "50245831",
+   "title": "CSS-Tricks has a new owner",
+   "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "humantransit.org"
+    "css-tricks.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T19:52:50Z",
-   "hot": 1.0,
+   "publishedAt": "2026-10-26T15:51:23Z",
+   "hot": 60.5,
    "rank": 4,
    "metrics": {
-    "points": 91,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50200152"
+    "points": 290,
+    "comments": 66,
+    "discussion": "https://news.ycombinator.com/item?id=50245831"
    }
   },
   {
-   "rawId": "50240922",
-   "title": "Switzerland. Block by block. At 1:1 scale",
-   "url": "https://blocks.manifold3d.ch/",
+   "rawId": "50248124",
+   "title": "GPT-6.1 Terra",
+   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blocks.manifold3d.ch"
+    "openai.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T08:46:09Z",
-   "hot": 52.8,
+   "publishedAt": "2026-10-26T18:01:17Z",
+   "hot": 126.0,
    "rank": 5,
    "metrics": {
-    "points": 346,
-    "comments": 156,
-    "discussion": "https://news.ycombinator.com/item?id=50240922"
+    "points": 331,
+    "comments": 189,
+    "discussion": "https://news.ycombinator.com/item?id=50248124"
    }
   },
   {
-   "rawId": "50241925",
-   "title": "Pharo 14",
-   "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+   "rawId": "50250016",
+   "title": "Somebody please stop the spam texts",
+   "url": "https://notes.npilk.com/stop-the-spam-texts",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "pharo.org"
+    "notes.npilk.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T11:15:50Z",
-   "hot": 11.8,
+   "publishedAt": "2026-10-26T19:57:32Z",
+   "hot": 13.0,
    "rank": 6,
    "metrics": {
-    "points": 48,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50241925"
+    "points": 13,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50250016"
    }
   },
   {
-   "rawId": "50209573",
-   "title": "Colorfigures",
-   "url": "https://april-zhu.com/colorfigures",
+   "rawId": "50247493",
+   "title": "Nietzschian Debugger",
+   "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "april-zhu.com"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T14:22:23Z",
-   "hot": 0.7,
+   "publishedAt": "2026-10-26T17:25:30Z",
+   "hot": 23.9,
    "rank": 7,
    "metrics": {
-    "points": 51,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50209573"
+    "points": 77,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50247493"
    }
   },
   {
-   "rawId": "50238708",
-   "title": "Show HN: TitleArt – Make text like it's 1997",
-   "url": "https://titleart.dvy.io/",
+   "rawId": "50247928",
+   "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+   "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "titleart.dvy.io"
+    "muratbuffalo.blogspot.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T03:23:57Z",
-   "hot": 27.6,
+   "publishedAt": "2026-10-26T17:49:55Z",
+   "hot": 18.1,
    "rank": 8,
    "metrics": {
-    "points": 329,
-    "comments": 62,
-    "discussion": "https://news.ycombinator.com/item?id=50238708"
+    "points": 51,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50247928"
    }
   },
   {
-   "rawId": "50220331",
-   "title": "PhysicsForums and the Dead Internet Theory (2025)",
-   "url": "https://hallofdreams.org/posts/physicsforums/",
+   "rawId": "50249275",
+   "title": "The EPA Is Quietly Killing Its Web Archive",
+   "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hallofdreams.org"
+    "motherjones.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T11:40:52Z",
-   "hot": 0.3,
+   "publishedAt": "2026-10-26T19:05:41Z",
+   "hot": 67.6,
    "rank": 9,
    "metrics": {
-    "points": 18,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50220331"
+    "points": 105,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50249275"
    }
   },
   {
-   "rawId": "50243646",
-   "title": "OLED iPad Mini",
-   "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+   "rawId": "50246238",
+   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+   "url": "https://github.com/FrigadeHQ/hob",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "apple.com"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T13:47:33Z",
-   "hot": 69.2,
+   "publishedAt": "2026-10-26T16:12:29Z",
+   "hot": 2.9,
    "rank": 10,
    "metrics": {
-    "points": 106,
-    "comments": 126,
-    "discussion": "https://news.ycombinator.com/item?id=50243646"
-   }
-  },
-  {
-   "rawId": "50238763",
-   "title": "Behind the scenes at the NeXT Computer office",
-   "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "exhibits.stanford.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T03:31:11Z",
-   "hot": 17.0,
-   "rank": 11,
-   "metrics": {
-    "points": 201,
-    "comments": 115,
-    "discussion": "https://news.ycombinator.com/item?id=50238763"
-   }
-  },
-  {
-   "rawId": "50234474",
-   "title": "Dolly Parton's Imagination Library",
-   "url": "https://imaginationlibrary.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "imaginationlibrary.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T18:23:54Z",
-   "hot": 29.6,
-   "rank": 12,
-   "metrics": {
-    "points": 619,
-    "comments": 103,
-    "discussion": "https://news.ycombinator.com/item?id=50234474"
+    "points": 13,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50246238"
    }
   },
   {
@@ -267,159 +225,201 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T13:04:50Z",
-   "hot": 280.7,
-   "rank": 13,
+   "hot": 171.8,
+   "rank": 11,
    "metrics": {
-    "points": 630,
-    "comments": 593,
+    "points": 1300,
+    "comments": 1270,
     "discussion": "https://news.ycombinator.com/item?id=50242939"
    }
   },
   {
-   "rawId": "50243762",
-   "title": "DOJ says presidents should be able to sell secrets on eBay",
-   "url": "https://freedom.press/the-classifieds/doj-says-presidents-should-be-able-to-sell-secrets-on-ebay/",
+   "rawId": "50236681",
+   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "freedom.press"
+    "shraiwi.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T13:54:44Z",
-   "hot": 31.9,
+   "publishedAt": "2026-10-25T22:29:47Z",
+   "hot": 6.2,
+   "rank": 12,
+   "metrics": {
+    "points": 138,
+    "comments": 41,
+    "discussion": "https://news.ycombinator.com/item?id=50236681"
+   }
+  },
+  {
+   "rawId": "50209525",
+   "title": "Diamond Transistor",
+   "url": "https://www.df.com/diamond-transistor",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "df.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T14:20:15Z",
+   "hot": 1.1,
+   "rank": 13,
+   "metrics": {
+    "points": 89,
+    "comments": 44,
+    "discussion": "https://news.ycombinator.com/item?id=50209525"
+   }
+  },
+  {
+   "rawId": "50200152",
+   "title": "Blaise Pascal invented fixed route public transport (2024)",
+   "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "humantransit.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-22T19:52:50Z",
+   "hot": 2.4,
    "rank": 14,
    "metrics": {
-    "points": 45,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50243762"
+    "points": 237,
+    "comments": 122,
+    "discussion": "https://news.ycombinator.com/item?id=50200152"
    }
   },
   {
-   "rawId": "50238739",
-   "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-   "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+   "rawId": "50248665",
+   "title": "US designates helium as a critical material",
+   "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "apnews.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T03:29:05Z",
-   "hot": 17.0,
+   "publishedAt": "2026-10-26T18:31:39Z",
+   "hot": 47.1,
    "rank": 15,
    "metrics": {
-    "points": 201,
-    "comments": 73,
-    "discussion": "https://news.ycombinator.com/item?id=50238739"
+    "points": 100,
+    "comments": 43,
+    "discussion": "https://news.ycombinator.com/item?id=50248665"
    }
   },
   {
-   "rawId": "50241664",
-   "title": "Websites Should Be Printable",
-   "url": "https://brennenputh.me/blog/printable-websites/",
+   "rawId": "50211780",
+   "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+   "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "brennenputh.me"
+    "petapixel.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T10:32:14Z",
-   "hot": 30.9,
+   "publishedAt": "2026-10-23T16:41:41Z",
+   "hot": 0.2,
    "rank": 16,
    "metrics": {
-    "points": 148,
-    "comments": 118,
-    "discussion": "https://news.ycombinator.com/item?id=50241664"
+    "points": 18,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50211780"
    }
   },
   {
-   "rawId": "50242843",
-   "title": "Brown student maps the hidden global labor powering AI",
-   "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+   "rawId": "50215997",
+   "title": "Birdwatching rewires the brain and slows cognitive decline",
+   "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "brown.edu"
+    "bbc.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T12:58:27Z",
-   "hot": 20.4,
+   "publishedAt": "2026-10-23T22:04:55Z",
+   "hot": 6.4,
    "rank": 17,
    "metrics": {
-    "points": 48,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50242843"
+    "points": 454,
+    "comments": 179,
+    "discussion": "https://news.ycombinator.com/item?id=50215997"
    }
   },
   {
-   "rawId": "50209278",
-   "title": "Growing Trees",
-   "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+   "rawId": "50241925",
+   "title": "Pharo 14",
+   "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "brashandplucky.com"
+    "pharo.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T14:07:42Z",
-   "hot": 2.0,
+   "publishedAt": "2026-10-26T11:15:50Z",
+   "hot": 21.6,
    "rank": 18,
    "metrics": {
-    "points": 146,
-    "comments": 22,
-    "discussion": "https://news.ycombinator.com/item?id=50209278"
+    "points": 203,
+    "comments": 49,
+    "discussion": "https://news.ycombinator.com/item?id=50241925"
    }
   },
   {
-   "rawId": "50228115",
-   "title": "Show HN: A Truly Modular Keyboard",
-   "url": "https://github.com/notaroomba/keybytes",
+   "rawId": "50248005",
+   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+   "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "404media.co"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-25T03:47:56Z",
-   "hot": 6.4,
+   "publishedAt": "2026-10-26T17:54:00Z",
+   "hot": 48.0,
    "rank": 19,
    "metrics": {
-    "points": 227,
-    "comments": 71,
-    "discussion": "https://news.ycombinator.com/item?id=50228115"
+    "points": 132,
+    "comments": 70,
+    "discussion": "https://news.ycombinator.com/item?id=50248005"
    }
   },
   {
-   "rawId": "50197108",
-   "title": "Overgrown, when plants invade your abandoned tabs",
-   "url": "https://charliegerard.dev/blog/overgrown-extension/",
+   "rawId": "50222794",
+   "title": "An incremental approach to JIT construction",
+   "url": "https://dl.acm.org/doi/10.1145/3830440.3832304",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "charliegerard.dev"
+    "dl.acm.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T15:52:21Z",
-   "hot": 3.8,
+   "publishedAt": "2026-10-24T16:27:18Z",
+   "hot": 0.5,
    "rank": 20,
    "metrics": {
-    "points": 364,
-    "comments": 123,
-    "discussion": "https://news.ycombinator.com/item?id=50197108"
+    "points": 27,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50222794"
    }
   }
  ]
