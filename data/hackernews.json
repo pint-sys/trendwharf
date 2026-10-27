@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-27T19:30:03Z",
+ "updated": "2026-10-27T23:52:27Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,17 +15,17 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:06:01Z",
-   "hot": 123.2,
+   "hot": 86.1,
    "rank": 1,
    "metrics": {
-    "points": 419,
-    "comments": 236,
+    "points": 669,
+    "comments": 409,
     "discussion": "https://news.ycombinator.com/item?id=50261319"
    }
   },
   {
    "rawId": "50261998",
-   "title": "Ghostty 1.4.0",
+   "title": "Ghostty 1.4",
    "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
    "videoUrl": null,
    "category": "news",
@@ -36,39 +36,123 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:51:22Z",
-   "hot": 119.1,
+   "hot": 95.5,
    "rank": 2,
    "metrics": {
-    "points": 315,
-    "comments": 112,
+    "points": 670,
+    "comments": 206,
     "discussion": "https://news.ycombinator.com/item?id=50261998"
    }
   },
   {
-   "rawId": "50263701",
-   "title": "Three TLS Bugs in GoAhead",
-   "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+   "rawId": "50264857",
+   "title": "Tailscale SSH: Investigation and remediation update",
+   "url": "https://tailscale.com/ssh-investigation-update",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "foxio.io"
+    "tailscale.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T18:33:48Z",
-   "hot": 12.0,
+   "publishedAt": "2026-10-27T19:55:21Z",
+   "hot": 40.7,
    "rank": 3,
    "metrics": {
-    "points": 12,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50263701"
+    "points": 161,
+    "comments": 93,
+    "discussion": "https://news.ycombinator.com/item?id=50264857"
    }
   },
   {
-   "rawId": "50258538",
-   "title": "New iMac with M6",
-   "url": "https://www.apple.com/imac/",
+   "rawId": "50264853",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "url": "https://www.brangus.io/survival-llm",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "brangus.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T19:55:06Z",
+   "hot": 36.1,
+   "rank": 4,
+   "metrics": {
+    "points": 143,
+    "comments": 88,
+    "discussion": "https://news.ycombinator.com/item?id=50264853"
+   }
+  },
+  {
+   "rawId": "50265609",
+   "title": "Early progress on accelerating drug development with Claude",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T20:50:42Z",
+   "hot": 28.1,
+   "rank": 5,
+   "metrics": {
+    "points": 85,
+    "comments": 75,
+    "discussion": "https://news.ycombinator.com/item?id=50265609"
+   }
+  },
+  {
+   "rawId": "50265594",
+   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bret.dk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T20:48:49Z",
+   "hot": 23.2,
+   "rank": 6,
+   "metrics": {
+    "points": 71,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50265594"
+   }
+  },
+  {
+   "rawId": "50266780",
+   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+   "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bettascore.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T22:31:15Z",
+   "hot": 13.3,
+   "rank": 7,
+   "metrics": {
+    "points": 18,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50266780"
+   }
+  },
+  {
+   "rawId": "50261352",
+   "title": "New 14‑inch MacBook Pro with M6",
+   "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -77,13 +161,55 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T13:02:02Z",
-   "hot": 35.1,
-   "rank": 4,
+   "publishedAt": "2026-10-27T16:08:32Z",
+   "hot": 33.8,
+   "rank": 8,
    "metrics": {
-    "points": 227,
-    "comments": 275,
-    "discussion": "https://news.ycombinator.com/item?id=50258538"
+    "points": 261,
+    "comments": 310,
+    "discussion": "https://news.ycombinator.com/item?id=50261352"
+   }
+  },
+  {
+   "rawId": "50265128",
+   "title": "Four Months of Zig",
+   "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "gracefulliberty.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T20:13:27Z",
+   "hot": 15.1,
+   "rank": 9,
+   "metrics": {
+    "points": 55,
+    "comments": 28,
+    "discussion": "https://news.ycombinator.com/item?id=50265128"
+   }
+  },
+  {
+   "rawId": "50224079",
+   "title": "An examination of lost firefly species of the US and Canada",
+   "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "journaloflostspecies.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T19:04:42Z",
+   "hot": 0.9,
+   "rank": 10,
+   "metrics": {
+    "points": 69,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50224079"
    }
   },
   {
@@ -99,11 +225,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T11:17:57Z",
-   "hot": 43.4,
-   "rank": 5,
+   "hot": 34.3,
+   "rank": 11,
    "metrics": {
-    "points": 356,
-    "comments": 189,
+    "points": 431,
+    "comments": 225,
     "discussion": "https://news.ycombinator.com/item?id=50257419"
    }
   },
@@ -120,11 +246,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:29:02Z",
-   "hot": 26.5,
-   "rank": 6,
+   "hot": 21.0,
+   "rank": 12,
    "metrics": {
-    "points": 80,
-    "comments": 23,
+    "points": 155,
+    "comments": 41,
     "discussion": "https://news.ycombinator.com/item?id=50261647"
    }
   },
@@ -141,54 +267,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T11:08:15Z",
-   "hot": 43.3,
-   "rank": 7,
+   "hot": 33.8,
+   "rank": 13,
    "metrics": {
-    "points": 362,
-    "comments": 165,
+    "points": 430,
+    "comments": 199,
     "discussion": "https://news.ycombinator.com/item?id=50257326"
    }
   },
   {
-   "rawId": "50232604",
-   "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
-   "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+   "rawId": "50258538",
+   "title": "New iMac with M6",
+   "url": "https://www.apple.com/imac/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "gizmodo.com"
+    "apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-25T15:28:40Z",
-   "hot": 1.0,
-   "rank": 8,
+   "publishedAt": "2026-10-27T13:02:02Z",
+   "hot": 27.4,
+   "rank": 14,
    "metrics": {
-    "points": 54,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50232604"
+    "points": 297,
+    "comments": 357,
+    "discussion": "https://news.ycombinator.com/item?id=50258538"
    }
   },
   {
-   "rawId": "50259604",
-   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-   "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+   "rawId": "50262982",
+   "title": "Radio-tagged Monarch butterflies",
+   "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "wired.com"
+    "news.vt.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T14:06:42Z",
-   "hot": 99.1,
-   "rank": 9,
+   "publishedAt": "2026-10-27T17:48:15Z",
+   "hot": 2.8,
+   "rank": 15,
    "metrics": {
-    "points": 534,
-    "comments": 176,
-    "discussion": "https://news.ycombinator.com/item?id=50259604"
+    "points": 17,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50262982"
+   }
+  },
+  {
+   "rawId": "50239214",
+   "title": "SS United States to be sunk as largest artificial reef",
+   "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "divemagazine.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T04:41:15Z",
+   "hot": 1.3,
+   "rank": 16,
+   "metrics": {
+    "points": 57,
+    "comments": 41,
+    "discussion": "https://news.ycombinator.com/item?id=50239214"
+   }
+  },
+  {
+   "rawId": "50242688",
+   "title": "81 Jokes for the ZX81",
+   "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "spelk.press"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T12:45:16Z",
+   "hot": 0.2,
+   "rank": 17,
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50242688"
    }
   },
   {
@@ -204,222 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T17:04:50Z",
-   "hot": 19.8,
-   "rank": 10,
+   "hot": 15.9,
+   "rank": 18,
    "metrics": {
-    "points": 48,
-    "comments": 13,
+    "points": 108,
+    "comments": 40,
     "discussion": "https://news.ycombinator.com/item?id=50262229"
    }
   },
   {
-   "rawId": "50245014",
-   "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
-   "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
+   "rawId": "50265413",
+   "title": "Hex Raises $100M",
+   "url": "https://hex.tech/blog/hex-new-era/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hothardware.com"
+    "hex.tech"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T15:05:04Z",
-   "hot": 3.3,
-   "rank": 11,
-   "metrics": {
-    "points": 93,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50245014"
-   }
-  },
-  {
-   "rawId": "50261819",
-   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
-   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "gizmodo.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T16:40:15Z",
-   "hot": 84.5,
-   "rank": 12,
-   "metrics": {
-    "points": 239,
-    "comments": 168,
-    "discussion": "https://news.ycombinator.com/item?id=50261819"
-   }
-  },
-  {
-   "rawId": "50261583",
-   "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-   "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cloudsleuth.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T16:25:12Z",
-   "hot": 9.4,
-   "rank": 13,
-   "metrics": {
-    "points": 29,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50261583"
-   }
-  },
-  {
-   "rawId": "50260814",
-   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "stanforddaily.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T15:28:26Z",
-   "hot": 57.6,
-   "rank": 14,
-   "metrics": {
-    "points": 232,
-    "comments": 127,
-    "discussion": "https://news.ycombinator.com/item?id=50260814"
-   }
-  },
-  {
-   "rawId": "50258868",
-   "title": "Here be monsters: What do you still need to know when agents do the work?",
-   "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.adrq.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T13:23:22Z",
-   "hot": 18.3,
-   "rank": 15,
-   "metrics": {
-    "points": 112,
-    "comments": 36,
-    "discussion": "https://news.ycombinator.com/item?id=50258868"
-   }
-  },
-  {
-   "rawId": "50261352",
-   "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
-   "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T16:08:32Z",
-   "hot": 35.7,
-   "rank": 16,
-   "metrics": {
-    "points": 120,
-    "comments": 126,
-    "discussion": "https://news.ycombinator.com/item?id=50261352"
-   }
-  },
-  {
-   "rawId": "50232101",
-   "title": "OpenLDK: Bringing the Java World into Common Lisp",
-   "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "atgreen.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T14:45:13Z",
-   "hot": 0.9,
-   "rank": 17,
-   "metrics": {
-    "points": 50,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50232101"
-   }
-  },
-  {
-   "rawId": "50240041",
-   "title": "Rosettes and Other Hidden Traces of Hamburg's Tram",
-   "url": "https://alsterrunde.com/rosettes-and-other-hidden-traces-of-hamburgs-tram/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "alsterrunde.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T06:54:33Z",
-   "hot": 0.2,
-   "rank": 18,
-   "metrics": {
-    "points": 6,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50240041"
-   }
-  },
-  {
-   "rawId": "50259343",
-   "title": "PHP2Shell: Exploitation attempts and remediation trends",
-   "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wiz.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T13:52:12Z",
-   "hot": 29.8,
+   "publishedAt": "2026-10-27T20:36:38Z",
+   "hot": 8.9,
    "rank": 19,
    "metrics": {
-    "points": 168,
-    "comments": 54,
-    "discussion": "https://news.ycombinator.com/item?id=50259343"
+    "points": 29,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50265413"
    }
   },
   {
-   "rawId": "50263854",
-   "title": "Discord will soon let anyone find public server messages through Google",
-   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+   "rawId": "50259604",
+   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+   "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "discord.com"
+    "wired.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T18:44:17Z",
-   "hot": 37.0,
+   "publishedAt": "2026-10-27T14:06:42Z",
+   "hot": 75.5,
    "rank": 20,
    "metrics": {
-    "points": 37,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50263854"
+    "points": 737,
+    "comments": 267,
+    "discussion": "https://news.ycombinator.com/item?id=50259604"
    }
   }
  ]
