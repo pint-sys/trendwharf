@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-27T00:37:25Z",
+ "updated": "2026-10-27T06:27:47Z",
  "source": "hackernews",
  "items": [
   {
    "rawId": "50251344",
-   "title": "Announcing three new discoveries in mathematics, computer science, and physics",
+   "title": "Three new discoveries in mathematics, computer science, and physics",
    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
    "videoUrl": null,
    "category": "news",
@@ -15,11 +15,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T21:35:28Z",
-   "hot": 105.2,
+   "hot": 83.0,
    "rank": 1,
    "metrics": {
-    "points": 319,
-    "comments": 125,
+    "points": 736,
+    "comments": 322,
     "discussion": "https://news.ycombinator.com/item?id=50251344"
    }
   },
@@ -36,11 +36,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T21:59:15Z",
-   "hot": 72.1,
+   "hot": 60.4,
    "rank": 2,
    "metrics": {
-    "points": 190,
-    "comments": 85,
+    "points": 512,
+    "comments": 187,
     "discussion": "https://news.ycombinator.com/item?id=50251661"
    }
   },
@@ -57,33 +57,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T15:11:59Z",
-   "hot": 56.3,
+   "hot": 42.5,
    "rank": 3,
    "metrics": {
-    "points": 531,
-    "comments": 79,
+    "points": 649,
+    "comments": 91,
     "discussion": "https://news.ycombinator.com/item?id=50245138"
-   }
-  },
-  {
-   "rawId": "50248371",
-   "title": "Type Server Protocol",
-   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T18:14:49Z",
-   "hot": 28.4,
-   "rank": 4,
-   "metrics": {
-    "points": 181,
-    "comments": 134,
-    "discussion": "https://news.ycombinator.com/item?id=50248371"
    }
   },
   {
@@ -99,12 +78,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T17:56:55Z",
-   "hot": 38.4,
+   "hot": 29.8,
+   "rank": 4,
+   "metrics": {
+    "points": 373,
+    "comments": 217,
+    "discussion": "https://news.ycombinator.com/item?id=50248055"
+   }
+  },
+  {
+   "rawId": "50253529",
+   "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+   "url": "https://github.com/otya128/winevdm",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T01:15:04Z",
+   "hot": 12.3,
    "rank": 5,
    "metrics": {
-    "points": 256,
-    "comments": 167,
-    "discussion": "https://news.ycombinator.com/item?id=50248055"
+    "points": 64,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50253529"
+   }
+  },
+  {
+   "rawId": "50248371",
+   "title": "Type Server Protocol",
+   "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T18:14:49Z",
+   "hot": 18.4,
+   "rank": 6,
+   "metrics": {
+    "points": 225,
+    "comments": 146,
+    "discussion": "https://news.ycombinator.com/item?id=50248371"
    }
   },
   {
@@ -120,33 +141,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T22:41:48Z",
-   "hot": 23.9,
-   "rank": 6,
+   "hot": 14.9,
+   "rank": 7,
    "metrics": {
-    "points": 46,
-    "comments": 8,
+    "points": 116,
+    "comments": 38,
     "discussion": "https://news.ycombinator.com/item?id=50252159"
    }
   },
   {
-   "rawId": "50204697",
-   "title": "A Printer Printing onto Paper",
-   "url": "https://twitter.com/macrofying/status/2112904628509528219",
-   "videoUrl": "https://twitter.com/macrofying/status/2112904628509528219",
+   "rawId": "50234707",
+   "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+   "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+   "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "twitter.com"
+    "nextplatform.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T05:01:30Z",
-   "hot": 0.4,
-   "rank": 7,
+   "publishedAt": "2026-10-25T18:43:01Z",
+   "hot": 0.8,
+   "rank": 8,
    "metrics": {
-    "points": 37,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50204697"
+    "points": 30,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50234707"
    }
   },
   {
@@ -162,180 +183,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T15:51:23Z",
-   "hot": 42.0,
-   "rank": 8,
+   "hot": 29.0,
+   "rank": 9,
    "metrics": {
-    "points": 368,
-    "comments": 86,
+    "points": 424,
+    "comments": 96,
     "discussion": "https://news.ycombinator.com/item?id=50245831"
    }
   },
   {
-   "rawId": "50247493",
-   "title": "Nietzschian Debugger",
-   "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+   "rawId": "50253939",
+   "title": "I still teach OpenGL ES 3.0",
+   "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "eliasfarhan.ch"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T17:25:30Z",
-   "hot": 16.9,
-   "rank": 9,
-   "metrics": {
-    "points": 122,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50247493"
-   }
-  },
-  {
-   "rawId": "50248124",
-   "title": "GPT-6.1 Terra",
-   "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "openai.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T18:01:17Z",
-   "hot": 72.9,
+   "publishedAt": "2026-10-27T02:15:10Z",
+   "hot": 6.2,
    "rank": 10,
    "metrics": {
-    "points": 481,
-    "comments": 303,
-    "discussion": "https://news.ycombinator.com/item?id=50248124"
+    "points": 26,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50253939"
    }
   },
   {
-   "rawId": "50246238",
-   "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-   "url": "https://github.com/FrigadeHQ/hob",
-   "videoUrl": null,
+   "rawId": "50204697",
+   "title": "A Printer Printing onto Paper",
+   "url": "https://twitter.com/macrofying/status/2112904628509528219",
+   "videoUrl": "https://twitter.com/macrofying/status/2112904628509528219",
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "twitter.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T16:12:29Z",
-   "hot": 12.5,
+   "publishedAt": "2026-10-23T05:01:30Z",
+   "hot": 1.1,
    "rank": 11,
    "metrics": {
-    "points": 105,
+    "points": 103,
     "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50246238"
+    "discussion": "https://news.ycombinator.com/item?id=50204697"
    }
   },
   {
-   "rawId": "50247928",
-   "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-   "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+   "rawId": "50195812",
+   "title": "Migrate Your 300-Node Redis Cluster to Just 3 Lavik Nodes",
+   "url": "https://lavik.dev/en/blog/300-redis-nodes-to-3-lavik-nodes/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "muratbuffalo.blogspot.com"
+    "lavik.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T17:49:55Z",
-   "hot": 15.6,
+   "publishedAt": "2026-10-22T14:23:32Z",
+   "hot": 0.1,
    "rank": 12,
    "metrics": {
-    "points": 106,
-    "comments": 57,
-    "discussion": "https://news.ycombinator.com/item?id=50247928"
-   }
-  },
-  {
-   "rawId": "50231041",
-   "title": "LISPy things you can do in 64K bytes of core (2019)",
-   "url": "https://t3x.org/lisp64k/index.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "t3x.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T12:53:47Z",
-   "hot": 0.4,
-   "rank": 13,
-   "metrics": {
-    "points": 13,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50231041"
-   }
-  },
-  {
-   "rawId": "50242939",
-   "title": "Anthropic S-1",
-   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sec.gov"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T13:04:50Z",
-   "hot": 125.4,
-   "rank": 14,
-   "metrics": {
-    "points": 1448,
-    "comments": 1417,
-    "discussion": "https://news.ycombinator.com/item?id=50242939"
-   }
-  },
-  {
-   "rawId": "50215997",
-   "title": "Birdwatching rewires the brain and slows cognitive decline",
-   "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bbc.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T22:04:55Z",
-   "hot": 6.8,
-   "rank": 15,
-   "metrics": {
-    "points": 505,
-    "comments": 197,
-    "discussion": "https://news.ycombinator.com/item?id=50215997"
-   }
-  },
-  {
-   "rawId": "50236681",
-   "title": "SIMD-accelerated computer vision on a $2 microcontroller",
-   "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "shraiwi.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T22:29:47Z",
-   "hot": 6.5,
-   "rank": 16,
-   "metrics": {
-    "points": 169,
-    "comments": 53,
-    "discussion": "https://news.ycombinator.com/item?id=50236681"
+    "points": 12,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50195812"
    }
   },
   {
@@ -351,75 +267,159 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T15:26:17Z",
-   "hot": 11.4,
-   "rank": 17,
+   "hot": 15.2,
+   "rank": 13,
    "metrics": {
-    "points": 105,
-    "comments": 206,
+    "points": 228,
+    "comments": 352,
     "discussion": "https://news.ycombinator.com/item?id=50245385"
    }
   },
   {
-   "rawId": "50245524",
-   "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
-   "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/",
+   "rawId": "50254836",
+   "title": "There are now 5 inference providers for abliterated DeepSeek",
+   "url": "https://allmodels.io/llm/abliterated",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "seattletimes.com"
+    "allmodels.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T15:35:12Z",
-   "hot": 79.9,
+   "publishedAt": "2026-10-27T04:53:52Z",
+   "hot": 30.7,
+   "rank": 14,
+   "metrics": {
+    "points": 48,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50254836"
+   }
+  },
+  {
+   "rawId": "50212625",
+   "title": "Txoko: Basques' traditional feast a gastronomic peek into a delicious culture",
+   "url": "https://johnhendersontravel.com/txoko/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "johnhendersontravel.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T17:37:05Z",
+   "hot": 0.0,
+   "rank": 15,
+   "metrics": {
+    "points": 4,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50212625"
+   }
+  },
+  {
+   "rawId": "50240465",
+   "title": "How to grow a cacao tree at home",
+   "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cocoterra.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T07:50:17Z",
+   "hot": 2.1,
+   "rank": 16,
+   "metrics": {
+    "points": 47,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50240465"
+   }
+  },
+  {
+   "rawId": "50243061",
+   "title": "New iPad mini",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T13:13:36Z",
+   "hot": 10.4,
+   "rank": 17,
+   "metrics": {
+    "points": 180,
+    "comments": 462,
+    "discussion": "https://news.ycombinator.com/item?id=50243061"
+   }
+  },
+  {
+   "rawId": "50247493",
+   "title": "Nietzschian Debugger",
+   "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T17:25:30Z",
+   "hot": 11.9,
    "rank": 18,
    "metrics": {
-    "points": 722,
-    "comments": 639,
-    "discussion": "https://news.ycombinator.com/item?id=50245524"
+    "points": 155,
+    "comments": 50,
+    "discussion": "https://news.ycombinator.com/item?id=50247493"
    }
   },
   {
-   "rawId": "50200152",
-   "title": "Blaise Pascal invented fixed route public transport (2024)",
-   "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+   "rawId": "50247928",
+   "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+   "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "humantransit.org"
+    "muratbuffalo.blogspot.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-22T19:52:50Z",
-   "hot": 2.6,
+   "publishedAt": "2026-10-26T17:49:55Z",
+   "hot": 12.5,
    "rank": 19,
    "metrics": {
-    "points": 258,
-    "comments": 136,
-    "discussion": "https://news.ycombinator.com/item?id=50200152"
+    "points": 158,
+    "comments": 75,
+    "discussion": "https://news.ycombinator.com/item?id=50247928"
    }
   },
   {
-   "rawId": "50209525",
-   "title": "Diamond Transistor",
-   "url": "https://www.df.com/diamond-transistor",
+   "rawId": "50226808",
+   "title": "Virtual and Real World Combine at LAN Party (1998)",
+   "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "df.com"
+    "latimes.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T14:20:15Z",
-   "hot": 1.5,
+   "publishedAt": "2026-10-25T00:07:19Z",
+   "hot": 0.7,
    "rank": 20,
    "metrics": {
-    "points": 120,
-    "comments": 65,
-    "discussion": "https://news.ycombinator.com/item?id=50209525"
+    "points": 39,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50226808"
    }
   }
  ]

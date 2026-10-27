@@ -1,255 +1,240 @@
 {
- "updated": "2026-10-27T00:37:25Z",
+ "updated": "2026-10-27T06:27:47Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "freddy peralta",
-   "query": "freddy peralta",
+   "rawId": "morgan spector",
+   "query": "morgan spector",
    "traffic": "5000+",
    "trafficNum": 5000,
-   "publishedAt": "2026-10-27T00:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLBmBbRwnI8YtL4qIXX3CjFjuHB8b9SGjKTPRuh4z8VeYKJu9zfkBCmnPX950",
+   "publishedAt": "2026-10-27T05:30:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQLugFKN5sJzL1j1h8yl4RsToh6I5RAWAcAKxuOgVaIhYLdQwm-l8OMs9hUjfk",
    "news": [
     {
-     "title": "Lineups, live updates from Brewers-Rays World Series Game 3",
-     "url": "https://www.espn.com/mlb/story/_/id/50240960/world-series-game-3-brewers-rays-live-updates-takeaways",
-     "source": "ESPN"
-    },
-    {
-     "title": "World Series Game 3 live chat",
-     "url": "https://sports.yahoo.com/articles/world-series-game-3-live-000000670.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "With World Series start, Gasser is living his dream -- and his dad's",
-     "url": "https://www.mlb.com/news/robert-gasser-living-his-dream-dad-s-in-2026-world-series",
-     "source": "MLB.com"
-    }
-   ]
-  },
-  {
-   "rawId": "grizzlies vs jazz",
-   "query": "grizzlies vs jazz",
-   "traffic": "5000+",
-   "trafficNum": 5000,
-   "publishedAt": "2026-10-27T00:00:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZMpuPMtUIsAzi-8Zzbk5tOviqA-DrYCaWCWFN55XUL-5Kpm5ZIbCFTKIKnCY",
-   "news": [
-    {
-     "title": "Final Injury Report for Grizzlies-Jazz: Will Zach Edey, Isaiah Stewart Play?",
-     "url": "https://sports.yahoo.com/articles/final-injury-report-grizzlies-jazz-210000722.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Isaiah Stewart Injury: Iffy to face Utah",
-     "url": "https://www.rotowire.com/basketball/headlines/isaiah-stewart-injury-iffy-to-face-utah-536175",
-     "source": "RotoWire"
-    },
-    {
-     "title": "Isaiah Stewart (ankle) doubtful to play Wednesday",
-     "url": "https://www.fantasypros.com/nba/news/615008/isaiah-stewart-ankle-doubtful-to-play-wednesday.php",
-     "source": "FantasyPros"
-    }
-   ]
-  },
-  {
-   "rawId": "ryan vilade",
-   "query": "ryan vilade",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-27T00:20:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuAfO6HAYyIEh8TuNNLq_OF8Z0oP7XH4kv5fKLQH6Y1rvCXKj5xS9tBYx09oc",
-   "news": [
-    {
-     "title": "World Series warmup: Ryan Vilade starts at 1B, Jonathan Aranda on bench",
-     "url": "https://www.tampabay.com/sports/rays/2026/10/26/joe-maddon-carly-pearce-game-3-world-series/",
-     "source": "Tampa Bay Times"
-    },
-    {
-     "title": "Aranda, Hicks out of Rays' lineup for Game 3 of World Series",
-     "url": "https://www.sportsnet.ca/mlb/article/aranda-hicks-out-of-rays-lineup-for-game-3-of-world-series/",
-     "source": "Sportsnet.ca"
-    },
-    {
-     "title": "Rays' Aranda not starting Game 3 vs. Brewers",
-     "url": "https://www.thescore.com/mlb/news/3630851/rays-aranda-not-starting-game-3-vs-brewers",
-     "source": "theScore"
-    }
-   ]
-  },
-  {
-   "rawId": "meghan markle news",
-   "query": "meghan markle news",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-27T00:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjskMkcKHBg9qckRNyBxY20RlL_VWKJRQ3pGzs3gjJWfADDleA-6myL1PqUAo",
-   "news": [
-    {
-     "title": "Will the public change its mind about Meghan?",
-     "url": "https://www.bbc.com/news/articles/c6qjn29lg2vzo",
-     "source": "BBC"
-    },
-    {
-     "title": "Duchess Meghan confronted dad over child sexual abuse allegations with 2025 letter delivered to hospital bed",
-     "url": "https://www.cbsnews.com/news/meghan-markle-father-child-sexual-abuse-allegations-2025-letter/",
-     "source": "CBS News"
-    },
-    {
-     "title": "Meghan Markle’s Father Thomas Markle May Be a ‘Sex Offender of the Grossest Kind,’ Philippine Minister Says",
-     "url": "https://people.com/meghan-markles-father-thomas-may-be-a-sex-offender-of-the-grossest-kind-philippine-minister-claims-12192959",
-     "source": "People.com"
-    }
-   ]
-  },
-  {
-   "rawId": "hs",
-   "query": "hs",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-27T00:00:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOE_qr40KM-0CcwXQfO1Tl4hjhkDa693u4y7s_bcVvnylWHCQ0i2V1q_hQ6g8",
-   "news": [
-    {
-     "title": "Teen athlete from famed Washington sports family killed by alleged DUI driver",
-     "url": "https://komonews.com/news/local/federal-way-high-school-teen-killed-after-two-car-crash-sends-vehicle-onto-sidewalk-police-dui-29-year-old-driver-football-game",
-     "source": "KOMO"
-    },
-    {
-     "title": "Washington high school football player, 16, killed in crash",
-     "url": "https://www.usatoday.com/story/sports/high-school/football/2026/10/26/deejay-tuiasosopo-federal-way-football-player-killed-crash/92445479007/",
-     "source": "USA Today"
-    },
-    {
-     "title": "Federal Way High School football player killed after car veers onto sidewalk",
-     "url": "https://mynorthwest.com/crime-blotter/football-player-killed/4290482",
-     "source": "MyNorthwest.com"
-    }
-   ]
-  },
-  {
-   "rawId": "pittsburgh steelers wide receiver trade rumors",
-   "query": "pittsburgh steelers wide receiver trade rumors",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-27T00:00:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi1ULIsWoGzb5nMr-8_Ik_bNUGYO2TDVz76JMy4jD0fkGhg-VktFemr7thLfo",
-   "news": [
-    {
-     "title": "New NFL Trade Rumors as Chiefs, Steelers Target Key Position Before Deadline",
-     "url": "https://bleacherreport.com/articles/25520712-new-nfl-trade-rumors-chiefs-steelers-target-key-position-deadline",
-     "source": "Bleacher Report"
-    },
-    {
-     "title": "'They have been calling around' — NFL Insider gives latest updates on Kansas City Chiefs' trade pursuits ahead of November's deadline",
-     "url": "https://atozsports.com/nfl/kansas-city-chiefs-news/chiefs-adam-schefter-pat-mcafee-nfl-trade-deadline-calling-around-wide-receivers/",
-     "source": "A to Z Sports"
-    },
-    {
-     "title": "Chiefs Urged to Trade for 1,000-Yard WR After Disastrous Outing vs. Seahawks",
-     "url": "https://sports.yahoo.com/articles/chiefs-urged-trade-1-000-221757697.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "sony playstation",
-   "query": "sony playstation",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-27T00:00:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBhlYeXFDqrID11cmJVjiN_diIHAS8y6uAiOSZ09M_fBbxm9yp7_OQFHxi0ZU",
-   "news": [
-    {
-     "title": "Which AMD CPU Is Equivalent To The PlayStation 5?",
-     "url": "https://www.bgr.com/2293283/which-amd-cpu-equivalent-to-playstation-5/",
-     "source": "BGR"
-    },
-    {
-     "title": "How Much Would It Cost To Build A PC That Can Compete With The PS5 Pro?",
-     "url": "https://www.slashgear.com/2290668/ps5-pro-competitor-pc-building-cost-estimate/",
-     "source": "SlashGear"
-    },
-    {
-     "title": "Which AMD CPU Is Equivalent To The One In The PlayStation 5 Pro?",
-     "url": "https://www.aol.com/articles/amd-cpu-equivalent-one-playstation-024700000.html",
-     "source": "AOL.com"
-    }
-   ]
-  },
-  {
-   "rawId": "baywatch 2027",
-   "query": "baywatch 2027",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-27T00:00:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHPJG1osmDLzXS4eL2mKfrjAApSDdNH786-7gwLWQ_I7tiSXiVWy1revZHorY",
-   "news": [
-    {
-     "title": "‘Baywatch’ Reboot Sets Release Date At Fox",
-     "url": "https://deadline.com/2026/10/baywatch-reboot-release-date-fox-1237182588/",
+     "title": "‘The Gilded Age’ Season 4 Release Schedule: When Do New Episodes Come Out?",
+     "url": "https://deadline.com/2026/10/the-gilded-age-season-4-release-schedule-new-episodes-1237201748/",
      "source": "Deadline"
     },
     {
-     "title": "Megan Thee Stallion Begs to Be Saved in New Trailer for ‘Baywatch’ Reboot",
-     "url": "https://www.yahoo.com/entertainment/tv/articles/megan-thee-stallion-begs-saved-180130652.html",
+     "title": "When Is ‘The Gilded Age’ Coming Back? ‘The Gilded Age’ Season 4 Premiere Date",
+     "url": "https://decider.com/2026/10/25/the-gilded-age-season-4-premiere-date/",
+     "source": "Decider"
+    },
+    {
+     "title": "'The Gilded Age' Season 4 Cast Shakeup: 6 Stars Exiting, Several Confirmed to Return & a Few Upped to Series Regulars!",
+     "url": "https://www.justjared.com/2026/10/25/the-gilded-age-season-4-cast-shakeup-6-stars-exiting-several-confirmed-to-return-a-few-upped-to-series-regulars/",
+     "source": "Just Jared"
+    }
+   ]
+  },
+  {
+   "rawId": "nikola bartunkova",
+   "query": "nikola bartunkova",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-27T05:40:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTeTeizQin9tkNcKiERHKF5eSExnnnW-1ETv7u4OdvC8cZuZlk9fGN7ct1nYs",
+   "news": [
+    {
+     "title": "October 28, 2026: Tallon Griekspoor vs Brandon Nakashima: Game Spread Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/tallon-griekspoor-vs-brandon-nakashima-game-spread-oct-28-2026/",
+     "source": "Robinhood"
+    },
+    {
+     "title": "October 26, 2026: Moyuka Uchijima vs Elise Mertens: Set 1 Winner Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/moyuka-uchijima-vs-elise-mertens-set-1-winner-oct-26-2026/",
+     "source": "Robinhood"
+    },
+    {
+     "title": "October 26, 2026: Anastasia Zakharova vs Magda Linette: Total Games Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/anastasia-zakharova-vs-magda-linette-total-games-oct-26-2026/",
+     "source": "Robinhood"
+    }
+   ]
+  },
+  {
+   "rawId": "sadie sink",
+   "query": "sadie sink",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-27T06:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3gTvpujoazAEaiLBpmPaZbD885vJV7Yg-VVyGga6y5gxNglhv4XfP8l31k3s",
+   "news": [
+    {
+     "title": "EXCLUSIVE: Sadie Sink, Maya Hawke Interact With Cartoons in Prada’s Fantasy Campaign",
+     "url": "https://wwd.com/fashion-news/fashion-scoops/prada-sadie-sink-maya-hawke-chen-haoyu-cartoon-holiday-images-1239386060/",
+     "source": "WWD"
+    },
+    {
+     "title": "EXCLUSIVE: Sadie Sink, Maya Hawke Interact With Cartoons in Prada’s Fantasy Campaign",
+     "url": "https://sg.news.yahoo.com/exclusive-sadie-sink-maya-hawke-050000863.html",
+     "source": "Yahoo News Singapore"
+    },
+    {
+     "title": "‘Spider-Man: Brand New Day’ Star Sadie Sink’s Perfect Day Off Is Doing Absolutely Nothing, and Fans Totally Get It",
+     "url": "https://www.imdb.com/it/news/ni66079994/?ref_=nm_nwr_1",
+     "source": "IMDb"
+    }
+   ]
+  },
+  {
+   "rawId": "aliaksandra sasnovich",
+   "query": "aliaksandra sasnovich",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-27T06:00:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTflJhncAl7fhCeh25HlWoz1I9O6dLnNUGq_aMjD5M0G5X9OrI2e58UE4mvr60",
+   "news": [
+    {
+     "title": "Sports News, Transfers, Scores | Watch Live Sport",
+     "url": "https://www.skysports.com/tennis/watch/6807277399678051112/toray-pan-pacific-open-tennis-2026",
+     "source": "Sky Sports"
+    },
+    {
+     "title": "Sasnovich vs. Bartunkova Prediction at the Toray Pan Pacific Open Tennis - Tuesday, October 27",
+     "url": "https://www.bleachernation.com/picks/2026/10/25/sasnovich-vs-bartunkova-prediction-at-the-toray-pan-pacific-open-tennis-tuesday-october-27/",
+     "source": "Bleacher Nation"
+    },
+    {
+     "title": "Aliaksandra Sasnovich vs. Nikola Bartunkova prediction, odds, picks for WTA Toray Pan Pacific Open 2026",
+     "url": "https://www.dimers.com/tennis/news/aliaksandra-sasnovich-vs-nikola-bartunkova-tennis-prediction-wta-toray-pan-pacific-open-2026-ac",
+     "source": "Dimers"
+    }
+   ]
+  },
+  {
+   "rawId": "wow forever",
+   "query": "wow forever",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-27T05:30:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF3NllpL2ftNE_Yccr9J5jIwcsjgJ-xlR_4MgA7vJxtrinH2sLNyEqlzTtTeI",
+   "news": [
+    {
+     "title": "WoW: Forever Just Got Another Major Racial Ability Shakeup Before Launch",
+     "url": "https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/",
+     "source": "GameSpot"
+    },
+    {
+     "title": "World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else",
+     "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/",
+     "source": "PC Gamer"
+    },
+    {
+     "title": "WoW Forever Racial Tier List: Best Races for PvE and PvP",
+     "url": "https://mobalytics.gg/wow-forever/profile/crix/tier-lists/wow-forever-racial-tier-list-best-races-for-pve-and-pvp",
+     "source": "Mobalytics"
+    }
+   ]
+  },
+  {
+   "rawId": "venus williams",
+   "query": "venus williams",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-27T06:00:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSUcT1lUUq9ykJ0f0hoGPxWOEutrq5ryVlxITdEMRkMAwdHQ9GYFfJ5HeGbss",
+   "news": [
+    {
+     "title": "WTA Guangzhou Day 2 Predictions Including Venus Williams vs Lilli Tagger",
+     "url": "https://lastwordonsports.com/tennis/2026/10/26/wta-guangzhou-day-2-predictions-williams-tagger/",
+     "source": "Last Word On Sports"
+    },
+    {
+     "title": "Venus Williams faces 28-year-younger opponent with 16-match losing streak on the line",
+     "url": "https://tennisuptodate.com/wta/venus-williams-faces-28-year-younger-opponent-with-16-match-losing-streak-on-the-line",
+     "source": "Tennisuptodate.com"
+    },
+    {
+     "title": "Paula Badosa and Katerina Siniakova could collide in Guangzhou, and one has the edge",
+     "url": "https://www.tenniswatcher.com/en/news/guangzhou-open-2026-paula-badosa-daria-snigur-and-katerina-siniakova-headline-draw",
+     "source": "www.tenniswatcher.com"
+    }
+   ]
+  },
+  {
+   "rawId": "pokimane",
+   "query": "pokimane",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-27T06:00:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUVYcWGqu0oVE127x5IVZi9vy_KXOQt19YqSZAlu7Mom6KnksTTb15A8gcC0Y",
+   "news": [
+    {
+     "title": "Pokimane Reveals She Feels Unsafe When Atrioc Appears On Her Screen Years After 2023 Deepfake Controversy",
+     "url": "https://sports.ndtv.com/us/us-streamers/pokimane-reveals-she-feels-unsafe-when-atrioc-appears-on-her-screen-years-after-2023-deepfake-controversy-12236214",
+     "source": "NDTV Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "naomi osaka",
+   "query": "naomi osaka",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-27T05:50:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwQVU-7j77XwrJ-RBZgDnT2caMktnSLwQBAGY4jpF-skMv-eZy2RMwK0XbsFI",
+   "news": [
+    {
+     "title": "Naomi Osaka's Ex Cordae Makes Emotional Admission About Their Split in New Song",
+     "url": "https://www.yahoo.com/entertainment/music/articles/naomi-osakas-ex-cordae-makes-190004071.html",
      "source": "Yahoo"
     },
     {
-     "title": "FOX'S ALL-NEW \"BAYWATCH\" SERIES PREMIERE WEDNESDAY, JANUARY 6 (9:00-10:00 PM ET/PT)",
-     "url": "http://www.thefutoncritic.com/news/2026/10/26/foxs-all-new-baywatch-series-premiere-wednesday-january-6-900-1000-pm-et-pt-840013/20261026fox01/",
-     "source": "The Futon Critic"
+     "title": "Cordae Addresses Naomi Osaka Split, Reveals He's Expecting Second Child on “Helpless”",
+     "url": "https://www.complex.com/music/a/markelibert/cordae-naomi-osaka-split-helpless-anderson-paak",
+     "source": "Complex"
+    },
+    {
+     "title": "Naomi Osaka's former partner still dealing with fallout of breakup in latest song: 'Was never my intention to raise a daughter in separate homes'",
+     "url": "https://www.yardbarker.com/tennis/articles/naomi_osakas_former_partner_still_dealing_with_fallout_of_breakup_in_latest_song_was_never_my_intention_to_raise_a_daughter_in_separate_homes/s1_17460_44471429",
+     "source": "Yardbarker"
     }
    ]
   },
   {
-   "rawId": "chicago bulls vs boston celtics match player stats",
-   "query": "chicago bulls vs boston celtics match player stats",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-27T00:20:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcygjA4fKiueBgfuYnFu9Tb1bJmO4dXk0Pqyv2xjxM1nl_SdD6nBNZtUzIkLM",
+   "rawId": "superbad",
+   "query": "superbad",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-27T05:50:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJc5Z19qioQ5T7Bb_oPi5P5wB1kLkniKjM_aAeOBRqH8bjCxA_UzohGXj63ck",
    "news": [
     {
-     "title": "Los Angeles Lakers vs Utah Jazz Oct 25, 2026 Box Scores",
-     "url": "https://www.nba.com/game/lal-vs-uta-0022600112/box-score",
-     "source": "NBA.com"
+     "title": "Emma Stone's R-Rated Cult Classic Officially Returns as a Streaming Hit",
+     "url": "https://collider.com/emma-stone-superbad-streaming-hit-hbo-max-october-2026/",
+     "source": "Collider"
     },
     {
-     "title": "Orlando Magic vs New York Knicks Oct 25, 2026 Box Scores",
-     "url": "https://www.nba.com/game/orl-vs-nyk-0022600114/box-score",
-     "source": "NBA.com"
-    },
-    {
-     "title": "Detroit Pistons vs Philadelphia 76ers Oct 25, 2026 Play-by-Play",
-     "url": "https://www.nba.com/game/det-vs-phi-0022600117/play-by-play",
-     "source": "NBA.com"
+     "title": "Emma Stone's R-Rated Comedy with 88% RT Is a Global Streaming Hit",
+     "url": "https://www.cbr.com/superbad-teen-comedy-hbo-success-october-2026/",
+     "source": "Comic Book Resources"
     }
    ]
   },
   {
-   "rawId": "nebraska basketball",
-   "query": "nebraska basketball",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-27T00:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9cRnDmGzFJwadkT5uwTO6sPg-Gum7IixdbKEIKnH6kmAdcf5Sr0EFJWJ3QD4",
+   "rawId": "wildwood box office",
+   "query": "wildwood box office",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-10-27T05:50:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YqDGNVUFVEiVijlOQAWw67R3clxPkS48zYQsP_O8zKRR3M2sjig8jRp2y1U",
    "news": [
     {
-     "title": "Voice of Nebraska men's basketball Kent Pavelka announces upcoming retirement",
-     "url": "https://www.ketv.com/article/voice-of-nebraska-mens-basketball-kent-pavelka-announces-upcoming-retirement/74253605",
-     "source": "KETV"
+     "title": "‘Wildwood’ Is Nike Founder Son’s Latest Unprofitable Masterpiece",
+     "url": "https://www.bloomberg.com/news/articles/2026-10-23/-wildwood-is-nike-founder-son-s-latest-unprofitable-masterpiece",
+     "source": "Bloomberg.com"
     },
     {
-     "title": "Husker Hoops play by play announcer Kent Pavelka announces final season on the mic",
-     "url": "https://247sports.com/college/nebraska/article/nebraska-huskers-basketball-kent-pavelka-one-more-season-retirement-291829406/",
-     "source": "247Sports"
+     "title": "In a world of AI, Laika took 16 years to hand-build ‘Wildwood,’ filming seconds at a time",
+     "url": "https://www.wusa9.com/article/news/nation-world/wildwood-laika-16-years-stop-motion/507-cfcde5c5-8873-424a-8e15-93d078d38472",
+     "source": "WUSA9"
     },
     {
-     "title": "Photos: Kent Pavelka, Nebraska sports radio announcer, through the years",
-     "url": "https://omaha.com/sports/huskers/collection_4bdb3231-b814-4615-9664-839a15317995.html",
-     "source": "Omaha World-Herald"
+     "title": "Laika’s ‘Wildwood’ is a box office hit in Portland indie theaters",
+     "url": "https://www.oregonlive.com/business/2026/10/laikas-wildwood-is-a-box-office-hit-in-portland-indie-theaters.html",
+     "source": "OregonLive.com"
     }
    ]
   }
