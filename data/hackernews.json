@@ -1,7 +1,49 @@
 {
- "updated": "2026-10-28T05:58:28Z",
+ "updated": "2026-10-28T13:16:35Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50271640",
+   "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+   "url": "https://emudhra.we-have-a-problem.com/apple.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "emudhra.we-have-a-problem.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T11:03:40Z",
+   "hot": 102.9,
+   "rank": 1,
+   "metrics": {
+    "points": 228,
+    "comments": 91,
+    "discussion": "https://news.ycombinator.com/item?id=50271640"
+   }
+  },
+  {
+   "rawId": "50208960",
+   "title": "Start Doing Graph Theory",
+   "url": "https://vertex.degree/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "vertex.degree"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-23T13:49:50Z",
+   "hot": 1.7,
+   "rank": 2,
+   "metrics": {
+    "points": 203,
+    "comments": 30,
+    "discussion": "https://news.ycombinator.com/item?id=50208960"
+   }
+  },
   {
    "rawId": "50268380",
    "title": "Git for the US Code",
@@ -15,12 +57,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T01:47:50Z",
-   "hot": 37.6,
-   "rank": 1,
+   "hot": 28.1,
+   "rank": 3,
    "metrics": {
-    "points": 157,
-    "comments": 74,
+    "points": 323,
+    "comments": 173,
     "discussion": "https://news.ycombinator.com/item?id=50268380"
+   }
+  },
+  {
+   "rawId": "50272596",
+   "title": "Two high-speed trains collide near Toledo, Spain",
+   "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "euronews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T12:35:41Z",
+   "hot": 30.0,
+   "rank": 4,
+   "metrics": {
+    "points": 30,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50272596"
+   }
+  },
+  {
+   "rawId": "50272145",
+   "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+   "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reuters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T11:54:23Z",
+   "hot": 48.2,
+   "rank": 5,
+   "metrics": {
+    "points": 66,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50272145"
    }
   },
   {
@@ -36,33 +120,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:06:01Z",
-   "hot": 59.0,
-   "rank": 2,
+   "hot": 44.4,
+   "rank": 6,
    "metrics": {
-    "points": 818,
-    "comments": 490,
+    "points": 940,
+    "comments": 542,
     "discussion": "https://news.ycombinator.com/item?id=50261319"
-   }
-  },
-  {
-   "rawId": "50234796",
-   "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-   "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arstechnica.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T18:49:48Z",
-   "hot": 2.6,
-   "rank": 3,
-   "metrics": {
-    "points": 155,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50234796"
    }
   },
   {
@@ -78,12 +141,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:51:22Z",
-   "hot": 67.9,
-   "rank": 4,
+   "hot": 54.6,
+   "rank": 7,
    "metrics": {
-    "points": 891,
-    "comments": 279,
+    "points": 1115,
+    "comments": 357,
     "discussion": "https://news.ycombinator.com/item?id=50261998"
+   }
+  },
+  {
+   "rawId": "50234796",
+   "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+   "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arstechnica.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T18:49:48Z",
+   "hot": 4.4,
+   "rank": 8,
+   "metrics": {
+    "points": 293,
+    "comments": 45,
+    "discussion": "https://news.ycombinator.com/item?id=50234796"
+   }
+  },
+  {
+   "rawId": "50243060",
+   "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+   "url": "https://www.circuithub.com/post/unveiling-the-grid",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "circuithub.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T13:13:31Z",
+   "hot": 1.0,
+   "rank": 9,
+   "metrics": {
+    "points": 46,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50243060"
    }
   },
   {
@@ -99,33 +204,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T19:55:06Z",
-   "hot": 27.1,
-   "rank": 5,
+   "hot": 23.2,
+   "rank": 10,
    "metrics": {
-    "points": 273,
-    "comments": 121,
+    "points": 403,
+    "comments": 153,
     "discussion": "https://news.ycombinator.com/item?id=50264853"
    }
   },
   {
-   "rawId": "50265609",
-   "title": "Early progress on accelerating drug development with Claude",
-   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "rawId": "50223739",
+   "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+   "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "anthropic.com"
+    "healeycodes.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T20:50:42Z",
-   "hot": 21.0,
-   "rank": 6,
+   "publishedAt": "2026-10-24T18:17:57Z",
+   "hot": 1.1,
+   "rank": 11,
    "metrics": {
-    "points": 192,
-    "comments": 167,
-    "discussion": "https://news.ycombinator.com/item?id=50265609"
+    "points": 98,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50223739"
+   }
+  },
+  {
+   "rawId": "50227400",
+   "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+   "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "oldvcr.blogspot.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T01:39:51Z",
+   "hot": 0.9,
+   "rank": 12,
+   "metrics": {
+    "points": 77,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50227400"
    }
   },
   {
@@ -141,117 +267,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T19:55:21Z",
-   "hot": 24.8,
-   "rank": 7,
+   "hot": 18.3,
+   "rank": 13,
    "metrics": {
-    "points": 249,
-    "comments": 126,
+    "points": 318,
+    "comments": 169,
     "discussion": "https://news.ycombinator.com/item?id=50264857"
    }
   },
   {
-   "rawId": "50219275",
-   "title": "A Love Letter to the Super Dimension Fortress",
-   "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+   "rawId": "50265609",
+   "title": "Early progress on accelerating drug development with Claude",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "brennan.day"
+    "anthropic.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-24T08:30:32Z",
-   "hot": 0.4,
-   "rank": 8,
+   "publishedAt": "2026-10-27T20:50:42Z",
+   "hot": 15.7,
+   "rank": 14,
+   "metrics": {
+    "points": 258,
+    "comments": 254,
+    "discussion": "https://news.ycombinator.com/item?id=50265609"
+   }
+  },
+  {
+   "rawId": "50271685",
+   "title": "About the compromised eMudhra intermediate CAs",
+   "url": "https://support.apple.com/en-us/149555",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "support.apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T11:08:49Z",
+   "hot": 16.4,
+   "rank": 15,
    "metrics": {
     "points": 35,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50219275"
-   }
-  },
-  {
-   "rawId": "50230896",
-   "title": "Assembly Nights",
-   "url": "https://ratfactor.com/assembly-nights",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ratfactor.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T12:35:37Z",
-   "hot": 0.6,
-   "rank": 9,
-   "metrics": {
-    "points": 39,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50230896"
-   }
-  },
-  {
-   "rawId": "50266780",
-   "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-   "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bettascore.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T22:31:15Z",
-   "hot": 13.1,
-   "rank": 10,
-   "metrics": {
-    "points": 98,
-    "comments": 79,
-    "discussion": "https://news.ycombinator.com/item?id=50266780"
-   }
-  },
-  {
-   "rawId": "50265594",
-   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bret.dk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T20:48:49Z",
-   "hot": 14.6,
-   "rank": 11,
-   "metrics": {
-    "points": 134,
-    "comments": 59,
-    "discussion": "https://news.ycombinator.com/item?id=50265594"
-   }
-  },
-  {
-   "rawId": "50261352",
-   "title": "New 14‑inch MacBook Pro with M6",
-   "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T16:08:32Z",
-   "hot": 23.4,
-   "rank": 12,
-   "metrics": {
-    "points": 324,
-    "comments": 415,
-    "discussion": "https://news.ycombinator.com/item?id=50261352"
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50271685"
    }
   },
   {
@@ -267,138 +330,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T11:17:57Z",
-   "hot": 25.3,
-   "rank": 13,
+   "hot": 20.7,
+   "rank": 16,
    "metrics": {
-    "points": 473,
-    "comments": 254,
+    "points": 537,
+    "comments": 294,
     "discussion": "https://news.ycombinator.com/item?id=50257419"
    }
   },
   {
-   "rawId": "50242688",
-   "title": "81 Jokes for the ZX81",
-   "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+   "rawId": "50265594",
+   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "spelk.press"
+    "bret.dk"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T12:45:16Z",
-   "hot": 1.5,
-   "rank": 14,
-   "metrics": {
-    "points": 60,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50242688"
-   }
-  },
-  {
-   "rawId": "50258538",
-   "title": "New iMac with M6",
-   "url": "https://www.apple.com/imac/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T13:02:02Z",
-   "hot": 19.1,
-   "rank": 15,
-   "metrics": {
-    "points": 323,
-    "comments": 398,
-    "discussion": "https://news.ycombinator.com/item?id=50258538"
-   }
-  },
-  {
-   "rawId": "50267569",
-   "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
-   "url": "https://github.com/maharmstone/moxnox",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T23:53:41Z",
-   "hot": 7.6,
-   "rank": 16,
-   "metrics": {
-    "points": 46,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50267569"
-   }
-  },
-  {
-   "rawId": "50265128",
-   "title": "Four Months of Zig",
-   "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "gracefulliberty.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T20:13:27Z",
-   "hot": 10.4,
+   "publishedAt": "2026-10-27T20:48:49Z",
+   "hot": 11.3,
    "rank": 17,
    "metrics": {
-    "points": 101,
-    "comments": 59,
-    "discussion": "https://news.ycombinator.com/item?id=50265128"
-   }
-  },
-  {
-   "rawId": "50261647",
-   "title": "Classification of Finite Simple Groups Formalized in Lean",
-   "url": "https://cfsg.axiommath.ai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cfsg.axiommath.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T16:29:02Z",
-   "hot": 14.3,
-   "rank": 18,
-   "metrics": {
-    "points": 193,
-    "comments": 52,
-    "discussion": "https://news.ycombinator.com/item?id=50261647"
-   }
-  },
-  {
-   "rawId": "50224079",
-   "title": "An examination of lost firefly species of the US and Canada",
-   "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "journaloflostspecies.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T19:04:42Z",
-   "hot": 1.4,
-   "rank": 19,
-   "metrics": {
-    "points": 112,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50224079"
+    "points": 186,
+    "comments": 108,
+    "discussion": "https://news.ycombinator.com/item?id=50265594"
    }
   },
   {
@@ -414,12 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T20:35:09Z",
-   "hot": 8.9,
+   "hot": 11.3,
+   "rank": 18,
+   "metrics": {
+    "points": 189,
+    "comments": 125,
+    "discussion": "https://news.ycombinator.com/item?id=50265393"
+   }
+  },
+  {
+   "rawId": "50261352",
+   "title": "New 14‑inch MacBook Pro with M6",
+   "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T16:08:32Z",
+   "hot": 18.2,
+   "rank": 19,
+   "metrics": {
+    "points": 384,
+    "comments": 528,
+    "discussion": "https://news.ycombinator.com/item?id=50261352"
+   }
+  },
+  {
+   "rawId": "50258538",
+   "title": "New iMac with M6",
+   "url": "https://www.apple.com/imac/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T13:02:02Z",
+   "hot": 14.4,
    "rank": 20,
    "metrics": {
-    "points": 84,
-    "comments": 22,
-    "discussion": "https://news.ycombinator.com/item?id=50265393"
+    "points": 350,
+    "comments": 441,
+    "discussion": "https://news.ycombinator.com/item?id=50258538"
    }
   }
  ]
