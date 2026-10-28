@@ -1,26 +1,26 @@
 {
- "updated": "2026-10-28T18:57:02Z",
+ "updated": "2026-10-28T23:21:37Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50276792",
-   "title": "Gemini 4 Carbon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "rawId": "50276998",
+   "title": "Why is this fingerprinting script creating bioweapons?",
+   "url": "https://nullpt.rs/fingerprinting-bioweapons",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.google"
+    "nullpt.rs"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T17:01:23Z",
-   "hot": 221.5,
+   "publishedAt": "2026-10-28T17:13:29Z",
+   "hot": 105.8,
    "rank": 1,
    "metrics": {
-    "points": 427,
-    "comments": 356,
-    "discussion": "https://news.ycombinator.com/item?id=50276792"
+    "points": 649,
+    "comments": 147,
+    "discussion": "https://news.ycombinator.com/item?id=50276998"
    }
   },
   {
@@ -36,12 +36,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T14:38:22Z",
-   "hot": 61.0,
+   "hot": 42.4,
    "rank": 2,
    "metrics": {
-    "points": 263,
-    "comments": 90,
+    "points": 370,
+    "comments": 111,
     "discussion": "https://news.ycombinator.com/item?id=50274409"
+   }
+  },
+  {
+   "rawId": "50276792",
+   "title": "Gemini 4 Carbon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.google"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T17:01:23Z",
+   "hot": 116.9,
+   "rank": 3,
+   "metrics": {
+    "points": 741,
+    "comments": 604,
+    "discussion": "https://news.ycombinator.com/item?id=50276792"
+   }
+  },
+  {
+   "rawId": "50280722",
+   "title": "The case of the 9 bit AES key",
+   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "v12.sh"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T20:51:44Z",
+   "hot": 21.2,
+   "rank": 4,
+   "metrics": {
+    "points": 53,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50280722"
+   }
+  },
+  {
+   "rawId": "50220975",
+   "title": "Why Birds Can Fly over Mount Everest",
+   "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lede-v2.nautil.us"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T13:17:59Z",
+   "hot": 0.2,
+   "rank": 5,
+   "metrics": {
+    "points": 18,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50220975"
+   }
+  },
+  {
+   "rawId": "50281044",
+   "title": "Formlabs Studio 1 $699 Resin Printer",
+   "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "formlabs.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T21:19:30Z",
+   "hot": 36.9,
+   "rank": 6,
+   "metrics": {
+    "points": 75,
+    "comments": 66,
+    "discussion": "https://news.ycombinator.com/item?id=50281044"
    }
   },
   {
@@ -57,11 +141,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T17:10:37Z",
-   "hot": 141.5,
-   "rank": 3,
+   "hot": 74.9,
+   "rank": 7,
    "metrics": {
-    "points": 251,
-    "comments": 403,
+    "points": 463,
+    "comments": 798,
     "discussion": "https://news.ycombinator.com/item?id=50276940"
    }
   },
@@ -78,54 +162,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T15:46:30Z",
-   "hot": 30.5,
-   "rank": 4,
+   "hot": 23.5,
+   "rank": 8,
    "metrics": {
-    "points": 97,
-    "comments": 57,
+    "points": 178,
+    "comments": 107,
     "discussion": "https://news.ycombinator.com/item?id=50275626"
-   }
-  },
-  {
-   "rawId": "50276998",
-   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-   "url": "https://nullpt.rs/fingerprinting-bioweapons",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nullpt.rs"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T17:13:29Z",
-   "hot": 38.8,
-   "rank": 5,
-   "metrics": {
-    "points": 67,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50276998"
-   }
-  },
-  {
-   "rawId": "50276883",
-   "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-   "url": "https://slidebyside.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "slidebyside.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T17:07:09Z",
-   "hot": 11.5,
-   "rank": 6,
-   "metrics": {
-    "points": 21,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50276883"
    }
   },
   {
@@ -141,11 +183,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T13:13:31Z",
-   "hot": 5.5,
-   "rank": 7,
+   "hot": 6.6,
+   "rank": 9,
    "metrics": {
-    "points": 296,
-    "comments": 134,
+    "points": 386,
+    "comments": 190,
     "discussion": "https://news.ycombinator.com/item?id=50243060"
    }
   },
@@ -162,11 +204,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T13:49:50Z",
-   "hot": 3.5,
-   "rank": 8,
+   "hot": 4.3,
+   "rank": 10,
    "metrics": {
-    "points": 441,
-    "comments": 100,
+    "points": 552,
+    "comments": 120,
     "discussion": "https://news.ycombinator.com/item?id=50208960"
    }
   },
@@ -183,12 +225,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T14:30:26Z",
-   "hot": 19.6,
-   "rank": 9,
+   "hot": 18.5,
+   "rank": 11,
    "metrics": {
-    "points": 87,
-    "comments": 75,
+    "points": 164,
+    "comments": 144,
     "discussion": "https://news.ycombinator.com/item?id=50274251"
+   }
+  },
+  {
+   "rawId": "50277755",
+   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+   "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "quantamagazine.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T17:45:24Z",
+   "hot": 7.3,
+   "rank": 12,
+   "metrics": {
+    "points": 41,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50277755"
+   }
+  },
+  {
+   "rawId": "50280974",
+   "title": "A Health Update",
+   "url": "https://furbo.org/2026/10/28/a-health-update/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "furbo.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T21:13:21Z",
+   "hot": 5.6,
+   "rank": 13,
+   "metrics": {
+    "points": 12,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50280974"
    }
   },
   {
@@ -204,33 +288,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T11:03:40Z",
-   "hot": 109.5,
-   "rank": 10,
+   "hot": 82.1,
+   "rank": 14,
    "metrics": {
-    "points": 864,
-    "comments": 337,
+    "points": 1010,
+    "comments": 373,
     "discussion": "https://news.ycombinator.com/item?id=50271640"
-   }
-  },
-  {
-   "rawId": "50273731",
-   "title": "The Agent SDK",
-   "url": "https://cursor.com/blog/agent-sdk",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cursor.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T14:02:20Z",
-   "hot": 12.6,
-   "rank": 11,
-   "metrics": {
-    "points": 62,
-    "comments": 65,
-    "discussion": "https://news.ycombinator.com/item?id=50273731"
    }
   },
   {
@@ -246,12 +309,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-23T14:07:21Z",
-   "hot": 0.5,
-   "rank": 12,
+   "hot": 0.7,
+   "rank": 15,
    "metrics": {
-    "points": 63,
-    "comments": 13,
+    "points": 94,
+    "comments": 20,
     "discussion": "https://news.ycombinator.com/item?id=50209269"
+   }
+  },
+  {
+   "rawId": "50276883",
+   "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+   "url": "https://slidebyside.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "slidebyside.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T17:07:09Z",
+   "hot": 8.3,
+   "rank": 16,
+   "metrics": {
+    "points": 52,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50276883"
+   }
+  },
+  {
+   "rawId": "50273731",
+   "title": "The Agent SDK",
+   "url": "https://cursor.com/blog/agent-sdk",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cursor.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T14:02:20Z",
+   "hot": 9.1,
+   "rank": 17,
+   "metrics": {
+    "points": 85,
+    "comments": 106,
+    "discussion": "https://news.ycombinator.com/item?id=50273731"
    }
   },
   {
@@ -267,138 +372,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T13:25:11Z",
-   "hot": 49.4,
-   "rank": 13,
+   "hot": 38.9,
+   "rank": 18,
    "metrics": {
-    "points": 273,
-    "comments": 111,
+    "points": 387,
+    "comments": 165,
     "discussion": "https://news.ycombinator.com/item?id=50273171"
    }
   },
   {
-   "rawId": "50268380",
-   "title": "Git for the US Code",
-   "url": "https://lexifina.com/blog/git-for-the-us-code",
+   "rawId": "50238637",
+   "title": "Oseberg Tapestry Fragments",
+   "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "lexifina.com"
+    "en.wikipedia.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T01:47:50Z",
-   "hot": 23.3,
-   "rank": 14,
-   "metrics": {
-    "points": 400,
-    "comments": 205,
-    "discussion": "https://news.ycombinator.com/item?id=50268380"
-   }
-  },
-  {
-   "rawId": "50231649",
-   "title": "Regent's Ground-Effect Vehicle Reimagines Coastal Travel",
-   "url": "https://spectrum.ieee.org/ground-effect-vehicle",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "spectrum.ieee.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T13:56:07Z",
-   "hot": 0.3,
-   "rank": 15,
-   "metrics": {
-    "points": 25,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50231649"
-   }
-  },
-  {
-   "rawId": "50223109",
-   "title": "From confession to conspiracy: How the Wedgewood fake polls story spread",
-   "url": "https://www.cip.uw.edu/2026/10/23/from-confession-to-conspiracy-how-the-wedgewood-fake-polls-story-spread/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cip.uw.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T17:02:47Z",
-   "hot": 0.5,
-   "rank": 16,
-   "metrics": {
-    "points": 46,
-    "comments": 30,
-    "discussion": "https://news.ycombinator.com/item?id=50223109"
-   }
-  },
-  {
-   "rawId": "50234796",
-   "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-   "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arstechnica.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T18:49:48Z",
-   "hot": 5.1,
-   "rank": 17,
-   "metrics": {
-    "points": 367,
-    "comments": 68,
-    "discussion": "https://news.ycombinator.com/item?id=50234796"
-   }
-  },
-  {
-   "rawId": "50273396",
-   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-   "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "religionnews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T13:41:30Z",
-   "hot": 58.2,
-   "rank": 18,
-   "metrics": {
-    "points": 306,
-    "comments": 363,
-    "discussion": "https://news.ycombinator.com/item?id=50273396"
-   }
-  },
-  {
-   "rawId": "50237014",
-   "title": "Counting Sand Dunes in the Simpson Desert",
-   "url": "https://www.fromtheroad.ford.com/img/en/articles/2026/simpson-desert-ranger-super-duty-counting-dunes",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "fromtheroad.ford.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-25T23:18:18Z",
-   "hot": 0.0,
+   "publishedAt": "2026-10-26T03:14:49Z",
+   "hot": 0.2,
    "rank": 19,
    "metrics": {
-    "points": 3,
+    "points": 14,
     "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50237014"
+    "discussion": "https://news.ycombinator.com/item?id=50238637"
    }
   }
  ]
