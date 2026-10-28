@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-27T23:52:27Z",
+ "updated": "2026-10-28T05:58:28Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50268380",
+   "title": "Git for the US Code",
+   "url": "https://lexifina.com/blog/git-for-the-us-code",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lexifina.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T01:47:50Z",
+   "hot": 37.6,
+   "rank": 1,
+   "metrics": {
+    "points": 157,
+    "comments": 74,
+    "discussion": "https://news.ycombinator.com/item?id=50268380"
+   }
+  },
   {
    "rawId": "50261319",
    "title": "Genie 4",
@@ -15,12 +36,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:06:01Z",
-   "hot": 86.1,
-   "rank": 1,
+   "hot": 59.0,
+   "rank": 2,
    "metrics": {
-    "points": 669,
-    "comments": 409,
+    "points": 818,
+    "comments": 490,
     "discussion": "https://news.ycombinator.com/item?id=50261319"
+   }
+  },
+  {
+   "rawId": "50234796",
+   "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+   "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arstechnica.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T18:49:48Z",
+   "hot": 2.6,
+   "rank": 3,
+   "metrics": {
+    "points": 155,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50234796"
    }
   },
   {
@@ -36,33 +78,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:51:22Z",
-   "hot": 95.5,
-   "rank": 2,
+   "hot": 67.9,
+   "rank": 4,
    "metrics": {
-    "points": 670,
-    "comments": 206,
+    "points": 891,
+    "comments": 279,
     "discussion": "https://news.ycombinator.com/item?id=50261998"
-   }
-  },
-  {
-   "rawId": "50264857",
-   "title": "Tailscale SSH: Investigation and remediation update",
-   "url": "https://tailscale.com/ssh-investigation-update",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tailscale.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T19:55:21Z",
-   "hot": 40.7,
-   "rank": 3,
-   "metrics": {
-    "points": 161,
-    "comments": 93,
-    "discussion": "https://news.ycombinator.com/item?id=50264857"
    }
   },
   {
@@ -78,11 +99,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T19:55:06Z",
-   "hot": 36.1,
-   "rank": 4,
+   "hot": 27.1,
+   "rank": 5,
    "metrics": {
-    "points": 143,
-    "comments": 88,
+    "points": 273,
+    "comments": 121,
     "discussion": "https://news.ycombinator.com/item?id=50264853"
    }
   },
@@ -99,33 +120,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T20:50:42Z",
-   "hot": 28.1,
-   "rank": 5,
+   "hot": 21.0,
+   "rank": 6,
    "metrics": {
-    "points": 85,
-    "comments": 75,
+    "points": 192,
+    "comments": 167,
     "discussion": "https://news.ycombinator.com/item?id=50265609"
    }
   },
   {
-   "rawId": "50265594",
-   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "rawId": "50264857",
+   "title": "Tailscale SSH: Investigation and remediation update",
+   "url": "https://tailscale.com/ssh-investigation-update",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bret.dk"
+    "tailscale.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T20:48:49Z",
-   "hot": 23.2,
-   "rank": 6,
+   "publishedAt": "2026-10-27T19:55:21Z",
+   "hot": 24.8,
+   "rank": 7,
    "metrics": {
-    "points": 71,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50265594"
+    "points": 249,
+    "comments": 126,
+    "discussion": "https://news.ycombinator.com/item?id=50264857"
+   }
+  },
+  {
+   "rawId": "50219275",
+   "title": "A Love Letter to the Super Dimension Fortress",
+   "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "brennan.day"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T08:30:32Z",
+   "hot": 0.4,
+   "rank": 8,
+   "metrics": {
+    "points": 35,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50219275"
+   }
+  },
+  {
+   "rawId": "50230896",
+   "title": "Assembly Nights",
+   "url": "https://ratfactor.com/assembly-nights",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ratfactor.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T12:35:37Z",
+   "hot": 0.6,
+   "rank": 9,
+   "metrics": {
+    "points": 39,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50230896"
    }
   },
   {
@@ -141,12 +204,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T22:31:15Z",
-   "hot": 13.3,
-   "rank": 7,
+   "hot": 13.1,
+   "rank": 10,
    "metrics": {
-    "points": 18,
-    "comments": 21,
+    "points": 98,
+    "comments": 79,
     "discussion": "https://news.ycombinator.com/item?id=50266780"
+   }
+  },
+  {
+   "rawId": "50265594",
+   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bret.dk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T20:48:49Z",
+   "hot": 14.6,
+   "rank": 11,
+   "metrics": {
+    "points": 134,
+    "comments": 59,
+    "discussion": "https://news.ycombinator.com/item?id=50265594"
    }
   },
   {
@@ -162,54 +246,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:08:32Z",
-   "hot": 33.8,
-   "rank": 8,
+   "hot": 23.4,
+   "rank": 12,
    "metrics": {
-    "points": 261,
-    "comments": 310,
+    "points": 324,
+    "comments": 415,
     "discussion": "https://news.ycombinator.com/item?id=50261352"
-   }
-  },
-  {
-   "rawId": "50265128",
-   "title": "Four Months of Zig",
-   "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "gracefulliberty.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T20:13:27Z",
-   "hot": 15.1,
-   "rank": 9,
-   "metrics": {
-    "points": 55,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50265128"
-   }
-  },
-  {
-   "rawId": "50224079",
-   "title": "An examination of lost firefly species of the US and Canada",
-   "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "journaloflostspecies.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T19:04:42Z",
-   "hot": 0.9,
-   "rank": 10,
-   "metrics": {
-    "points": 69,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50224079"
    }
   },
   {
@@ -225,117 +267,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T11:17:57Z",
-   "hot": 34.3,
-   "rank": 11,
-   "metrics": {
-    "points": 431,
-    "comments": 225,
-    "discussion": "https://news.ycombinator.com/item?id=50257419"
-   }
-  },
-  {
-   "rawId": "50261647",
-   "title": "Classification of Finite Simple Groups Formalized in Lean",
-   "url": "https://cfsg.axiommath.ai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cfsg.axiommath.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T16:29:02Z",
-   "hot": 21.0,
-   "rank": 12,
-   "metrics": {
-    "points": 155,
-    "comments": 41,
-    "discussion": "https://news.ycombinator.com/item?id=50261647"
-   }
-  },
-  {
-   "rawId": "50257326",
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
-   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "spectrum.ieee.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T11:08:15Z",
-   "hot": 33.8,
+   "hot": 25.3,
    "rank": 13,
    "metrics": {
-    "points": 430,
-    "comments": 199,
-    "discussion": "https://news.ycombinator.com/item?id=50257326"
-   }
-  },
-  {
-   "rawId": "50258538",
-   "title": "New iMac with M6",
-   "url": "https://www.apple.com/imac/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T13:02:02Z",
-   "hot": 27.4,
-   "rank": 14,
-   "metrics": {
-    "points": 297,
-    "comments": 357,
-    "discussion": "https://news.ycombinator.com/item?id=50258538"
-   }
-  },
-  {
-   "rawId": "50262982",
-   "title": "Radio-tagged Monarch butterflies",
-   "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "news.vt.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T17:48:15Z",
-   "hot": 2.8,
-   "rank": 15,
-   "metrics": {
-    "points": 17,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50262982"
-   }
-  },
-  {
-   "rawId": "50239214",
-   "title": "SS United States to be sunk as largest artificial reef",
-   "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "divemagazine.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T04:41:15Z",
-   "hot": 1.3,
-   "rank": 16,
-   "metrics": {
-    "points": 57,
-    "comments": 41,
-    "discussion": "https://news.ycombinator.com/item?id=50239214"
+    "points": 473,
+    "comments": 254,
+    "discussion": "https://news.ycombinator.com/item?id=50257419"
    }
   },
   {
@@ -351,75 +288,138 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T12:45:16Z",
-   "hot": 0.2,
-   "rank": 17,
+   "hot": 1.5,
+   "rank": 14,
    "metrics": {
-    "points": 6,
-    "comments": 0,
+    "points": 60,
+    "comments": 5,
     "discussion": "https://news.ycombinator.com/item?id=50242688"
    }
   },
   {
-   "rawId": "50262229",
-   "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-   "url": "https://www.liquid.ai/blog/lfm3",
+   "rawId": "50258538",
+   "title": "New iMac with M6",
+   "url": "https://www.apple.com/imac/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "liquid.ai"
+    "apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T17:04:50Z",
-   "hot": 15.9,
+   "publishedAt": "2026-10-27T13:02:02Z",
+   "hot": 19.1,
+   "rank": 15,
+   "metrics": {
+    "points": 323,
+    "comments": 398,
+    "discussion": "https://news.ycombinator.com/item?id=50258538"
+   }
+  },
+  {
+   "rawId": "50267569",
+   "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+   "url": "https://github.com/maharmstone/moxnox",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T23:53:41Z",
+   "hot": 7.6,
+   "rank": 16,
+   "metrics": {
+    "points": 46,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50267569"
+   }
+  },
+  {
+   "rawId": "50265128",
+   "title": "Four Months of Zig",
+   "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "gracefulliberty.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T20:13:27Z",
+   "hot": 10.4,
+   "rank": 17,
+   "metrics": {
+    "points": 101,
+    "comments": 59,
+    "discussion": "https://news.ycombinator.com/item?id=50265128"
+   }
+  },
+  {
+   "rawId": "50261647",
+   "title": "Classification of Finite Simple Groups Formalized in Lean",
+   "url": "https://cfsg.axiommath.ai/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cfsg.axiommath.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T16:29:02Z",
+   "hot": 14.3,
    "rank": 18,
    "metrics": {
-    "points": 108,
-    "comments": 40,
-    "discussion": "https://news.ycombinator.com/item?id=50262229"
+    "points": 193,
+    "comments": 52,
+    "discussion": "https://news.ycombinator.com/item?id=50261647"
    }
   },
   {
-   "rawId": "50265413",
-   "title": "Hex Raises $100M",
-   "url": "https://hex.tech/blog/hex-new-era/",
+   "rawId": "50224079",
+   "title": "An examination of lost firefly species of the US and Canada",
+   "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hex.tech"
+    "journaloflostspecies.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T20:36:38Z",
-   "hot": 8.9,
+   "publishedAt": "2026-10-24T19:04:42Z",
+   "hot": 1.4,
    "rank": 19,
    "metrics": {
-    "points": 29,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50265413"
+    "points": 112,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50224079"
    }
   },
   {
-   "rawId": "50259604",
-   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
-   "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+   "rawId": "50265393",
+   "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "wired.com"
+    "arstechnica.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T14:06:42Z",
-   "hot": 75.5,
+   "publishedAt": "2026-10-27T20:35:09Z",
+   "hot": 8.9,
    "rank": 20,
    "metrics": {
-    "points": 737,
-    "comments": 267,
-    "discussion": "https://news.ycombinator.com/item?id=50259604"
+    "points": 84,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50265393"
    }
   }
  ]
