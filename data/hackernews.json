@@ -1,7 +1,28 @@
 {
- "updated": "2026-10-28T23:21:37Z",
+ "updated": "2026-10-29T02:37:38Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50282838",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "url": "https://divagr.com/blog/qwenputer",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "divagr.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T00:25:45Z",
+   "hot": 49.6,
+   "rank": 1,
+   "metrics": {
+    "points": 109,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50282838"
+   }
+  },
   {
    "rawId": "50276998",
    "title": "Why is this fingerprinting script creating bioweapons?",
@@ -15,12 +36,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T17:13:29Z",
-   "hot": 105.8,
-   "rank": 1,
+   "hot": 95.1,
+   "rank": 2,
    "metrics": {
-    "points": 649,
-    "comments": 147,
+    "points": 894,
+    "comments": 190,
     "discussion": "https://news.ycombinator.com/item?id=50276998"
+   }
+  },
+  {
+   "rawId": "50282544",
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "alpinelinux.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T23:45:46Z",
+   "hot": 30.0,
+   "rank": 3,
+   "metrics": {
+    "points": 86,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50282544"
+   }
+  },
+  {
+   "rawId": "50282538",
+   "title": "The first wired XR glasses powered by Android XR",
+   "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.google"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T23:45:19Z",
+   "hot": 13.6,
+   "rank": 4,
+   "metrics": {
+    "points": 39,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50282538"
+   }
+  },
+  {
+   "rawId": "50280974",
+   "title": "A Health Update",
+   "url": "https://furbo.org/2026/10/28/a-health-update/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "furbo.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T21:13:21Z",
+   "hot": 21.5,
+   "rank": 5,
+   "metrics": {
+    "points": 116,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50280974"
    }
   },
   {
@@ -36,11 +120,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T14:38:22Z",
-   "hot": 42.4,
-   "rank": 2,
+   "hot": 34.1,
+   "rank": 6,
    "metrics": {
-    "points": 370,
-    "comments": 111,
+    "points": 409,
+    "comments": 118,
     "discussion": "https://news.ycombinator.com/item?id=50274409"
    }
   },
@@ -57,54 +141,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T17:01:23Z",
-   "hot": 116.9,
-   "rank": 3,
+   "hot": 85.3,
+   "rank": 7,
    "metrics": {
-    "points": 741,
-    "comments": 604,
+    "points": 819,
+    "comments": 682,
     "discussion": "https://news.ycombinator.com/item?id=50276792"
-   }
-  },
-  {
-   "rawId": "50280722",
-   "title": "The case of the 9 bit AES key",
-   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "v12.sh"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T20:51:44Z",
-   "hot": 21.2,
-   "rank": 4,
-   "metrics": {
-    "points": 53,
-    "comments": 26,
-    "discussion": "https://news.ycombinator.com/item?id=50280722"
-   }
-  },
-  {
-   "rawId": "50220975",
-   "title": "Why Birds Can Fly over Mount Everest",
-   "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lede-v2.nautil.us"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-24T13:17:59Z",
-   "hot": 0.2,
-   "rank": 5,
-   "metrics": {
-    "points": 18,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50220975"
    }
   },
   {
@@ -120,54 +162,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T21:19:30Z",
-   "hot": 36.9,
-   "rank": 6,
-   "metrics": {
-    "points": 75,
-    "comments": 66,
-    "discussion": "https://news.ycombinator.com/item?id=50281044"
-   }
-  },
-  {
-   "rawId": "50276940",
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T17:10:37Z",
-   "hot": 74.9,
-   "rank": 7,
-   "metrics": {
-    "points": 463,
-    "comments": 798,
-    "discussion": "https://news.ycombinator.com/item?id=50276940"
-   }
-  },
-  {
-   "rawId": "50275626",
-   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-   "url": "https://surgehq.ai/blog/dayjob-tax",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "surgehq.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T15:46:30Z",
-   "hot": 23.5,
+   "hot": 24.1,
    "rank": 8,
    "metrics": {
-    "points": 178,
-    "comments": 107,
-    "discussion": "https://news.ycombinator.com/item?id=50275626"
+    "points": 128,
+    "comments": 89,
+    "discussion": "https://news.ycombinator.com/item?id=50281044"
    }
   },
   {
@@ -183,33 +183,138 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-26T13:13:31Z",
-   "hot": 6.6,
+   "hot": 7.1,
    "rank": 9,
    "metrics": {
-    "points": 386,
-    "comments": 190,
+    "points": 437,
+    "comments": 208,
     "discussion": "https://news.ycombinator.com/item?id=50243060"
    }
   },
   {
-   "rawId": "50208960",
-   "title": "Start Doing Graph Theory",
-   "url": "https://vertex.degree/",
+   "rawId": "50276940",
+   "title": "MacBook Pro with PROLED XDR Display and Touch",
+   "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "vertex.degree"
+    "apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-23T13:49:50Z",
-   "hot": 4.3,
+   "publishedAt": "2026-10-28T17:10:37Z",
+   "hot": 53.6,
    "rank": 10,
    "metrics": {
-    "points": 552,
-    "comments": 120,
-    "discussion": "https://news.ycombinator.com/item?id=50208960"
+    "points": 507,
+    "comments": 870,
+    "discussion": "https://news.ycombinator.com/item?id=50276940"
+   }
+  },
+  {
+   "rawId": "50242873",
+   "title": "Human-enhanced tsunami hazard in large lakes",
+   "url": "https://www.nature.com/articles/s41467-026-78272-8",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nature.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T13:00:03Z",
+   "hot": 0.0,
+   "rank": 11,
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50242873"
+   }
+  },
+  {
+   "rawId": "50220975",
+   "title": "Why birds can fly over Mount Everest (2020)",
+   "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lede-v2.nautil.us"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-24T13:17:59Z",
+   "hot": 0.8,
+   "rank": 12,
+   "metrics": {
+    "points": 86,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50220975"
+   }
+  },
+  {
+   "rawId": "50275626",
+   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+   "url": "https://surgehq.ai/blog/dayjob-tax",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "surgehq.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T15:46:30Z",
+   "hot": 19.2,
+   "rank": 13,
+   "metrics": {
+    "points": 208,
+    "comments": 130,
+    "discussion": "https://news.ycombinator.com/item?id=50275626"
+   }
+  },
+  {
+   "rawId": "50244929",
+   "title": "Nixpkgs for the Front End Impaired",
+   "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fzakaria.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-26T15:00:05Z",
+   "hot": 0.2,
+   "rank": 14,
+   "metrics": {
+    "points": 12,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50244929"
+   }
+  },
+  {
+   "rawId": "50233948",
+   "title": "How we made our MMDB files a 33% smaller",
+   "url": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ipinfo.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-25T17:33:02Z",
+   "hot": 0.2,
+   "rank": 15,
+   "metrics": {
+    "points": 15,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50233948"
    }
   },
   {
@@ -225,54 +330,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T14:30:26Z",
-   "hot": 18.5,
-   "rank": 11,
+   "hot": 14.9,
+   "rank": 16,
    "metrics": {
-    "points": 164,
-    "comments": 144,
+    "points": 180,
+    "comments": 166,
     "discussion": "https://news.ycombinator.com/item?id=50274251"
    }
   },
   {
-   "rawId": "50277755",
-   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-   "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+   "rawId": "50280722",
+   "title": "The case of the 9 bit AES key",
+   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "quantamagazine.org"
+    "v12.sh"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T17:45:24Z",
-   "hot": 7.3,
-   "rank": 12,
+   "publishedAt": "2026-10-28T20:51:44Z",
+   "hot": 14.9,
+   "rank": 17,
    "metrics": {
-    "points": 41,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50277755"
+    "points": 86,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50280722"
    }
   },
   {
-   "rawId": "50280974",
-   "title": "A Health Update",
-   "url": "https://furbo.org/2026/10/28/a-health-update/",
+   "rawId": "50282454",
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "furbo.org"
+    "data.stackexchange.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T21:13:21Z",
-   "hot": 5.6,
-   "rank": 13,
+   "publishedAt": "2026-10-28T23:35:02Z",
+   "hot": 39.4,
+   "rank": 18,
    "metrics": {
-    "points": 12,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50280974"
+    "points": 120,
+    "comments": 140,
+    "discussion": "https://news.ycombinator.com/item?id=50282454"
    }
   },
   {
@@ -288,117 +393,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T11:03:40Z",
-   "hot": 82.1,
-   "rank": 14,
-   "metrics": {
-    "points": 1010,
-    "comments": 373,
-    "discussion": "https://news.ycombinator.com/item?id=50271640"
-   }
-  },
-  {
-   "rawId": "50209269",
-   "title": "Gaussian Splats part 3: There's always a bigger scene",
-   "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "magnopus.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-23T14:07:21Z",
-   "hot": 0.7,
-   "rank": 15,
-   "metrics": {
-    "points": 94,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50209269"
-   }
-  },
-  {
-   "rawId": "50276883",
-   "title": "Show HN: SlideBySide – Present slides without sharing your screen",
-   "url": "https://slidebyside.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "slidebyside.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T17:07:09Z",
-   "hot": 8.3,
-   "rank": 16,
-   "metrics": {
-    "points": 52,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50276883"
-   }
-  },
-  {
-   "rawId": "50273731",
-   "title": "The Agent SDK",
-   "url": "https://cursor.com/blog/agent-sdk",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cursor.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T14:02:20Z",
-   "hot": 9.1,
-   "rank": 17,
-   "metrics": {
-    "points": 85,
-    "comments": 106,
-    "discussion": "https://news.ycombinator.com/item?id=50273731"
-   }
-  },
-  {
-   "rawId": "50273171",
-   "title": "Emacs Turns 50",
-   "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "technologyreview.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T13:25:11Z",
-   "hot": 38.9,
-   "rank": 18,
-   "metrics": {
-    "points": 387,
-    "comments": 165,
-    "discussion": "https://news.ycombinator.com/item?id=50273171"
-   }
-  },
-  {
-   "rawId": "50238637",
-   "title": "Oseberg Tapestry Fragments",
-   "url": "https://en.wikipedia.org/wiki/Oseberg_tapestry_fragments",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "en.wikipedia.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T03:14:49Z",
-   "hot": 0.2,
+   "hot": 67.5,
    "rank": 19,
    "metrics": {
-    "points": 14,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50238637"
+    "points": 1051,
+    "comments": 378,
+    "discussion": "https://news.ycombinator.com/item?id=50271640"
    }
   }
  ]
