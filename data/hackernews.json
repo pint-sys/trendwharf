@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T16:59:43Z",
+ "updated": "2026-10-29T21:53:30Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,33 +15,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-29T14:13:21Z",
-   "hot": 206.3,
+   "hot": 134.7,
    "rank": 1,
    "metrics": {
-    "points": 572,
-    "comments": 149,
+    "points": 1033,
+    "comments": 299,
     "discussion": "https://news.ycombinator.com/item?id=50289418"
    }
   },
   {
-   "rawId": "50291945",
-   "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
-   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "rawId": "50296470",
+   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "kadoa.com"
+    "arkm.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T16:42:17Z",
-   "hot": 46.0,
+   "publishedAt": "2026-10-29T21:38:59Z",
+   "hot": 38.0,
    "rank": 2,
    "metrics": {
-    "points": 46,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50291945"
+    "points": 38,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50296470"
+   }
+  },
+  {
+   "rawId": "50293047",
+   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+   "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nypost.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T17:43:48Z",
+   "hot": 50.5,
+   "rank": 3,
+   "metrics": {
+    "points": 210,
+    "comments": 138,
+    "discussion": "https://news.ycombinator.com/item?id=50293047"
+   }
+  },
+  {
+   "rawId": "50294702",
+   "title": "Patrick Stewart has died",
+   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nytimes.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T19:41:39Z",
+   "hot": 729.0,
+   "rank": 4,
+   "metrics": {
+    "points": 1602,
+    "comments": 306,
+    "discussion": "https://news.ycombinator.com/item?id=50294702"
+   }
+  },
+  {
+   "rawId": "50295450",
+   "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+   "url": "https://github.com/SheepSeb/tinyworldformer",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T20:32:28Z",
+   "hot": 32.6,
+   "rank": 5,
+   "metrics": {
+    "points": 44,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50295450"
+   }
+  },
+  {
+   "rawId": "50296486",
+   "title": "We ran AI agent swarms in Minecraft and Mindustry",
+   "url": "https://labs.ycombinator.com/projects/games/index.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "labs.ycombinator.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T21:40:28Z",
+   "hot": 9.0,
+   "rank": 6,
+   "metrics": {
+    "points": 9,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50296486"
    }
   },
   {
@@ -57,144 +141,18 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-29T15:53:03Z",
-   "hot": 68.4,
-   "rank": 3,
+   "hot": 42.8,
+   "rank": 7,
    "metrics": {
-    "points": 76,
-    "comments": 32,
+    "points": 257,
+    "comments": 111,
     "discussion": "https://news.ycombinator.com/item?id=50291054"
    }
   },
   {
-   "rawId": "50290912",
-   "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-   "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "skypilot.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T15:45:05Z",
-   "hot": 31.4,
-   "rank": 4,
-   "metrics": {
-    "points": 39,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50290912"
-   }
-  },
-  {
-   "rawId": "50290283",
-   "title": "Zombie stats: Where the numbers AI quotes come from",
-   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "trakkr.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T15:06:17Z",
-   "hot": 35.4,
-   "rank": 5,
-   "metrics": {
-    "points": 67,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50290283"
-   }
-  },
-  {
-   "rawId": "50287919",
-   "title": "DoorDash to Acquire Instacart",
-   "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "about.doordash.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T12:33:05Z",
-   "hot": 46.1,
-   "rank": 6,
-   "metrics": {
-    "points": 205,
-    "comments": 375,
-    "discussion": "https://news.ycombinator.com/item?id=50287919"
-   }
-  },
-  {
-   "rawId": "50290668",
-   "title": "Mexico is a showroom for electric vehicles you can't buy in the U.S.",
-   "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "washingtonpost.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T15:30:22Z",
-   "hot": 75.9,
-   "rank": 7,
-   "metrics": {
-    "points": 113,
-    "comments": 75,
-    "discussion": "https://news.ycombinator.com/item?id=50290668"
-   }
-  },
-  {
-   "rawId": "50286987",
-   "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-   "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dreamgroup.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T10:42:41Z",
-   "hot": 25.0,
-   "rank": 8,
-   "metrics": {
-    "points": 157,
-    "comments": 68,
-    "discussion": "https://news.ycombinator.com/item?id=50286987"
-   }
-  },
-  {
-   "rawId": "50291116",
-   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-   "url": "https://news.ycombinator.com/item?id=50291116",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T15:56:32Z",
-   "hot": 12.3,
-   "rank": 9,
-   "metrics": {
-    "points": 13,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50291116"
-   }
-  },
-  {
-   "rawId": "50278645",
-   "title": "noalloc: Tooling and libraries to enforce zero heap allocations in Golang",
-   "url": "https://github.com/theconsensuslabs/noalloc",
+   "rawId": "50294506",
+   "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+   "url": "https://github.com/johncassil/dontallow",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -203,13 +161,34 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T18:29:25Z",
-   "hot": 0.6,
-   "rank": 10,
+   "publishedAt": "2026-10-29T19:27:44Z",
+   "hot": 23.1,
+   "rank": 8,
    "metrics": {
-    "points": 14,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50278645"
+    "points": 56,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50294506"
+   }
+  },
+  {
+   "rawId": "50294507",
+   "title": "The importance of communities around software",
+   "url": "https://lumi.codeberg.page/blog/software-community.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lumi.codeberg.page"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T19:27:47Z",
+   "hot": 28.4,
+   "rank": 9,
+   "metrics": {
+    "points": 69,
+    "comments": 62,
+    "discussion": "https://news.ycombinator.com/item?id=50294507"
    }
   },
   {
@@ -225,18 +204,39 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-29T14:57:55Z",
-   "hot": 11.8,
-   "rank": 11,
+   "hot": 40.0,
+   "rank": 10,
    "metrics": {
-    "points": 24,
-    "comments": 4,
+    "points": 277,
+    "comments": 150,
     "discussion": "https://news.ycombinator.com/item?id=50290177"
    }
   },
   {
-   "rawId": "50289590",
-   "title": "Keplearn: Extract Equations from Data in Seconds",
-   "url": "https://github.com/owls-on-wires/keplearn",
+   "rawId": "50287919",
+   "title": "DoorDash to acquire Instacart",
+   "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "about.doordash.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T12:33:05Z",
+   "hot": 38.8,
+   "rank": 11,
+   "metrics": {
+    "points": 362,
+    "comments": 557,
+    "discussion": "https://news.ycombinator.com/item?id=50287919"
+   }
+  },
+  {
+   "rawId": "50278678",
+   "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+   "url": "https://github.com/emmilco/us-tax-model",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -245,181 +245,181 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T14:22:53Z",
-   "hot": 11.9,
+   "publishedAt": "2026-10-28T18:30:53Z",
+   "hot": 1.4,
    "rank": 12,
    "metrics": {
-    "points": 31,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50289590"
+    "points": 39,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50278678"
    }
   },
   {
-   "rawId": "50242509",
-   "title": "Java's new AOT cache feature is in a rough state",
-   "url": "https://xpipe.io/blog/java-aot-cache",
+   "rawId": "50295821",
+   "title": "ElementaryUI – Swift, in the Browser",
+   "url": "https://elementary.codes",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "xpipe.io"
+    "elementary.codes"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T12:27:44Z",
-   "hot": 0.8,
+   "publishedAt": "2026-10-29T20:56:39Z",
+   "hot": 8.0,
    "rank": 13,
    "metrics": {
-    "points": 64,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50242509"
+    "points": 8,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50295821"
    }
   },
   {
-   "rawId": "50282838",
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "url": "https://divagr.com/blog/qwenputer",
+   "rawId": "50255161",
+   "title": "Edit an SQLite database in your browser",
+   "url": "https://editsqlite.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "divagr.com"
+    "editsqlite.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T00:25:45Z",
-   "hot": 39.5,
+   "publishedAt": "2026-10-27T05:59:07Z",
+   "hot": 0.8,
    "rank": 14,
    "metrics": {
-    "points": 655,
-    "comments": 136,
-    "discussion": "https://news.ycombinator.com/item?id=50282838"
+    "points": 54,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50255161"
    }
   },
   {
-   "rawId": "50285452",
-   "title": "Zero click, silent, remote Android DoS",
-   "url": "https://smsofdeath.com/",
+   "rawId": "50294486",
+   "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+   "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "smsofdeath.com"
+    "divergencelabs.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T07:08:50Z",
-   "hot": 26.9,
+   "publishedAt": "2026-10-29T19:25:48Z",
+   "hot": 9.3,
    "rank": 15,
    "metrics": {
-    "points": 265,
-    "comments": 144,
-    "discussion": "https://news.ycombinator.com/item?id=50285452"
+    "points": 23,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50294486"
    }
   },
   {
-   "rawId": "50276998",
-   "title": "Why is this fingerprinting script creating bioweapons?",
-   "url": "https://nullpt.rs/fingerprinting-bioweapons",
+   "rawId": "50286987",
+   "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+   "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nullpt.rs"
+    "dreamgroup.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T17:13:29Z",
-   "hot": 62.8,
+   "publishedAt": "2026-10-29T10:42:41Z",
+   "hot": 22.4,
    "rank": 16,
    "metrics": {
-    "points": 1493,
-    "comments": 280,
-    "discussion": "https://news.ycombinator.com/item?id=50276998"
+    "points": 250,
+    "comments": 113,
+    "discussion": "https://news.ycombinator.com/item?id=50286987"
    }
   },
   {
-   "rawId": "50274893",
-   "title": "Newly discovered Kerberos delegation abuse path",
-   "url": "https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts/",
+   "rawId": "50295868",
+   "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+   "url": "https://projects.freehackers.org/sylphide-os/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hunio.org"
+    "projects.freehackers.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T15:04:30Z",
-   "hot": 0.4,
+   "publishedAt": "2026-10-29T20:59:55Z",
+   "hot": 6.0,
    "rank": 17,
    "metrics": {
-    "points": 10,
+    "points": 6,
     "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50274893"
+    "discussion": "https://news.ycombinator.com/item?id=50295868"
    }
   },
   {
-   "rawId": "50261595",
-   "title": "Everything Rhymes with Porcelain",
-   "url": "https://worksinprogress.co/issue/everything-rhymes-with-porcelain/",
+   "rawId": "50292727",
+   "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
+   "url": "https://fig.blue/posts/duet-is-the-future/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "worksinprogress.co"
+    "fig.blue"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T16:25:45Z",
-   "hot": 0.1,
+   "publishedAt": "2026-10-29T17:24:25Z",
+   "hot": 13.6,
    "rank": 18,
    "metrics": {
-    "points": 5,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50261595"
+    "points": 61,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50292727"
    }
   },
   {
-   "rawId": "50288019",
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+   "rawId": "50291116",
+   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+   "url": "https://news.ycombinator.com/item?id=50291116",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "artificialanalysis.ai"
+    "Ask HN"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T12:41:56Z",
-   "hot": 68.0,
+   "publishedAt": "2026-10-29T15:56:32Z",
+   "hot": 6.7,
    "rank": 19,
    "metrics": {
-    "points": 292,
-    "comments": 222,
-    "discussion": "https://news.ycombinator.com/item?id=50288019"
+    "points": 40,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50291116"
    }
   },
   {
-   "rawId": "50243757",
-   "title": "Getting debug access on a Brother printer over Telnet",
-   "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+   "rawId": "50290283",
+   "title": "Zombie stats: Where the numbers AI quotes come from",
+   "url": "https://trakkr.ai/trakkr-research/zombie-stats",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "inventor7777.github.io"
+    "trakkr.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-26T13:54:39Z",
-   "hot": 2.0,
+   "publishedAt": "2026-10-29T15:06:17Z",
+   "hot": 18.3,
    "rank": 20,
    "metrics": {
-    "points": 153,
-    "comments": 47,
-    "discussion": "https://news.ycombinator.com/item?id=50243757"
+    "points": 124,
+    "comments": 59,
+    "discussion": "https://news.ycombinator.com/item?id=50290283"
    }
   }
  ]
