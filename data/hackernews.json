@@ -1,68 +1,26 @@
 {
- "updated": "2026-10-30T16:03:40Z",
+ "updated": "2026-10-30T20:55:25Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50305272",
-   "title": "ICE wants its mask back, and hired a company to ask",
-   "url": "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/",
+   "rawId": "50307190",
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.flokinet.is"
+    "virtuallyfun.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-30T15:26:58Z",
-   "hot": 93.0,
+   "publishedAt": "2026-10-30T17:25:15Z",
+   "hot": 43.4,
    "rank": 1,
    "metrics": {
-    "points": 93,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50305272"
-   }
-  },
-  {
-   "rawId": "50301462",
-   "title": "elect.horse",
-   "url": "https://elect.horse/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "elect.horse"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T09:14:34Z",
-   "hot": 70.8,
-   "rank": 2,
-   "metrics": {
-    "points": 483,
-    "comments": 129,
-    "discussion": "https://news.ycombinator.com/item?id=50301462"
-   }
-  },
-  {
-   "rawId": "50300683",
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "phorion.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T07:09:12Z",
-   "hot": 31.1,
-   "rank": 3,
-   "metrics": {
-    "points": 277,
-    "comments": 335,
-    "discussion": "https://news.ycombinator.com/item?id=50300683"
+    "points": 152,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50307190"
    }
   },
   {
@@ -78,12 +36,369 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-30T15:10:31Z",
-   "hot": 42.0,
+   "hot": 47.5,
+   "rank": 2,
+   "metrics": {
+    "points": 273,
+    "comments": 195,
+    "discussion": "https://news.ycombinator.com/item?id=50305025"
+   }
+  },
+  {
+   "rawId": "50308697",
+   "title": "Bunny CDN Security Incident",
+   "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "status.bunny.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T19:05:22Z",
+   "hot": 29.4,
+   "rank": 3,
+   "metrics": {
+    "points": 54,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50308697"
+   }
+  },
+  {
+   "rawId": "50300683",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "phorion.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T07:09:12Z",
+   "hot": 45.2,
    "rank": 4,
    "metrics": {
-    "points": 42,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50305025"
+    "points": 622,
+    "comments": 416,
+    "discussion": "https://news.ycombinator.com/item?id=50300683"
+   }
+  },
+  {
+   "rawId": "50306442",
+   "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+   "url": "https://github.com/dbreunig/nesformer",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T16:40:22Z",
+   "hot": 32.5,
+   "rank": 5,
+   "metrics": {
+    "points": 138,
+    "comments": 95,
+    "discussion": "https://news.ycombinator.com/item?id=50306442"
+   }
+  },
+  {
+   "rawId": "50263837",
+   "title": "Breaking the open web won't stop the bad bots",
+   "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "techpolicy.press"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T18:42:55Z",
+   "hot": 1.6,
+   "rank": 6,
+   "metrics": {
+    "points": 116,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50263837"
+   }
+  },
+  {
+   "rawId": "50305637",
+   "title": "Florilegium: Procedural Flowers in LaTeX",
+   "url": "https://github.com/kevinraymond/florilegium",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T15:48:12Z",
+   "hot": 28.9,
+   "rank": 7,
+   "metrics": {
+    "points": 148,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50305637"
+   }
+  },
+  {
+   "rawId": "50305573",
+   "title": "The federated code forge",
+   "url": "https://tangled.org/blog/forge/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tangled.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T15:44:29Z",
+   "hot": 32.2,
+   "rank": 8,
+   "metrics": {
+    "points": 167,
+    "comments": 59,
+    "discussion": "https://news.ycombinator.com/item?id=50305573"
+   }
+  },
+  {
+   "rawId": "50309314",
+   "title": "Jules Verne's Lost Novel",
+   "url": "https://blue-continuum.com/verne-paris",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blue-continuum.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T19:55:10Z",
+   "hot": 12.0,
+   "rank": 9,
+   "metrics": {
+    "points": 12,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50309314"
+   }
+  },
+  {
+   "rawId": "50309029",
+   "title": "Infinite Mac: BeOS",
+   "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.persistent.info"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T19:30:09Z",
+   "hot": 13.4,
+   "rank": 10,
+   "metrics": {
+    "points": 19,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50309029"
+   }
+  },
+  {
+   "rawId": "50296730",
+   "title": "Building an AI-native engineering org",
+   "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+   "videoUrl": "https://twitter.com/sgondala2/status/2115832070274723875",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T21:58:34Z",
+   "hot": 2.9,
+   "rank": 11,
+   "metrics": {
+    "points": 67,
+    "comments": 76,
+    "discussion": "https://news.ycombinator.com/item?id=50296730"
+   }
+  },
+  {
+   "rawId": "50309470",
+   "title": "An Arrogant Way of Killing (2016)",
+   "url": "https://magazine.atavist.com/2016/an-arrogant-way-of-killing",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "magazine.atavist.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T20:08:52Z",
+   "hot": 7.0,
+   "rank": 12,
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50309470"
+   }
+  },
+  {
+   "rawId": "50307219",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ft.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T17:27:25Z",
+   "hot": 53.4,
+   "rank": 13,
+   "metrics": {
+    "points": 185,
+    "comments": 132,
+    "discussion": "https://news.ycombinator.com/item?id=50307219"
+   }
+  },
+  {
+   "rawId": "50258496",
+   "title": "Tree-mounted machines connect to web app to let users knock on wood remotely",
+   "url": "https://www.designboom.com/technology/tree-mounted-machines-web-app-users-knock-on-wood-remotely/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "designboom.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-27T13:00:04Z",
+   "hot": 0.4,
+   "rank": 14,
+   "metrics": {
+    "points": 31,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50258496"
+   }
+  },
+  {
+   "rawId": "50309647",
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bostonglobe.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T20:23:30Z",
+   "hot": 21.0,
+   "rank": 15,
+   "metrics": {
+    "points": 21,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50309647"
+   }
+  },
+  {
+   "rawId": "50309573",
+   "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+   "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bloomberglinea.com.br"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T20:18:18Z",
+   "hot": 8.0,
+   "rank": 16,
+   "metrics": {
+    "points": 8,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50309573"
+   }
+  },
+  {
+   "rawId": "50309571",
+   "title": "Programming at Light Speed: Building the Gravity Query Engine",
+   "url": "https://pgrust.com/blog/programming-at-light-speed/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pgrust.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T20:18:10Z",
+   "hot": 10.0,
+   "rank": 17,
+   "metrics": {
+    "points": 10,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50309571"
+   }
+  },
+  {
+   "rawId": "50309534",
+   "title": "Product Managers aren't safe either",
+   "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lucaskostka.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T20:14:39Z",
+   "hot": 9.0,
+   "rank": 18,
+   "metrics": {
+    "points": 9,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50309534"
+   }
+  },
+  {
+   "rawId": "50309266",
+   "title": "The oldest ice disappears and the Stone Age emerges from it",
+   "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sciencenorway.no"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T19:51:33Z",
+   "hot": 13.2,
+   "rank": 19,
+   "metrics": {
+    "points": 14,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50309266"
    }
   },
   {
@@ -99,306 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-30T10:06:15Z",
-   "hot": 26.4,
-   "rank": 5,
+   "hot": 21.4,
+   "rank": 20,
    "metrics": {
-    "points": 157,
-    "comments": 21,
+    "points": 231,
+    "comments": 40,
     "discussion": "https://news.ycombinator.com/item?id=50301854"
-   }
-  },
-  {
-   "rawId": "50302814",
-   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-   "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "progressives.house.gov"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T12:08:00Z",
-   "hot": 104.4,
-   "rank": 6,
-   "metrics": {
-    "points": 410,
-    "comments": 275,
-    "discussion": "https://news.ycombinator.com/item?id=50302814"
-   }
-  },
-  {
-   "rawId": "50303488",
-   "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
-   "url": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "psychotechnology.substack.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T13:20:06Z",
-   "hot": 11.7,
-   "rank": 7,
-   "metrics": {
-    "points": 32,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50303488"
-   }
-  },
-  {
-   "rawId": "50304419",
-   "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-   "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "medpagetoday.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T14:27:44Z",
-   "hot": 63.2,
-   "rank": 8,
-   "metrics": {
-    "points": 101,
-    "comments": 49,
-    "discussion": "https://news.ycombinator.com/item?id=50304419"
-   }
-  },
-  {
-   "rawId": "50296470",
-   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arkm.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T21:38:59Z",
-   "hot": 89.8,
-   "rank": 9,
-   "metrics": {
-    "points": 1654,
-    "comments": 1114,
-    "discussion": "https://news.ycombinator.com/item?id=50296470"
-   }
-  },
-  {
-   "rawId": "50289418",
-   "title": "We're releasing the weights of Mistral Large 4",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "mistral.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T14:13:21Z",
-   "hot": 63.0,
-   "rank": 10,
-   "metrics": {
-    "points": 1629,
-    "comments": 425,
-    "discussion": "https://news.ycombinator.com/item?id=50289418"
-   }
-  },
-  {
-   "rawId": "50303172",
-   "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
-   "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wired.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T12:50:01Z",
-   "hot": 44.0,
-   "rank": 11,
-   "metrics": {
-    "points": 142,
-    "comments": 102,
-    "discussion": "https://news.ycombinator.com/item?id=50303172"
-   }
-  },
-  {
-   "rawId": "50305436",
-   "title": "I didn't know I was lacking in Vitamin D until I collapsed at work",
-   "url": "https://www.bbc.com/news/articles/cm78pxxe55v0o",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bbc.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T15:36:18Z",
-   "hot": 18.0,
-   "rank": 12,
-   "metrics": {
-    "points": 18,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50305436"
-   }
-  },
-  {
-   "rawId": "50305279",
-   "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra",
-   "url": "https://skypilot.ai/blog/flying-roadster-rl",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "skypilot.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T15:27:16Z",
-   "hot": 4.0,
-   "rank": 13,
-   "metrics": {
-    "points": 4,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50305279"
-   }
-  },
-  {
-   "rawId": "50273504",
-   "title": "Finding Panics with Call Graph Analyzer",
-   "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tweedegolf.nl"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T13:48:26Z",
-   "hot": 0.7,
-   "rank": 14,
-   "metrics": {
-    "points": 34,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50273504"
-   }
-  },
-  {
-   "rawId": "50263127",
-   "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
-   "url": "https://www.theguardian.com/books/2026/oct/20/gilgamesh-by-simon-armitage-review-an-ancient-epic-is-brilliantly-translated-for-our-times",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "theguardian.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T17:54:57Z",
-   "hot": 1.9,
-   "rank": 15,
-   "metrics": {
-    "points": 135,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50263127"
-   }
-  },
-  {
-   "rawId": "50251070",
-   "title": "Why a program doesn't work when run from a batch file, but works when clicked",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "devblogs.microsoft.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T21:14:43Z",
-   "hot": 0.9,
-   "rank": 16,
-   "metrics": {
-    "points": 80,
-    "comments": 42,
-    "discussion": "https://news.ycombinator.com/item?id=50251070"
-   }
-  },
-  {
-   "rawId": "50298436",
-   "title": "Herdr has released native app",
-   "url": "https://github.com/herdrdev/herdr-app",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T00:42:41Z",
-   "hot": 19.9,
-   "rank": 17,
-   "metrics": {
-    "points": 305,
-    "comments": 201,
-    "discussion": "https://news.ycombinator.com/item?id=50298436"
-   }
-  },
-  {
-   "rawId": "50244486",
-   "title": "Commodore 1600 VICmodem",
-   "url": "https://dfarq.homeip.net/commodore-1600-vicmodem/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dfarq.homeip.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-26T14:37:17Z",
-   "hot": 0.2,
-   "rank": 18,
-   "metrics": {
-    "points": 24,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50244486"
-   }
-  },
-  {
-   "rawId": "50273104",
-   "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-   "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-   "videoUrl": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T13:20:05Z",
-   "hot": 4.0,
-   "rank": 19,
-   "metrics": {
-    "points": 203,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50273104"
    }
   }
  ]

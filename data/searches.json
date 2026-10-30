@@ -1,255 +1,255 @@
 {
- "updated": "2026-10-30T16:03:40Z",
+ "updated": "2026-10-30T20:55:25Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "verdict",
-   "query": "verdict",
-   "traffic": "5000+",
-   "trafficNum": 5000,
-   "publishedAt": "2026-10-30T15:00:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe57BW-a0l1eRnBzBD04-XQFv9ZQ1IFAsK8kf2QpIOjniiBIiXxtc0uLc_wYk",
-   "news": [
-    {
-     "title": "Rockland jury reaches verdict in fatal shooting of teen in Spring Valley",
-     "url": "https://www.lohud.com/story/news/crime/2026/10/30/rockland-jury-reaches-verdict-in-fatal-shooting-of-teen-in-spring-valley/92499997007/",
-     "source": "Lohud"
-    },
-    {
-     "title": "Rockland Man Convicted Of Fatally Shooting 17 Year Old In Parking Lot",
-     "url": "https://brooklyn.news12.com/rockland-man-convicted-of-fatally-shooting-17-year-old-in-parking-lot",
-     "source": "News12 | Brooklyn"
-    },
-    {
-     "title": "Man Who Shot, Killed 17-Year-Old While He Was With His Aunt In Spring Valley Is Convicted",
-     "url": "https://dailyvoice.com/article/anthony-mitchell-guilty-in-treynahel-cineus-murder/",
-     "source": "DailyVoice.com"
-    }
-   ]
-  },
-  {
-   "rawId": "crime",
-   "query": "crime",
-   "traffic": "2000+",
-   "trafficNum": 2000,
-   "publishedAt": "2026-10-30T15:50:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRoUD8qa4sEdMSWZmdQSoAd8TmCNzzY0VccmC-8b7b4NoYVBhLZNG3UaIYr9ek",
-   "news": [
-    {
-     "title": "‘Wish we could have got to it’: 17 victims in crime spree that left three stabbed in Topeka",
-     "url": "https://www.wibw.com/2026/10/29/wish-we-could-have-got-it-17-victims-crime-spree-that-left-three-stabbed-topeka/",
-     "source": "WIBW"
-    },
-    {
-     "title": "Seventeen victims identified in stabbing, rape spree across 5 crime scenes in Topeka",
-     "url": "https://www.kansascity.com/news/local/crime/article317836399.html",
-     "source": "Kansas City Star"
-    },
-    {
-     "title": "17 victims tied to central Topeka crime spree investigation, arrest made",
-     "url": "https://www.ksnt.com/news/crime/17-victims-tied-to-central-topeka-crime-spree-investigation-arrest-made/",
-     "source": "KSNT 27 News"
-    }
-   ]
-  },
-  {
-   "rawId": "where to vote",
-   "query": "where to vote",
+   "rawId": "brooklyn",
+   "query": "brooklyn",
    "traffic": "1000+",
    "trafficNum": 1000,
-   "publishedAt": "2026-10-30T15:40:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNoQFUd-YBe5VolDzykFWc6a8zeNKpw50QvhK4A9ArKIU2hzyoCS3UmfWc8rI",
+   "publishedAt": "2026-10-30T20:20:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpLXv5y2GW4dARibbf01-S4SRFwfPH0DWgE7P0c3pKHoTNqZY_9nfhNOueFtE",
    "news": [
     {
-     "title": "Daily Brew: October 27, 2026",
-     "url": "https://ballotpedia.org/Daily_Brew:_October_27,_2026",
-     "source": "Ballotpedia"
+     "title": "NYPD floods scene after body is found in bag on Brooklyn street",
+     "url": "https://www.nbcnewyork.com/brooklyn/body-garbage-bag-canarsie/6565282/",
+     "source": "NBC New York"
     },
     {
-     "title": "State judicial races are on the ballot in November. Here’s what you need to know",
-     "url": "https://thehill.com/homenews/state-watch/6169419-midterm-judicial-election-impact/",
-     "source": "The Hill"
+     "title": "Man found dead inside garbage bag in Canarsie, Brooklyn",
+     "url": "https://abc7ny.com/post/man-found-dead-inside-garbage-bag-canarsie-brooklyn/20000167/",
+     "source": "ABC7 New York"
     },
     {
-     "title": "How to vet Michigan judges before voting",
-     "url": "https://www.clickondetroit.com/video/news/2026/10/26/how-to-vet-michigan-judges-before-voting/",
-     "source": "ClickOnDetroit | WDIV Local 4"
+     "title": "Body found lying on Brooklyn street",
+     "url": "https://www.audacy.com/1010wins/news/local/body-found-lying-on-brooklyn-street",
+     "source": "Audacy"
     }
    ]
   },
   {
-   "rawId": "rob gronkowski",
-   "query": "rob gronkowski",
+   "rawId": "fincen minnesota suspicious wire payments",
+   "query": "fincen minnesota suspicious wire payments",
    "traffic": "1000+",
    "trafficNum": 1000,
-   "publishedAt": "2026-10-30T15:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnxScvcEfqVKs-rLU95fVVYaxAbtQqme-d_0CdsBCeCWIf2TOYc0NIRLJEx64",
+   "publishedAt": "2026-10-30T20:20:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpIqPKcZNrlA_T5NDGNejYz_sGq5RMxF8bQvjv9jPx7C0o2O8DZIQrNmQQhA",
    "news": [
     {
-     "title": "JACKSON THOMPSON: Gronk calls on NFL to punish refs, says Patriots made last Super Bowl due to easy schedule",
-     "url": "https://www.foxnews.com/outkick-sports/jackson-thompson-gronk-calls-nfl-punish-refs-says-patriots-made-last-super-bowl-easy-schedule",
+     "title": "Treasury flags $8B in suspicious foreign-directed transfers through US money services firms",
+     "url": "https://www.foxnews.com/politics/treasury-flags-8b-suspicious-foreign-directed-transfers-us-money-services-firms",
      "source": "Fox News"
     },
     {
-     "title": "‘Put the referees on a pedestal’: Rob Gronkowski calls for NFL to punish referees",
-     "url": "https://sports.yahoo.com/articles/put-referees-pedestal-rob-gronkowski-132005358.html",
+     "title": "JD Vance cancels St. Cloud trip, FBI Director Kash Patel to fill in",
+     "url": "https://www.sctimes.com/story/news/2026/10/30/vance-drops-st-cloud-press-conference-fbi-director-to-fill-in/92511856007/",
+     "source": "St. Cloud Times"
+    },
+    {
+     "title": "Trump officials spotlight Minnesota fraud cases involving millions of dollars",
+     "url": "https://www.startribune.com/medicaid-fraud-trump-social-services/601907117",
+     "source": "Star Tribune"
+    }
+   ]
+  },
+  {
+   "rawId": "the traitors",
+   "query": "the traitors",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-30T20:30:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTgGlGm8Kq_cXZVPnwLXjzZclKSL8a5NGI6X1oVKfrD_oNksiUwKBIEgIj2nHc",
+   "news": [
+    {
+     "title": "The Celebrity Traitors finale – LIVE",
+     "url": "https://www.theguardian.com/tv-and-radio/live/2026/oct/30/the-celebrity-traitors-finale-live",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Celebrity Traitors final live: Can Maya Jama and Kenny recover from this disaster?",
+     "url": "https://www.telegraph.co.uk/tv/2026/10/30/celebrity-traitors-final-2026/",
+     "source": "The Telegraph"
+    },
+    {
+     "title": "Celebrity Traitors: Watch live as contestants battle it out in the final",
+     "url": "https://www.bbc.com/news/live/cqrmyx1p8nzmt",
+     "source": "BBC"
+    }
+   ]
+  },
+  {
+   "rawId": "joe minoso",
+   "query": "joe minoso",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-30T20:20:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTw6FdSfiG0kU53DeOp9xiRHXOMbQMfHwWgBHN0t1b8J0uQBXPMShad2ku-040",
+   "news": [
+    {
+     "title": "'Chicago Fire' celebrates 300 episodes: Taylor Kinney and Miranda Rae Mayo reflect on the show's success",
+     "url": "https://www.wkyc.com/article/entertainment/television/chicago-fire-300-episodes-taylor-kinney-miranda-rae-mayo-mike-polk-junior-nbc/95-31a44eb9-7329-483f-92a6-95b5aa8000ca",
+     "source": "WKYC"
+    },
+    {
+     "title": "'Chicago Fire's Joe Miñoso Opens up About Exit & Saying Goodbye to Cruz: 'I Owe Him Everything'",
+     "url": "https://www.tvinsider.com/1299149/chicago-fire-joe-minoso-leaving-cruz-exit-interview-exclusive/",
+     "source": "TV Insider"
+    },
+    {
+     "title": "First Look at Joe Miñoso’s Final ‘Chicago Fire’ Episode",
+     "url": "https://www.yahoo.com/entertainment/tv/articles/first-look-joe-mi-oso-020715755.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  {
+   "rawId": "tropics",
+   "query": "tropics",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-30T20:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSse_wIt8-y-ksqnBLAWKU4lQilNiToe4mDjevZp7OjFj-mQ3Kd_DvNxv7WC1I",
+   "news": [
+    {
+     "title": "Late-season tropical trouble brews in Caribbean as El Niño driven hurricane season enters final stretch",
+     "url": "https://www.foxweather.com/weather-news/tropical-caribbean-atlantic-hurricane-season-el-nino",
+     "source": "FOX Weather"
+    },
+    {
+     "title": "32 days left of hurricane season",
+     "url": "https://www.fox13news.com/video/fmc-2vxug8v8eq6semn4",
+     "source": "FOX 13 Tampa Bay"
+    },
+    {
+     "title": "El Niño kept the Atlantic hurricane season quiet. What could next year bring for Texas?",
+     "url": "https://www.yahoo.com/news/weather-news/articles/el-ni-o-kept-atlantic-140601188.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  {
+   "rawId": "lille fc",
+   "query": "lille fc",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-30T20:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNwyQF9mhb0hg3ace6R_tX0yEEvRKpRZLk8Vgy_QppHyMTCFRmFcxuo1ZeyxI",
+   "news": [
+    {
+     "title": "Inside the Lille talent factory as a new era begins under Davide Ancelotti",
+     "url": "https://www.nytimes.com/athletic/7732002/2026/10/30/inside-lille-talent-factory-ancelotti/",
+     "source": "The New York Times"
+    },
+    {
+     "title": "Davide Ancelotti wants to make a name for himself – will he do it at Lille?",
+     "url": "https://www.theguardian.com/football/2026/oct/26/davide-ancelotti-lille-champions-league-ligue-1",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Lille vs Lens: French Ligue 1 stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/cmjwe1g8yv5zt",
+     "source": "BBC"
+    }
+   ]
+  },
+  {
+   "rawId": "baylor vs ucf prediction",
+   "query": "baylor vs ucf prediction",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-30T20:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1NhvPtlTaMmf9AjuHZNc3floo5aT54luo5v8eY7kDtOu5kMWsN3BbC2Cwznk",
+   "news": [
+    {
+     "title": "Game time: UCF Knights vs. Baylor — TV info, betting odds, keys for Friday",
+     "url": "https://www.orlandosentinel.com/2026/10/29/ucf-knights-baylor-bears-tv-info-betting-odds-keys-to-the-game/",
+     "source": "Orlando Sentinel"
+    },
+    {
+     "title": "Predicting Final Score of Baylor Bears vs. UCF Knights in Week 9 Without Dave Aranda",
+     "url": "https://sports.yahoo.com/articles/predicting-final-score-baylor-bears-130008629.html",
      "source": "Yahoo Sports"
     },
     {
-     "title": "Rob Gronkowski on NFL officiating & Bill Belichick's rules: 'We want it to be fair & square'",
-     "url": "https://www.foxnews.com/video/6407608347112",
-     "source": "Fox News"
+     "title": "Baylor vs. UCF prediction, odds, time: Week 9 college football Friday picks from proven model",
+     "url": "https://www.cbssports.com/betting/news/baylor-ucf-prediction-odds-time-week-9-college-football-friday-picks/",
+     "source": "CBS Sports"
     }
    ]
   },
   {
-   "rawId": "tommy paul",
-   "query": "tommy paul",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-10-30T15:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-KVwbICkE1zMkJmcI2ZWEVCI0ydS1Pg26taZTFLx9KcADSMUcuOdR-zqbnmY",
-   "news": [
-    {
-     "title": "ATP Vienna Best Bets Including Tommy Paul Vs Carlos Alcaraz",
-     "url": "https://lastwordonsports.com/tennis/2026/10/29/atp-vienna-best-bets-paul-alcaraz/",
-     "source": "Last Word On Sports"
-    },
-    {
-     "title": "Vienna QF previews and predictions: Alcaraz vs. Paul, De Minaur vs. Berrettini",
-     "url": "https://tenngrand.com/vienna-tennis-previews-picks-predictions-alcaraz-vs-paul-de-minaur-berrettini/",
-     "source": "The Grandstand"
-    },
-    {
-     "title": "How to watch the men’s Erste Bank Open: Streaming options for the Quarterfinal",
-     "url": "https://www.nytimes.com/athletic/7737947/2026/10/30/mens-erste-bank-open-stream-how-to-watch-october-30/",
-     "source": "The New York Times"
-    }
-   ]
-  },
-  {
-   "rawId": "arthur fils",
-   "query": "arthur fils",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-30T15:50:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfIwviiY_pnDpr3lIbyUnnFyUQT_yWDlD7cQFzuv9Gh5zJMOlGuQWQVlElsGk",
-   "news": [
-    {
-     "title": "Arthur Fils s'en sort en huitièmes de finale de l'ATP 500 de Bâle face à Alex Michelsen",
-     "url": "https://www.lequipe.fr/Tennis/Actualites/Arthur-fils-s-en-sort-en-huitiemes-de-finale-de-l-atp-500-de-bale-face-a-alex-michelsen/1739545",
-     "source": "L'Équipe"
-    },
-    {
-     "title": "Tennis. Sous pression, plus que jamais en course pour les Masters, le Français Arthur Fils s'impose sur un fil aux Swiss Indoors de Bâle",
-     "url": "https://www.lalsace.fr/sport/2026/10/29/sous-pression-plus-que-jamais-en-course-pour-les-masters-le-francais-arthur-fils-s-impose-sur-un-fil-aux-swiss-indoors-de-bale",
-     "source": "L'Alsace"
-    },
-    {
-     "title": "Taylor Fritz - Arthur Fils Statistiques, ATP Bâle, 30 octobre 2026",
-     "url": "https://www.sportytrader.com/resultat-direct/taylor-fritz-arthur-fils-8939349/",
-     "source": "SportyTrader"
-    }
-   ]
-  },
-  {
-   "rawId": "mercado cambiario",
-   "query": "mercado cambiario",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-30T15:40:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbVx9E_IdLiND_EgH-hAX6kJJqMWhm1ZUGHSG8DcbMewzyvG_0CC9niSQMyrk",
-   "news": [
-    {
-     "title": "Dólar blue, dólar hoy: a cuánto cotizan el viernes 30 de octubre de 2026",
-     "url": "https://www.pagina12.com.ar/2026/10/30/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-viernes-30-de-octubre-de-2026/",
-     "source": "Página|12"
-    },
-    {
-     "title": "Peso mexicano retrocede mientras mercados analizan señales de la Fed",
-     "url": "https://www.expreso.com.mx/noticias/negocios/precio-del-dolar-hoy-29-de-octubre-de-2026-peso-pierde-fuerza/257000",
-     "source": "Expreso"
-    },
-    {
-     "title": "Dólar hoy 30 de octubre: récord oficial y reservas BCRA",
-     "url": "https://cholilaonline.ar/2026/10/dolar-hoy-oficial-maximo-historico-reservas-bcra.html",
-     "source": "» Cholila Online"
-    }
-   ]
-  },
-  {
-   "rawId": "colleen slemmer",
-   "query": "colleen slemmer",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-30T15:10:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ-287_a2Oy9rlDWZJyByBjGjEd8oI4WczHIm-W73fZYZqpTo5LTLg2YAECH6s",
-   "news": [
-    {
-     "title": "‘My Body Hurts’: Christa Pike Describes Pain and Isolation After Botched Execution",
-     "url": "https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-     "url": "https://www.bbc.com/news/articles/ck62ydn7dj9eo",
-     "source": "BBC"
-    },
-    {
-     "title": "'I'm deeply hurt by the incompetence': Christa Pike releases statement after botched execution",
-     "url": "https://news.sky.com/story/im-deeply-hurt-by-the-incompetence-christa-pike-releases-statement-after-botched-execution-13605644",
-     "source": "Sky News"
-    }
-   ]
-  },
-  {
-   "rawId": "sony playstation",
-   "query": "sony playstation",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-30T15:10:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn0UK8v-QiHTb1zuqYj3mBG1exOsAd0P-7geGbMLxBLmabogE3tJkWp-2Ckj0",
-   "news": [
-    {
-     "title": "First look inside the Prism Collection, with three new transparent designs for PS5 accessories",
-     "url": "https://blog.playstation.com/2026/10/28/first-look-inside-the-prism-collection-with-three-new-transparent-designs-for-ps5-accessories/",
-     "source": "PlayStation.Blog"
-    },
-    {
-     "title": "Sony Wants You to Forget About Discs With Its Gorgeous Transparent Controllers",
-     "url": "https://www.wired.com/story/sony-wants-you-to-forget-about-discs-with-its-gorgeous-transparent-controller/",
-     "source": "WIRED"
-    },
-    {
-     "title": "PlayStation Revives '90s Transparent Tech Aesthetic With the “Prism Collection”",
-     "url": "https://hypebeast.com/2026/10/playstation-the-prism-collection-dualsense-wireless-controllers-release-info",
-     "source": "Hypebeast"
-    }
-   ]
-  },
-  {
-   "rawId": "miaa power rankings",
-   "query": "miaa power rankings",
+   "rawId": "is jaylen brown playing tonight",
+   "query": "is jaylen brown playing tonight",
    "traffic": "200+",
    "trafficNum": 200,
-   "publishedAt": "2026-10-30T15:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-XyoUO1MrzQ5BJrzugB5fzTtA1dpBMao10ynKHSsItsfyZsqhwuNyGAo0GLM",
+   "publishedAt": "2026-10-30T20:30:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc5zsXbPEEOy1uaxshM0sOfF512U_NuLDzmGJJzV2vURzvkEs25FWpj1_Xel0",
    "news": [
     {
-     "title": "See which football teams find themselves on the MIAA tournament bubble",
-     "url": "https://www.telegram.com/story/sports/high-school/football/2026/10/29/high-school-football-central-mass-miaa-tournament-playoff-picture/92501693007/",
-     "source": "Worcester Telegram"
+     "title": "Sixers list Brown as questionable for meeting with Knicks",
+     "url": "https://www.nbcsportsphiladelphia.com/nba/philadelphia-76ers/sixers-injury-report-jaylen-brown-sixers-vs-knicks-nba-cup/762792/",
+     "source": "NBC Sports Philadelphia"
     },
     {
-     "title": "MIAA power rankings: Shawsheen Tech No. 1, Tewksbury No. 2 in football",
-     "url": "https://www.lowellsun.com/2026/10/27/miaa-power-rankings-shawsheen-tech-no-1-tewksbury-no-2-in-football/",
-     "source": "Lowell Sun"
+     "title": "Jaylen Brown questionable, LeBron, Embiid not listed on injury report for Sixers-Knicks Cup matchup",
+     "url": "https://www.libertyballers.com/76ers-injury-report/100341/jaylen-brown-questionable-lebron-embiid-not-listed-on-injury-report-for-sixers-knicks-cup-matchup",
+     "source": "Liberty Ballers"
     },
     {
-     "title": "MIAA power rankings: St. Bernard’s football, Nashoba field hockey going strong",
-     "url": "https://www.sentinelandenterprise.com/2026/10/27/miaa-power-rankings-st-bernards-football-nashoba-field-hockey-going-strong/",
-     "source": "Sentinel and Enterprise"
+     "title": "76ers Get Concerning Jaylen Brown Injury Update Ahead of Knicks Rematch",
+     "url": "https://sports.yahoo.com/articles/76ers-concerning-jaylen-brown-injury-004112564.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "rick ross miami battery case",
+   "query": "rick ross miami battery case",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-30T20:30:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_cKKsNK22GxhgETlFJ-0CMOVzJcKwGBLWmd2XtMjypRkh4fT1Mz6E31HgL00",
+   "news": [
+    {
+     "title": "Florida prosecutors drop felony charge against Rick Ross in domestic violence case",
+     "url": "https://www.theguardian.com/us-news/2026/oct/30/rick-ross-felony-charge-dropped-domestic-violence",
+     "source": "The Guardian"
+    },
+    {
+     "title": "Rick Ross Faces Arraignment After Domestic Violence Allegations Lead to New Misdemeanor Charge",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/rick-ross-faces-arraignment-domestic-160713444.html",
+     "source": "Yahoo"
+    },
+    {
+     "title": "Rick Ross Cleared Of Felony Battery Charge, Still Facing Two Misdemeanors",
+     "url": "https://www.tmz.com/2026/10/30/rick-ross-felony-battery-charge-dropped/",
+     "source": "TMZ"
+    }
+   ]
+  },
+  {
+   "rawId": "cramer recommended stocks to buy",
+   "query": "cramer recommended stocks to buy",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-30T20:20:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjZJI-4v2Oy8NQOEnK9TS7W6_qlK0ZgFt4SPI_Y1sXlVx8IAwmZGO6VkfMn8A",
+   "news": [
+    {
+     "title": "Jim Cramer reveals 3 stocks to buy — plus, why he is not selling the Intel plunge",
+     "url": "https://www.cnbc.com/investingclub/2026/10/30/cramer-sees-3-stocks-to-buy-not-selling-the-intel-plunge.html",
+     "source": "CNBC"
+    },
+    {
+     "title": "Jim Cramer Is “Sick and Tired” of Diversifying Into Stocks That Aren’t That Good",
+     "url": "https://247wallst.com/investing/2026/10/28/jim-cramer-is-sick-and-tired-of-diversifying-into-stocks-that-arent-that-good/",
+     "source": "24/7 Wall St."
+    },
+    {
+     "title": "Jim Cramer Says People Selling This Stock Don't Have Brains",
+     "url": "https://www.tradingview.com/news/benzinga:c528cbe55094b:0-jim-cramer-says-people-selling-this-stock-don-t-have-brains/",
+     "source": "TradingView"
     }
    ]
   }
