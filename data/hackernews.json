@@ -1,7 +1,175 @@
 {
- "updated": "2026-10-30T08:48:05Z",
+ "updated": "2026-10-30T16:03:40Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50305272",
+   "title": "ICE wants its mask back, and hired a company to ask",
+   "url": "https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.flokinet.is"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T15:26:58Z",
+   "hot": 93.0,
+   "rank": 1,
+   "metrics": {
+    "points": 93,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50305272"
+   }
+  },
+  {
+   "rawId": "50301462",
+   "title": "elect.horse",
+   "url": "https://elect.horse/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "elect.horse"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T09:14:34Z",
+   "hot": 70.8,
+   "rank": 2,
+   "metrics": {
+    "points": 483,
+    "comments": 129,
+    "discussion": "https://news.ycombinator.com/item?id=50301462"
+   }
+  },
+  {
+   "rawId": "50300683",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "phorion.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T07:09:12Z",
+   "hot": 31.1,
+   "rank": 3,
+   "metrics": {
+    "points": 277,
+    "comments": 335,
+    "discussion": "https://news.ycombinator.com/item?id=50300683"
+   }
+  },
+  {
+   "rawId": "50305025",
+   "title": "Northflank Breached",
+   "url": "https://status.northflank.com",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "status.northflank.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T15:10:31Z",
+   "hot": 42.0,
+   "rank": 4,
+   "metrics": {
+    "points": 42,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50305025"
+   }
+  },
+  {
+   "rawId": "50301854",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "binarysecurity.no"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T10:06:15Z",
+   "hot": 26.4,
+   "rank": 5,
+   "metrics": {
+    "points": 157,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50301854"
+   }
+  },
+  {
+   "rawId": "50302814",
+   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+   "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "progressives.house.gov"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T12:08:00Z",
+   "hot": 104.4,
+   "rank": 6,
+   "metrics": {
+    "points": 410,
+    "comments": 275,
+    "discussion": "https://news.ycombinator.com/item?id=50302814"
+   }
+  },
+  {
+   "rawId": "50303488",
+   "title": "5-MeO-DMT sometimes cancels the Ebbinghaus illusion",
+   "url": "https://psychotechnology.substack.com/p/5-meo-dmt-sometimes-cancels-the-ebbinghaus",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "psychotechnology.substack.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T13:20:06Z",
+   "hot": 11.7,
+   "rank": 7,
+   "metrics": {
+    "points": 32,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50303488"
+   }
+  },
+  {
+   "rawId": "50304419",
+   "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+   "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "medpagetoday.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T14:27:44Z",
+   "hot": 63.2,
+   "rank": 8,
+   "metrics": {
+    "points": 101,
+    "comments": 49,
+    "discussion": "https://news.ycombinator.com/item?id=50304419"
+   }
+  },
   {
    "rawId": "50296470",
    "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
@@ -15,11 +183,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-29T21:38:59Z",
-   "hot": 113.3,
-   "rank": 1,
+   "hot": 89.8,
+   "rank": 9,
    "metrics": {
-    "points": 1263,
-    "comments": 780,
+    "points": 1654,
+    "comments": 1114,
     "discussion": "https://news.ycombinator.com/item?id=50296470"
    }
   },
@@ -36,180 +204,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-29T14:13:21Z",
-   "hot": 76.8,
-   "rank": 2,
+   "hot": 63.0,
+   "rank": 10,
    "metrics": {
-    "points": 1427,
-    "comments": 385,
+    "points": 1629,
+    "comments": 425,
     "discussion": "https://news.ycombinator.com/item?id=50289418"
    }
   },
   {
-   "rawId": "50255343",
-   "title": "Cuis: The Modern Smalltalk-80",
-   "url": "https://cuis.st/",
+   "rawId": "50303172",
+   "title": "The $6.3B Binance Hack Was Pulled Off in Just 20 Minutes",
+   "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cuis.st"
+    "wired.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T06:33:16Z",
-   "hot": 1.3,
-   "rank": 3,
+   "publishedAt": "2026-10-30T12:50:01Z",
+   "hot": 44.0,
+   "rank": 11,
    "metrics": {
-    "points": 94,
-    "comments": 15,
-    "discussion": "https://news.ycombinator.com/item?id=50255343"
+    "points": 142,
+    "comments": 102,
+    "discussion": "https://news.ycombinator.com/item?id=50303172"
    }
   },
   {
-   "rawId": "50273104",
-   "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
-   "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-   "videoUrl": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T13:20:05Z",
-   "hot": 2.6,
-   "rank": 4,
-   "metrics": {
-    "points": 113,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50273104"
-   }
-  },
-  {
-   "rawId": "50270651",
-   "title": "Astroterm: A Planetarium for Your Terminal",
-   "url": "https://github.com/da-luce/astroterm",
+   "rawId": "50305436",
+   "title": "I didn't know I was lacking in Vitamin D until I collapsed at work",
+   "url": "https://www.bbc.com/news/articles/cm78pxxe55v0o",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "bbc.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-28T08:29:55Z",
-   "hot": 2.5,
-   "rank": 5,
+   "publishedAt": "2026-10-30T15:36:18Z",
+   "hot": 18.0,
+   "rank": 12,
    "metrics": {
-    "points": 119,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50270651"
+    "points": 18,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50305436"
    }
   },
   {
-   "rawId": "50298436",
-   "title": "Herdr has released native app",
-   "url": "https://github.com/herdrdev/herdr-app",
+   "rawId": "50305279",
+   "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra",
+   "url": "https://skypilot.ai/blog/flying-roadster-rl",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "skypilot.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-30T00:42:41Z",
-   "hot": 21.4,
-   "rank": 6,
+   "publishedAt": "2026-10-30T15:27:16Z",
+   "hot": 4.0,
+   "rank": 13,
    "metrics": {
-    "points": 173,
-    "comments": 107,
-    "discussion": "https://news.ycombinator.com/item?id=50298436"
+    "points": 4,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50305279"
    }
   },
   {
-   "rawId": "50296486",
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "url": "https://labs.ycombinator.com/projects/games/index.html",
+   "rawId": "50273504",
+   "title": "Finding Panics with Call Graph Analyzer",
+   "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "labs.ycombinator.com"
+    "tweedegolf.nl"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T21:40:28Z",
-   "hot": 24.3,
-   "rank": 7,
+   "publishedAt": "2026-10-28T13:48:26Z",
+   "hot": 0.7,
+   "rank": 14,
    "metrics": {
-    "points": 270,
-    "comments": 91,
-    "discussion": "https://news.ycombinator.com/item?id=50296486"
-   }
-  },
-  {
-   "rawId": "50295450",
-   "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-   "url": "https://github.com/SheepSeb/tinyworldformer",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T20:32:28Z",
-   "hot": 16.2,
-   "rank": 8,
-   "metrics": {
-    "points": 199,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50295450"
-   }
-  },
-  {
-   "rawId": "50291054",
-   "title": "H.264 Is Magic (2016)",
-   "url": "https://sidbala.com/h-264-is-magic/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sidbala.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T15:53:03Z",
-   "hot": 24.6,
-   "rank": 9,
-   "metrics": {
-    "points": 417,
-    "comments": 148,
-    "discussion": "https://news.ycombinator.com/item?id=50291054"
-   }
-  },
-  {
-   "rawId": "50297697",
-   "title": "Show HN: I Turned DOOM into a Transformer",
-   "url": "https://github.com/mottopanikeiku/doomformer",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T23:25:46Z",
-   "hot": 8.9,
-   "rank": 10,
-   "metrics": {
-    "points": 83,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50297697"
+    "points": 34,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50273504"
    }
   },
   {
@@ -225,123 +309,39 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T17:54:57Z",
-   "hot": 0.1,
-   "rank": 11,
+   "hot": 1.9,
+   "rank": 15,
    "metrics": {
-    "points": 8,
-    "comments": 0,
+    "points": 135,
+    "comments": 39,
     "discussion": "https://news.ycombinator.com/item?id=50263127"
    }
   },
   {
-   "rawId": "50290177",
-   "title": "LLM Voice",
-   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "rawId": "50251070",
+   "title": "Why a program doesn't work when run from a batch file, but works when clicked",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20261026-00/?p=112797/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "martinfowler.com"
+    "devblogs.microsoft.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T14:57:55Z",
-   "hot": 25.9,
-   "rank": 12,
-   "metrics": {
-    "points": 462,
-    "comments": 246,
-    "discussion": "https://news.ycombinator.com/item?id=50290177"
-   }
-  },
-  {
-   "rawId": "50300853",
-   "title": "'Elite North Korean hackers' blamed for $6.3B Binance hack",
-   "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "theguardian.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T07:41:13Z",
-   "hot": 16.2,
-   "rank": 13,
-   "metrics": {
-    "points": 18,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50300853"
-   }
-  },
-  {
-   "rawId": "50255573",
-   "title": "Python on My Wrist",
-   "url": "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tildeweb.nl"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T07:10:45Z",
-   "hot": 0.5,
-   "rank": 14,
-   "metrics": {
-    "points": 40,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50255573"
-   }
-  },
-  {
-   "rawId": "50297089",
-   "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-   "url": "https://journal.animationstudies.org/article/id/66/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "journal.animationstudies.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-29T22:26:38Z",
-   "hot": 11.0,
-   "rank": 15,
-   "metrics": {
-    "points": 114,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50297089"
-   }
-  },
-  {
-   "rawId": "50266956",
-   "title": "An illustrated online book on Hewlett-Packard equipment",
-   "url": "https://blog.adafruit.com/2026/10/27/an-illustrated-online-book-on-hewlett-packard-equipment/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.adafruit.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T22:47:41Z",
-   "hot": 0.3,
+   "publishedAt": "2026-10-26T21:14:43Z",
+   "hot": 0.9,
    "rank": 16,
    "metrics": {
-    "points": 16,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50266956"
+    "points": 80,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50251070"
    }
   },
   {
-   "rawId": "50298964",
-   "title": "Pico CSS is no longer maintained",
-   "url": "https://github.com/picocss/pico/discussions/754",
+   "rawId": "50298436",
+   "title": "Herdr has released native app",
+   "url": "https://github.com/herdrdev/herdr-app",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -350,55 +350,55 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-30T01:58:44Z",
-   "hot": 17.4,
+   "publishedAt": "2026-10-30T00:42:41Z",
+   "hot": 19.9,
    "rank": 17,
    "metrics": {
-    "points": 119,
-    "comments": 48,
-    "discussion": "https://news.ycombinator.com/item?id=50298964"
+    "points": 305,
+    "comments": 201,
+    "discussion": "https://news.ycombinator.com/item?id=50298436"
    }
   },
   {
-   "rawId": "50291116",
-   "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-   "url": "https://news.ycombinator.com/item?id=50291116",
+   "rawId": "50244486",
+   "title": "Commodore 1600 VICmodem",
+   "url": "https://dfarq.homeip.net/commodore-1600-vicmodem/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "Ask HN"
+    "dfarq.homeip.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T15:56:32Z",
-   "hot": 4.0,
+   "publishedAt": "2026-10-26T14:37:17Z",
+   "hot": 0.2,
    "rank": 18,
    "metrics": {
-    "points": 68,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50291116"
+    "points": 24,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50244486"
    }
   },
   {
-   "rawId": "50294702",
-   "title": "Patrick Stewart has died",
-   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-   "videoUrl": null,
+   "rawId": "50273104",
+   "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+   "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+   "videoUrl": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
    "category": "news",
    "tags": [
     "tech",
-    "nytimes.com"
+    "youtube.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-29T19:41:39Z",
-   "hot": 222.2,
+   "publishedAt": "2026-10-28T13:20:05Z",
+   "hot": 4.0,
    "rank": 19,
    "metrics": {
-    "points": 2913,
-    "comments": 616,
-    "discussion": "https://news.ycombinator.com/item?id=50294702"
+    "points": 203,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50273104"
    }
   }
  ]
