@@ -1,8 +1,26 @@
 {
- "updated": "2026-10-30T02:02:16Z",
+ "updated": "2026-10-30T08:48:05Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
+  {
+   "rawId": "patrick stewart",
+   "title": "Patrick Stewart",
+   "url": "https://en.wikipedia.org/wiki/Patrick_Stewart",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "English actor (1940–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Patrick_Stewart_1999.jpg/330px-Patrick_Stewart_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 2356552,
+   "rank": 1,
+   "metrics": {
+    "views": 2356552,
+    "change": 62325
+   }
+  },
   {
    "rawId": "2026 israeli legislative election",
    "title": "2026 Israeli legislative election",
@@ -14,101 +32,155 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 925801,
-   "rank": 1,
-   "metrics": {
-    "views": 925801,
-    "change": 111
-   }
-  },
-  {
-   "rawId": "susan saint james",
-   "title": "Susan Saint James",
-   "url": "https://en.wikipedia.org/wiki/Susan_Saint_James",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American actress (1946–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Susan_Saint_James_1970.JPG/330px-Susan_Saint_James_1970.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 200179,
+   "hot": 363543,
    "rank": 2,
    "metrics": {
-    "views": 200179,
-    "change": -33
+    "views": 363543,
+    "change": -61
    }
   },
   {
-   "rawId": "gadi eisenkot",
-   "title": "Gadi Eisenkot",
-   "url": "https://en.wikipedia.org/wiki/Gadi_Eisenkot",
+   "rawId": "sunny ozell",
+   "title": "Sunny Ozell",
+   "url": "https://en.wikipedia.org/wiki/Sunny_Ozell",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Israeli general and politician (born 1960). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Gadi_Eisenkot_2_%28cropped%29.jpg/330px-Gadi_Eisenkot_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American singer-songwriter (born 1978). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sunny_Ozell_-_5_-_Stierch.jpg/330px-Sunny_Ozell_-_5_-_Stierch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 186080,
+   "hot": 346682,
    "rank": 3,
    "metrics": {
-    "views": 186080,
-    "change": 4
+    "views": 346682,
+    "change": 43618
    }
   },
   {
-   "rawId": "dancing with the stars (american tv series) season 35",
-   "title": "Dancing with the Stars (American TV series) season 35",
-   "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
+   "rawId": "william contreras",
+   "title": "William Contreras",
+   "url": "https://en.wikipedia.org/wiki/William_Contreras",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Season of television series. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/ae/DWTS_US_Season_35_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "Venezuelan baseball player (born 1997). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/William_Contreras_stands_at_home_plate%2C_Aug_05_2022_%28cropped%29.jpg/330px-William_Contreras_stands_at_home_plate%2C_Aug_05_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 173121,
+   "hot": 228487,
    "rank": 4,
    "metrics": {
-    "views": 173121,
-    "change": 1067
+    "views": 228487,
+    "change": 677
    }
   },
   {
-   "rawId": "elizabeth holmes",
-   "title": "Elizabeth Holmes",
-   "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+   "rawId": "jacob misiorowski",
+   "title": "Jacob Misiorowski",
+   "url": "https://en.wikipedia.org/wiki/Jacob_Misiorowski",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American baseball player (born 2002). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jacob_Misiorowski.jpg/330px-Jacob_Misiorowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 143460,
+   "hot": 212900,
    "rank": 5,
    "metrics": {
-    "views": 143460,
-    "change": 0
+    "views": 212900,
+    "change": 1367
    }
   },
   {
-   "rawId": "ted bundy",
-   "title": "Ted Bundy",
-   "url": "https://en.wikipedia.org/wiki/Ted_Bundy",
+   "rawId": "patrick stewart on stage and screen",
+   "title": "Patrick Stewart on stage and screen",
+   "url": "https://en.wikipedia.org/wiki/Patrick_Stewart_on_stage_and_screen",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American serial killer (1946–1989). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Ted_Bundy_headshot.jpg/330px-Ted_Bundy_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Acting works of Sir Patrick Stewart. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/330px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 143369,
+   "hot": 212550,
    "rank": 6,
    "metrics": {
-    "views": 143369,
-    "change": 117
+    "views": 212550,
+    "change": 72443
+   }
+  },
+  {
+   "rawId": "bob uecker",
+   "title": "Bob Uecker",
+   "url": "https://en.wikipedia.org/wiki/Bob_Uecker",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American baseball player and broadcaster (1934–2025). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bob_Uecker_-_St._Louis_Cardinals_-_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 205548,
+   "rank": 7,
+   "metrics": {
+    "views": 205548,
+    "change": 204
+   }
+  },
+  {
+   "rawId": "pat murphy (baseball manager)",
+   "title": "Pat Murphy (baseball manager)",
+   "url": "https://en.wikipedia.org/wiki/Pat_Murphy_(baseball_manager)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American baseball manager (born 1958). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Pat_Murphy_on_May_20%2C_2013.jpg/330px-Pat_Murphy_on_May_20%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 196456,
+   "rank": 8,
+   "metrics": {
+    "views": 196456,
+    "change": 545
+   }
+  },
+  {
+   "rawId": "milwaukee brewers",
+   "title": "Milwaukee Brewers",
+   "url": "https://en.wikipedia.org/wiki/Milwaukee_Brewers",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Major League Baseball franchise in Milwaukee, Wisconsin. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/330px-Milwaukee_Brewers_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 185722,
+   "rank": 9,
+   "metrics": {
+    "views": 185722,
+    "change": 267
+   }
+  },
+  {
+   "rawId": "barbara barrie",
+   "title": "Barbara Barrie",
+   "url": "https://en.wikipedia.org/wiki/Barbara_Barrie",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actress and author (1931–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Barbara_Barrie_%22Breaking_Away%22_%281980_ABC_press_photo%29.jpg/330px-Barbara_Barrie_%22Breaking_Away%22_%281980_ABC_press_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 183737,
+   "rank": 10,
+   "metrics": {
+    "views": 183737,
+    "change": 266
    }
   },
   {
@@ -122,173 +194,47 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 142114,
-   "rank": 7,
-   "metrics": {
-    "views": 142114,
-    "change": -2
-   }
-  },
-  {
-   "rawId": "visionquest",
-   "title": "VisionQuest",
-   "url": "https://en.wikipedia.org/wiki/VisionQuest",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Marvel Studios television miniseries. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d5/VisionQuest_logo.jpg/330px-VisionQuest_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 136851,
-   "rank": 8,
-   "metrics": {
-    "views": 136851,
-    "change": 143
-   }
-  },
-  {
-   "rawId": "limonene",
-   "title": "Limonene",
-   "url": "https://en.wikipedia.org/wiki/Limonene",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Chemical compound. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Limonene.jpg/330px-Limonene.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 134230,
-   "rank": 9,
-   "metrics": {
-    "views": 134230,
-    "change": 126
-   }
-  },
-  {
-   "rawId": "jailer 2",
-   "title": "Jailer 2",
-   "url": "https://en.wikipedia.org/wiki/Jailer_2",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 134068,
-   "rank": 10,
-   "metrics": {
-    "views": 134068,
-    "change": -9
-   }
-  },
-  {
-   "rawId": "2022 israeli legislative election",
-   "title": "2022 Israeli legislative election",
-   "url": "https://en.wikipedia.org/wiki/2022_Israeli_legislative_election",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/2022_Israeli_legislative_election_%28results_by_district%2C_bloc_and_vote_percentage%29.svg/330px-2022_Israeli_legislative_election_%28results_by_district%2C_bloc_and_vote_percentage%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 133655,
+   "hot": 174215,
    "rank": 11,
    "metrics": {
-    "views": 133655,
-    "change": 98
+    "views": 174215,
+    "change": 23
    }
   },
   {
-   "rawId": "matthew perry",
-   "title": "Matthew Perry",
-   "url": "https://en.wikipedia.org/wiki/Matthew_Perry",
+   "rawId": "lewy body dementia",
+   "title": "Lewy body dementia",
+   "url": "https://en.wikipedia.org/wiki/Lewy_body_dementia",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American and Canadian actor (1969–2023). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg/330px-Matthew_Perry_in_support_of_Awareness_on_Drug_Courts_and_Reduced_Substance_Abuse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Umbrella term covering two types of dementia. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
-   "hot": 127771,
+   "hot": 161848,
    "rank": 12,
    "metrics": {
-    "views": 127771,
-    "change": 61
+    "views": 161848,
+    "change": 8132
    }
   },
   {
-   "rawId": "lamprey",
-   "title": "Lamprey",
-   "url": "https://en.wikipedia.org/wiki/Lamprey",
+   "rawId": "elizabeth holmes",
+   "title": "Elizabeth Holmes",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Class of jawless fish. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/J%C3%B5esilmud2.jpg/330px-J%C3%B5esilmud2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 127597,
+   "hot": 140836,
    "rank": 13,
    "metrics": {
-    "views": 127597,
-    "change": 18637
-   }
-  },
-  {
-   "rawId": "yashar (political party)",
-   "title": "Yashar (political party)",
-   "url": "https://en.wikipedia.org/wiki/Yashar_(political_party)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Israeli political party. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Yashar_party_logo.png/330px-Yashar_party_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 125428,
-   "rank": 14,
-   "metrics": {
-    "views": 125428,
-    "change": 35
-   }
-  },
-  {
-   "rawId": "benjamin netanyahu",
-   "title": "Benjamin Netanyahu",
-   "url": "https://en.wikipedia.org/wiki/Benjamin_Netanyahu",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Prime Minister of Israel (1996–1999; 2009–2021; 2022–present). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg/330px-Benjamin_Netanyahu%2C_February_2023_%28cropped%29%28b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 124772,
-   "rank": 15,
-   "metrics": {
-    "views": 124772,
-    "change": 35
-   }
-  },
-  {
-   "rawId": "joint list",
-   "title": "Joint List",
-   "url": "https://en.wikipedia.org/wiki/Joint_List",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Israeli electoral alliance, established in 2015. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Logo_of_the_Joint_List_%28Israel%29_2026_%28vector%29.svg/330px-Logo_of_the_Joint_List_%28Israel%29_2026_%28vector%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 119100,
-   "rank": 16,
-   "metrics": {
-    "views": 119100,
-    "change": 202
+    "views": 140836,
+    "change": -2
    }
   },
   {
@@ -302,29 +248,101 @@
    "summary": "American baseball player (born 2004). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/83/Cooper_Pratt_running_towards_first_during_game_2_of_the_2026_NLCS.jpg/330px-Cooper_Pratt_running_towards_first_during_game_2_of_the_2026_NLCS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 113736,
-   "rank": 17,
+   "hot": 130967,
+   "rank": 14,
    "metrics": {
-    "views": 113736,
-    "change": 1305
+    "views": 130967,
+    "change": 15
    }
   },
   {
-   "rawId": "flávio bolsonaro",
-   "title": "Flávio Bolsonaro",
-   "url": "https://en.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro",
+   "rawId": "ian mckellen",
+   "title": "Ian McKellen",
+   "url": "https://en.wikipedia.org/wiki/Ian_McKellen",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Brazilian politician (born 1981). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg/330px-Foto_oficial_do_senador_Fl%C3%A1vio_Bolsonaro_%28v._AgSen%29_%283x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "English actor (born 1939). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/330px-SDCC13_-_Ian_McKellen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 111517,
+   "hot": 127831,
+   "rank": 15,
+   "metrics": {
+    "views": 127831,
+    "change": 2243
+   }
+  },
+  {
+   "rawId": "jeffery simmons",
+   "title": "Jeffery Simmons",
+   "url": "https://en.wikipedia.org/wiki/Jeffery_Simmons",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American football player (born 1997). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2026_Tennessee_Titans_New_Jersey_Photo_Shoot_-_Jeffery_Simmons_%28cropped%29.png/330px-2026_Tennessee_Titans_New_Jersey_Photo_Shoot_-_Jeffery_Simmons_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 122632,
+   "rank": 16,
+   "metrics": {
+    "views": 122632,
+    "change": 4620
+   }
+  },
+  {
+   "rawId": "jailer 2",
+   "title": "Jailer 2",
+   "url": "https://en.wikipedia.org/wiki/Jailer_2",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 122337,
+   "rank": 17,
+   "metrics": {
+    "views": 122337,
+    "change": -9
+   }
+  },
+  {
+   "rawId": "wendy neuss",
+   "title": "Wendy Neuss",
+   "url": "https://en.wikipedia.org/wiki/Wendy_Neuss",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American television and film producer (born 1954). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Wendy_Neuss_yearbook.jpg/330px-Wendy_Neuss_yearbook.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 113901,
    "rank": 18,
    "metrics": {
-    "views": 111517,
-    "change": 44
+    "views": 113901,
+    "change": 38642
+   }
+  },
+  {
+   "rawId": "christian yelich",
+   "title": "Christian Yelich",
+   "url": "https://en.wikipedia.org/wiki/Christian_Yelich",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American baseball player (born 1991). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Yelich_4_61824_%28cropped%29.jpg/330px-Yelich_4_61824_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 102416,
+   "rank": 19,
+   "metrics": {
+    "views": 102416,
+    "change": 195
    }
   },
   {
@@ -335,32 +353,14 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "2026 documentary film. Among the most-read articles on Wikipedia yesterday.",
+   "summary": "2026 film by Nathan Fielder and Lance Oppenheim. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 109799,
-   "rank": 19,
-   "metrics": {
-    "views": 109799,
-    "change": -6
-   }
-  },
-  {
-   "rawId": "neatsville, kentucky",
-   "title": "Neatsville, Kentucky",
-   "url": "https://en.wikipedia.org/wiki/Neatsville%2C_Kentucky",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Unincorporated community in Kentucky, US. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 103137,
+   "hot": 99486,
    "rank": 20,
    "metrics": {
-    "views": 103137,
-    "change": 130
+    "views": 99486,
+    "change": -9
    }
   }
  ]
