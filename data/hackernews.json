@@ -1,31 +1,10 @@
 {
- "updated": "2026-10-31T13:45:05Z",
+ "updated": "2026-10-31T18:39:59Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50314654",
-   "title": "Serbia just elected the world's brainiest parliament",
-   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "science.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T10:21:30Z",
-   "hot": 118.5,
-   "rank": 1,
-   "metrics": {
-    "points": 402,
-    "comments": 234,
-    "discussion": "https://news.ycombinator.com/item?id=50314654"
-   }
-  },
-  {
    "rawId": "50314666",
-   "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
    "url": "https://piefed.world/post/1503394",
    "videoUrl": null,
    "category": "news",
@@ -36,12 +15,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-31T10:23:41Z",
-   "hot": 26.2,
+   "hot": 28.9,
+   "rank": 1,
+   "metrics": {
+    "points": 239,
+    "comments": 144,
+    "discussion": "https://news.ycombinator.com/item?id=50314666"
+   }
+  },
+  {
+   "rawId": "50318189",
+   "title": "UK Green party drops longstanding opposition to nuclear power",
+   "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "theguardian.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T17:37:22Z",
+   "hot": 73.8,
    "rank": 2,
    "metrics": {
-    "points": 88,
-    "comments": 49,
-    "discussion": "https://news.ycombinator.com/item?id=50314666"
+    "points": 77,
+    "comments": 41,
+    "discussion": "https://news.ycombinator.com/item?id=50318189"
    }
   },
   {
@@ -57,96 +57,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-31T10:30:11Z",
-   "hot": 26.8,
+   "hot": 30.9,
    "rank": 3,
    "metrics": {
-    "points": 87,
-    "comments": 36,
+    "points": 252,
+    "comments": 114,
     "discussion": "https://news.ycombinator.com/item?id=50314699"
    }
   },
   {
-   "rawId": "50314085",
-   "title": "Switch Lowering in GCC",
-   "url": "https://xoranth.net/gcc-switch/",
+   "rawId": "50317363",
+   "title": "Casio Watches of the 1980s",
+   "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "xoranth.net"
+    "casio.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-31T08:02:26Z",
-   "hot": 18.0,
+   "publishedAt": "2026-10-31T16:00:48Z",
+   "hot": 45.2,
    "rank": 4,
    "metrics": {
-    "points": 103,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50314085"
+    "points": 120,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50317363"
    }
   },
   {
-   "rawId": "50315226",
-   "title": "Prospero: A new coding harness for a more civilized age",
-   "url": "https://nullprogram.com/blog/2026/10/31/",
+   "rawId": "50274186",
+   "title": "Redox: Ring Buffers Project Summary",
+   "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nullprogram.com"
+    "redox-os.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-31T11:54:59Z",
-   "hot": 10.4,
+   "publishedAt": "2026-10-28T14:27:12Z",
+   "hot": 0.2,
    "rank": 5,
    "metrics": {
-    "points": 19,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50315226"
+    "points": 15,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50274186"
    }
   },
   {
-   "rawId": "50313661",
-   "title": "Digital Minimalism",
-   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "rawId": "50316100",
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "url": "https://jepsen.io/analyses/particledb-1.1.4",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "vitalik.eth.limo"
+    "jepsen.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-31T06:16:36Z",
-   "hot": 16.1,
+   "publishedAt": "2026-10-31T13:39:52Z",
+   "hot": 14.2,
    "rank": 6,
    "metrics": {
-    "points": 120,
-    "comments": 76,
-    "discussion": "https://news.ycombinator.com/item?id=50313661"
+    "points": 71,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50316100"
    }
   },
   {
-   "rawId": "50260753",
-   "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-   "url": "https://zebra.rodeo/en/blog/marelleo/",
+   "rawId": "50317484",
+   "title": "A/SIDE – Private photo sharing and encrypted messages",
+   "url": "https://a-side.social/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "zebra.rodeo"
+    "a-side.social"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-27T15:24:36Z",
-   "hot": 1.1,
+   "publishedAt": "2026-10-31T16:16:20Z",
+   "hot": 7.9,
    "rank": 7,
    "metrics": {
-    "points": 107,
-    "comments": 30,
-    "discussion": "https://news.ycombinator.com/item?id=50260753"
+    "points": 19,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50317484"
+   }
+  },
+  {
+   "rawId": "50271052",
+   "title": "Reading and writing are less symmetric than you (probably) think",
+   "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fgiesen.wordpress.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-28T09:38:07Z",
+   "hot": 0.6,
+   "rank": 8,
+   "metrics": {
+    "points": 46,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50271052"
    }
   },
   {
@@ -162,12 +183,180 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-27T16:01:06Z",
-   "hot": 0.1,
-   "rank": 8,
+   "hot": 1.5,
+   "rank": 9,
    "metrics": {
-    "points": 11,
-    "comments": 0,
+    "points": 144,
+    "comments": 35,
     "discussion": "https://news.ycombinator.com/item?id=50261253"
+   }
+  },
+  {
+   "rawId": "50314085",
+   "title": "Switch Lowering in GCC",
+   "url": "https://xoranth.net/gcc-switch/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "xoranth.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T08:02:26Z",
+   "hot": 15.9,
+   "rank": 10,
+   "metrics": {
+    "points": 169,
+    "comments": 31,
+    "discussion": "https://news.ycombinator.com/item?id=50314085"
+   }
+  },
+  {
+   "rawId": "50318442",
+   "title": "I post trained a model on Demoscenes",
+   "url": "https://datavorous.com/writing/demoscener/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "datavorous.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T18:08:24Z",
+   "hot": 3.0,
+   "rank": 11,
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50318442"
+   }
+  },
+  {
+   "rawId": "50314654",
+   "title": "Serbia just elected the world's brainiest parliament",
+   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "science.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T10:21:30Z",
+   "hot": 83.1,
+   "rank": 12,
+   "metrics": {
+    "points": 690,
+    "comments": 397,
+    "discussion": "https://news.ycombinator.com/item?id=50314654"
+   }
+  },
+  {
+   "rawId": "50316531",
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.talosintelligence.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T14:29:03Z",
+   "hot": 44.7,
+   "rank": 13,
+   "metrics": {
+    "points": 187,
+    "comments": 91,
+    "discussion": "https://news.ycombinator.com/item?id=50316531"
+   }
+  },
+  {
+   "rawId": "50313661",
+   "title": "Digital minimalism",
+   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "vitalik.eth.limo"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T06:16:36Z",
+   "hot": 19.2,
+   "rank": 14,
+   "metrics": {
+    "points": 238,
+    "comments": 181,
+    "discussion": "https://news.ycombinator.com/item?id=50313661"
+   }
+  },
+  {
+   "rawId": "50293806",
+   "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+   "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "jeffgeerling.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T18:33:40Z",
+   "hot": 0.1,
+   "rank": 15,
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50293806"
+   }
+  },
+  {
+   "rawId": "50300902",
+   "title": "Show HN: Ghostman – A fast, keyboard-driven TUI API client and webhook inspector",
+   "url": "https://github.com/4yk5/Ghostman",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T07:48:40Z",
+   "hot": 0.5,
+   "rank": 16,
+   "metrics": {
+    "points": 19,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50300902"
+   }
+  },
+  {
+   "rawId": "50317429",
+   "title": "What is a light-day? The milestone Voyager 1 is closing in on",
+   "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "science.nasa.gov"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T16:09:55Z",
+   "hot": 17.6,
+   "rank": 17,
+   "metrics": {
+    "points": 44,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50317429"
    }
   },
   {
@@ -183,243 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-29T15:29:48Z",
-   "hot": 1.9,
-   "rank": 9,
+   "hot": 3.0,
+   "rank": 18,
    "metrics": {
-    "points": 86,
-    "comments": 22,
+    "points": 156,
+    "comments": 35,
     "discussion": "https://news.ycombinator.com/item?id=50290652"
    }
   },
   {
-   "rawId": "50315990",
-   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+   "rawId": "50315226",
+   "title": "Prospero: A new coding harness for a more civilized age",
+   "url": "https://nullprogram.com/blog/2026/10/31/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "indiatoday.in"
+    "nullprogram.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-31T13:25:10Z",
-   "hot": 13.0,
-   "rank": 10,
-   "metrics": {
-    "points": 13,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50315990"
-   }
-  },
-  {
-   "rawId": "50303172",
-   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-   "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wired.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T12:50:01Z",
-   "hot": 19.9,
-   "rank": 11,
-   "metrics": {
-    "points": 497,
-    "comments": 351,
-    "discussion": "https://news.ycombinator.com/item?id=50303172"
-   }
-  },
-  {
-   "rawId": "50307190",
-   "title": "My favourite PowerMac is a Nintendo Wii",
-   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "virtuallyfun.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T17:25:15Z",
-   "hot": 16.4,
-   "rank": 12,
-   "metrics": {
-    "points": 333,
-    "comments": 98,
-    "discussion": "https://news.ycombinator.com/item?id=50307190"
-   }
-  },
-  {
-   "rawId": "50277379",
-   "title": "Cloudflare Turnstile solver library (no headless browser required)",
-   "url": "https://github.com/chris124567/cfsolve",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-28T17:29:23Z",
-   "hot": 3.7,
-   "rank": 13,
-   "metrics": {
-    "points": 252,
-    "comments": 80,
-    "discussion": "https://news.ycombinator.com/item?id=50277379"
-   }
-  },
-  {
-   "rawId": "50305025",
-   "title": "Northflank Breached",
-   "url": "https://status.northflank.com",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "status.northflank.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T15:10:31Z",
-   "hot": 20.2,
-   "rank": 14,
-   "metrics": {
-    "points": 455,
-    "comments": 330,
-    "discussion": "https://news.ycombinator.com/item?id=50305025"
-   }
-  },
-  {
-   "rawId": "50263837",
-   "title": "Breaking the open web won't stop the bad bots",
-   "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "techpolicy.press"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-27T18:42:55Z",
-   "hot": 3.1,
-   "rank": 15,
-   "metrics": {
-    "points": 286,
-    "comments": 125,
-    "discussion": "https://news.ycombinator.com/item?id=50263837"
-   }
-  },
-  {
-   "rawId": "50315574",
-   "title": "Why Anthropic's Filing Crushed Tech Stocks",
-   "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thebignewsletter.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T12:32:10Z",
-   "hot": 13.2,
-   "rank": 16,
-   "metrics": {
-    "points": 16,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50315574"
-   }
-  },
-  {
-   "rawId": "50312756",
-   "title": "Tell HN: Scribd Breached",
-   "url": "https://news.ycombinator.com/item?id=50312756",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T02:46:36Z",
-   "hot": 24.1,
-   "rank": 17,
-   "metrics": {
-    "points": 264,
-    "comments": 101,
-    "discussion": "https://news.ycombinator.com/item?id=50312756"
-   }
-  },
-  {
-   "rawId": "50300151",
-   "title": "Keeping the Bonfires Lit",
-   "url": "https://www.historytoday.com/archive/out-margins/keeping-bonfires-lit",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "historytoday.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T05:24:51Z",
-   "hot": 0.3,
-   "rank": 18,
-   "metrics": {
-    "points": 10,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50300151"
-   }
-  },
-  {
-   "rawId": "50305637",
-   "title": "Florilegium: Procedural Flowers in LaTeX",
-   "url": "https://github.com/kevinraymond/florilegium",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T15:48:12Z",
-   "hot": 14.6,
+   "publishedAt": "2026-10-31T11:54:59Z",
+   "hot": 22.7,
    "rank": 19,
    "metrics": {
-    "points": 321,
-    "comments": 49,
-    "discussion": "https://news.ycombinator.com/item?id=50305637"
+    "points": 153,
+    "comments": 101,
+    "discussion": "https://news.ycombinator.com/item?id=50315226"
    }
   },
   {
-   "rawId": "50309266",
-   "title": "The oldest ice disappears and the Stone Age emerges from it",
-   "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+   "rawId": "50260753",
+   "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+   "url": "https://zebra.rodeo/en/blog/marelleo/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "sciencenorway.no"
+    "zebra.rodeo"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-30T19:51:33Z",
-   "hot": 9.7,
+   "publishedAt": "2026-10-27T15:24:36Z",
+   "hot": 1.6,
    "rank": 20,
    "metrics": {
-    "points": 173,
-    "comments": 69,
-    "discussion": "https://news.ycombinator.com/item?id=50309266"
+    "points": 158,
+    "comments": 43,
+    "discussion": "https://news.ycombinator.com/item?id=50260753"
    }
   }
  ]

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:45:05Z",
+ "updated": "2026-10-31T18:39:59Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -66,7 +66,7 @@
    "metrics": {
     "artist": "KAROL G, Judeline & rusowsky",
     "rank": 3,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -89,7 +89,7 @@
    "metrics": {
     "artist": "Ella Langley",
     "rank": 4,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -136,7 +136,7 @@
    "metrics": {
     "artist": "Drake & Don Toliver",
     "rank": 6,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -159,7 +159,7 @@
    "metrics": {
     "artist": "Bobby \"Boris\" Pickett",
     "rank": 7,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -182,7 +182,7 @@
    "metrics": {
     "artist": "Ray Parker Jr.",
     "rank": 8,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -236,26 +236,26 @@
    }
   },
   {
-   "rawId": "6818209990",
-   "title": "Quebec",
-   "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
    "category": "music",
    "tags": [
-    "R&B/Soul"
+    "Country"
    ],
    "summary": "#11 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-02T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
    "hot": 15,
    "rank": 11,
    "metrics": {
-    "artist": "Drake",
+    "artist": "Morgan Wallen",
     "rank": 11,
-    "change": 3
+    "change": 2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/quebec/6818209777?i=6818209990"
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -274,7 +274,7 @@
    "metrics": {
     "artist": "Zach Bryan & Lana Del Rey",
     "rank": 12,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -282,26 +282,26 @@
    }
   },
   {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+   "rawId": "6818209990",
+   "title": "Quebec",
+   "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
    "category": "music",
    "tags": [
-    "Country"
+    "R&B/Soul"
    ],
    "summary": "#13 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
    "hot": 13,
    "rank": 13,
    "metrics": {
-    "artist": "Morgan Wallen",
+    "artist": "Drake",
     "rank": 13,
-    "change": -1
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+    "value": "https://embed.music.apple.com/us/album/quebec/6818209777?i=6818209990"
    }
   },
   {
@@ -320,7 +320,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 14,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -343,7 +343,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 15,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -366,7 +366,7 @@
    "metrics": {
     "artist": "Andrew Gold",
     "rank": 16,
-    "change": -3
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -435,34 +435,11 @@
    "metrics": {
     "artist": "Future",
     "rank": 19,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
-   }
-  },
-  {
-   "rawId": "1550875424",
-   "title": "Wicked Games",
-   "url": "https://music.apple.com/us/album/wicked-games/1550875218?i=1550875424",
-   "category": "music",
-   "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dc/e9/95/dce995ab-5287-cba4-4966-46d16bf1c072/21UMGIM06667.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2011-03-21T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "The Weeknd",
-    "rank": 20,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wicked-games/1550875218?i=1550875424"
    }
   },
   {
@@ -473,14 +450,14 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/400x400bb.jpg",
    "publishedAt": "2015-03-21T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Future",
-    "rank": 21,
+    "rank": 20,
     "change": 1
    },
    "embed": {
@@ -496,19 +473,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
+   "summary": "#21 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
    "publishedAt": "2026-09-17T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
+   "hot": 5,
+   "rank": 21,
    "metrics": {
     "artist": "Morgan Wallen",
-    "rank": 22,
-    "change": -3
+    "rank": 21,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+   }
+  },
+  {
+   "rawId": "1550875424",
+   "title": "Wicked Games",
+   "url": "https://music.apple.com/us/album/wicked-games/1550875218?i=1550875424",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dc/e9/95/dce995ab-5287-cba4-4966-46d16bf1c072/21UMGIM06667.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2011-03-21T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
+   "metrics": {
+    "artist": "The Weeknd",
+    "rank": 22,
+    "change": -2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/wicked-games/1550875218?i=1550875424"
    }
   },
   {
@@ -527,7 +527,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 23,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -550,7 +550,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 24,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -573,7 +573,7 @@
    "metrics": {
     "artist": "YoungBoy Never Broke Again",
     "rank": 25,
-    "change": "new"
+    "change": 0
    },
    "embed": {
     "kind": "music",

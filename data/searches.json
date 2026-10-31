@@ -1,250 +1,255 @@
 {
- "updated": "2026-10-31T13:45:05Z",
+ "updated": "2026-10-31T18:39:59Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "early voting near me",
-   "query": "early voting near me",
-   "traffic": "10000+",
-   "trafficNum": 10000,
-   "publishedAt": "2026-10-31T13:30:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbCywgyWlirlCQSs9ikdAHU-Es-dzrUlE58GxyJ1_k4lkWfDLyekqCmNBJgY",
+   "rawId": "stanford vs louisville",
+   "query": "stanford vs louisville",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-31T18:20:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTakUPGP-nSRslDNDBc9sRUYxuepC35J6Ifkk642pGHJw_pbAKIoYy1KgZW6mU",
    "news": [
     {
-     "title": "Kentucky early voting: How many people have voted so far in 2026 midterms?",
-     "url": "https://www.whas11.com/article/news/politics/elections/kentucky-early-voting-how-many-people-have-voted-so-far-in-2026-midterms/417-3fdd4df4-e2d0-4407-b5ff-a0368851c4dc",
+     "title": "Kickoff | Louisville vs. Stanford: How to watch, what to watch",
+     "url": "https://www.wdrbwave.com/2026/10/31/kickoff-louisville-vs-stanford-how-watch-what-watch/",
+     "source": "WDRB"
+    },
+    {
+     "title": "How to watch Louisville's Halloween matchup against Stanford",
+     "url": "https://www.whas11.com/article/sports/football/how-to-watch-louisvilles-halloween-matchup-against-stanford/417-c4b9d32e-d2f9-4729-b4d5-120ddc4968a8",
      "source": "WHAS11"
     },
     {
-     "title": "Early voting in Kentucky and Indiana | Where you can vote and when",
-     "url": "https://www.wlky.com/article/early-voting-kentucky-indiana-time-location/74296647",
-     "source": "WLKY"
-    },
-    {
-     "title": "Seeing long lines for Lexington early voting? Turnout close to a presidential election year",
-     "url": "https://www.kentucky.com/news/politics-government/article317848336.html",
-     "source": "Lexington Herald Leader"
+     "title": "Louisville vs. Stanford score today, ACC football game updates",
+     "url": "https://www.courier-journal.com/story/sports/college/louisville/2026/10/31/louisville-stanford-score-today-uofl-football-game-time-stats-live-updates/92330446007/",
+     "source": "The Courier-Journal"
     }
    ]
   },
   {
-   "rawId": "nick saban",
-   "query": "nick saban",
-   "traffic": "2000+",
-   "trafficNum": 2000,
-   "publishedAt": "2026-10-31T13:00:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5sJQzZFo28IwCWThVXVDsfe4551jDSJZpIzzDmdLqIPQXld2cg9FolP4CSps",
+   "rawId": "temple vs east carolina",
+   "query": "temple vs east carolina",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJv4KIINj4jSs9-kydry-bXsSlaMKdHbKWg-vbA8qcRcfED-TcmoUre_EBzzI",
    "news": [
     {
-     "title": "On Nick Saban’s 75th birthday, here are 15 dominant wins that proved he’s the GOAT",
-     "url": "https://www.al.com/alabamafootball/2026/10/on-nick-sabans-75th-birthday-here-are-15-dominant-wins-that-proved-hes-the-goat.html",
-     "source": "AL.com"
+     "title": "An Update From AD Jon Gilbert",
+     "url": "https://ecupirates.com/news/2026/10/29/general-an-update-from-ad-jon-gilbert",
+     "source": "East Carolina University Athletics"
     },
     {
-     "title": "Nick Saban’s Family Forced to Change Personal Plan Owing to His ESPN Gameday Commitment",
-     "url": "https://sports.yahoo.com/articles/nick-saban-family-forced-change-103000014.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "GameDay serenades Saban, while McAfee apologizes for being ‘offensive’ to former coach",
-     "url": "https://www.lehighvalleylive.com/sports/2026/10/gameday-serenades-saban-while-mcafee-apologizes-for-being-offensive-to-former-coach.html",
-     "source": "lehighvalleylive"
-    }
-   ]
-  },
-  {
-   "rawId": "el niño",
-   "query": "el niño",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-31T13:20:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKe-gW7JUhDhhpeZq6APufT2TJZn8o0WkrfmsR5BqUSPSRpDPee_CZNmN-gjM",
-   "news": [
-    {
-     "title": "Climate experts map potential Bay Area flood risks from El Niño",
-     "url": "https://abc7news.com/post/climate-experts-map-potential-bay-area-flood-risks-el-nio/19987179/",
-     "source": "ABC7 Bay Area"
-    },
-    {
-     "title": "Could El Niño trigger an 'ARkStorm?' California's flood risk explained",
-     "url": "https://www.usatoday.com/story/news/weather/2026/10/31/el-nino-arkstorm-california-atmospheric-river/92458956007/",
-     "source": "USA Today"
-    },
-    {
-     "title": "Ocean Beach flooding might hit S.F.’s Great Highway this winter amid El Niño",
-     "url": "https://www.sfchronicle.com/sf/article/el-nino-sf-flooding-great-highway-ocean-beach-22499464.php",
-     "source": "San Francisco Chronicle"
-    }
-   ]
-  },
-  {
-   "rawId": "iowa vs wisconsin prediction",
-   "query": "iowa vs wisconsin prediction",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-31T13:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmO9fyNGrzNMDRPWIzTUC1QfjH6FOKGaFCyR-B-tT_xdzzM8CPlIiN6obIEdo",
-   "news": [
-    {
-     "title": "No. 25 Wisconsin vs. Iowa: How to watch + betting odds",
-     "url": "https://www.buckys5thquarter.com/wisconsin-badgers-football/91477/wisconsin-badgers-football-news-how-to-watch-betting-odds-kickoff-time-iowa-hawkeyes-week-9",
-     "source": "Bucky's 5th Quarter"
-    },
-    {
-     "title": "Iowa vs. Wisconsin odds, picks, predictions, line, spread: Saturday college football betting preview",
-     "url": "https://www.cbssports.com/betting/news/iowa-vs-wisconsin-odds-picks-predictions-line-spread-saturday-college-football-betting-preview/",
-     "source": "CBS Sports"
-    },
-    {
-     "title": "Iowa football vs. Wisconsin: How to watch and stream the Hawkeyes' Halloween game",
-     "url": "https://www.kcci.com/article/iowa-football-wisconsin-tv-channel-watch-stream-fox-halloween/74249117",
-     "source": "KCCI"
-    }
-   ]
-  },
-  {
-   "rawId": "curt cignetti",
-   "query": "curt cignetti",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T13:30:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2vjVfz54gk5Ne9TjpcCoDRFSi3drEqF4C39Cg9X9NkuVeHKUoz3FoFLJh7qo",
-   "news": [
-    {
-     "title": "\"Sick\": Curt Cignetti Succumbs to \"Taxing\" Indiana Problem",
-     "url": "https://sports.yahoo.com/articles/sick-curt-cignetti-succumbs-taxing-113000104.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Watch: Cignetti joins McAfee, Rece Davis talks IU football with media",
-     "url": "https://www.thedailyhoosier.com/watch-cignetti-joins-mcafee-rece-davis-talks-iu-football-with-media/",
-     "source": "The Daily Hoosier"
-    },
-    {
-     "title": "Indiana football: Curt Cignetti's radio show notes (Oct. 29)",
-     "url": "https://247sports.com/college/indiana/longformarticle/indiana-iu-football-curt-cignetti-radio-show-notes-october-29-291925096/",
+     "title": "Countdown to Kickoff: ECU looks to bounce back against Temple",
+     "url": "https://247sports.com/college/temple/article/ecu-football-temple-countdown-to-kickoff-live-updates-scores-results-highlights-291967182/",
      "source": "247Sports"
+    },
+    {
+     "title": "Temple’s defense has defined its season — and not for the better. These numbers explain why.",
+     "url": "https://www.inquirer.com/college-sports/temple/kc-keeler-temple-football-defense-struggles-coaching-change-20261029.html",
+     "source": "Inquirer.com"
     }
    ]
   },
   {
-   "rawId": "bologna vs monza",
-   "query": "bologna vs monza",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T13:30:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4kHCxWY5j2u1pJamA3lupe6vYT7h2S0NDJ6C5GMf0cJEe_tK3G_BEKk3Mq0",
+   "rawId": "cal poly vs montana state",
+   "query": "cal poly vs montana state",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTAXUkHajUpC-TsBWUdVVlRVLUAidB3g0TLXbJO9SdU89Vb2Wm1tXDgfxD08jc",
    "news": [
     {
-     "title": "AC Milan v Inter and the tale of an iconic image",
-     "url": "https://www.bbc.com/sport/football/articles/cq99zlpzm87ro",
-     "source": "BBC"
+     "title": "How to watch the Montana and Montana State football games on Saturday, Oct. 31",
+     "url": "https://www.montanasports.com/college/how-to-watch-the-montana-and-montana-state-football-games-on-saturday-oct-31",
+     "source": "MontanaSports.com"
     },
     {
-     "title": "Serie A Liveblog: Milan vs. Inter, Udinese vs. Roma, Bologna vs. Monza",
-     "url": "https://sports.yahoo.com/articles/serie-liveblog-milan-vs-inter-130600662.html",
+     "title": "Vote for your favorite Play of the Week for Oct. 30, 2026",
+     "url": "https://nbcmontana.com/sports/vote-for-your-favorite-play-of-the-week-for-oct-30-2026",
+     "source": "NBC Montana"
+    },
+    {
+     "title": "Bobcats expect Cal Poly’s best as Skipper has Mustangs moving in the right direction",
+     "url": "https://skylinesportsmt.com/bobcats-expect-cal-polys-best-as-skipper-has-mustangs-moving-in-the-right-direction/",
+     "source": "Skyline Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "southern u vs florida a&m",
+   "query": "southern u vs florida a&m",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzgeC6w9eJXSGnBCiHrUiqcsndBVRiAtA44XxAip9fJOnCzN1sYDh7Zph_yVQ",
+   "news": [
+    {
+     "title": "FAMU football vs Southern live updates. Start time, TV, prediction",
+     "url": "https://www.tallahassee.com/story/sports/college/famu/2026/10/31/famu-southern-score-game-updates--live/92379073007/",
+     "source": "Tallahassee Democrat"
+    },
+    {
+     "title": "FAMU football's struggling run defense faces SWAC's top RB Trey Holly",
+     "url": "https://sports.yahoo.com/articles/famu-footballs-struggling-run-defense-090154668.html",
      "source": "Yahoo Sports"
     },
     {
-     "title": "How to watch Serie A: AC Milan face Inter in the Derby della Madonnina; Juventus host Napoli on Sunday",
-     "url": "https://www.cbssports.com/soccer/news/how-to-watch-serie-a-ac-milan-face-inter-in-the-derby-della-madonnina-juventus-host-napoli-on-sunday/",
-     "source": "CBS Sports"
+     "title": "LIVESTREAM NCAA FCS: Southern University Jaguars @ Florida A&M Rattlers, Oct. 31, 20:00 CET (8 pm, 3 pm ET)",
+     "url": "https://www.americanfootballinternational.com/livestream-ncaa-fcs-southern-university-jaguars-florida-am-rattlers-oct-31-2000-cet-8-pm-3-pm-et/",
+     "source": "American Football International"
     }
    ]
   },
   {
-   "rawId": "black mirror",
-   "query": "black mirror",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T13:30:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdRpLeFhXV1_nQNBAxyexjjqeUkOL3q1z0r9VqCjQvr-0kyA9Q3lRKtAiG4eY",
+   "rawId": "uconn vs air force",
+   "query": "uconn vs air force",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTtedz-wFPM738BZuH4H6C2EaKR527pK1PYE7VPMiBh3V4u6iQMyFoU5MuIKZs",
    "news": [
     {
-     "title": "Netflix's 34-Episode Dystopian Series Is So Good, Even Its Worst Episode Beats Most Sci-Fi Shows",
-     "url": "https://screenrant.com/black-mirror-worst-episode-still-good/",
-     "source": "ScreenRant"
+     "title": "UConn football vs. Air Force: Time, TV and what you need to know about the game",
+     "url": "https://www.ctinsider.com/sports/uconn-football/article/uconn-air-force-ncaa-football-huskies-falcons-22500921.php",
+     "source": "CT Insider"
     },
     {
-     "title": "Netflix’s 33-Episode Dystopian Sci-Fi Masters The Art Of Predicting Our Darkest Future",
-     "url": "https://screenrant.com/black-mirror-netflix-predict-darkest-future/",
-     "source": "ScreenRant"
+     "title": "Air Force schedule complications led to UConn tilt, create ’27 concern",
+     "url": "https://gazette.com/2026/10/28/air-force-schedule-complications-led-to-uconn-tilt-create-27-concern/",
+     "source": "Colorado Springs Gazette"
+    },
+    {
+     "title": "Dom Amore: Can UConn football make another victory appear out of thin air?",
+     "url": "https://www.courant.com/2026/10/29/dom-amore-can-uconn-football-make-another-victory-appear-out-of-thin-air/",
+     "source": "Hartford Courant"
     }
    ]
   },
   {
-   "rawId": "villanova basketball",
-   "query": "villanova basketball",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T13:20:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaUrVNjz81yRpNalmwwM4W_ks8mZtuBPPdGino6LsR8kn3sX-gH9Ng1_SSwCQ",
+   "rawId": "la tech vs south alabama",
+   "query": "la tech vs south alabama",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQM4davuU2OPpNAfHLpcK4ztOSyVixThdX74KL96HL0juv3erZkBICnKFioPec",
    "news": [
     {
-     "title": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas",
-     "url": "https://apnews.com/article/vatican-pope-leo-villanova-notre-dame-college-basketball-3bb26f5b2b1bc2bd808b2dde13f585cb",
-     "source": "AP News"
+     "title": "Louisiana Tech vs South Alabama Prediction, Pick, College Football Odds for Saturday, October 31",
+     "url": "https://sports.yahoo.com/articles/louisiana-tech-vs-south-alabama-101119379.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "How Notre Dame basketball’s trip came about to play Villanova in Rome — and potentially meet Pope Leo XIV",
-     "url": "https://www.chicagotribune.com/2026/10/30/notre-dame-villanova-basketball-rome-pope-leo/",
-     "source": "Chicago Tribune"
+     "title": "Bulldogs travel to South Alabama for key Sun Belt Conference West Division showdown",
+     "url": "https://lincolnparishjournal.com/2026/10/31/bulldogs-travel-to-south-alabama-for-key-sun-belt-conference-west-division-showdown/",
+     "source": "Lincoln Parish Journal"
     },
     {
-     "title": "Pope: In an age marked by distance, sports bring people together",
-     "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-villanova-notre-dame-university-basketball-game-saints.html",
-     "source": "Vatican News"
+     "title": "Scouting report: What you need to know for South Alabama’s game vs. Louisiana Tech",
+     "url": "https://www.al.com/sports/2026/10/scouting-report-what-you-need-to-know-for-south-alabamas-game-vs-louisiana-tech.html",
+     "source": "AL.com"
     }
    ]
   },
   {
-   "rawId": "ahmad hardy",
-   "query": "ahmad hardy",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T13:20:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXREzUtdP_tMiyx8COLNogQx4ROoFN3n3sCl6ZmTqk7ZSrf61tHjhZYhwLaac",
+   "rawId": "pelea de canelo",
+   "query": "pelea de canelo",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBP3D-ldnpZD3XGF2WjqYClARQnCb9kGDw3OBw2-2cy8oBr0PlPCdawNvDOws",
    "news": [
     {
-     "title": "Sources -- Missouri RB Hardy to make season debut vs. Arkansas",
-     "url": "https://www.espn.com/college-football/story/_/id/50321651/sources-missouri-rb-hardy-make-season-debut-vs-arkansas",
-     "source": "ESPN"
+     "title": "Canelo vs. Mbilli: Sigue en vivo la pelea, resultados y más",
+     "url": "https://espndeportes.espn.com/boxeo/nota/_/id/17452423/canelo-vs-mbilli-en-vivo-resultados-pelea-boxeo",
+     "source": "ESPN Deportes"
     },
     {
-     "title": "Mizzou running back Ahmad Hardy to play Saturday at Arkansas, per reports",
-     "url": "https://www.columbiamissourian.com/sports/mizzou_football/mizzou-running-back-ahmad-hardy-to-play-saturday-at-arkansas-per-reports/article_425e884b-a56d-483d-bf05-1976973c4e45.html",
-     "source": "Columbia Missourian"
+     "title": "Las 3 razones para no perderse el combate entre Saúl \"Canelo\" Álvarez y Christian Mbilli",
+     "url": "https://cnnespanol.cnn.com/2026/10/30/deportes/pelea-canelo-alvarez-christian-mbili-como-ver-orix",
+     "source": "CNN en Español"
     },
     {
-     "title": "Ahmad Hardy returning for Missouri: Star RB set for season debut after recovering from gunshot wound",
-     "url": "https://www.cbssports.com/college-football/news/ahmad-hardy-missouri-debut-2026-injury-gunshot-wound-arkansas/",
-     "source": "CBS Sports"
+     "title": "Canelo Álvarez vs. Christian Mbilli, en vivo: horario, canales y streaming para ver la pelea en Arabia Saudita",
+     "url": "https://es-us.noticias.yahoo.com/deportes/canelo-%C3%A1lvarez-vs-christian-mbilli-173424647.html",
+     "source": "Yahoo"
     }
    ]
   },
   {
-   "rawId": "can i vote today",
-   "query": "can i vote today",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T13:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNYBfpQ1u2uNr6PakaLPcZ2HSNpblGgpTXM4Lymn-5uLM15uVZc-P4-2LU4Y",
+   "rawId": "del state vs norfolk state",
+   "query": "del state vs norfolk state",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQb9KnAxJhVaZZJ9auGwBJ_yQo8upduo88iq-XowdaY1V9nwaaopwBnP35518Y",
    "news": [
     {
-     "title": "Early Voting Ends Today | Here's everything you need to know before Election Day",
-     "url": "https://www.kcentv.com/article/news/politics/elections/early-voting-ends-everything-you-need-election-day-vote-ballot-guide/500-e4e32adf-5a26-4e3f-ae31-51f2bc1f05b4",
-     "source": "kcentv.com"
+     "title": "One Philly HBCU Classic continues Saturday",
+     "url": "https://www.cbsnews.com/philadelphia/video/one-philly-hbcu-classic-continues-saturday/",
+     "source": "CBS News"
     },
     {
-     "title": "Today is the last day to vote early in Texas as Harris County nears major milestone",
-     "url": "https://www.khou.com/article/news/politics/elections/when-is-the-last-day-to-vote-early-texas/285-0a7f3f28-b64e-439a-a182-51216c219033",
-     "source": "KHOU"
+     "title": "Today's College football preview: DELAWARE STATE (4-4) vs. NORFOLK STATE (4-4)",
+     "url": "https://baytobaynews.com/middletownsmyrna/stories/todays-college-football-preview-delaware-state-4-4-vs-norfolk-state-4-4,358806",
+     "source": "Bay to Bay News"
     },
     {
-     "title": "Harris County breaks early voting records for a midterm election",
-     "url": "https://www.houstonchronicle.com/politics/texas-take/article/harris-county-voter-turnout-22501181.php",
-     "source": "Houston Chronicle"
+     "title": "‘Oh heck, no!’: Michael Vick and DeSean Jackson didn’t plan on coaching. Doug Pederson sees why they did.",
+     "url": "https://www.inquirer.com/college-sports/doug-pederson-michael-vick-desean-jackson-eagles-former-coaches-20261030.html",
+     "source": "Inquirer.com"
+    }
+   ]
+  },
+  {
+   "rawId": "prince harry meghan uk visits",
+   "query": "prince harry meghan uk visits",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThAUXOxQFKIuwv0uJW8jnLviHLMpVwLgxJa3GYNpDcU_mu-a-DKseFhvZt6xw",
+   "news": [
+    {
+     "title": "Kate Middleton and Prince William Once “Suggested” Prince Archie and Princess Lilibet Reunite With Their Cousins Amid Family Tension",
+     "url": "https://www.instyle.com/kate-middleton-prince-william-suggested-meghan-markle-prince-harry-bring-kids-visit-12196422",
+     "source": "InStyle"
+    },
+    {
+     "title": "Inside Prince William and Kate Middleton’s Quiet Peace Offering to Prince Harry and Meghan Markle",
+     "url": "https://www.istitutoimpariamo.it/inside-prince-william-and-kate-middletons-quiet-peace-offering-to-prince-harry-and-meghan-markle/",
+     "source": "Istituto Impariamo"
+    },
+    {
+     "title": "Meghan Markle’s Firm Condition for Returning to the UK Revealed: Why the Sussexes Refuse to Stay with the Royal Family",
+     "url": "https://www.istitutoimpariamo.it/meghan-markles-firm-condition-for-returning-to-the-uk-revealed-why-the-sussexes-refuse-to-stay-with-the-royal-family/",
+     "source": "Istituto Impariamo"
+    }
+   ]
+  },
+  {
+   "rawId": "ysu football",
+   "query": "ysu football",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-31T18:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgEnz98M4-rmA69apcNqxmlnE5A5KiXwZXmN2p91VCiTtEGOM8Pgtp63kjxlE",
+   "news": [
+    {
+     "title": "Illinois State Redbirds vs Youngstown State Penguins Prediction, Picks, Prop Bets For November 14, 2026 - NCAAF",
+     "url": "https://www.covers.com/sport/football/ncaaf/matchup/378819/picks",
+     "source": "Covers.com"
+    },
+    {
+     "title": "UND football in the middle of string of Top 10 clashes",
+     "url": "https://www.grandforksherald.com/sports/college/und-football-in-the-middle-of-string-of-top-10-clashes",
+     "source": "Grand Forks Herald"
+    },
+    {
+     "title": "North Dakota vs. Youngstown State: Prediction, How to Watch",
+     "url": "https://globelynews.com/americas/north-dakota-vs-youngstown-state-prediction-how-to-watch/",
+     "source": "Globely News"
     }
    ]
   }
