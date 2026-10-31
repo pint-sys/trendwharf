@@ -1,255 +1,250 @@
 {
- "updated": "2026-10-31T07:08:27Z",
+ "updated": "2026-10-31T13:45:05Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "las vegas flash flooding",
-   "query": "las vegas flash flooding",
+   "rawId": "early voting near me",
+   "query": "early voting near me",
+   "traffic": "10000+",
+   "trafficNum": 10000,
+   "publishedAt": "2026-10-31T13:30:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmbCywgyWlirlCQSs9ikdAHU-Es-dzrUlE58GxyJ1_k4lkWfDLyekqCmNBJgY",
+   "news": [
+    {
+     "title": "Kentucky early voting: How many people have voted so far in 2026 midterms?",
+     "url": "https://www.whas11.com/article/news/politics/elections/kentucky-early-voting-how-many-people-have-voted-so-far-in-2026-midterms/417-3fdd4df4-e2d0-4407-b5ff-a0368851c4dc",
+     "source": "WHAS11"
+    },
+    {
+     "title": "Early voting in Kentucky and Indiana | Where you can vote and when",
+     "url": "https://www.wlky.com/article/early-voting-kentucky-indiana-time-location/74296647",
+     "source": "WLKY"
+    },
+    {
+     "title": "Seeing long lines for Lexington early voting? Turnout close to a presidential election year",
+     "url": "https://www.kentucky.com/news/politics-government/article317848336.html",
+     "source": "Lexington Herald Leader"
+    }
+   ]
+  },
+  {
+   "rawId": "nick saban",
+   "query": "nick saban",
    "traffic": "2000+",
    "trafficNum": 2000,
-   "publishedAt": "2026-10-31T06:40:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQtdOUtpE_Gg8rm3E2zhvpFN4Z9RwJ5alT-92oiE2M-nTKem_O1eRz-oIInjZg",
+   "publishedAt": "2026-10-31T13:00:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5sJQzZFo28IwCWThVXVDsfe4551jDSJZpIzzDmdLqIPQXld2cg9FolP4CSps",
    "news": [
     {
-     "title": "FIRST ALERT WEATHER: Heavy floods hit Las Vegas valley on Friday",
-     "url": "https://www.fox5vegas.com/2026/10/30/rain-chances-return-las-vegas-halloween-weekend/",
-     "source": "FOX5 Vegas"
+     "title": "On Nick Saban’s 75th birthday, here are 15 dominant wins that proved he’s the GOAT",
+     "url": "https://www.al.com/alabamafootball/2026/10/on-nick-sabans-75th-birthday-here-are-15-dominant-wins-that-proved-hes-the-goat.html",
+     "source": "AL.com"
     },
     {
-     "title": "Heavy rain, flooding and hail hit parts of Las Vegas valley",
-     "url": "https://news3lv.com/news/local/heavy-rain-flooding-and-hail-hit-parts-of-las-vegas-valley",
-     "source": "KSNV"
-    },
-    {
-     "title": "1 dead in Henderson after heavy rain triggers three water rescue operations",
-     "url": "https://www.reviewjournal.com/local/weather/flood-advisory-issued-for-southeast-las-vegas-valley-3907228/",
-     "source": "Las Vegas Review-Journal"
-    }
-   ]
-  },
-  {
-   "rawId": "hk vs pak",
-   "query": "hk vs pak",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-10-31T05:50:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfAr_dCwXnDmWoCiRm6u532BeBD2t0a92yTxkiJ5cm2yn76Ft7ow_6e4LqEvo",
-   "news": [
-    {
-     "title": "Seriously? Pakistan PM trolled for celebrating Hong Kong Sixes win over India",
-     "url": "https://www.indiatoday.in/sports/cricket/story/shehbaz-sharif-trolled-pakistan-beat-india-hong-kong-sixes-2026-3028937-2026-10-30",
-     "source": "India Today"
-    },
-    {
-     "title": "India's Batting Falters in Hong Kong Sixes Loss to Pakistan",
-     "url": "https://www.rediff.com/cricket/report/hong-kong-international-sixes-india-lose-to-pakistan-by-four-wickets/20261030.htm",
-     "source": "Rediff"
-    },
-    {
-     "title": "Krunal Pandya doesn't shake hands with Pakistan's Abbas Afridi, then concedes five sixes to him",
-     "url": "https://gulfnews.com/sport/krunal-pandya-doesnt-shake-hands-with-pakistans-abbas-afridi-then-concedes-five-sixes-to-him-1.500729778",
-     "source": "Gulf News"
-    }
-   ]
-  },
-  {
-   "rawId": "ryan garcia",
-   "query": "ryan garcia",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-10-31T05:50:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpJZjLSG4WdMTsIM1j2OtB9hBTxcgQlbX8NkHkAvJXHZeLPUaF_dOUOFGbLkI",
-   "news": [
-    {
-     "title": "‘Almost like a 50/50 fight’: Oscar De La Hoya talks Ryan Garcia vs Floyd Mayweather and more",
-     "url": "https://www.badlefthook.com/boxing-news/119988/oscar-de-la-hoya-talks-ryan-garcia-vs-floyd-mayweather-and-more-boxing-news-2026",
-     "source": "Bad Left Hook"
-    },
-    {
-     "title": "Ryan Garcia gives Floyd Mayweather final ultimatum to make comeback fight happen: \"Let's do it\"",
-     "url": "https://boxingnewsonline.net/news/garcia-gives-mayweather-final-ultimatum/",
-     "source": "Boxing News Online"
-    },
-    {
-     "title": "The undisputed welterweight crown is taking shape for Ryan Garcia and Devin Haney",
-     "url": "https://www.dazn.com/en-US/news/boxing/undisputed-welterweight-division-ryan-garcia-teofimo-lopez-devin-haney-liam-paro/1va4h0cea2dyo1b8vywajhapxc",
-     "source": "DAZN"
-    }
-   ]
-  },
-  {
-   "rawId": "sanjay gupta",
-   "query": "sanjay gupta",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T06:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQpKD8mSYhN3g7owC4h84w4W5xE4iEbq3ft0UNMaZ9X0PXXDrvRtFjGTbPhsM",
-   "news": [
-    {
-     "title": "Filmmaker Sanjay Gupta passes away at 57; Kamaal R Khan mourns the 'Kaante' director's demise, says, 'You",
-     "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/filmmaker-sanjay-gupta-passes-away-at-57-kamaal-r-khan-mourns-the-kaante-directors-demise-says-you-were-so-knowledgeable-about-everything/articleshow/135390223.cms",
-     "source": "The Times of India"
-    },
-    {
-     "title": "Director Sanjay Gupta, Known For Kaante And Zinda, Dies At 59 After Suffering A Fall",
-     "url": "https://www.ndtv.com/entertainment/filmmaker-sanjay-gupta-dies-at-57-after-suffering-a-fatal-fall-at-home-12262412",
-     "source": "NDTV"
-    },
-    {
-     "title": "Kaante director Sanjay Gupta dies at 57 after suffering a head injury at home",
-     "url": "https://indianexpress.com/article/entertainment/bollywood/sanjay-gupta-dies-at-57-accidental-fall-head-injury-10944535/",
-     "source": "The Indian Express"
-    }
-   ]
-  },
-  {
-   "rawId": "mia pohankova",
-   "query": "mia pohankova",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T06:20:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTmrOi8NezWfMlkXkzYi8wWiZd-q-YDtzksxc7nbW4ncKol3T8DLlfyUAtAsZk",
-   "news": [
-    {
-     "title": "Naomi Osaka suffers her worst defeat in nearly two years as her season ends at the Tokyo Open",
-     "url": "https://sports.yahoo.com/articles/naomi-osaka-suffers-her-worst-090000500.html",
+     "title": "Nick Saban’s Family Forced to Change Personal Plan Owing to His ESPN Gameday Commitment",
+     "url": "https://sports.yahoo.com/articles/nick-saban-family-forced-change-103000014.html",
      "source": "Yahoo Sports"
     },
     {
-     "title": "Naomi Osaka ousted from Tokyo tournament by 18-year-old Mia Pohankova",
-     "url": "https://www.espn.com/tennis/story/_/id/50316467/osaka-knocked-tokyo-18-year-old-rybakina-advances",
-     "source": "ESPN"
-    },
-    {
-     "title": "Pohankova delivers career-best performance to oust Osaka in Tokyo",
-     "url": "https://www.wtatennis.com/news/4600609/pohankova-delivers-career-best-performance-to-oust-osaka-in-tokyo",
-     "source": "WTA Tennis"
+     "title": "GameDay serenades Saban, while McAfee apologizes for being ‘offensive’ to former coach",
+     "url": "https://www.lehighvalleylive.com/sports/2026/10/gameday-serenades-saban-while-mcafee-apologizes-for-being-offensive-to-former-coach.html",
+     "source": "lehighvalleylive"
     }
    ]
   },
   {
-   "rawId": "violetta mailyan",
-   "query": "violetta mailyan",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-10-31T06:10:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKVdnJCqZIUBR-wBpGQstP8jowmS5PLMGrcbvUArD-BTGcmeN06SwVIHFyV2g",
+   "rawId": "el niño",
+   "query": "el niño",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-31T13:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKe-gW7JUhDhhpeZq6APufT2TJZn8o0WkrfmsR5BqUSPSRpDPee_CZNmN-gjM",
    "news": [
     {
-     "title": "Southern California doctor sentenced to prison for $45 million Medicare fraud scheme",
-     "url": "https://ktla.com/news/local-news/socal-doctor-45-million-medicare-fraud-scheme/",
-     "source": "KTLA"
+     "title": "Climate experts map potential Bay Area flood risks from El Niño",
+     "url": "https://abc7news.com/post/climate-experts-map-potential-bay-area-flood-risks-el-nio/19987179/",
+     "source": "ABC7 Bay Area"
     },
     {
-     "title": "LA County doctor sentenced to 15 years in prison for $45 million Botox injection fraud scheme",
-     "url": "https://www.cbsnews.com/losangeles/video/la-county-doctor-sentenced-to-15-years-in-prison-for-45-million-botox-injection-fraud-scheme/",
-     "source": "CBS News"
-    },
-    {
-     "title": "LA botox doctor learns fate for $45M Medicare scheme that funded luxury vacations",
-     "url": "https://www.yahoo.com/news/us/articles/la-botox-doctor-learns-fate-012236328.html",
-     "source": "Yahoo"
-    }
-   ]
-  },
-  {
-   "rawId": "halloween candy undeclared milk allergen",
-   "query": "halloween candy undeclared milk allergen",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-31T06:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSronNNVyCb6npVJWUDR6FyiYBGCnnLwwdeFz70ZafjTyxdZZRShZviCb-cf5Y",
-   "news": [
-    {
-     "title": "Halloween recalls: Check your candy, costumes and toys",
-     "url": "https://www.usatoday.com/story/money/consumer-protection/recalls-alerts/2026/10/30/halloween-recalls-2026-candy-costumes-toys/92516628007/",
+     "title": "Could El Niño trigger an 'ARkStorm?' California's flood risk explained",
+     "url": "https://www.usatoday.com/story/news/weather/2026/10/31/el-nino-arkstorm-california-atmospheric-river/92458956007/",
      "source": "USA Today"
     },
     {
-     "title": "List of Halloween products, candy recalled ahead of October 31",
-     "url": "https://www.yahoo.com/news/us/articles/list-halloween-products-candy-recalled-100000713.html",
-     "source": "Yahoo"
-    },
-    {
-     "title": "Halloween safety: beware of these CANDY RECALLS as of 10/30/26.",
-     "url": "https://www.dailykos.com/stories/2026/10/30/800120001/community/safety-not-to-put-a-damper-on-halloween-but-candy-recalls-to-be-aware-of/",
-     "source": "Daily Kos"
+     "title": "Ocean Beach flooding might hit S.F.’s Great Highway this winter amid El Niño",
+     "url": "https://www.sfchronicle.com/sf/article/el-nino-sf-flooding-great-highway-ocean-beach-22499464.php",
+     "source": "San Francisco Chronicle"
     }
    ]
   },
   {
-   "rawId": "elena pridankina",
-   "query": "elena pridankina",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-31T06:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMt8Y9QJrHGWrBzHkcLTF4Hf_4HTfCpszF5WLCCm-QuLwZfm_VUy6U1s7gcYk",
+   "rawId": "iowa vs wisconsin prediction",
+   "query": "iowa vs wisconsin prediction",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-10-31T13:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmO9fyNGrzNMDRPWIzTUC1QfjH6FOKGaFCyR-B-tT_xdzzM8CPlIiN6obIEdo",
    "news": [
     {
-     "title": "October 31, 2026: Pridankina vs Gorgodze Tennis Prediction Market",
-     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/pridankina-vs-gorgodze-oct-31-2026/",
-     "source": "Robinhood"
+     "title": "No. 25 Wisconsin vs. Iowa: How to watch + betting odds",
+     "url": "https://www.buckys5thquarter.com/wisconsin-badgers-football/91477/wisconsin-badgers-football-news-how-to-watch-betting-odds-kickoff-time-iowa-hawkeyes-week-9",
+     "source": "Bucky's 5th Quarter"
     },
     {
-     "title": "October 31, 2026: Vacherot vs Fritz Tennis Prediction Market",
-     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/vacherot-vs-fritz-oct-31-2026/",
-     "source": "Robinhood"
+     "title": "Iowa vs. Wisconsin odds, picks, predictions, line, spread: Saturday college football betting preview",
+     "url": "https://www.cbssports.com/betting/news/iowa-vs-wisconsin-odds-picks-predictions-line-spread-saturday-college-football-betting-preview/",
+     "source": "CBS Sports"
     },
     {
-     "title": "Elena Pridankina vs Ekaterine Gorgodze - Match WTA - Prudential Hong Kong Tennis Open 1970 - qualifying-1st-round",
-     "url": "https://www.tennismajors.com/matches/wta/prudential-hong-kong-tennis-open/elena-pridankina-vs-ekaterine-gorgodze",
-     "source": "tennismajors.com"
+     "title": "Iowa football vs. Wisconsin: How to watch and stream the Hawkeyes' Halloween game",
+     "url": "https://www.kcci.com/article/iowa-football-wisconsin-tv-channel-watch-stream-fox-halloween/74249117",
+     "source": "KCCI"
     }
    ]
   },
   {
-   "rawId": "tom hanks",
-   "query": "tom hanks",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-31T06:00:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg9VlNNTMcAo5o4WrY65RfAOBt_2buZ9WV0Olc37wZdK-Uq9oBwOUHbwzPPVc",
+   "rawId": "curt cignetti",
+   "query": "curt cignetti",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-31T13:30:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2vjVfz54gk5Ne9TjpcCoDRFSi3drEqF4C39Cg9X9NkuVeHKUoz3FoFLJh7qo",
    "news": [
     {
-     "title": "This Tom Hanks Movie Won Best Picture & Made $678 Million, Yet Reportedly Lost $62 Million",
-     "url": "https://www.imdb.com/news/ni66087265/?ref_=ttnw_art_perm",
-     "source": "IMDb"
+     "title": "\"Sick\": Curt Cignetti Succumbs to \"Taxing\" Indiana Problem",
+     "url": "https://sports.yahoo.com/articles/sick-curt-cignetti-succumbs-taxing-113000104.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "DYK Tom Hanks' Forrest Gump Was Reported As A FLOP",
-     "url": "https://www.zoomtventertainment.com/bollywood/forrest-gump-paramount-accounting-loss-controversy-article-156436682",
-     "source": "Zoom TV"
+     "title": "Watch: Cignetti joins McAfee, Rece Davis talks IU football with media",
+     "url": "https://www.thedailyhoosier.com/watch-cignetti-joins-mcafee-rece-davis-talks-iu-football-with-media/",
+     "source": "The Daily Hoosier"
     },
     {
-     "title": "Tom Hanks made Connecticut laugh. John Mayer came home",
-     "url": "https://www.ctinsider.com/shorelineentertainment/article/tom-hanks-john-mayer-connecticut-celebrities-22501216.php",
-     "source": "CT Insider"
+     "title": "Indiana football: Curt Cignetti's radio show notes (Oct. 29)",
+     "url": "https://247sports.com/college/indiana/longformarticle/indiana-iu-football-curt-cignetti-radio-show-notes-october-29-291925096/",
+     "source": "247Sports"
     }
    ]
   },
   {
-   "rawId": "xavier becerra",
-   "query": "xavier becerra",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-10-31T06:00:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsLgfEyf-pPiT1L2BgZbSHl0ys8tmDqWpgIME4mFy1-MQKsNwWaTgEMUIeGUM",
+   "rawId": "bologna vs monza",
+   "query": "bologna vs monza",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-31T13:30:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO4kHCxWY5j2u1pJamA3lupe6vYT7h2S0NDJ6C5GMf0cJEe_tK3G_BEKk3Mq0",
    "news": [
     {
-     "title": "Steve Hilton Tries Anything as a G.O.P. Long Shot in California",
-     "url": "https://www.nytimes.com/2026/10/30/us/hilton-california-governor.html",
-     "source": "The New York Times"
+     "title": "AC Milan v Inter and the tale of an iconic image",
+     "url": "https://www.bbc.com/sport/football/articles/cq99zlpzm87ro",
+     "source": "BBC"
     },
     {
-     "title": "Becerra widens lead in governor’s race as voter focus shifts to Trump, new poll shows",
-     "url": "https://www.latimes.com/california/story/2026-10-30/becerra-widens-lead-in-governors-race-as-voter-focus-shifts-to-trump-new-poll-shows",
-     "source": "Los Angeles Times"
+     "title": "Serie A Liveblog: Milan vs. Inter, Udinese vs. Roma, Bologna vs. Monza",
+     "url": "https://sports.yahoo.com/articles/serie-liveblog-milan-vs-inter-130600662.html",
+     "source": "Yahoo Sports"
     },
     {
-     "title": "$3 a gallon, 150 cars: Hilton’s Sanger fuel giveaway put affordability in gear",
-     "url": "https://kmph.com/news/local/3-a-gallon-150-cars-hiltons-sanger-fuel-giveaway-put-affordability-in-gear",
-     "source": "KMPH Fox 26"
+     "title": "How to watch Serie A: AC Milan face Inter in the Derby della Madonnina; Juventus host Napoli on Sunday",
+     "url": "https://www.cbssports.com/soccer/news/how-to-watch-serie-a-ac-milan-face-inter-in-the-derby-della-madonnina-juventus-host-napoli-on-sunday/",
+     "source": "CBS Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "black mirror",
+   "query": "black mirror",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-31T13:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdRpLeFhXV1_nQNBAxyexjjqeUkOL3q1z0r9VqCjQvr-0kyA9Q3lRKtAiG4eY",
+   "news": [
+    {
+     "title": "Netflix's 34-Episode Dystopian Series Is So Good, Even Its Worst Episode Beats Most Sci-Fi Shows",
+     "url": "https://screenrant.com/black-mirror-worst-episode-still-good/",
+     "source": "ScreenRant"
+    },
+    {
+     "title": "Netflix’s 33-Episode Dystopian Sci-Fi Masters The Art Of Predicting Our Darkest Future",
+     "url": "https://screenrant.com/black-mirror-netflix-predict-darkest-future/",
+     "source": "ScreenRant"
+    }
+   ]
+  },
+  {
+   "rawId": "villanova basketball",
+   "query": "villanova basketball",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-31T13:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTaUrVNjz81yRpNalmwwM4W_ks8mZtuBPPdGino6LsR8kn3sX-gH9Ng1_SSwCQ",
+   "news": [
+    {
+     "title": "Pope Leo tells Villanova and Notre Dame basketball teams he is neutral. Prevost has other ideas",
+     "url": "https://apnews.com/article/vatican-pope-leo-villanova-notre-dame-college-basketball-3bb26f5b2b1bc2bd808b2dde13f585cb",
+     "source": "AP News"
+    },
+    {
+     "title": "How Notre Dame basketball’s trip came about to play Villanova in Rome — and potentially meet Pope Leo XIV",
+     "url": "https://www.chicagotribune.com/2026/10/30/notre-dame-villanova-basketball-rome-pope-leo/",
+     "source": "Chicago Tribune"
+    },
+    {
+     "title": "Pope: In an age marked by distance, sports bring people together",
+     "url": "https://www.vaticannews.va/en/pope/news/2026-10/pope-villanova-notre-dame-university-basketball-game-saints.html",
+     "source": "Vatican News"
+    }
+   ]
+  },
+  {
+   "rawId": "ahmad hardy",
+   "query": "ahmad hardy",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-31T13:20:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXREzUtdP_tMiyx8COLNogQx4ROoFN3n3sCl6ZmTqk7ZSrf61tHjhZYhwLaac",
+   "news": [
+    {
+     "title": "Sources -- Missouri RB Hardy to make season debut vs. Arkansas",
+     "url": "https://www.espn.com/college-football/story/_/id/50321651/sources-missouri-rb-hardy-make-season-debut-vs-arkansas",
+     "source": "ESPN"
+    },
+    {
+     "title": "Mizzou running back Ahmad Hardy to play Saturday at Arkansas, per reports",
+     "url": "https://www.columbiamissourian.com/sports/mizzou_football/mizzou-running-back-ahmad-hardy-to-play-saturday-at-arkansas-per-reports/article_425e884b-a56d-483d-bf05-1976973c4e45.html",
+     "source": "Columbia Missourian"
+    },
+    {
+     "title": "Ahmad Hardy returning for Missouri: Star RB set for season debut after recovering from gunshot wound",
+     "url": "https://www.cbssports.com/college-football/news/ahmad-hardy-missouri-debut-2026-injury-gunshot-wound-arkansas/",
+     "source": "CBS Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "can i vote today",
+   "query": "can i vote today",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-10-31T13:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHNYBfpQ1u2uNr6PakaLPcZ2HSNpblGgpTXM4Lymn-5uLM15uVZc-P4-2LU4Y",
+   "news": [
+    {
+     "title": "Early Voting Ends Today | Here's everything you need to know before Election Day",
+     "url": "https://www.kcentv.com/article/news/politics/elections/early-voting-ends-everything-you-need-election-day-vote-ballot-guide/500-e4e32adf-5a26-4e3f-ae31-51f2bc1f05b4",
+     "source": "kcentv.com"
+    },
+    {
+     "title": "Today is the last day to vote early in Texas as Harris County nears major milestone",
+     "url": "https://www.khou.com/article/news/politics/elections/when-is-the-last-day-to-vote-early-texas/285-0a7f3f28-b64e-439a-a182-51216c219033",
+     "source": "KHOU"
+    },
+    {
+     "title": "Harris County breaks early voting records for a midterm election",
+     "url": "https://www.houstonchronicle.com/politics/texas-take/article/harris-county-voter-turnout-22501181.php",
+     "source": "Houston Chronicle"
     }
    ]
   }
