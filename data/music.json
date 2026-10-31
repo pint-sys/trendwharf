@@ -1,31 +1,8 @@
 {
- "updated": "2026-10-31T00:53:57Z",
+ "updated": "2026-10-31T07:08:27Z",
  "source": "music",
  "country": "US",
  "items": [
-  {
-   "rawId": "6822497774",
-   "title": "Housewife",
-   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#1 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c8/05/cec805c6-5f81-a897-a53e-f42025b9cd5a/196874840146.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 25,
-   "rank": 1,
-   "metrics": {
-    "artist": "Tate McRae",
-    "rank": 1,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
-   }
-  },
   {
    "rawId": "269573303",
    "title": "Thriller",
@@ -35,19 +12,42 @@
     "Pop",
     "R&B/Soul"
    ],
-   "summary": "#2 on Apple Music's most-played songs (US).",
+   "summary": "#1 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/400x400bb.jpg",
    "publishedAt": "1982-11-29T00:00:00Z",
-   "hot": 24,
-   "rank": 2,
+   "hot": 25,
+   "rank": 1,
    "metrics": {
     "artist": "Michael Jackson",
-    "rank": 2,
-    "change": 0
+    "rank": 1,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/thriller/269572838?i=269573303"
+   }
+  },
+  {
+   "rawId": "6822497774",
+   "title": "Housewife",
+   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#2 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ce/c8/05/cec805c6-5f81-a897-a53e-f42025b9cd5a/196874840146.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 24,
+   "rank": 2,
+   "metrics": {
+    "artist": "Tate McRae",
+    "rank": 2,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
    }
   },
   {
@@ -97,26 +97,73 @@
    }
   },
   {
-   "rawId": "6822944296",
-   "title": "Lies (feat. Lana Del Rey)",
-   "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+   "rawId": "1440662595",
+   "title": "This Is Halloween",
+   "url": "https://music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595",
    "category": "music",
    "tags": [
-    "Country"
+    "Soundtrack",
+    "Holiday"
    ],
    "summary": "#5 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/5c/37/265c3733-e0a5-5758-6de0-f6a9f2a1ad6d/06PNDIM00838.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "1993-01-01T00:00:00Z",
    "hot": 21,
    "rank": 5,
    "metrics": {
-    "artist": "Zach Bryan & Lana Del Rey",
+    "artist": "The Citizens of Halloween",
     "rank": 5,
-    "change": 0
+    "change": 5
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+    "value": "https://embed.music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595"
+   }
+  },
+  {
+   "rawId": "82125202",
+   "title": "Monster Mash",
+   "url": "https://music.apple.com/us/album/monster-mash/82125264?i=82125202",
+   "category": "music",
+   "tags": [
+    "Holiday"
+   ],
+   "summary": "#6 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8a/6f/bb8a6ff2-a5b6-395c-8a54-5d7954bd9e4b/dj.lnkhwpna.tif/400x400bb.jpg",
+   "publishedAt": "1962-10-09T00:00:00Z",
+   "hot": 20,
+   "rank": 6,
+   "metrics": {
+    "artist": "Bobby \"Boris\" Pickett",
+    "rank": 6,
+    "change": 7
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/monster-mash/82125264?i=82125202"
+   }
+  },
+  {
+   "rawId": "1484413134",
+   "title": "Ghostbusters",
+   "url": "https://music.apple.com/us/album/ghostbusters/1484413132?i=1484413134",
+   "category": "music",
+   "tags": [
+    "Soundtrack"
+   ],
+   "summary": "#7 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/400x400bb.jpg",
+   "publishedAt": "1984-06-08T00:00:00Z",
+   "hot": 19,
+   "rank": 7,
+   "metrics": {
+    "artist": "Ray Parker Jr.",
+    "rank": 7,
+    "change": 5
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/ghostbusters/1484413132?i=1484413134"
    }
   },
   {
@@ -127,42 +174,19 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#6 on Apple Music's most-played songs (US).",
+   "summary": "#8 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 20,
-   "rank": 6,
+   "hot": 18,
+   "rank": 8,
    "metrics": {
     "artist": "Drake & Don Toliver",
-    "rank": 6,
-    "change": 0
+    "rank": 8,
+    "change": -2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-   }
-  },
-  {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#7 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
-   "hot": 19,
-   "rank": 7,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 7,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -173,15 +197,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#8 on Apple Music's most-played songs (US).",
+   "summary": "#9 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-05-15T00:00:00Z",
-   "hot": 18,
-   "rank": 8,
+   "hot": 17,
+   "rank": 9,
    "metrics": {
     "artist": "Drake",
-    "rank": 8,
-    "change": 0
+    "rank": 9,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -196,15 +220,15 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
+   "summary": "#10 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/53/c6/9a/53c69a6a-d1c4-0983-a20c-a67dceae554f/26UMGIM82372.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-09-03T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
+   "hot": 16,
+   "rank": 10,
    "metrics": {
     "artist": "ADÉLA",
-    "rank": 9,
-    "change": 0
+    "rank": 10,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -212,27 +236,72 @@
    }
   },
   {
-   "rawId": "1440662595",
-   "title": "This Is Halloween",
-   "url": "https://music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595",
+   "rawId": "6822944296",
+   "title": "Lies (feat. Lana Del Rey)",
+   "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
    "category": "music",
    "tags": [
-    "Soundtrack",
-    "Holiday"
+    "Country"
    ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/26/5c/37/265c3733-e0a5-5758-6de0-f6a9f2a1ad6d/06PNDIM00838.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "1993-01-01T00:00:00Z",
-   "hot": 16,
-   "rank": 10,
+   "summary": "#11 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 15,
+   "rank": 11,
    "metrics": {
-    "artist": "The Citizens of Halloween",
-    "rank": 10,
-    "change": 1
+    "artist": "Zach Bryan & Lana Del Rey",
+    "rank": 11,
+    "change": -6
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595"
+    "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+   }
+  },
+  {
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#12 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
+   "hot": 14,
+   "rank": 12,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 12,
+    "change": -5
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+   }
+  },
+  {
+   "rawId": "1482699500",
+   "title": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
+   "url": "https://music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500",
+   "category": "music",
+   "tags": [
+    "Children's Music"
+   ],
+   "summary": "#13 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/95/d2489595-3875-f847-52fa-cf76ed4603e9/19CRGIM15015.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "1996-08-20T00:00:00Z",
+   "hot": 13,
+   "rank": 13,
+   "metrics": {
+    "artist": "Andrew Gold",
+    "rank": 13,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500"
    }
   },
   {
@@ -243,88 +312,19 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#11 on Apple Music's most-played songs (US).",
+   "summary": "#14 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 15,
-   "rank": 11,
+   "hot": 12,
+   "rank": 14,
    "metrics": {
     "artist": "Drake",
-    "rank": 11,
-    "change": -1
+    "rank": 14,
+    "change": -3
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/quebec/6818209777?i=6818209990"
-   }
-  },
-  {
-   "rawId": "1484413134",
-   "title": "Ghostbusters",
-   "url": "https://music.apple.com/us/album/ghostbusters/1484413132?i=1484413134",
-   "category": "music",
-   "tags": [
-    "Soundtrack"
-   ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/400x400bb.jpg",
-   "publishedAt": "1984-06-08T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
-   "metrics": {
-    "artist": "Ray Parker Jr.",
-    "rank": 12,
-    "change": 4
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/ghostbusters/1484413132?i=1484413134"
-   }
-  },
-  {
-   "rawId": "82125202",
-   "title": "Monster Mash",
-   "url": "https://music.apple.com/us/album/monster-mash/82125264?i=82125202",
-   "category": "music",
-   "tags": [
-    "Holiday"
-   ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8a/6f/bb8a6ff2-a5b6-395c-8a54-5d7954bd9e4b/dj.lnkhwpna.tif/400x400bb.jpg",
-   "publishedAt": "1962-10-09T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
-   "metrics": {
-    "artist": "Bobby \"Boris\" Pickett",
-    "rank": 13,
-    "change": 4
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/monster-mash/82125264?i=82125202"
-   }
-  },
-  {
-   "rawId": "1648587330",
-   "title": "In A Minute",
-   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#14 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 12,
-   "rank": 14,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 14,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -343,7 +343,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 15,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -351,26 +351,26 @@
    }
   },
   {
-   "rawId": "6812477290",
-   "title": "Last Thing You Need",
-   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "rawId": "1648587330",
+   "title": "In A Minute",
+   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
    "category": "music",
    "tags": [
-    "Country"
+    "Hip-Hop/Rap"
    ],
    "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-17T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-08T00:00:00Z",
    "hot": 10,
    "rank": 16,
    "metrics": {
-    "artist": "Morgan Wallen",
+    "artist": "Lil Baby",
     "rank": 16,
-    "change": -1
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -389,7 +389,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 17,
-    "change": -3
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -420,6 +420,29 @@
    }
   },
   {
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#19 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
+   "hot": 7,
+   "rank": 19,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 19,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+   }
+  },
+  {
    "rawId": "1621803969",
    "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
    "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
@@ -427,42 +450,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#19 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
    "publishedAt": "2022-05-02T00:00:00Z",
-   "hot": 7,
-   "rank": 19,
-   "metrics": {
-    "artist": "Future",
-    "rank": 19,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
-   }
-  },
-  {
-   "rawId": "1889992115",
-   "title": "stupid song",
-   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-06-12T00:00:00Z",
    "hot": 6,
    "rank": 20,
    "metrics": {
-    "artist": "Olivia Rodrigo",
+    "artist": "Future",
     "rank": 20,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
    }
   },
   {
@@ -489,49 +489,49 @@
    }
   },
   {
-   "rawId": "6763091996",
-   "title": "I Can't Love You Anymore",
-   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
+   "rawId": "1506297772",
+   "title": "March Madness",
+   "url": "https://music.apple.com/us/album/march-madness/1506297314?i=1506297772",
    "category": "music",
    "tags": [
-    "Country"
+    "Hip-Hop/Rap"
    ],
    "summary": "#22 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
-   "publishedAt": "2026-04-24T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/400x400bb.jpg",
+   "publishedAt": "2015-03-21T00:00:00Z",
    "hot": 4,
    "rank": 22,
    "metrics": {
-    "artist": "Ella Langley & Morgan Wallen",
+    "artist": "Future",
     "rank": 22,
-    "change": 3
+    "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
+    "value": "https://embed.music.apple.com/us/album/march-madness/1506297314?i=1506297772"
    }
   },
   {
-   "rawId": "1802103970",
-   "title": "I'm The Problem",
-   "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
+   "rawId": "1889992115",
+   "title": "stupid song",
+   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
    "category": "music",
    "tags": [
-    "Country"
+    "Pop"
    ],
    "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2025-01-31T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-06-12T00:00:00Z",
    "hot": 3,
    "rank": 23,
    "metrics": {
-    "artist": "Morgan Wallen",
+    "artist": "Olivia Rodrigo",
     "rank": 23,
-    "change": 1
+    "change": -3
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
+    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
    }
   },
   {
@@ -550,7 +550,7 @@
    "metrics": {
     "artist": "Megan Thee Stallion",
     "rank": 24,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -558,26 +558,26 @@
    }
   },
   {
-   "rawId": "1889992123",
-   "title": "the cure",
-   "url": "https://music.apple.com/us/album/the-cure/1889992111?i=1889992123",
+   "rawId": "1441154571",
+   "title": "Disturbia",
+   "url": "https://music.apple.com/us/album/disturbia/1441154435?i=1441154571",
    "category": "music",
    "tags": [
-    "Pop"
+    "R&B/Soul"
    ],
    "summary": "#25 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-22T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2008-06-02T00:00:00Z",
    "hot": 1,
    "rank": 25,
    "metrics": {
-    "artist": "Olivia Rodrigo",
+    "artist": "Rihanna",
     "rank": 25,
-    "change": -2
+    "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/the-cure/1889992111?i=1889992123"
+    "value": "https://embed.music.apple.com/us/album/disturbia/1441154435?i=1441154571"
    }
   }
  ]
