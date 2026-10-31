@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T18:39:59Z",
+ "updated": "2026-10-31T22:37:27Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -14,29 +14,11 @@
    "summary": "English actor (1940–2026). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Patrick_Stewart_1999.jpg/330px-Patrick_Stewart_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 2356552,
+   "hot": 1882386,
    "rank": 1,
    "metrics": {
-    "views": 2356552,
-    "change": 62325
-   }
-  },
-  {
-   "rawId": "2026 israeli legislative election",
-   "title": "2026 Israeli legislative election",
-   "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 363543,
-   "rank": 2,
-   "metrics": {
-    "views": 363543,
-    "change": -61
+    "views": 1882386,
+    "change": -20
    }
   },
   {
@@ -50,209 +32,11 @@
    "summary": "American singer-songwriter (born 1978). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Sunny_Ozell_-_5_-_Stierch.jpg/330px-Sunny_Ozell_-_5_-_Stierch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 346682,
-   "rank": 3,
+   "hot": 488907,
+   "rank": 2,
    "metrics": {
-    "views": 346682,
-    "change": 43618
-   }
-  },
-  {
-   "rawId": "william contreras",
-   "title": "William Contreras",
-   "url": "https://en.wikipedia.org/wiki/William_Contreras",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Venezuelan baseball player (born 1997). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/William_Contreras_stands_at_home_plate%2C_Aug_05_2022_%28cropped%29.jpg/330px-William_Contreras_stands_at_home_plate%2C_Aug_05_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 228487,
-   "rank": 4,
-   "metrics": {
-    "views": 228487,
-    "change": 677
-   }
-  },
-  {
-   "rawId": "jacob misiorowski",
-   "title": "Jacob Misiorowski",
-   "url": "https://en.wikipedia.org/wiki/Jacob_Misiorowski",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American baseball player (born 2002). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Jacob_Misiorowski.jpg/330px-Jacob_Misiorowski.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 212900,
-   "rank": 5,
-   "metrics": {
-    "views": 212900,
-    "change": 1367
-   }
-  },
-  {
-   "rawId": "patrick stewart on stage and screen",
-   "title": "Patrick Stewart on stage and screen",
-   "url": "https://en.wikipedia.org/wiki/Patrick_Stewart_on_stage_and_screen",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Acting parts of Sir Patrick Stewart. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/330px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 212550,
-   "rank": 6,
-   "metrics": {
-    "views": 212550,
-    "change": 72443
-   }
-  },
-  {
-   "rawId": "bob uecker",
-   "title": "Bob Uecker",
-   "url": "https://en.wikipedia.org/wiki/Bob_Uecker",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American baseball player and broadcaster (1934–2025). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Bob_Uecker_-_St._Louis_Cardinals_-_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 205548,
-   "rank": 7,
-   "metrics": {
-    "views": 205548,
-    "change": 204
-   }
-  },
-  {
-   "rawId": "pat murphy (baseball manager)",
-   "title": "Pat Murphy (baseball manager)",
-   "url": "https://en.wikipedia.org/wiki/Pat_Murphy_(baseball_manager)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American baseball manager (born 1958). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Pat_Murphy_on_May_20%2C_2013.jpg/330px-Pat_Murphy_on_May_20%2C_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 196456,
-   "rank": 8,
-   "metrics": {
-    "views": 196456,
-    "change": 545
-   }
-  },
-  {
-   "rawId": "milwaukee brewers",
-   "title": "Milwaukee Brewers",
-   "url": "https://en.wikipedia.org/wiki/Milwaukee_Brewers",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Major League Baseball franchise in Milwaukee, Wisconsin. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/330px-Milwaukee_Brewers_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 185722,
-   "rank": 9,
-   "metrics": {
-    "views": 185722,
-    "change": 267
-   }
-  },
-  {
-   "rawId": "barbara barrie",
-   "title": "Barbara Barrie",
-   "url": "https://en.wikipedia.org/wiki/Barbara_Barrie",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American actress and author (1931–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Barbara_Barrie_%22Breaking_Away%22_%281980_ABC_press_photo%29.jpg/330px-Barbara_Barrie_%22Breaking_Away%22_%281980_ABC_press_photo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 183737,
-   "rank": 10,
-   "metrics": {
-    "views": 183737,
-    "change": 266
-   }
-  },
-  {
-   "rawId": "deaths in 2026",
-   "title": "Deaths in 2026",
-   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 174215,
-   "rank": 11,
-   "metrics": {
-    "views": 174215,
-    "change": 23
-   }
-  },
-  {
-   "rawId": "lewy body dementia",
-   "title": "Lewy body dementia",
-   "url": "https://en.wikipedia.org/wiki/Lewy_body_dementia",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Umbrella term covering two types of dementia. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 161848,
-   "rank": 12,
-   "metrics": {
-    "views": 161848,
-    "change": 8132
-   }
-  },
-  {
-   "rawId": "elizabeth holmes",
-   "title": "Elizabeth Holmes",
-   "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 140836,
-   "rank": 13,
-   "metrics": {
-    "views": 140836,
-    "change": -2
-   }
-  },
-  {
-   "rawId": "cooper pratt",
-   "title": "Cooper Pratt",
-   "url": "https://en.wikipedia.org/wiki/Cooper_Pratt",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American baseball player (born 2004). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/83/Cooper_Pratt_running_towards_first_during_game_2_of_the_2026_NLCS.jpg/330px-Cooper_Pratt_running_towards_first_during_game_2_of_the_2026_NLCS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 130967,
-   "rank": 14,
-   "metrics": {
-    "views": 130967,
-    "change": 15
+    "views": 488907,
+    "change": 41
    }
   },
   {
@@ -266,47 +50,11 @@
    "summary": "English actor (born 1939). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/SDCC13_-_Ian_McKellen.jpg/330px-SDCC13_-_Ian_McKellen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 127831,
-   "rank": 15,
+   "hot": 213817,
+   "rank": 3,
    "metrics": {
-    "views": 127831,
-    "change": 2243
-   }
-  },
-  {
-   "rawId": "jeffery simmons",
-   "title": "Jeffery Simmons",
-   "url": "https://en.wikipedia.org/wiki/Jeffery_Simmons",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American football player (born 1997). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2026_Tennessee_Titans_New_Jersey_Photo_Shoot_-_Jeffery_Simmons_%28cropped%29.png/330px-2026_Tennessee_Titans_New_Jersey_Photo_Shoot_-_Jeffery_Simmons_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 122632,
-   "rank": 16,
-   "metrics": {
-    "views": 122632,
-    "change": 4620
-   }
-  },
-  {
-   "rawId": "jailer 2",
-   "title": "Jailer 2",
-   "url": "https://en.wikipedia.org/wiki/Jailer_2",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 122337,
-   "rank": 17,
-   "metrics": {
-    "views": 122337,
-    "change": -9
+    "views": 213817,
+    "change": 67
    }
   },
   {
@@ -320,29 +68,245 @@
    "summary": "American television and film producer (born 1954). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Wendy_Neuss_yearbook.jpg/330px-Wendy_Neuss_yearbook.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 113901,
-   "rank": 18,
+   "hot": 163945,
+   "rank": 4,
    "metrics": {
-    "views": 113901,
-    "change": 38642
+    "views": 163945,
+    "change": 44
    }
   },
   {
-   "rawId": "christian yelich",
-   "title": "Christian Yelich",
-   "url": "https://en.wikipedia.org/wiki/Christian_Yelich",
+   "rawId": "lewy body dementia",
+   "title": "Lewy body dementia",
+   "url": "https://en.wikipedia.org/wiki/Lewy_body_dementia",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American baseball player (born 1991). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Yelich_4_61824_%28cropped%29.jpg/330px-Yelich_4_61824_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Umbrella term covering two types of dementia. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
-   "hot": 102416,
-   "rank": 19,
+   "hot": 160656,
+   "rank": 5,
    "metrics": {
-    "views": 102416,
-    "change": 195
+    "views": 160656,
+    "change": -1
+   }
+  },
+  {
+   "rawId": "2026 israeli legislative election",
+   "title": "2026 Israeli legislative election",
+   "url": "https://en.wikipedia.org/wiki/2026_Israeli_legislative_election",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 152854,
+   "rank": 6,
+   "metrics": {
+    "views": 152854,
+    "change": -58
+   }
+  },
+  {
+   "rawId": "sebastian croft",
+   "title": "Sebastian Croft",
+   "url": "https://en.wikipedia.org/wiki/Sebastian_Croft",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "English actor (born 2001). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Sebastian_Croft_at_the_BFI_London_July_2019.png/330px-Sebastian_Croft_at_the_BFI_London_July_2019.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 152737,
+   "rank": 7,
+   "metrics": {
+    "views": 152737,
+    "change": 778
+   }
+  },
+  {
+   "rawId": "deaths in 2026",
+   "title": "Deaths in 2026",
+   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 152362,
+   "rank": 8,
+   "metrics": {
+    "views": 152362,
+    "change": -13
+   }
+  },
+  {
+   "rawId": "jonestown",
+   "title": "Jonestown",
+   "url": "https://en.wikipedia.org/wiki/Jonestown",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Peoples Temple cult settlement in Guyana, led by Jim Jones. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Jonestown_entrance.jpg/330px-Jonestown_entrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 143302,
+   "rank": 9,
+   "metrics": {
+    "views": 143302,
+    "change": 59
+   }
+  },
+  {
+   "rawId": "maya jama",
+   "title": "Maya Jama",
+   "url": "https://en.wikipedia.org/wiki/Maya_Jama",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "British television and radio presenter (born 1994). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Maya_Jama_1.jpg/330px-Maya_Jama_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 139120,
+   "rank": 10,
+   "metrics": {
+    "views": 139120,
+    "change": 226
+   }
+  },
+  {
+   "rawId": "elizabeth holmes",
+   "title": "Elizabeth Holmes",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 133733,
+   "rank": 11,
+   "metrics": {
+    "views": 133733,
+    "change": -5
+   }
+  },
+  {
+   "rawId": "jennifer hetrick",
+   "title": "Jennifer Hetrick",
+   "url": "https://en.wikipedia.org/wiki/Jennifer_Hetrick",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actress (born 1958). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 125642,
+   "rank": 12,
+   "metrics": {
+    "views": 125642,
+    "change": 41
+   }
+  },
+  {
+   "rawId": "james blunt",
+   "title": "James Blunt",
+   "url": "https://en.wikipedia.org/wiki/James_Blunt",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "English musician (born 1974). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/James_Blunt_in_2021.png/330px-James_Blunt_in_2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 123236,
+   "rank": 13,
+   "metrics": {
+    "views": 123236,
+    "change": 406
+   }
+  },
+  {
+   "rawId": "patrick stewart on stage and screen",
+   "title": "Patrick Stewart on stage and screen",
+   "url": "https://en.wikipedia.org/wiki/Patrick_Stewart_on_stage_and_screen",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Acting parts of Sir Patrick Stewart. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Patrick_Stewart_by_Gage_Skidmore_2.jpg/330px-Patrick_Stewart_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 119754,
+   "rank": 14,
+   "metrics": {
+    "views": 119754,
+    "change": -44
+   }
+  },
+  {
+   "rawId": "jailer 2",
+   "title": "Jailer 2",
+   "url": "https://en.wikipedia.org/wiki/Jailer_2",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 113774,
+   "rank": 15,
+   "metrics": {
+    "views": 113774,
+    "change": -7
+   }
+  },
+  {
+   "rawId": "the celebrity traitors series 2",
+   "title": "The Celebrity Traitors series 2",
+   "url": "https://en.wikipedia.org/wiki/The_Celebrity_Traitors_series_2",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 series of The Celebrity Traitors. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ef/The_Celebrity_Traitors_series_2_poster.jpg/330px-The_Celebrity_Traitors_series_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 100276,
+   "rank": 16,
+   "metrics": {
+    "views": 100276,
+    "change": 79
+   }
+  },
+  {
+   "rawId": "ansel adams",
+   "title": "Ansel Adams",
+   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American photographer and environmentalist (1902–1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/330px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 98266,
+   "rank": 17,
+   "metrics": {
+    "views": 98266,
+    "change": 10
    }
   },
   {
@@ -356,11 +320,47 @@
    "summary": "2026 film by Nathan Fielder and Lance Oppenheim. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 99486,
+   "hot": 90084,
+   "rank": 18,
+   "metrics": {
+    "views": 90084,
+    "change": -9
+   }
+  },
+  {
+   "rawId": "william shatner",
+   "title": "William Shatner",
+   "url": "https://en.wikipedia.org/wiki/William_Shatner",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Canadian actor (born 1931). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/William_Shatner_Photo_Op_GalaxyCon_Richmond_2026.jpg/330px-William_Shatner_Photo_Op_GalaxyCon_Richmond_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 89627,
+   "rank": 19,
+   "metrics": {
+    "views": 89627,
+    "change": 22
+   }
+  },
+  {
+   "rawId": "christa pike",
+   "title": "Christa Pike",
+   "url": "https://en.wikipedia.org/wiki/Christa_Pike",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American murderer on death row (born 1976). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/1/16/Christa_Pike_Mugshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 87060,
    "rank": 20,
    "metrics": {
-    "views": 99486,
-    "change": -9
+    "views": 87060,
+    "change": 378
    }
   }
  ]
