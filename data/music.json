@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:37:27Z",
+ "updated": "2026-11-01T02:22:47Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -44,34 +44,11 @@
    "metrics": {
     "artist": "The Citizens of Halloween",
     "rank": 2,
-    "change": 3
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/this-is-halloween/1440662430?i=1440662595"
-   }
-  },
-  {
-   "rawId": "6822497774",
-   "title": "Housewife",
-   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#3 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 23,
-   "rank": 3,
-   "metrics": {
-    "artist": "Tate McRae",
-    "rank": 3,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
    }
   },
   {
@@ -82,15 +59,15 @@
    "tags": [
     "Holiday"
    ],
-   "summary": "#4 on Apple Music's most-played songs (US).",
+   "summary": "#3 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/bb/8a/6f/bb8a6ff2-a5b6-395c-8a54-5d7954bd9e4b/dj.lnkhwpna.tif/400x400bb.jpg",
    "publishedAt": "1962-10-09T00:00:00Z",
-   "hot": 22,
-   "rank": 4,
+   "hot": 23,
+   "rank": 3,
    "metrics": {
     "artist": "Bobby \"Boris\" Pickett",
-    "rank": 4,
-    "change": 3
+    "rank": 3,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -105,19 +82,42 @@
    "tags": [
     "Soundtrack"
    ],
-   "summary": "#5 on Apple Music's most-played songs (US).",
+   "summary": "#4 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c5/96/63/c596638c-a823-1a5e-dba0-6f1df67ab671/886447946862.jpg/400x400bb.jpg",
    "publishedAt": "1984-06-08T00:00:00Z",
-   "hot": 21,
-   "rank": 5,
+   "hot": 22,
+   "rank": 4,
    "metrics": {
     "artist": "Ray Parker Jr.",
-    "rank": 5,
-    "change": 3
+    "rank": 4,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/ghostbusters/1484413132?i=1484413134"
+   }
+  },
+  {
+   "rawId": "6822497774",
+   "title": "Housewife",
+   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#5 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 21,
+   "rank": 5,
+   "metrics": {
+    "artist": "Tate McRae",
+    "rank": 5,
+    "change": -2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
    }
   },
   {
@@ -136,11 +136,34 @@
    "metrics": {
     "artist": "Ella Langley",
     "rank": 6,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
+   "rawId": "1482699500",
+   "title": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
+   "url": "https://music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500",
+   "category": "music",
+   "tags": [
+    "Children's Music"
+   ],
+   "summary": "#7 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/95/d2489595-3875-f847-52fa-cf76ed4603e9/19CRGIM15015.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "1996-08-20T00:00:00Z",
+   "hot": 19,
+   "rank": 7,
+   "metrics": {
+    "artist": "Andrew Gold",
+    "rank": 7,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500"
    }
   },
   {
@@ -151,15 +174,15 @@
    "tags": [
     "Latin"
    ],
-   "summary": "#7 on Apple Music's most-played songs (US).",
+   "summary": "#8 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-08-05T00:00:00Z",
-   "hot": 19,
-   "rank": 7,
+   "hot": 18,
+   "rank": 8,
    "metrics": {
     "artist": "KAROL G, Judeline & rusowsky",
-    "rank": 7,
-    "change": -4
+    "rank": 8,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -174,42 +197,19 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#8 on Apple Music's most-played songs (US).",
+   "summary": "#9 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 18,
-   "rank": 8,
+   "hot": 17,
+   "rank": 9,
    "metrics": {
     "artist": "Drake & Don Toliver",
-    "rank": 8,
-    "change": -2
+    "rank": 9,
+    "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-   }
-  },
-  {
-   "rawId": "1482699500",
-   "title": "Spooky, Scary Skeletons (Undead Tombstone Remix)",
-   "url": "https://music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500",
-   "category": "music",
-   "tags": [
-    "Children's Music"
-   ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d2/48/95/d2489595-3875-f847-52fa-cf76ed4603e9/19CRGIM15015.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "1996-08-20T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
-   "metrics": {
-    "artist": "Andrew Gold",
-    "rank": 9,
-    "change": 7
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/spooky-scary-skeletons-undead-tombstone-remix/1482699018?i=1482699500"
    }
   },
   {
@@ -228,7 +228,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 10,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -274,7 +274,7 @@
    "metrics": {
     "artist": "ADÉLA",
     "rank": 12,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -297,7 +297,7 @@
    "metrics": {
     "artist": "Zach Bryan & Lana Del Rey",
     "rank": 13,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -320,7 +320,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 14,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -366,11 +366,34 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 16,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
+   }
+  },
+  {
+   "rawId": "1278579752",
+   "title": "Somebody's Watching Me",
+   "url": "https://music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#17 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/400x400bb.jpg",
+   "publishedAt": "1983-12-27T00:00:00Z",
+   "hot": 9,
+   "rank": 17,
+   "metrics": {
+    "artist": "Rockwell",
+    "rank": 17,
+    "change": 7
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752"
    }
   },
   {
@@ -381,15 +404,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
+   "summary": "#18 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
+   "hot": 8,
+   "rank": 18,
    "metrics": {
     "artist": "Future",
-    "rank": 17,
-    "change": 0
+    "rank": 18,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -397,49 +420,26 @@
    }
   },
   {
-   "rawId": "1453336216",
-   "title": "Best I Ever Had",
-   "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216",
+   "rawId": "1441154571",
+   "title": "Disturbia",
+   "url": "https://music.apple.com/us/album/disturbia/1441154435?i=1441154571",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#18 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 8,
-   "rank": 18,
-   "metrics": {
-    "artist": "Drake",
-    "rank": 18,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
-   }
-  },
-  {
-   "rawId": "1621803969",
-   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
+    "R&B/Soul"
    ],
    "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
-   "publishedAt": "2022-05-02T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2008-06-02T00:00:00Z",
    "hot": 7,
    "rank": 19,
    "metrics": {
-    "artist": "Future",
+    "artist": "Rihanna",
     "rank": 19,
-    "change": 0
+    "change": 3
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+    "value": "https://embed.music.apple.com/us/album/disturbia/1441154435?i=1441154571"
    }
   },
   {
@@ -458,11 +458,80 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 20,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+   }
+  },
+  {
+   "rawId": "1453336216",
+   "title": "Best I Ever Had",
+   "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2009-02-13T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 21,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
+   }
+  },
+  {
+   "rawId": "1621803969",
+   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
+   "publishedAt": "2022-05-02T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
+   "metrics": {
+    "artist": "Future",
+    "rank": 22,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+   }
+  },
+  {
+   "rawId": "1475818277",
+   "title": "Superstition",
+   "url": "https://music.apple.com/us/album/superstition/1475816828?i=1475818277",
+   "category": "music",
+   "tags": [
+    "Soundtrack"
+   ],
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c0/5f/08/c05f08dc-9368-0d80-bde7-997d9b31e931/19UMGIM64504.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "1972-10-24T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
+   "metrics": {
+    "artist": "Stevie Wonder",
+    "rank": 23,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/superstition/1475816828?i=1475818277"
    }
   },
   {
@@ -473,15 +542,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#24 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/400x400bb.jpg",
    "publishedAt": "2015-03-21T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 2,
+   "rank": 24,
    "metrics": {
     "artist": "Future",
-    "rank": 21,
-    "change": -1
+    "rank": 24,
+    "change": -3
    },
    "embed": {
     "kind": "music",
@@ -489,95 +558,26 @@
    }
   },
   {
-   "rawId": "1441154571",
-   "title": "Disturbia",
-   "url": "https://music.apple.com/us/album/disturbia/1441154435?i=1441154571",
+   "rawId": "1869436845",
+   "title": "Be Her",
+   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
    "category": "music",
    "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/2b/c0/81/2bc081c8-25f0-ba43-d451-587a54613778/16UMGIM59202.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2008-06-02T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
-   "metrics": {
-    "artist": "Rihanna",
-    "rank": 22,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/disturbia/1441154435?i=1441154571"
-   }
-  },
-  {
-   "rawId": "1550875424",
-   "title": "Wicked Games",
-   "url": "https://music.apple.com/us/album/wicked-games/1550875218?i=1550875424",
-   "category": "music",
-   "tags": [
-    "R&B/Soul"
-   ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/dc/e9/95/dce995ab-5287-cba4-4966-46d16bf1c072/21UMGIM06667.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2011-03-21T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
-   "metrics": {
-    "artist": "The Weeknd",
-    "rank": 23,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wicked-games/1550875218?i=1550875424"
-   }
-  },
-  {
-   "rawId": "1278579752",
-   "title": "Somebody's Watching Me",
-   "url": "https://music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/65/8b/bf/658bbfc5-32db-8380-4dcf-52cb7e636c1e/886446713328.jpg/400x400bb.jpg",
-   "publishedAt": "1983-12-27T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
-   "metrics": {
-    "artist": "Rockwell",
-    "rank": 24,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/somebodys-watching-me/1278579748?i=1278579752"
-   }
-  },
-  {
-   "rawId": "1621207921",
-   "title": "Frozen",
-   "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
+    "Country"
    ],
    "summary": "#25 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-29T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
+   "publishedAt": "2026-02-13T00:00:00Z",
    "hot": 1,
    "rank": 25,
    "metrics": {
-    "artist": "Lil Baby",
+    "artist": "Ella Langley",
     "rank": 25,
-    "change": -2
+    "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/frozen/1621207919?i=1621207921"
+    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
    }
   }
  ]
