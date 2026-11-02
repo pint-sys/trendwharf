@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-02T00:54:32Z",
+ "updated": "2026-11-02T07:48:33Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50333339",
+   "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+   "url": "https://wikihack.netlify.app",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "wikihack.netlify.app"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T05:06:30Z",
+   "hot": 22.2,
+   "rank": 1,
+   "metrics": {
+    "points": 60,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50333339"
+   }
+  },
   {
    "rawId": "50326821",
    "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
@@ -15,12 +36,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-01T15:58:28Z",
-   "hot": 98.8,
-   "rank": 1,
+   "hot": 80.5,
+   "rank": 2,
    "metrics": {
-    "points": 883,
-    "comments": 172,
+    "points": 1275,
+    "comments": 223,
     "discussion": "https://news.ycombinator.com/item?id=50326821"
+   }
+  },
+  {
+   "rawId": "50312408",
+   "title": "Postgres 19 is late because so many more bugs are being found now",
+   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "rhaas.blogspot.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T01:38:56Z",
+   "hot": 5.9,
+   "rank": 3,
+   "metrics": {
+    "points": 318,
+    "comments": 211,
+    "discussion": "https://news.ycombinator.com/item?id=50312408"
+   }
+  },
+  {
+   "rawId": "50332163",
+   "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+   "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fosscomics.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T01:59:38Z",
+   "hot": 15.8,
+   "rank": 4,
+   "metrics": {
+    "points": 92,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50332163"
    }
   },
   {
@@ -36,33 +99,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-31T19:56:53Z",
-   "hot": 78.0,
-   "rank": 2,
+   "hot": 69.4,
+   "rank": 5,
    "metrics": {
-    "points": 2258,
-    "comments": 538,
+    "points": 2490,
+    "comments": 557,
     "discussion": "https://news.ycombinator.com/item?id=50319510"
-   }
-  },
-  {
-   "rawId": "50299811",
-   "title": "Nibnib: Image compression with extreme decompression speed",
-   "url": "https://github.com/raphlinus/nibnib",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T04:17:06Z",
-   "hot": 1.3,
-   "rank": 3,
-   "metrics": {
-    "points": 88,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50299811"
    }
   },
   {
@@ -78,12 +120,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-01T19:35:27Z",
-   "hot": 22.4,
-   "rank": 4,
+   "hot": 24.7,
+   "rank": 6,
    "metrics": {
-    "points": 119,
-    "comments": 203,
+    "points": 302,
+    "comments": 460,
     "discussion": "https://news.ycombinator.com/item?id=50328896"
+   }
+  },
+  {
+   "rawId": "50315217",
+   "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+   "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fz-juelich.de"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T11:53:47Z",
+   "hot": 2.2,
+   "rank": 7,
+   "metrics": {
+    "points": 96,
+    "comments": 40,
+    "discussion": "https://news.ycombinator.com/item?id=50315217"
+   }
+  },
+  {
+   "rawId": "50331784",
+   "title": "Trigger.dev customer environment variables exposed",
+   "url": "https://trigger.dev/blog/security-incident-nov-2026",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "trigger.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T01:09:16Z",
+   "hot": 10.4,
+   "rank": 8,
+   "metrics": {
+    "points": 69,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50331784"
+   }
+  },
+  {
+   "rawId": "50331957",
+   "title": "Bones may release proteins that slow aging and extend life span",
+   "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "science.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T01:31:07Z",
+   "hot": 5.9,
+   "rank": 9,
+   "metrics": {
+    "points": 37,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50331957"
+   }
+  },
+  {
+   "rawId": "50299811",
+   "title": "Nibnib: Image compression with extreme decompression speed",
+   "url": "https://github.com/raphlinus/nibnib",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-30T04:17:06Z",
+   "hot": 1.7,
+   "rank": 10,
+   "metrics": {
+    "points": 131,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50299811"
    }
   },
   {
@@ -99,96 +225,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-28T09:46:12Z",
-   "hot": 0.6,
-   "rank": 5,
+   "hot": 0.9,
+   "rank": 11,
    "metrics": {
-    "points": 69,
-    "comments": 12,
+    "points": 110,
+    "comments": 17,
     "discussion": "https://news.ycombinator.com/item?id=50271106"
-   }
-  },
-  {
-   "rawId": "50303088",
-   "title": "Keeping Up Appearances – The women taking over the funeral industry",
-   "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lareviewofbooks.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T12:40:08Z",
-   "hot": 0.3,
-   "rank": 6,
-   "metrics": {
-    "points": 17,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50303088"
-   }
-  },
-  {
-   "rawId": "50312408",
-   "title": "Postgres 19 is late, and it's AI's fault",
-   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "rhaas.blogspot.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T01:38:56Z",
-   "hot": 0.3,
-   "rank": 7,
-   "metrics": {
-    "points": 15,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50312408"
-   }
-  },
-  {
-   "rawId": "50299427",
-   "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sciencedaily.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-30T03:06:52Z",
-   "hot": 0.5,
-   "rank": 8,
-   "metrics": {
-    "points": 37,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50299427"
-   }
-  },
-  {
-   "rawId": "50328251",
-   "title": "Mathematics has changed. Let's act like it",
-   "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "terrytao.wordpress.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-01T18:28:42Z",
-   "hot": 33.3,
-   "rank": 9,
-   "metrics": {
-    "points": 214,
-    "comments": 231,
-    "discussion": "https://news.ycombinator.com/item?id=50328251"
    }
   },
   {
@@ -204,33 +246,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-01T13:02:30Z",
-   "hot": 12.5,
-   "rank": 10,
+   "hot": 11.8,
+   "rank": 12,
    "metrics": {
-    "points": 148,
-    "comments": 38,
+    "points": 222,
+    "comments": 54,
     "discussion": "https://news.ycombinator.com/item?id=50325253"
-   }
-  },
-  {
-   "rawId": "50318129",
-   "title": "The She-Wolves of Jülich",
-   "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "historytoday.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T17:29:39Z",
-   "hot": 0.4,
-   "rank": 11,
-   "metrics": {
-    "points": 12,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50318129"
    }
   },
   {
@@ -246,33 +267,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-10-30T19:09:33Z",
-   "hot": 2.3,
-   "rank": 12,
+   "hot": 2.6,
+   "rank": 13,
    "metrics": {
-    "points": 121,
-    "comments": 72,
+    "points": 156,
+    "comments": 89,
     "discussion": "https://news.ycombinator.com/item?id=50308754"
    }
   },
   {
-   "rawId": "50330456",
-   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "rawId": "50299427",
+   "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "techcrunch.com"
+    "sciencedaily.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-01T22:10:45Z",
-   "hot": 46.2,
-   "rank": 13,
+   "publishedAt": "2026-10-30T03:06:52Z",
+   "hot": 1.0,
+   "rank": 14,
    "metrics": {
-    "points": 126,
-    "comments": 110,
-    "discussion": "https://news.ycombinator.com/item?id=50330456"
+    "points": 73,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50299427"
    }
   },
   {
@@ -288,96 +309,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-01T13:24:49Z",
-   "hot": 9.1,
-   "rank": 14,
-   "metrics": {
-    "points": 105,
-    "comments": 59,
-    "discussion": "https://news.ycombinator.com/item?id=50325454"
-   }
-  },
-  {
-   "rawId": "50326099",
-   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-   "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reddit.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-01T14:34:43Z",
-   "hot": 37.5,
+   "hot": 7.2,
    "rank": 15,
    "metrics": {
-    "points": 387,
-    "comments": 137,
-    "discussion": "https://news.ycombinator.com/item?id=50326099"
-   }
-  },
-  {
-   "rawId": "50319749",
-   "title": "Bidirectional charging during grid outages",
-   "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jefftk.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T20:21:55Z",
-   "hot": 2.9,
-   "rank": 16,
-   "metrics": {
-    "points": 84,
-    "comments": 119,
-    "discussion": "https://news.ycombinator.com/item?id=50319749"
-   }
-  },
-  {
-   "rawId": "50325694",
-   "title": "Novellas with Groff",
-   "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "movq.de"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-01T13:51:41Z",
-   "hot": 9.9,
-   "rank": 17,
-   "metrics": {
-    "points": 109,
-    "comments": 49,
-    "discussion": "https://news.ycombinator.com/item?id=50325694"
-   }
-  },
-  {
-   "rawId": "50314617",
-   "title": "One-minute frequency disturbances from synchronization in power systems",
-   "url": "https://www.nature.com/articles/s41560-026-02144-0",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nature.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T10:14:08Z",
-   "hot": 3.1,
-   "rank": 18,
-   "metrics": {
-    "points": 118,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50314617"
+    "points": 132,
+    "comments": 67,
+    "discussion": "https://news.ycombinator.com/item?id=50325454"
    }
   },
   {
@@ -393,33 +330,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-01T06:06:19Z",
-   "hot": 15.5,
-   "rank": 19,
+   "hot": 13.8,
+   "rank": 16,
    "metrics": {
-    "points": 291,
-    "comments": 227,
+    "points": 355,
+    "comments": 279,
     "discussion": "https://news.ycombinator.com/item?id=50323088"
    }
   },
   {
-   "rawId": "50313227",
-   "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
-   "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+   "rawId": "50314617",
+   "title": "One-minute frequency disturbances from synchronization in power systems",
+   "url": "https://www.nature.com/articles/s41560-026-02144-0",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "tedium.co"
+    "nature.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-31T04:31:06Z",
-   "hot": 0.8,
+   "publishedAt": "2026-10-31T10:14:08Z",
+   "hot": 3.2,
+   "rank": 17,
+   "metrics": {
+    "points": 147,
+    "comments": 49,
+    "discussion": "https://news.ycombinator.com/item?id=50314617"
+   }
+  },
+  {
+   "rawId": "50328251",
+   "title": "Mathematics has changed. Let's act like it",
+   "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "terrytao.wordpress.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-01T18:28:42Z",
+   "hot": 21.5,
+   "rank": 18,
+   "metrics": {
+    "points": 287,
+    "comments": 305,
+    "discussion": "https://news.ycombinator.com/item?id=50328251"
+   }
+  },
+  {
+   "rawId": "50290533",
+   "title": "Show HN: Point your camera at a landscape to learn about its geology",
+   "url": "https://outcrop.rocks/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "outcrop.rocks"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-29T15:22:41Z",
+   "hot": 2.2,
+   "rank": 19,
+   "metrics": {
+    "points": 191,
+    "comments": 41,
+    "discussion": "https://news.ycombinator.com/item?id=50290533"
+   }
+  },
+  {
+   "rawId": "50326099",
+   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+   "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reddit.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-01T14:34:43Z",
+   "hot": 26.9,
    "rank": 20,
    "metrics": {
-    "points": 36,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50313227"
+    "points": 464,
+    "comments": 158,
+    "discussion": "https://news.ycombinator.com/item?id=50326099"
    }
   }
  ]
