@@ -1,31 +1,8 @@
 {
- "updated": "2026-11-03T09:45:16Z",
+ "updated": "2026-11-03T23:31:52Z",
  "source": "music",
  "country": "US",
  "items": [
-  {
-   "rawId": "6822497774",
-   "title": "Housewife",
-   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#1 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 25,
-   "rank": 1,
-   "metrics": {
-    "artist": "Tate McRae",
-    "rank": 1,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
-   }
-  },
   {
    "rawId": "1844932150",
    "title": "Choosin' Texas",
@@ -34,19 +11,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#2 on Apple Music's most-played songs (US).",
+   "summary": "#1 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
    "publishedAt": "2025-10-17T00:00:00Z",
-   "hot": 24,
-   "rank": 2,
+   "hot": 25,
+   "rank": 1,
    "metrics": {
     "artist": "Ella Langley",
-    "rank": 2,
+    "rank": 1,
     "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
+   "rawId": "6822497774",
+   "title": "Housewife",
+   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#2 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 24,
+   "rank": 2,
+   "metrics": {
+    "artist": "Tate McRae",
+    "rank": 2,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
    }
   },
   {
@@ -65,7 +65,7 @@
    "metrics": {
     "artist": "KAROL G, Judeline & rusowsky",
     "rank": 3,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -73,26 +73,26 @@
    }
   },
   {
-   "rawId": "6818209989",
-   "title": "Solar Eclipse",
-   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
    "category": "music",
    "tags": [
-    "R&B/Soul"
+    "Country"
    ],
    "summary": "#4 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-02T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
    "hot": 22,
    "rank": 4,
    "metrics": {
-    "artist": "Drake & Don Toliver",
+    "artist": "Morgan Wallen",
     "rank": 4,
-    "change": 1
+    "change": 4
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -111,11 +111,34 @@
    "metrics": {
     "artist": "ADÉLA",
     "rank": 5,
-    "change": 4
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
+   }
+  },
+  {
+   "rawId": "6818209989",
+   "title": "Solar Eclipse",
+   "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+   "category": "music",
+   "tags": [
+    "R&B/Soul"
+   ],
+   "summary": "#6 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-02T00:00:00Z",
+   "hot": 20,
+   "rank": 6,
+   "metrics": {
+    "artist": "Drake & Don Toliver",
+    "rank": 6,
+    "change": -2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
    }
   },
   {
@@ -126,66 +149,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#6 on Apple Music's most-played songs (US).",
+   "summary": "#7 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-05-15T00:00:00Z",
-   "hot": 20,
-   "rank": 6,
+   "hot": 19,
+   "rank": 7,
    "metrics": {
     "artist": "Drake",
-    "rank": 6,
-    "change": 2
+    "rank": 7,
+    "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-   }
-  },
-  {
-   "rawId": "269573303",
-   "title": "Thriller",
-   "url": "https://music.apple.com/us/album/thriller/269572838?i=269573303",
-   "category": "music",
-   "tags": [
-    "Pop",
-    "R&B/Soul"
-   ],
-   "summary": "#7 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/32/4f/fd/324ffda2-9e51-8f6a-0c2d-c6fd2b41ac55/074643811224.jpg/400x400bb.jpg",
-   "publishedAt": "1982-11-29T00:00:00Z",
-   "hot": 19,
-   "rank": 7,
-   "metrics": {
-    "artist": "Michael Jackson",
-    "rank": 7,
-    "change": -6
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/thriller/269572838?i=269573303"
-   }
-  },
-  {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#8 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
-   "hot": 18,
-   "rank": 8,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 8,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -196,19 +172,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
+   "summary": "#8 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
+   "hot": 18,
+   "rank": 8,
    "metrics": {
     "artist": "Zach Bryan & Lana Del Rey",
-    "rank": 9,
-    "change": -2
+    "rank": 8,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+   }
+  },
+  {
+   "rawId": "1889992115",
+   "title": "stupid song",
+   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#9 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-06-12T00:00:00Z",
+   "hot": 17,
+   "rank": 9,
+   "metrics": {
+    "artist": "Olivia Rodrigo",
+    "rank": 9,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
    }
   },
   {
@@ -227,7 +226,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 10,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -235,26 +234,26 @@
    }
   },
   {
-   "rawId": "1889992115",
-   "title": "stupid song",
-   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
+   "rawId": "1440929293",
+   "title": "Freestyle",
+   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
    "category": "music",
    "tags": [
-    "Pop"
+    "Hip-Hop/Rap"
    ],
    "summary": "#11 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-06-12T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2017-12-01T00:00:00Z",
    "hot": 15,
    "rank": 11,
    "metrics": {
-    "artist": "Olivia Rodrigo",
+    "artist": "Lil Baby",
     "rank": 11,
-    "change": 10
+    "change": 2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
    }
   },
   {
@@ -273,7 +272,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 12,
-    "change": 4
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -281,26 +280,26 @@
    }
   },
   {
-   "rawId": "1440929293",
-   "title": "Freestyle",
-   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Country"
    ],
    "summary": "#13 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2017-12-01T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
    "hot": 13,
    "rank": 13,
    "metrics": {
-    "artist": "Lil Baby",
+    "artist": "Morgan Wallen",
     "rank": 13,
-    "change": 2
+    "change": 7
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
    }
   },
   {
@@ -327,29 +326,6 @@
    }
   },
   {
-   "rawId": "1453336216",
-   "title": "Best I Ever Had",
-   "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
-   "metrics": {
-    "artist": "Drake",
-    "rank": 15,
-    "change": 3
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
-   }
-  },
-  {
    "rawId": "1889992123",
    "title": "the cure",
    "url": "https://music.apple.com/us/album/the-cure/1889992111?i=1889992123",
@@ -357,15 +333,15 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
+   "summary": "#15 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-05-22T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
+   "hot": 11,
+   "rank": 15,
    "metrics": {
     "artist": "Olivia Rodrigo",
-    "rank": 16,
-    "change": 8
+    "rank": 15,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -373,26 +349,49 @@
    }
   },
   {
-   "rawId": "585972803",
-   "title": "All I Want for Christmas Is You",
-   "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
+   "rawId": "1453336216",
+   "title": "Best I Ever Had",
+   "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216",
    "category": "music",
    "tags": [
-    "Holiday"
+    "Hip-Hop/Rap"
    ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/400x400bb.jpg",
-   "publishedAt": "1994-10-28T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
+   "summary": "#16 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2009-02-13T00:00:00Z",
+   "hot": 10,
+   "rank": 16,
    "metrics": {
-    "artist": "Mariah Carey",
-    "rank": 17,
-    "change": 2
+    "artist": "Drake",
+    "rank": 16,
+    "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
+    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
+   }
+  },
+  {
+   "rawId": "1869436845",
+   "title": "Be Her",
+   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#17 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
+   "publishedAt": "2026-02-13T00:00:00Z",
+   "hot": 9,
+   "rank": 17,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 17,
+    "change": 6
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
    }
   },
   {
@@ -411,7 +410,7 @@
    "metrics": {
     "artist": "Future",
     "rank": 18,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -419,141 +418,72 @@
    }
   },
   {
-   "rawId": "1550878110",
-   "title": "Wicked Games",
-   "url": "https://music.apple.com/us/album/wicked-games/1550877895?i=1550878110",
+   "rawId": "585972803",
+   "title": "All I Want for Christmas Is You",
+   "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
    "category": "music",
    "tags": [
-    "R&B/Soul"
+    "Holiday"
    ],
    "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/4b/ab/3c/4bab3c0d-ea9a-ad8e-4229-b1e73cad0283/21UMGIM06668.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2011-03-21T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/400x400bb.jpg",
+   "publishedAt": "1994-10-28T00:00:00Z",
    "hot": 7,
    "rank": 19,
    "metrics": {
-    "artist": "The Weeknd",
+    "artist": "Mariah Carey",
     "rank": 19,
-    "change": "new"
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wicked-games/1550877895?i=1550878110"
+    "value": "https://embed.music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
    }
   },
   {
-   "rawId": "6812477290",
-   "title": "Last Thing You Need",
-   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+   "rawId": "1802103970",
+   "title": "I'm The Problem",
+   "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
    "category": "music",
    "tags": [
     "Country"
    ],
    "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-17T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2025-01-31T00:00:00Z",
    "hot": 6,
    "rank": 20,
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 20,
-    "change": -3
+    "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
+    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
    }
   },
   {
-   "rawId": "1440642743",
-   "title": "Marvins Room",
-   "url": "https://music.apple.com/us/album/marvins-room/1440642493?i=1440642743",
+   "rawId": "6763091996",
+   "title": "I Can't Love You Anymore",
+   "url": "https://music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Country"
    ],
    "summary": "#21 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/fb/d3/74fbd365-bd52-23b4-604b-7f164407b0a9/00602527899107.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2011-06-28T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d9/7a/6e/d97a6e25-ef5c-0c26-64e9-266c18641a57/196874324103.jpg/400x400bb.jpg",
+   "publishedAt": "2026-04-24T00:00:00Z",
    "hot": 5,
    "rank": 21,
    "metrics": {
-    "artist": "Drake",
+    "artist": "Ella Langley & Morgan Wallen",
     "rank": 21,
     "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/marvins-room/1440642493?i=1440642743"
-   }
-  },
-  {
-   "rawId": "1506297772",
-   "title": "March Madness",
-   "url": "https://music.apple.com/us/album/march-madness/1506297314?i=1506297772",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/400x400bb.jpg",
-   "publishedAt": "2015-03-21T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
-   "metrics": {
-    "artist": "Future",
-    "rank": 22,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/march-madness/1506297314?i=1506297772"
-   }
-  },
-  {
-   "rawId": "1869436845",
-   "title": "Be Her",
-   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
-   "publishedAt": "2026-02-13T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
-   "metrics": {
-    "artist": "Ella Langley",
-    "rank": 23,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
-   }
-  },
-  {
-   "rawId": "1621207921",
-   "title": "Frozen",
-   "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 24,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/frozen/1621207919?i=1621207921"
+    "value": "https://embed.music.apple.com/us/album/i-cant-love-you-anymore/1895158676?i=6763091996"
    }
   },
   {
@@ -564,19 +494,88 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#25 on Apple Music's most-played songs (US).",
+   "summary": "#22 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/51/9f/5f519f49-44c1-6aeb-f289-5b14c677abb1/26UM1IM17017.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-09-11T00:00:00Z",
-   "hot": 1,
-   "rank": 25,
+   "hot": 4,
+   "rank": 22,
    "metrics": {
     "artist": "Jhené Aiko",
-    "rank": 25,
-    "change": "new"
+    "rank": 22,
+    "change": 3
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/so-good-feat-kendrick-lamar/6810715695?i=6810716062"
+   }
+  },
+  {
+   "rawId": "1506297772",
+   "title": "March Madness",
+   "url": "https://music.apple.com/us/album/march-madness/1506297314?i=1506297772",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/400x400bb.jpg",
+   "publishedAt": "2015-03-21T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
+   "metrics": {
+    "artist": "Future",
+    "rank": 23,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/march-madness/1506297314?i=1506297772"
+   }
+  },
+  {
+   "rawId": "1440642743",
+   "title": "Marvins Room",
+   "url": "https://music.apple.com/us/album/marvins-room/1440642493?i=1440642743",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/74/fb/d3/74fbd365-bd52-23b4-604b-7f164407b0a9/00602527899107.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2011-06-28T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 24,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/marvins-room/1440642493?i=1440642743"
+   }
+  },
+  {
+   "rawId": "1621207921",
+   "title": "Frozen",
+   "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#25 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
+   "hot": 1,
+   "rank": 25,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 25,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/frozen/1621207919?i=1621207921"
    }
   }
  ]
