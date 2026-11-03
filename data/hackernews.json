@@ -1,47 +1,47 @@
 {
- "updated": "2026-11-02T18:35:36Z",
+ "updated": "2026-11-03T01:41:50Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50340088",
-   "title": "Show HN: Subvocal – Talk to your computer without making noise",
-   "url": "https://subvocal.company/",
+   "rawId": "50341174",
+   "title": "Astra can read and write weights to improve Qwen",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "subvocal.company"
+    "rikiyat.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T18:21:28Z",
+   "hot": 260.8,
+   "rank": 1,
+   "metrics": {
+    "points": 1914,
+    "comments": 606,
+    "discussion": "https://news.ycombinator.com/item?id=50341174"
+   }
+  },
+  {
+   "rawId": "50340088",
+   "title": "Show HN: Subvocal – Talk to your computer without making noise",
+   "url": "https://news.ycombinator.com/item?id=50340088",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T17:16:17Z",
-   "hot": 122.5,
-   "rank": 1,
-   "metrics": {
-    "points": 162,
-    "comments": 124,
-    "discussion": "https://news.ycombinator.com/item?id=50340088"
-   }
-  },
-  {
-   "rawId": "50339913",
-   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-   "url": "https://momentic.ai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "momentic.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T17:05:25Z",
-   "hot": 35.3,
+   "hot": 65.0,
    "rank": 2,
    "metrics": {
-    "points": 53,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50339913"
+    "points": 548,
+    "comments": 296,
+    "discussion": "https://news.ycombinator.com/item?id=50340088"
    }
   },
   {
@@ -57,54 +57,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T16:34:36Z",
-   "hot": 40.7,
+   "hot": 31.9,
    "rank": 3,
    "metrics": {
-    "points": 82,
-    "comments": 52,
+    "points": 291,
+    "comments": 307,
     "discussion": "https://news.ycombinator.com/item?id=50339397"
-   }
-  },
-  {
-   "rawId": "50339221",
-   "title": "Show HN: Warsaw in voxels – an interactive 3D map of the city centre",
-   "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "p.migdal.pl"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T16:25:26Z",
-   "hot": 40.6,
-   "rank": 4,
-   "metrics": {
-    "points": 88,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50339221"
-   }
-  },
-  {
-   "rawId": "50338728",
-   "title": "Ask HN: Who is hiring? (November 2026)",
-   "url": "https://news.ycombinator.com/item?id=50338728",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T16:01:37Z",
-   "hot": 38.2,
-   "rank": 5,
-   "metrics": {
-    "points": 98,
-    "comments": 71,
-    "discussion": "https://news.ycombinator.com/item?id=50338728"
    }
   },
   {
@@ -120,33 +78,201 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T13:25:35Z",
-   "hot": 36.2,
-   "rank": 6,
+   "hot": 32.7,
+   "rank": 4,
    "metrics": {
-    "points": 187,
-    "comments": 42,
+    "points": 401,
+    "comments": 93,
     "discussion": "https://news.ycombinator.com/item?id=50336518"
    }
   },
   {
-   "rawId": "50338747",
-   "title": "Moving our warehouse off DuckDB",
-   "url": "https://posthog.com/blog/moving-off-duckdb",
+   "rawId": "50339913",
+   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+   "url": "https://momentic.ai/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "posthog.com"
+    "momentic.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T16:02:26Z",
-   "hot": 38.8,
+   "publishedAt": "2026-11-02T17:05:25Z",
+   "hot": 14.1,
+   "rank": 5,
+   "metrics": {
+    "points": 121,
+    "comments": 78,
+    "discussion": "https://news.ycombinator.com/item?id=50339913"
+   }
+  },
+  {
+   "rawId": "50339221",
+   "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+   "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "p.migdal.pl"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T16:25:26Z",
+   "hot": 23.1,
+   "rank": 6,
+   "metrics": {
+    "points": 214,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50339221"
+   }
+  },
+  {
+   "rawId": "50344919",
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "techpolicy.press"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T22:30:47Z",
+   "hot": 59.0,
    "rank": 7,
    "metrics": {
-    "points": 99,
-    "comments": 52,
-    "discussion": "https://news.ycombinator.com/item?id=50338747"
+    "points": 188,
+    "comments": 116,
+    "discussion": "https://news.ycombinator.com/item?id=50344919"
+   }
+  },
+  {
+   "rawId": "50346153",
+   "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+   "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "finance.yahoo.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T00:08:53Z",
+   "hot": 37.4,
+   "rank": 8,
+   "metrics": {
+    "points": 58,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50346153"
+   }
+  },
+  {
+   "rawId": "50338728",
+   "title": "Ask HN: Who is hiring? (November 2026)",
+   "url": "https://news.ycombinator.com/item?id=50338728",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T16:01:37Z",
+   "hot": 17.9,
+   "rank": 9,
+   "metrics": {
+    "points": 173,
+    "comments": 142,
+    "discussion": "https://news.ycombinator.com/item?id=50338728"
+   }
+  },
+  {
+   "rawId": "50340619",
+   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+   "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nist.gov"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T17:47:40Z",
+   "hot": 11.6,
+   "rank": 10,
+   "metrics": {
+    "points": 92,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50340619"
+   }
+  },
+  {
+   "rawId": "50341736",
+   "title": "Egoless Mathematics in the AI Era",
+   "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "terrytao.wordpress.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T18:54:44Z",
+   "hot": 15.9,
+   "rank": 11,
+   "metrics": {
+    "points": 108,
+    "comments": 81,
+    "discussion": "https://news.ycombinator.com/item?id=50341736"
+   }
+  },
+  {
+   "rawId": "50341462",
+   "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+   "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "freenode.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T18:39:38Z",
+   "hot": 46.8,
+   "rank": 12,
+   "metrics": {
+    "points": 329,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50341462"
+   }
+  },
+  {
+   "rawId": "50345712",
+   "title": "WorkOS reports security breach",
+   "url": "https://news.ycombinator.com/item?id=50345712",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T23:30:59Z",
+   "hot": 17.0,
+   "rank": 13,
+   "metrics": {
+    "points": 37,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50345712"
    }
   },
   {
@@ -162,159 +288,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T14:52:00Z",
-   "hot": 220.3,
-   "rank": 8,
+   "hot": 121.5,
+   "rank": 14,
    "metrics": {
-    "points": 821,
-    "comments": 417,
+    "points": 1316,
+    "comments": 583,
     "discussion": "https://news.ycombinator.com/item?id=50337608"
    }
   },
   {
-   "rawId": "50339494",
-   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "rawId": "50340159",
+   "title": "Polyend releases the Tracker firmware source code",
+   "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "businessinsider.com"
+    "polyend.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T16:40:29Z",
-   "hot": 64.6,
-   "rank": 9,
-   "metrics": {
-    "points": 124,
-    "comments": 90,
-    "discussion": "https://news.ycombinator.com/item?id=50339494"
-   }
-  },
-  {
-   "rawId": "50337558",
-   "title": "We halved DNS build delay and cut memory use by 85%",
-   "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.cloudflare.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T14:47:28Z",
-   "hot": 17.4,
-   "rank": 10,
-   "metrics": {
-    "points": 66,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50337558"
-   }
-  },
-  {
-   "rawId": "50339815",
-   "title": "My Favourite Laptop",
-   "url": "https://blog.jsbarretto.com/post/laptop",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.jsbarretto.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T16:59:57Z",
-   "hot": 40.8,
-   "rank": 11,
-   "metrics": {
-    "points": 65,
-    "comments": 43,
-    "discussion": "https://news.ycombinator.com/item?id=50339815"
-   }
-  },
-  {
-   "rawId": "50340369",
-   "title": "Let Me Ch...",
-   "url": "https://blog.alxgsv.com/let-me-check/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.alxgsv.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T17:33:20Z",
-   "hot": 13.5,
-   "rank": 12,
-   "metrics": {
-    "points": 14,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50340369"
-   }
-  },
-  {
-   "rawId": "50337503",
-   "title": "GPT-Rosalind-6 System Card Addendum",
-   "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "deploymentsafety.openai.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T14:44:02Z",
-   "hot": 11.7,
-   "rank": 13,
-   "metrics": {
-    "points": 45,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50337503"
-   }
-  },
-  {
-   "rawId": "50337716",
-   "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
-   "url": "https://longcat.ai/blog/longcat-2.5/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "longcat.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T15:00:26Z",
-   "hot": 13.7,
-   "rank": 14,
-   "metrics": {
-    "points": 49,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50337716"
-   }
-  },
-  {
-   "rawId": "50312408",
-   "title": "Postgres 19 is late because so many more bugs are being found now",
-   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "rhaas.blogspot.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-10-31T01:38:56Z",
-   "hot": 12.0,
+   "publishedAt": "2026-11-02T17:20:13Z",
+   "hot": 9.8,
    "rank": 15,
    "metrics": {
-    "points": 781,
-    "comments": 461,
-    "discussion": "https://news.ycombinator.com/item?id=50312408"
+    "points": 82,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50340159"
    }
   },
   {
@@ -330,75 +330,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T18:12:48Z",
-   "hot": 3.0,
+   "hot": 14.2,
    "rank": 16,
    "metrics": {
-    "points": 3,
-    "comments": 0,
+    "points": 106,
+    "comments": 35,
     "discussion": "https://news.ycombinator.com/item?id=50341028"
    }
   },
   {
-   "rawId": "50331957",
-   "title": "Bones may release proteins that slow aging and extend life span",
-   "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+   "rawId": "50344224",
+   "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
+   "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "science.org"
+    "www6.slac.stanford.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T01:31:07Z",
-   "hot": 16.5,
+   "publishedAt": "2026-11-02T21:42:25Z",
+   "hot": 4.5,
    "rank": 17,
    "metrics": {
-    "points": 281,
-    "comments": 104,
-    "discussion": "https://news.ycombinator.com/item?id=50331957"
+    "points": 18,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50344224"
    }
   },
   {
-   "rawId": "50334704",
-   "title": "Show HN: I've updated my Linux System Call website and API",
-   "url": "https://syscall.sh/",
+   "rawId": "50340992",
+   "title": "Skill to Create Product Videos",
+   "url": "https://github.com/aaitor/skill-video-studio",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "syscall.sh"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T09:29:16Z",
-   "hot": 18.7,
+   "publishedAt": "2026-11-02T18:10:39Z",
+   "hot": 9.0,
    "rank": 18,
    "metrics": {
-    "points": 170,
-    "comments": 47,
-    "discussion": "https://news.ycombinator.com/item?id=50334704"
+    "points": 68,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50340992"
    }
   },
   {
-   "rawId": "50337661",
-   "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-   "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+   "rawId": "50346164",
+   "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+   "url": "https://news.ycombinator.com/item?id=50346164",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "retrogamecoders.com"
+    "Ask HN"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T14:56:21Z",
-   "hot": 4.9,
+   "publishedAt": "2026-11-03T00:09:36Z",
+   "hot": 8.5,
    "rank": 19,
    "metrics": {
-    "points": 18,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50337661"
+    "points": 13,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50346164"
+   }
+  },
+  {
+   "rawId": "50318874",
+   "title": "Trademarks and Symbols, Volume 2: Symbolical Designs (1973)",
+   "url": "https://www.symbools.com/kuwayama-trademarks-symbols-vol-2/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "symbools.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-10-31T18:50:43Z",
+   "hot": 0.1,
+   "rank": 20,
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50318874"
    }
   }
  ]
