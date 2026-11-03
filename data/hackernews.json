@@ -1,137 +1,137 @@
 {
- "updated": "2026-11-03T09:45:16Z",
+ "updated": "2026-11-03T17:56:08Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50341174",
-   "title": "Astra can read and write weights to improve Qwen",
-   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "rawId": "50354960",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "rikiyat.github.io"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T18:21:28Z",
-   "hot": 169.1,
+   "publishedAt": "2026-11-03T17:22:37Z",
+   "hot": 131.0,
    "rank": 1,
    "metrics": {
-    "points": 2604,
-    "comments": 793,
-    "discussion": "https://news.ycombinator.com/item?id=50341174"
+    "points": 131,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50354960"
    }
   },
   {
-   "rawId": "50348962",
-   "title": "Nvidia – open-source auto-ontology",
-   "url": "https://github.com/NVIDIA/auto-ontology",
+   "rawId": "50339288",
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "blog.nns.ee"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T07:04:50Z",
-   "hot": 19.8,
+   "publishedAt": "2026-11-02T16:29:19Z",
+   "hot": 10.0,
    "rank": 2,
    "metrics": {
-    "points": 53,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50348962"
+    "points": 255,
+    "comments": 85,
+    "discussion": "https://news.ycombinator.com/item?id=50339288"
    }
   },
   {
-   "rawId": "50346981",
-   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-   "url": "https://hackertimes.ca/",
+   "rawId": "50352758",
+   "title": "Mac at Any Scale",
+   "url": "https://namespace.so/blog/mac-at-any-scale",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hackertimes.ca"
+    "namespace.so"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T01:53:34Z",
-   "hot": 32.9,
+   "publishedAt": "2026-11-03T14:53:42Z",
+   "hot": 43.7,
    "rank": 3,
    "metrics": {
-    "points": 259,
-    "comments": 79,
-    "discussion": "https://news.ycombinator.com/item?id=50346981"
+    "points": 133,
+    "comments": 59,
+    "discussion": "https://news.ycombinator.com/item?id=50352758"
    }
   },
   {
-   "rawId": "50346849",
-   "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "rawId": "50336918",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "arstechnica.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T01:33:43Z",
-   "hot": 23.9,
+   "publishedAt": "2026-11-02T14:02:42Z",
+   "hot": 7.3,
    "rank": 4,
    "metrics": {
-    "points": 196,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50346849"
+    "points": 204,
+    "comments": 81,
+    "discussion": "https://news.ycombinator.com/item?id=50336918"
    }
   },
   {
-   "rawId": "50321605",
-   "title": "Toit v2.0.0",
-   "url": "https://toit.io/blog/toit-v2-0-0/",
+   "rawId": "50353192",
+   "title": "Schools that block Google’s A.I. will lose student access to its search engine",
+   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "toit.io"
+    "nytimes.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-01T00:25:04Z",
-   "hot": 1.1,
+   "publishedAt": "2026-11-03T15:25:47Z",
+   "hot": 81.0,
    "rank": 5,
    "metrics": {
-    "points": 61,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50321605"
+    "points": 203,
+    "comments": 172,
+    "discussion": "https://news.ycombinator.com/item?id=50353192"
    }
   },
   {
-   "rawId": "50334523",
-   "title": "European RISC-V Industrial Computing Initiative",
-   "url": "https://erici.eu",
+   "rawId": "50351111",
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "url": "https://honnibal.dev/blog/astra-read-write-misleading",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "erici.eu"
+    "honnibal.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T08:58:33Z",
-   "hot": 4.2,
+   "publishedAt": "2026-11-03T12:21:17Z",
+   "hot": 126.7,
    "rank": 6,
    "metrics": {
-    "points": 105,
-    "comments": 56,
-    "discussion": "https://news.ycombinator.com/item?id=50334523"
+    "points": 707,
+    "comments": 162,
+    "discussion": "https://news.ycombinator.com/item?id=50351111"
    }
   },
   {
-   "rawId": "50340088",
-   "title": "Show HN: Subvocal – Talk to your computer without making noise",
-   "url": "https://news.ycombinator.com/item?id=50340088",
+   "rawId": "50352757",
+   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+   "url": "https://news.ycombinator.com/item?id=50352757",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -140,166 +140,61 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T17:16:17Z",
-   "hot": 41.8,
+   "publishedAt": "2026-11-03T14:53:41Z",
+   "hot": 49.7,
    "rank": 7,
    "metrics": {
-    "points": 689,
-    "comments": 338,
-    "discussion": "https://news.ycombinator.com/item?id=50340088"
+    "points": 151,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50352757"
    }
   },
   {
-   "rawId": "50323123",
-   "title": "Resisting Cognitive Surrender",
-   "url": "https://knlb.dev/essays/surrender",
+   "rawId": "50353229",
+   "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
+   "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "knlb.dev"
+    "arstechnica.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-01T06:13:30Z",
-   "hot": 3.2,
+   "publishedAt": "2026-11-03T15:29:15Z",
+   "hot": 58.4,
    "rank": 8,
    "metrics": {
-    "points": 167,
-    "comments": 72,
-    "discussion": "https://news.ycombinator.com/item?id=50323123"
+    "points": 143,
+    "comments": 80,
+    "discussion": "https://news.ycombinator.com/item?id=50353229"
    }
   },
   {
-   "rawId": "50320904",
-   "title": "Efficient algorithms, the Exponential Time Hypothesis, and losing the plot",
-   "url": "https://www.argmin.net/p/galactus-the-devourer",
+   "rawId": "50342119",
+   "title": "Writing seen in PHerc. 306B, for the first time in 2000 years",
+   "url": "https://scrollprize.substack.com/p/writing-seen-in-pherc-306b-for-the",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "argmin.net"
+    "scrollprize.substack.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-10-31T22:31:49Z",
-   "hot": 0.7,
+   "publishedAt": "2026-11-02T19:18:46Z",
+   "hot": 3.1,
    "rank": 9,
    "metrics": {
-    "points": 40,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50320904"
+    "points": 69,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50342119"
    }
   },
   {
-   "rawId": "50339397",
-   "title": "US boy names that became girl names and vice versa",
-   "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "namedaisy.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T16:34:36Z",
-   "hot": 23.2,
-   "rank": 10,
-   "metrics": {
-    "points": 399,
-    "comments": 379,
-    "discussion": "https://news.ycombinator.com/item?id=50339397"
-   }
-  },
-  {
-   "rawId": "50336518",
-   "title": "If you love a website, back it up",
-   "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.mistys-internet.website"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T13:25:35Z",
-   "hot": 26.9,
-   "rank": 11,
-   "metrics": {
-    "points": 547,
-    "comments": 119,
-    "discussion": "https://news.ycombinator.com/item?id=50336518"
-   }
-  },
-  {
-   "rawId": "50331800",
-   "title": "Vathographs: Photographic depth maps as creative expression",
-   "url": "https://vathography.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "vathography.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T01:11:19Z",
-   "hot": 0.1,
-   "rank": 12,
-   "metrics": {
-    "points": 4,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50331800"
-   }
-  },
-  {
-   "rawId": "50340619",
-   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-   "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nist.gov"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T17:47:40Z",
-   "hot": 14.1,
-   "rank": 13,
-   "metrics": {
-    "points": 225,
-    "comments": 57,
-    "discussion": "https://news.ycombinator.com/item?id=50340619"
-   }
-  },
-  {
-   "rawId": "50345924",
-   "title": "Scaling Git at OpenAI",
-   "url": "https://openai.com/index/scaling-git-at-openai/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "openai.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T23:47:56Z",
-   "hot": 22.0,
-   "rank": 14,
-   "metrics": {
-    "points": 219,
-    "comments": 129,
-    "discussion": "https://news.ycombinator.com/item?id=50345924"
-   }
-  },
-  {
-   "rawId": "50347464",
-   "title": "Open-Source 5G Ran Platforms: A Dual Perspective on Performance and Capabilities",
-   "url": "https://arxiv.org/abs/2608.25820",
+   "rawId": "50354250",
+   "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+   "url": "https://arxiv.org/abs/2611.02618",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -308,103 +203,61 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T02:58:44Z",
-   "hot": 5.0,
-   "rank": 15,
+   "publishedAt": "2026-11-03T16:40:02Z",
+   "hot": 7.9,
+   "rank": 10,
    "metrics": {
-    "points": 34,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50347464"
+    "points": 10,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50354250"
    }
   },
   {
-   "rawId": "50349155",
-   "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
-   "url": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+   "rawId": "50353073",
+   "title": "Tiny Basic for Arduino",
+   "url": "https://dilshan.github.io/tiny-basic/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cornfieldlabs.github.io"
+    "dilshan.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T07:36:47Z",
-   "hot": 32.7,
-   "rank": 16,
+   "publishedAt": "2026-11-03T15:17:07Z",
+   "hot": 10.9,
+   "rank": 11,
    "metrics": {
-    "points": 70,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50349155"
+    "points": 29,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50353073"
    }
   },
   {
-   "rawId": "50339913",
-   "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-   "url": "https://momentic.ai/",
+   "rawId": "50353383",
+   "title": "Bear turns 10, and it still feels like day one",
+   "url": "https://blog.bear.app/2026/11/bear-turns-10-and-it-still-feels-like-day-one/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "momentic.ai"
+    "blog.bear.app"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T17:05:25Z",
-   "hot": 8.6,
-   "rank": 17,
+   "publishedAt": "2026-11-03T15:41:46Z",
+   "hot": 17.4,
+   "rank": 12,
    "metrics": {
-    "points": 143,
-    "comments": 95,
-    "discussion": "https://news.ycombinator.com/item?id=50339913"
+    "points": 39,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50353383"
    }
   },
   {
-   "rawId": "50339221",
-   "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-   "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "p.migdal.pl"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T16:25:26Z",
-   "hot": 15.5,
-   "rank": 18,
-   "metrics": {
-    "points": 268,
-    "comments": 43,
-    "discussion": "https://news.ycombinator.com/item?id=50339221"
-   }
-  },
-  {
-   "rawId": "50326246",
-   "title": "Shrinking NixOS RAM footprint and resource requirements to the bare minimum",
-   "url": "https://lowendspirit.com/discussion/11543/shrinking-nixos-ram-footprint-and-resource-requirements-to-the-bare-minimum",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lowendspirit.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-01T14:52:05Z",
-   "hot": 1.5,
-   "rank": 19,
-   "metrics": {
-    "points": 64,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50326246"
-   }
-  },
-  {
-   "rawId": "50338728",
-   "title": "Ask HN: Who is hiring? (November 2026)",
-   "url": "https://news.ycombinator.com/item?id=50338728",
+   "rawId": "50354336",
+   "title": "Gitbook Breached",
+   "url": "https://news.ycombinator.com/item?id=50354336",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -413,13 +266,139 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T16:01:37Z",
-   "hot": 12.3,
-   "rank": 20,
+   "publishedAt": "2026-11-03T16:45:49Z",
+   "hot": 35.0,
+   "rank": 13,
    "metrics": {
-    "points": 218,
-    "comments": 175,
-    "discussion": "https://news.ycombinator.com/item?id=50338728"
+    "points": 41,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50354336"
+   }
+  },
+  {
+   "rawId": "50349276",
+   "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+   "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nicholas.carlini.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T07:56:21Z",
+   "hot": 29.1,
+   "rank": 14,
+   "metrics": {
+    "points": 291,
+    "comments": 138,
+    "discussion": "https://news.ycombinator.com/item?id=50349276"
+   }
+  },
+  {
+   "rawId": "50334363",
+   "title": "Antimony: CAD Software Evolved from Lisp Machines and Not Drafting Tables",
+   "url": "https://www.mattkeeter.com/projects/antimony/3/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mattkeeter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T08:29:40Z",
+   "hot": 1.4,
+   "rank": 15,
+   "metrics": {
+    "points": 46,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50334363"
+   }
+  },
+  {
+   "rawId": "50353335",
+   "title": "Study estimates 75% of NFL players who died over 15-year span had CTE",
+   "url": "https://www.nbcnews.com/health/health-news/study-estimates-75-nfl-players-died-15-year-span-may-cte-rcna605975",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nbcnews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T15:38:04Z",
+   "hot": 40.0,
+   "rank": 16,
+   "metrics": {
+    "points": 92,
+    "comments": 50,
+    "discussion": "https://news.ycombinator.com/item?id=50353335"
+   }
+  },
+  {
+   "rawId": "50353386",
+   "title": "Show HN: HackerChurn – which SaaS tools HN wants to cancel",
+   "url": "https://hissingkitty.com/hacker-churn",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hissingkitty.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T15:41:52Z",
+   "hot": 14.7,
+   "rank": 17,
+   "metrics": {
+    "points": 33,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50353386"
+   }
+  },
+  {
+   "rawId": "50332342",
+   "title": "Katamari Damacy but it's The Met collection",
+   "url": "https://katamari.vaguespac.es/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "katamari.vaguespac.es"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T02:21:07Z",
+   "hot": 3.1,
+   "rank": 18,
+   "metrics": {
+    "points": 123,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50332342"
+   }
+  },
+  {
+   "rawId": "50336097",
+   "title": "Exploring the Legacy of Image Club Graphics",
+   "url": "https://blog.somnolescent.net/2026/02/exploring-the-legacy-of-image-club-graphics/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.somnolescent.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T12:46:28Z",
+   "hot": 0.1,
+   "rank": 19,
+   "metrics": {
+    "points": 4,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50336097"
    }
   }
  ]
