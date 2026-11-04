@@ -1,7 +1,217 @@
 {
- "updated": "2026-11-04T06:45:19Z",
+ "updated": "2026-11-04T15:35:49Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50364336",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "spectrum.ieee.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T11:52:17Z",
+   "hot": 115.4,
+   "rank": 1,
+   "metrics": {
+    "points": 430,
+    "comments": 301,
+    "discussion": "https://news.ycombinator.com/item?id=50364336"
+   }
+  },
+  {
+   "rawId": "50362905",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mindstudio.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T08:46:29Z",
+   "hot": 51.0,
+   "rank": 2,
+   "metrics": {
+    "points": 348,
+    "comments": 173,
+    "discussion": "https://news.ycombinator.com/item?id=50362905"
+   }
+  },
+  {
+   "rawId": "50366522",
+   "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+   "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "99percentinvisible.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T15:01:44Z",
+   "hot": 20.0,
+   "rank": 3,
+   "metrics": {
+    "points": 20,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50366522"
+   }
+  },
+  {
+   "rawId": "50365755",
+   "title": "North Korean fake job interview led to $6.3B Binance heist",
+   "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "theregister.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T14:09:55Z",
+   "hot": 86.6,
+   "rank": 4,
+   "metrics": {
+    "points": 124,
+    "comments": 73,
+    "discussion": "https://news.ycombinator.com/item?id=50365755"
+   }
+  },
+  {
+   "rawId": "50363019",
+   "title": "Verification Is Not Knowledge: Science needs more than answers",
+   "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.cosmos-institute.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T09:01:58Z",
+   "hot": 22.2,
+   "rank": 5,
+   "metrics": {
+    "points": 146,
+    "comments": 86,
+    "discussion": "https://news.ycombinator.com/item?id=50363019"
+   }
+  },
+  {
+   "rawId": "50363378",
+   "title": "Incident with Pull Requests, Git Operations and Issues",
+   "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "githubstatus.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T10:00:06Z",
+   "hot": 32.3,
+   "rank": 6,
+   "metrics": {
+    "points": 181,
+    "comments": 90,
+    "discussion": "https://news.ycombinator.com/item?id=50363378"
+   }
+  },
+  {
+   "rawId": "50366860",
+   "title": "Adding Window Functions to a Spreadsheet",
+   "url": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "getgrist.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T15:21:12Z",
+   "hot": 5.0,
+   "rank": 7,
+   "metrics": {
+    "points": 5,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50366860"
+   }
+  },
+  {
+   "rawId": "50363461",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T10:10:27Z",
+   "hot": 62.0,
+   "rank": 8,
+   "metrics": {
+    "points": 336,
+    "comments": 89,
+    "discussion": "https://news.ycombinator.com/item?id=50363461"
+   }
+  },
+  {
+   "rawId": "50366575",
+   "title": "Debian apt security update (man-in-the-middle)",
+   "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lists.debian.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T15:04:14Z",
+   "hot": 26.0,
+   "rank": 9,
+   "metrics": {
+    "points": 26,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50366575"
+   }
+  },
+  {
+   "rawId": "50362980",
+   "title": "Kitty 0.50",
+   "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sw.kovidgoyal.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T08:57:10Z",
+   "hot": 40.5,
+   "rank": 10,
+   "metrics": {
+    "points": 269,
+    "comments": 168,
+    "discussion": "https://news.ycombinator.com/item?id=50362980"
+   }
+  },
   {
    "rawId": "50361268",
    "title": "Jelly Sheet",
@@ -15,75 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-04T03:40:50Z",
-   "hot": 32.5,
-   "rank": 1,
+   "hot": 29.5,
+   "rank": 11,
    "metrics": {
-    "points": 100,
-    "comments": 20,
+    "points": 352,
+    "comments": 91,
     "discussion": "https://news.ycombinator.com/item?id=50361268"
    }
   },
   {
-   "rawId": "50360164",
-   "title": "C++26 Disapproved",
-   "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+   "rawId": "50365982",
+   "title": "US voters roundly reject data centers in ballot measures",
+   "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "andreasfertig.com"
+    "semafor.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T00:33:22Z",
-   "hot": 35.0,
-   "rank": 2,
+   "publishedAt": "2026-11-04T14:27:02Z",
+   "hot": 144.8,
+   "rank": 12,
    "metrics": {
-    "points": 217,
-    "comments": 111,
-    "discussion": "https://news.ycombinator.com/item?id=50360164"
-   }
-  },
-  {
-   "rawId": "50361154",
-   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-   "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "dana-farber.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T03:20:13Z",
-   "hot": 14.3,
-   "rank": 3,
-   "metrics": {
-    "points": 49,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50361154"
-   }
-  },
-  {
-   "rawId": "50358702",
-   "title": "The Internals of PostgreSQL",
-   "url": "https://www.interdb.jp/pg/index.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "interdb.jp"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T21:51:06Z",
-   "hot": 25.4,
-   "rank": 4,
-   "metrics": {
-    "points": 226,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50358702"
+    "points": 166,
+    "comments": 239,
+    "discussion": "https://news.ycombinator.com/item?id=50365982"
    }
   },
   {
@@ -99,11 +267,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T16:29:19Z",
-   "hot": 19.0,
-   "rank": 5,
+   "hot": 19.1,
+   "rank": 13,
    "metrics": {
-    "points": 726,
-    "comments": 296,
+    "points": 899,
+    "comments": 337,
     "discussion": "https://news.ycombinator.com/item?id=50339288"
    }
   },
@@ -120,33 +288,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-03T16:47:29Z",
-   "hot": 36.2,
-   "rank": 6,
+   "hot": 30.9,
+   "rank": 14,
    "metrics": {
-    "points": 505,
-    "comments": 174,
+    "points": 704,
+    "comments": 217,
     "discussion": "https://news.ycombinator.com/item?id=50354358"
    }
   },
   {
-   "rawId": "50360573",
-   "title": "Giant canyon on Mars is still tectonically active",
-   "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+   "rawId": "50362466",
+   "title": "The lost malloc()",
+   "url": "https://napcakes.nekoweb.org/posts/malloc/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "lamont.columbia.edu"
+    "napcakes.nekoweb.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T01:40:42Z",
-   "hot": 12.8,
-   "rank": 7,
+   "publishedAt": "2026-11-04T07:37:30Z",
+   "hot": 13.3,
+   "rank": 15,
    "metrics": {
-    "points": 65,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50360573"
+    "points": 106,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50362466"
+   }
+  },
+  {
+   "rawId": "50358702",
+   "title": "The Internals of PostgreSQL",
+   "url": "https://www.interdb.jp/pg/index.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "interdb.jp"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T21:51:06Z",
+   "hot": 18.7,
+   "rank": 16,
+   "metrics": {
+    "points": 331,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50358702"
+   }
+  },
+  {
+   "rawId": "50365760",
+   "title": "Jaron Lanier on parallels between AI and social media",
+   "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+   "videoUrl": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T14:10:14Z",
+   "hot": 18.2,
+   "rank": 17,
+   "metrics": {
+    "points": 26,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50365760"
+   }
+  },
+  {
+   "rawId": "50363968",
+   "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+   "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "phoronix.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T11:14:12Z",
+   "hot": 21.6,
+   "rank": 18,
+   "metrics": {
+    "points": 94,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50363968"
    }
   },
   {
@@ -162,264 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-03T01:18:09Z",
-   "hot": 9.3,
-   "rank": 8,
+   "hot": 10.7,
+   "rank": 19,
    "metrics": {
-    "points": 273,
-    "comments": 57,
+    "points": 408,
+    "comments": 75,
     "discussion": "https://news.ycombinator.com/item?id=50346755"
    }
   },
   {
-   "rawId": "50358352",
-   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-   "url": "https://uncracked.city",
+   "rawId": "50360573",
+   "title": "Giant canyon on Mars is still tectonically active",
+   "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "uncracked.city"
+    "lamont.columbia.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T21:20:03Z",
-   "hot": 2.3,
-   "rank": 9,
-   "metrics": {
-    "points": 22,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50358352"
-   }
-  },
-  {
-   "rawId": "50336918",
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arstechnica.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T14:02:42Z",
-   "hot": 10.8,
-   "rank": 10,
-   "metrics": {
-    "points": 438,
-    "comments": 183,
-    "discussion": "https://news.ycombinator.com/item?id=50336918"
-   }
-  },
-  {
-   "rawId": "50333131",
-   "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-   "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "spoon-tamago.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T04:31:20Z",
-   "hot": 3.2,
-   "rank": 11,
-   "metrics": {
-    "points": 163,
-    "comments": 26,
-    "discussion": "https://news.ycombinator.com/item?id=50333131"
-   }
-  },
-  {
-   "rawId": "50361107",
-   "title": "Arrows to arrows, categories to queries (2025)",
-   "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reasonablypolymorphic.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T03:11:27Z",
-   "hot": 7.3,
-   "rank": 12,
-   "metrics": {
-    "points": 26,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50361107"
-   }
-  },
-  {
-   "rawId": "50358562",
-   "title": "Safari introduces Adaptive Dark Mode in 27.3",
-   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "webkit.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T21:39:05Z",
-   "hot": 42.4,
-   "rank": 13,
-   "metrics": {
-    "points": 386,
-    "comments": 211,
-    "discussion": "https://news.ycombinator.com/item?id=50358562"
-   }
-  },
-  {
-   "rawId": "50355251",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "simonwillison.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T17:40:00Z",
-   "hot": 43.2,
-   "rank": 14,
-   "metrics": {
-    "points": 566,
-    "comments": 172,
-    "discussion": "https://news.ycombinator.com/item?id=50355251"
-   }
-  },
-  {
-   "rawId": "50354960",
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T17:22:37Z",
-   "hot": 87.7,
-   "rank": 15,
-   "metrics": {
-    "points": 1173,
-    "comments": 387,
-    "discussion": "https://news.ycombinator.com/item?id=50354960"
-   }
-  },
-  {
-   "rawId": "50351298",
-   "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
-   "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-   "videoUrl": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T12:40:06Z",
-   "hot": 1.7,
-   "rank": 16,
-   "metrics": {
-    "points": 30,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50351298"
-   }
-  },
-  {
-   "rawId": "50322603",
-   "title": "We're training a Figma-fluent editing model",
-   "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "figma.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-01T04:05:23Z",
-   "hot": 1.4,
-   "rank": 17,
-   "metrics": {
-    "points": 102,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50322603"
-   }
-  },
-  {
-   "rawId": "50355767",
-   "title": "How I use AI (Oct 2026)",
-   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ben.stolovitz.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T18:11:11Z",
-   "hot": 10.7,
-   "rank": 18,
-   "metrics": {
-    "points": 135,
-    "comments": 116,
-    "discussion": "https://news.ycombinator.com/item?id=50355767"
-   }
-  },
-  {
-   "rawId": "50358582",
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "url": "https://arxiv.org/abs/2605.29713",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arxiv.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T21:40:53Z",
-   "hot": 33.5,
-   "rank": 19,
-   "metrics": {
-    "points": 304,
-    "comments": 49,
-    "discussion": "https://news.ycombinator.com/item?id=50358582"
-   }
-  },
-  {
-   "rawId": "50352641",
-   "title": "There is no posttraining data commons",
-   "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "openathena.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T14:45:47Z",
-   "hot": 3.5,
+   "publishedAt": "2026-11-04T01:40:42Z",
+   "hot": 8.9,
    "rank": 20,
    "metrics": {
-    "points": 56,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50352641"
+    "points": 124,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50360573"
    }
   }
  ]
