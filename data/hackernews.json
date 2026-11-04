@@ -1,47 +1,68 @@
 {
- "updated": "2026-11-03T23:31:52Z",
+ "updated": "2026-11-04T06:45:19Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50358582",
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "url": "https://arxiv.org/abs/2605.29713",
+   "rawId": "50361268",
+   "title": "Jelly Sheet",
+   "url": "https://mrdoob.github.io/codevember-2026/01/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "mrdoob.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T21:40:53Z",
-   "hot": 69.2,
+   "publishedAt": "2026-11-04T03:40:50Z",
+   "hot": 32.5,
    "rank": 1,
    "metrics": {
-    "points": 128,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50358582"
+    "points": 100,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50361268"
    }
   },
   {
-   "rawId": "50358562",
-   "title": "Safari introduces Adaptive Dark Mode in 27.3",
-   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "rawId": "50360164",
+   "title": "C++26 Disapproved",
+   "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "webkit.org"
+    "andreasfertig.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T21:39:05Z",
-   "hot": 101.1,
+   "publishedAt": "2026-11-04T00:33:22Z",
+   "hot": 35.0,
    "rank": 2,
    "metrics": {
-    "points": 190,
-    "comments": 121,
-    "discussion": "https://news.ycombinator.com/item?id=50358562"
+    "points": 217,
+    "comments": 111,
+    "discussion": "https://news.ycombinator.com/item?id=50360164"
+   }
+  },
+  {
+   "rawId": "50361154",
+   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+   "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dana-farber.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T03:20:13Z",
+   "hot": 14.3,
+   "rank": 3,
+   "metrics": {
+    "points": 49,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50361154"
    }
   },
   {
@@ -57,11 +78,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-03T21:51:06Z",
-   "hot": 28.0,
-   "rank": 3,
+   "hot": 25.4,
+   "rank": 4,
    "metrics": {
-    "points": 47,
-    "comments": 1,
+    "points": 226,
+    "comments": 13,
     "discussion": "https://news.ycombinator.com/item?id=50358702"
    }
   },
@@ -78,11 +99,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T16:29:19Z",
-   "hot": 17.9,
-   "rank": 4,
+   "hot": 19.0,
+   "rank": 5,
    "metrics": {
-    "points": 557,
-    "comments": 219,
+    "points": 726,
+    "comments": 296,
     "discussion": "https://news.ycombinator.com/item?id=50339288"
    }
   },
@@ -99,12 +120,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-03T16:47:29Z",
-   "hot": 44.8,
-   "rank": 5,
+   "hot": 36.2,
+   "rank": 6,
    "metrics": {
-    "points": 302,
-    "comments": 120,
+    "points": 505,
+    "comments": 174,
     "discussion": "https://news.ycombinator.com/item?id=50354358"
+   }
+  },
+  {
+   "rawId": "50360573",
+   "title": "Giant canyon on Mars is still tectonically active",
+   "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lamont.columbia.edu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T01:40:42Z",
+   "hot": 12.8,
+   "rank": 7,
+   "metrics": {
+    "points": 65,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50360573"
    }
   },
   {
@@ -120,96 +162,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-03T01:18:09Z",
-   "hot": 5.0,
-   "rank": 6,
+   "hot": 9.3,
+   "rank": 8,
    "metrics": {
-    "points": 111,
-    "comments": 27,
+    "points": 273,
+    "comments": 57,
     "discussion": "https://news.ycombinator.com/item?id=50346755"
    }
   },
   {
-   "rawId": "50356944",
-   "title": "macOS 27 does not support CoreStorage volumes",
-   "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+   "rawId": "50358352",
+   "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+   "url": "https://uncracked.city",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "wadetregaskis.com"
+    "uncracked.city"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T19:27:53Z",
-   "hot": 18.9,
-   "rank": 7,
-   "metrics": {
-    "points": 77,
-    "comments": 42,
-    "discussion": "https://news.ycombinator.com/item?id=50356944"
-   }
-  },
-  {
-   "rawId": "50355251",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "simonwillison.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T17:40:00Z",
-   "hot": 74.9,
-   "rank": 8,
-   "metrics": {
-    "points": 439,
-    "comments": 139,
-    "discussion": "https://news.ycombinator.com/item?id=50355251"
-   }
-  },
-  {
-   "rawId": "50333131",
-   "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-   "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "spoon-tamago.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T04:31:20Z",
-   "hot": 1.7,
+   "publishedAt": "2026-11-03T21:20:03Z",
+   "hot": 2.3,
    "rank": 9,
    "metrics": {
-    "points": 71,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50333131"
-   }
-  },
-  {
-   "rawId": "50354960",
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T17:22:37Z",
-   "hot": 152.6,
-   "rank": 10,
-   "metrics": {
-    "points": 939,
-    "comments": 304,
-    "discussion": "https://news.ycombinator.com/item?id=50354960"
+    "points": 22,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50358352"
    }
   },
   {
@@ -225,18 +204,102 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-02T14:02:42Z",
-   "hot": 10.5,
-   "rank": 11,
+   "hot": 10.8,
+   "rank": 10,
    "metrics": {
-    "points": 351,
-    "comments": 138,
+    "points": 438,
+    "comments": 183,
     "discussion": "https://news.ycombinator.com/item?id=50336918"
    }
   },
   {
-   "rawId": "50358314",
-   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-   "url": "https://github.com/finic-ai/kairos",
+   "rawId": "50333131",
+   "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+   "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "spoon-tamago.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T04:31:20Z",
+   "hot": 3.2,
+   "rank": 11,
+   "metrics": {
+    "points": 163,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50333131"
+   }
+  },
+  {
+   "rawId": "50361107",
+   "title": "Arrows to arrows, categories to queries (2025)",
+   "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reasonablypolymorphic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T03:11:27Z",
+   "hot": 7.3,
+   "rank": 12,
+   "metrics": {
+    "points": 26,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50361107"
+   }
+  },
+  {
+   "rawId": "50358562",
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "webkit.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T21:39:05Z",
+   "hot": 42.4,
+   "rank": 13,
+   "metrics": {
+    "points": 386,
+    "comments": 211,
+    "discussion": "https://news.ycombinator.com/item?id=50358562"
+   }
+  },
+  {
+   "rawId": "50355251",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "simonwillison.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T17:40:00Z",
+   "hot": 43.2,
+   "rank": 14,
+   "metrics": {
+    "points": 566,
+    "comments": 172,
+    "discussion": "https://news.ycombinator.com/item?id=50355251"
+   }
+  },
+  {
+   "rawId": "50354960",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -245,18 +308,39 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T21:16:48Z",
-   "hot": 13.8,
-   "rank": 12,
+   "publishedAt": "2026-11-03T17:22:37Z",
+   "hot": 87.7,
+   "rank": 15,
    "metrics": {
-    "points": 31,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50358314"
+    "points": 1173,
+    "comments": 387,
+    "discussion": "https://news.ycombinator.com/item?id=50354960"
+   }
+  },
+  {
+   "rawId": "50351298",
+   "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
+   "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+   "videoUrl": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T12:40:06Z",
+   "hot": 1.7,
+   "rank": 16,
+   "metrics": {
+    "points": 30,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50351298"
    }
   },
   {
    "rawId": "50322603",
-   "title": "We're Training a Figma-Fluent Editing Model",
+   "title": "We're training a Figma-fluent editing model",
    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
    "videoUrl": null,
    "category": "news",
@@ -267,138 +351,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-01T04:05:23Z",
-   "hot": 0.7,
-   "rank": 13,
+   "hot": 1.4,
+   "rank": 17,
    "metrics": {
-    "points": 50,
-    "comments": 26,
+    "points": 102,
+    "comments": 46,
     "discussion": "https://news.ycombinator.com/item?id=50322603"
    }
   },
   {
-   "rawId": "50356913",
-   "title": "Introduction to Programming in ATS",
-   "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+   "rawId": "50355767",
+   "title": "How I use AI (Oct 2026)",
+   "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ats-lang.sourceforge.net"
+    "ben.stolovitz.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T19:25:18Z",
+   "publishedAt": "2026-11-03T18:11:11Z",
    "hot": 10.7,
-   "rank": 14,
-   "metrics": {
-    "points": 44,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50356913"
-   }
-  },
-  {
-   "rawId": "50338334",
-   "title": "Curiosity Traps",
-   "url": "https://www.autodidacts.io/curiosity-traps/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "autodidacts.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T15:40:04Z",
-   "hot": 0.7,
-   "rank": 15,
-   "metrics": {
-    "points": 23,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50338334"
-   }
-  },
-  {
-   "rawId": "50342931",
-   "title": "Union Types and Option Types (2025)",
-   "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tibleiz.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T20:08:33Z",
-   "hot": 0.3,
-   "rank": 16,
-   "metrics": {
-    "points": 7,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50342931"
-   }
-  },
-  {
-   "rawId": "50356994",
-   "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-   "url": "https://flipper.net/pages/flipper-one",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "flipper.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T19:32:13Z",
-   "hot": 38.8,
-   "rank": 17,
-   "metrics": {
-    "points": 155,
-    "comments": 70,
-    "discussion": "https://news.ycombinator.com/item?id=50356994"
-   }
-  },
-  {
-   "rawId": "50358422",
-   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "asia.nikkei.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T21:26:44Z",
-   "hot": 49.9,
    "rank": 18,
    "metrics": {
-    "points": 104,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50358422"
+    "points": 135,
+    "comments": 116,
+    "discussion": "https://news.ycombinator.com/item?id=50355767"
    }
   },
   {
-   "rawId": "50357457",
-   "title": "Pratt parsing is a black box",
-   "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+   "rawId": "50358582",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "url": "https://arxiv.org/abs/2605.29713",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "vinipsmaker.github.io"
+    "arxiv.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T20:07:41Z",
-   "hot": 7.9,
+   "publishedAt": "2026-11-03T21:40:53Z",
+   "hot": 33.5,
    "rank": 19,
    "metrics": {
-    "points": 27,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50357457"
+    "points": 304,
+    "comments": 49,
+    "discussion": "https://news.ycombinator.com/item?id=50358582"
+   }
+  },
+  {
+   "rawId": "50352641",
+   "title": "There is no posttraining data commons",
+   "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "openathena.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T14:45:47Z",
+   "hot": 3.5,
+   "rank": 20,
+   "metrics": {
+    "points": 56,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50352641"
    }
   }
  ]

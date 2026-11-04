@@ -1,255 +1,250 @@
 {
- "updated": "2026-11-03T23:31:52Z",
+ "updated": "2026-11-04T06:45:19Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "nbc news",
-   "query": "nbc news",
+   "rawId": "provisional ballots",
+   "query": "provisional ballots",
+   "traffic": "5000+",
+   "trafficNum": 5000,
+   "publishedAt": "2026-11-04T06:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTC2-sqcaj5F3oe2e-kJ2bFU79IYJacvOebjIXvNwGus4jpYbgxJlBmrQ-qaIE",
+   "news": [
+    {
+     "title": "Still need to finish your midterm ballot? Find your local voter guide here",
+     "url": "https://www.npr.org/2026/10/30/g-s1-149560/2026-vote-midterm-election-local-voter-guides",
+     "source": "NPR"
+    },
+    {
+     "title": "Scenes of democracy unfold as Americans cast ballots on Election Day",
+     "url": "https://www.usatoday.com/picture-gallery/news/politics/2026/11/03/election-day-2026-voting-scenes/92583262007/",
+     "source": "USA Today"
+    },
+    {
+     "title": "It’s Time to Vote!",
+     "url": "https://bikepacking.com/news/time-to-vote-2026/",
+     "source": "BIKEPACKING.com"
+    }
+   ]
+  },
+  {
+   "rawId": "hawaii news now",
+   "query": "hawaii news now",
+   "traffic": "5000+",
+   "trafficNum": 5000,
+   "publishedAt": "2026-11-04T06:00:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRiCQhU3T1xzBhE0jTbybe9AMwaLZR7dyxV_si-Yp4JuiF437Gzz6qLUfLEvA",
+   "news": [
+    {
+     "title": "Election Day on Oahu: Inside the final hours of in-person voting",
+     "url": "https://www.hawaiinewsnow.com/2026/11/04/election-day-oahu-inside-final-hours-in-person-voting/",
+     "source": "Hawaii News Now"
+    },
+    {
+     "title": "Will Republicans make more gains in Hawaiʻi? 6 things to watch on Election Day",
+     "url": "https://www.hawaiipublicradio.org/local-news/2026-11-02/6-things-to-watch-on-election-day-in-hawaii",
+     "source": "Hawaii Public Radio"
+    },
+    {
+     "title": "Hawaii election officials urge putting ballots in drop boxes today",
+     "url": "https://www.staradvertiser.com/2026/11/03/hawaii-news/isle-election-officials-urge-putting-ballots-in-drop-boxes-today/",
+     "source": "Honolulu Star-Advertiser"
+    }
+   ]
+  },
+  {
+   "rawId": "alina charaeva",
+   "query": "alina charaeva",
    "traffic": "2000+",
    "trafficNum": 2000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAGJkh8VvCr7LvXHjtiyBndkElw6NqQI05tOJXERceis3Sf1uuHNhbgLXxo3w",
+   "publishedAt": "2026-11-04T06:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ96xnKy-8jCsOwYOYhi8zYLrHLSvoT6fQp9xoPG0zcylWAHoiktZ7_fhx8fBo",
    "news": [
     {
-     "title": "The battlegrounds our journalists are reporting from",
-     "url": "https://www.nbcnews.com/politics/2026-election/battlegrounds-journalists-are-reporting-rcna607299",
-     "source": "NBC News"
+     "title": "November 5, 2026: Sorana Cirstea vs Mary Stoiana: Set 1 Winner Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/sorana-cirstea-vs-mary-stoiana-set-1-winner-nov-05-2026/",
+     "source": "Robinhood"
     },
     {
-     "title": "Your Guide to NBC & Peacock's Election Night Coverage: How to Watch, Schedule, More",
-     "url": "https://www.nbc.com/nbc-insider/nbc-peacock-2026-election-night-programming-schedule",
-     "source": "NBC TV"
+     "title": "November 4, 2026: Talia Gibson vs Aliaksandra Sasnovich: Set 1 Winner Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/talia-gibson-vs-aliaksandra-sasnovich-set-1-winner-nov-04-2026/",
+     "source": "Robinhood"
     },
     {
-     "title": "NBCUniversal Brings Together NBC News, Telemundo, and Peacock for Comprehensive 2026 Midterm Election Coverage",
-     "url": "https://www.nbcuniversal.com/article/nbcuniversal-brings-together-nbc-news-telemundo-and-peacock-comprehensive-2026-midterm-election",
-     "source": "nbcuniversal media"
+     "title": "November 4, 2026: Talia Gibson vs Aliaksandra Sasnovich: Set 2 Winner Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/talia-gibson-vs-aliaksandra-sasnovich-set-2-winner-nov-04-2026/",
+     "source": "Robinhood"
     }
    ]
   },
   {
-   "rawId": "wild vs flyers",
-   "query": "wild vs flyers",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTd4qZDEFsOgfqUZ1FRVy7dQkXlg3PKpCWhlA19OtyMhMDfujScDwaGP0ofP84",
+   "rawId": "bill huizenga",
+   "query": "bill huizenga",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-04T06:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ770huSEnUuxIuYOuE8wMQOBNMzlAmgpKTLxjIhormKba4A5gdFCikj32qsh8",
    "news": [
     {
-     "title": "RAV4 Things: Flyers vs. Wild",
-     "url": "https://www.nhl.com/flyers/news/rav4-things-flyers-vs-wild-x8648",
-     "source": "NHL.com"
+     "title": "Michigan Fourth Congressional District 2026: Live Election Results, Huizenga vs. McCann",
+     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan-us-house-4.html",
+     "source": "The New York Times"
     },
     {
-     "title": "Live: Wild look to finish road trip with sweep as Bobby Brink faces former team",
-     "url": "https://www.startribune.com/minnesota-wild-philadelphia-flyers-score-today-nhl-updates-bobby-brink-trade-jesper-wallstedt-stats/601904567",
-     "source": "Star Tribune"
+     "title": "'I'm honored to be your candidate': McCann thanks supporters at Kalamazoo gathering",
+     "url": "https://wwmt.com/news/michigan-politics/sean-mccann-kalamazoo-election-night-gathering-bill-huizenga-race-fourth-district-house-politics-government-west-michigan",
+     "source": "WWMT"
     },
     {
-     "title": "Wild vs Flyers Prediction, Picks, NHL Odds for Tuesday, November 3",
-     "url": "https://sports.yahoo.com/articles/wild-vs-flyers-prediction-picks-163255672.html",
-     "source": "Yahoo Sports"
+     "title": "Bill Huizenga’s GOP primary challenger endorses Sean McCann in U.S. House race",
+     "url": "https://www.mlive.com/politics/2026/11/bill-huizengas-gop-primary-challenger-endorses-sean-mccann-in-us-house-race.html",
+     "source": "MLive.com"
     }
    ]
   },
   {
-   "rawId": "golden knights vs penguins",
-   "query": "golden knights vs penguins",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "rawId": "why does nevada take so long to count votes",
+   "query": "why does nevada take so long to count votes",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-04T06:30:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRyZKbvVu9KuGH52XdEkZSDr6JEPg1NtgzM1eS6NmYrw79326-SOMCDElz305c",
    "news": [
     {
-     "title": "Golden Knights at Penguins projected lineups",
-     "url": "https://www.nhl.com/news/vegas-golden-knights-pittsburgh-penguins-game-preview-november-3-2026",
-     "source": "NHL.com"
+     "title": "How fast will counties process the election results? | CA Politics 360",
+     "url": "https://www.kcra.com/article/how-fast-will-counties-process-the-election-results-ca-politics-360/74300484",
+     "source": "KCRA"
     },
     {
-     "title": "Game Preview: Vegas Golden Knights @ Pittsburgh Penguins 11/3/2026",
-     "url": "https://www.pensburgh.com/penguins-lines-game-time-watch/82699/game-preview-vegas-golden-knights-pittsburgh-penguins-11-3-2026",
-     "source": "PensBurgh"
+     "title": "How long it takes for ballots to be counted",
+     "url": "https://krcrtv.com/news/local/how-long-it-takes-for-ballots-to-be-counted",
+     "source": "KRCR"
     },
     {
-     "title": "Golden Knights vs Penguins Prediction, Picks, NHL Odds for Tuesday, November 3",
-     "url": "https://sports.yahoo.com/articles/golden-knights-vs-penguins-prediction-182135367.html",
-     "source": "Yahoo Sports"
+     "title": "Central Coast election officials explain ballot-counting process",
+     "url": "https://www.ksbw.com/article/central-coast-election-explain-ballot-counting/74328370",
+     "source": "KSBW"
     }
    ]
   },
   {
-   "rawId": "red wings vs lightning",
-   "query": "red wings vs lightning",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTI7rMMhhLGvA0tAY1FVuMURK8oIFQZ6-KQC7NIU27sp5zHVqobta4AhDuoK_g",
+   "rawId": "brenton awa",
+   "query": "brenton awa",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-04T06:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqhJcqv9ZsUwFOcRDhMW8lcjjnDr7Ysfu4YDmpORKLCFsoNpUPLjbCnCPn9m8",
    "news": [
     {
-     "title": "Lightning star Nikita Kucherov says trade request not about money",
-     "url": "https://www.espn.com/nhl/story/_/id/50360065/lightning-star-nikita-kucherov-says-trade-request-not-money",
-     "source": "ESPN"
+     "title": "Hawaii Second Congressional District 2026: Live Election Results, Tokuda vs. Awa",
+     "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-hawaii-us-house-2.html",
+     "source": "The New York Times"
     },
     {
-     "title": "Poll: Which Team Will Acquire Nikita Kucherov?",
-     "url": "https://www.prohockeyrumors.com/2026/11/poll-which-team-will-acquire-nikita-kucherov.html",
-     "source": "Pro Hockey Rumors"
+     "title": "Case, Tokuda Win Easily, Add To Democrats’ Upcoming Majority In Congress/The House xx",
+     "url": "https://www.civilbeat.org/2026/11/case-tokuda-win-easily-as-democrats-take-house-senate/",
+     "source": "Honolulu Civil Beat"
     },
     {
-     "title": "Kucherov says trade request to Lightning about poor communication, respect",
-     "url": "https://www.nhl.com/news/nikita-kucherov-says-trade-request-to-tampa-bay-about-poor-communication-respect",
-     "source": "NHL.com"
+     "title": "Election profile: Brenton Awa (R), Candidate for Congressional District 2",
+     "url": "https://www.khon2.com/hawaii-elections-2026/brenton-awa-hawaii-election/",
+     "source": "KHON2"
     }
    ]
   },
   {
-   "rawId": "avalanche vs blue jackets",
-   "query": "avalanche vs blue jackets",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqQ3yIU3BBBv5igEXXhOeoFClkUztS3AqBUwc7zk_LUoYnZyj1VaFiuuMx9zE",
+   "rawId": "street fighter film theater count drop",
+   "query": "street fighter film theater count drop",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-04T06:20:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzpMGwDUdPIJ7HCt47t9SeI3TzzhT_KyMKiwxjwyVF5J23qeb8lRklDhvV5O8",
    "news": [
     {
-     "title": "As reunion approaches, why the Avalanche supported Valeri Nichushkin after multiple off-ice incidents",
-     "url": "https://www.denverpost.com/2026/11/01/avalanche-nichushkin-reunion-suspensions/",
-     "source": "The Denver Post"
+     "title": "Jason Momoa’s Latest Flop Continues To Crash at Box Office",
+     "url": "https://www.yahoo.com/entertainment/movies/articles/jason-momoa-latest-flop-continues-043305832.html",
+     "source": "Yahoo"
     },
     {
-     "title": "Avalanche vs Blue Jackets Prediction, Picks, NHL Odds for Tuesday, November 3",
-     "url": "https://sports.yahoo.com/articles/avalanche-vs-blue-jackets-prediction-191201127.html",
-     "source": "Yahoo Sports"
+     "title": "Capcom Still 'Firmly Committed' to Expanding IP After Street Fighter Movie's Worrying Theatrical Run",
+     "url": "https://www.ign.com/articles/capcom-doubles-down-on-movie-strategy-after-street-fighter-films-box-office-debut",
+     "source": "IGN"
     },
     {
-     "title": "Colorado Avalanche vs Columbus Blue Jackets Prediction, Picks & Odds | 03 Nov 2026",
-     "url": "https://www.sportsgambler.com/betting-tips/ice-hockey/colorado-avalanche-vs-columbus-blue-jackets-prediction-odds-2026-11-03/",
-     "source": "Sportsgambler"
+     "title": "Removed From 750 Theaters, 'Street Fighter' Officially Passes Final Box-Office Milestone",
+     "url": "https://collider.com/street-fighter-removed-from-750-theaters-box-office-milestone/",
+     "source": "Collider"
     }
    ]
   },
   {
-   "rawId": "stars vs capitals",
-   "query": "stars vs capitals",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
+   "rawId": "katy tur",
+   "query": "katy tur",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-04T06:10:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPwYQWS_KhcARBxOpDmizZu_4YYjnocnUSAqETEGmyXo5f_KXBFMQPpc6LpkM",
    "news": [
     {
-     "title": "Stars at Capitals projected lineups",
-     "url": "https://www.nhl.com/news/dallas-stars-washington-capitals-game-preview-november-3-2026",
-     "source": "NHL.com"
+     "title": "Who Is Tony Dokoupil’s Wife? Meet Katy Tur, the Fellow News Anchor He’s Been Married to Since 2017",
+     "url": "https://www.yahoo.com/entertainment/tv/articles/tony-dokoupil-wife-meet-katy-204806919.html",
+     "source": "Yahoo"
     },
     {
-     "title": "Capitals morning skate: Timothy Liljegren good to go, projected lineups, and why the Stars wil be ‘another good test’",
-     "url": "https://russianmachineneverbreaks.com/2026/11/03/capitals-morning-skate-update-timothy-liljegren-status-goaltending-setup-projected-lineup-stars/",
-     "source": "RMNB"
-    },
-    {
-     "title": "Line Combinations: Stars at Capitals",
-     "url": "https://sports.yahoo.com/articles/line-combinations-stars-capitals-171137253.html",
-     "source": "Yahoo Sports"
+     "title": "Who Is Tony Dokoupil’s Wife? Meet Katy Tur, the Fellow News Anchor He’s Been Married to Since 2017",
+     "url": "https://www.imdb.com/news/ni66094109/?ref_=nwc_art_perm",
+     "source": "IMDb"
     }
    ]
   },
   {
-   "rawId": "blues vs rangers",
-   "query": "blues vs rangers",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7MhedXQIJxXrCoapSZ7Tw9wB4tNxc09QLFocprVr8bTKufXsGVlncwaCWns4",
+   "rawId": "mississippi senators",
+   "query": "mississippi senators",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-04T06:00:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvAac7WqB_3-F13ZgGJiiuoAQHhGygra3pUOZvLbCjkdfCuDonN33WFFmWgWI",
    "news": [
     {
-     "title": "Preview: Blues at Rangers | St. Louis Blues",
-     "url": "https://www.nhl.com/blues/news/preview-blues-at-rangers-11032026",
-     "source": "NHL.com"
+     "title": "The Protect College Sports Act Isn’t Enough",
+     "url": "https://www.theatlantic.com/culture/2026/11/protect-college-sports-act/689235/",
+     "source": "The Atlantic"
     },
     {
-     "title": "(11-3-26) Blues-Rangers Gameday Lineup",
-     "url": "https://sports.yahoo.com/articles/11-3-26-blues-rangers-173707591.html",
-     "source": "Yahoo Sports"
+     "title": "Governing Games – Neal McCluskey",
+     "url": "https://lawliberty.org/forum/governing-games/",
+     "source": "Law & Liberty"
     },
     {
-     "title": "St Louis Blues vs New York Rangers Prediction, Picks & Odds | 03 Nov 2026",
-     "url": "https://www.sportsgambler.com/betting-tips/ice-hockey/st-louis-blues-vs-new-york-rangers-prediction-odds-2026-11-03/",
-     "source": "Sportsgambler"
+     "title": "NJ college athletic directors, Geo Baker on the Protect College Sports Act | Exclusive",
+     "url": "https://www.app.com/story/sports/college/2026/11/02/nj-college-athletic-directors-geo-baker-protect-college-sports-act-rutgers-seton-hall-monmouth/92476854007/",
+     "source": "Asbury Park Press"
     }
    ]
   },
   {
-   "rawId": "victoria spartz",
-   "query": "victoria spartz",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMErlLVbWYgkrtKc5rC_y9AsIcPSeBbRJUdxenlcqSXsR8inNG1I4SGPFsg-o",
+   "rawId": "runoff election",
+   "query": "runoff election",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-04T06:00:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb2wJ4ccedJ7hvKlmnhYXTtVzX9UOfUSHwCURAiZCAMBELSXzl3GJO4M3b_uc",
    "news": [
     {
-     "title": "Indiana 5th Congressional District election results 2026",
-     "url": "https://www.washingtonpost.com/elections/results/2026/11/03/indiana-5th-house-district-live-updates/",
-     "source": "The Washington Post"
+     "title": "Lewiston voters face runoff election in mayoral race",
+     "url": "https://www.yahoo.com/news/politics/articles/lewiston-voters-face-runoff-election-055635824.html",
+     "source": "Yahoo"
     },
     {
-     "title": "Indiana's 5th District race tightens but Spartz still leads Ford",
-     "url": "https://www.wfyi.org/statewide/2026-10-31/indianas-5th-congressional-district-victoria-spartz-jd-ford-final-stretch",
-     "source": "WFYI"
+     "title": "Sheline, LaChapelle head to a runoff for Lewiston mayor",
+     "url": "https://www.sunjournal.com/2026/11/04/sheline-lachapelle-head-to-a-runoff-for-lewiston-mayor/",
+     "source": "Sun Journal"
     },
     {
-     "title": "All Indiana congressional seats are up for grabs. Who will win?",
-     "url": "https://www.indystar.com/story/news/politics/2026/11/03/all-indiana-congressional-seats-are-up-for-grabs-who-will-win/92465256007/",
-     "source": "IndyStar"
-    }
-   ]
-  },
-  {
-   "rawId": "susan collins",
-   "query": "susan collins",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbajqDGPnCXLDIV9sz7GwWz00xb3XUO7OhB4OSBzZzjxeFbb6lnvXMaAZXFk",
-   "news": [
-    {
-     "title": "2026 Midterm Election Results: Latest Updates",
-     "url": "https://www.politico.com/storyline/live/2026/11/03/midterm-election-results",
-     "source": "Politico"
-    },
-    {
-     "title": "Susan Collins’ office in Maine vandalized hours before election day",
-     "url": "https://www.boston.com/news/politics/2026/11/03/susan-collins-office-in-maine-vandalized-hours-before-election-day/",
-     "source": "Boston.com"
-    },
-    {
-     "title": "Susan Collins' Maine Senate office vandalized with 'disturbing' graffiti on night before Election Day",
-     "url": "https://www.foxnews.com/politics/susan-collins-maine-senate-office-vandalized-disturbing-graffiti-night-before-election-day",
-     "source": "Fox News"
-    }
-   ]
-  },
-  {
-   "rawId": "fbi",
-   "query": "fbi",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-03T23:10:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRStR9bM7RpAbhQ3L0AxsPoGqPRahSvzqXU0YcPtUUIbF5Wl5N0Op2KWmfbLak",
-   "news": [
-    {
-     "title": "Man arrested as girl, 17, found in Oregon after disappearing from Utah last year",
-     "url": "https://www.theguardian.com/us-news/2026/nov/03/kylie-arellano-missing-found-oregon-utah",
-     "source": "The Guardian"
-    },
-    {
-     "title": "FBI points to nihilistic extremists as missing Garden City teen is found safe after nearly 18 months",
-     "url": "https://www.ksl.com/article/51643219/fbi-points-to-nihilistic-extremists-as-missing-garden-city-teen-is-found-safe-after-nearly-18-months",
-     "source": "KSL News"
-    },
-    {
-     "title": "Oregon man who kidnapped Utah teen girl kept her in a basement for over a year, assaulted her, FBI says",
-     "url": "https://www.oregonlive.com/crime/2026/11/oregon-man-who-kidnapped-utah-teen-girl-kept-her-in-a-basement-for-over-a-year-assaulted-her-fbi-says.html",
-     "source": "OregonLive.com"
+     "title": "Three City Council races primed for potential runoffs after early voting numbers drop",
+     "url": "https://elpasomatters.org/2026/11/03/el-paso-texas-election-results-city-council-representatives-2026/",
+     "source": "El Paso Matters"
     }
    ]
   }
