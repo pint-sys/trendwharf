@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T02:37:11Z",
+ "updated": "2026-11-05T11:15:22Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,33 +15,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-04T20:45:18Z",
-   "hot": 117.7,
+   "hot": 75.0,
    "rank": 1,
    "metrics": {
-    "points": 690,
-    "comments": 218,
+    "points": 1087,
+    "comments": 350,
     "discussion": "https://news.ycombinator.com/item?id=50371246"
    }
   },
   {
-   "rawId": "50372945",
-   "title": "Images 2.6",
-   "url": "https://openai.com/index/introducing-images-2-6/",
+   "rawId": "50377078",
+   "title": "Baidu released ERNIE 5.5 Flash Base",
+   "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openai.com"
+    "ernie.baidu.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T23:35:44Z",
-   "hot": 39.7,
+   "publishedAt": "2026-11-05T09:29:12Z",
+   "hot": 19.2,
    "rank": 2,
    "metrics": {
-    "points": 120,
-    "comments": 92,
-    "discussion": "https://news.ycombinator.com/item?id=50372945"
+    "points": 34,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50377078"
+   }
+  },
+  {
+   "rawId": "50375354",
+   "title": "Lemmings CSS Animation",
+   "url": "https://markblah.github.io/lemmings/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "markblah.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T04:54:10Z",
+   "hot": 32.7,
+   "rank": 3,
+   "metrics": {
+    "points": 208,
+    "comments": 41,
+    "discussion": "https://news.ycombinator.com/item?id=50375354"
    }
   },
   {
@@ -57,75 +78,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-04T23:33:14Z",
-   "hot": 44.4,
-   "rank": 3,
+   "hot": 31.0,
+   "rank": 4,
    "metrics": {
-    "points": 136,
-    "comments": 88,
+    "points": 363,
+    "comments": 257,
     "discussion": "https://news.ycombinator.com/item?id=50372929"
    }
   },
   {
-   "rawId": "50373308",
-   "title": "Starfall – Affordable, routine access to microgravity",
-   "url": "https://www.spacex.com/starfall",
+   "rawId": "50372945",
+   "title": "Images 2.6",
+   "url": "https://openai.com/index/introducing-images-2-6/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "spacex.com"
+    "openai.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T00:18:18Z",
-   "hot": 37.2,
-   "rank": 4,
-   "metrics": {
-    "points": 86,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50373308"
-   }
-  },
-  {
-   "rawId": "50364336",
-   "title": "AI is forcing us to pay off 40 years of technical debt",
-   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "spectrum.ieee.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T11:52:17Z",
-   "hot": 73.6,
+   "publishedAt": "2026-11-04T23:35:44Z",
+   "hot": 26.7,
    "rank": 5,
    "metrics": {
-    "points": 1085,
-    "comments": 639,
-    "discussion": "https://news.ycombinator.com/item?id=50364336"
+    "points": 311,
+    "comments": 181,
+    "discussion": "https://news.ycombinator.com/item?id=50372945"
    }
   },
   {
-   "rawId": "50369925",
-   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-   "url": "https://www.ricursive.com/ripple",
+   "rawId": "50340195",
+   "title": "Partial Operator Precedence",
+   "url": "https://ziglang.org/devlog/2026/#2026-10-24",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ricursive.com"
+    "ziglang.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T18:53:29Z",
-   "hot": 29.6,
+   "publishedAt": "2026-11-02T17:22:20Z",
+   "hot": 0.9,
    "rank": 6,
    "metrics": {
-    "points": 229,
-    "comments": 79,
-    "discussion": "https://news.ycombinator.com/item?id=50369925"
+    "points": 57,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50340195"
    }
   },
   {
@@ -141,33 +141,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-04T15:30:30Z",
-   "hot": 35.3,
+   "hot": 27.6,
    "rank": 7,
    "metrics": {
-    "points": 392,
-    "comments": 105,
+    "points": 545,
+    "comments": 151,
     "discussion": "https://news.ycombinator.com/item?id=50366999"
    }
   },
   {
-   "rawId": "50370610",
-   "title": "Insects don't swarm at LED lights",
-   "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+   "rawId": "50369925",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "url": "https://www.ricursive.com/ripple",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "birdsoutsidemywindow.org"
+    "ricursive.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T19:50:23Z",
-   "hot": 25.1,
+   "publishedAt": "2026-11-04T18:53:29Z",
+   "hot": 18.3,
    "rank": 8,
    "metrics": {
-    "points": 170,
-    "comments": 97,
-    "discussion": "https://news.ycombinator.com/item?id=50370610"
+    "points": 300,
+    "comments": 108,
+    "discussion": "https://news.ycombinator.com/item?id=50369925"
+   }
+  },
+  {
+   "rawId": "50352846",
+   "title": "TextEdit vs. Pages",
+   "url": "https://leancrew.com/all-this/2026/10/textedit-vs-pages/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "leancrew.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T15:00:09Z",
+   "hot": 0.5,
+   "rank": 9,
+   "metrics": {
+    "points": 23,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50352846"
+   }
+  },
+  {
+   "rawId": "50364284",
+   "title": "Replacing homepage demo media with looping HTML and CSS",
+   "url": "https://stepshots.com/css-feature-clips",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "stepshots.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T11:45:15Z",
+   "hot": 0.3,
+   "rank": 10,
+   "metrics": {
+    "points": 7,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50364284"
    }
   },
   {
@@ -183,33 +225,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-04T17:52:11Z",
-   "hot": 27.1,
-   "rank": 9,
+   "hot": 18.8,
+   "rank": 11,
    "metrics": {
-    "points": 237,
-    "comments": 102,
+    "points": 326,
+    "comments": 162,
     "discussion": "https://news.ycombinator.com/item?id=50369106"
    }
   },
   {
-   "rawId": "50372164",
-   "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-   "url": "https://icode4.coffee/?p=1746",
+   "rawId": "50375653",
+   "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+   "url": "https://www.altera.com/newsroom/agilex-2x",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "icode4.coffee"
+    "altera.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T22:01:49Z",
-   "hot": 13.9,
-   "rank": 10,
+   "publishedAt": "2026-11-05T05:47:14Z",
+   "hot": 6.2,
+   "rank": 12,
    "metrics": {
-    "points": 64,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50372164"
+    "points": 34,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50375653"
+   }
+  },
+  {
+   "rawId": "50341576",
+   "title": "Spreading Liquid with Three.js",
+   "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mofu-dev.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-02T18:45:54Z",
+   "hot": 1.9,
+   "rank": 13,
+   "metrics": {
+    "points": 121,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50341576"
+   }
+  },
+  {
+   "rawId": "50370610",
+   "title": "Insects don't swarm at LED lights",
+   "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "birdsoutsidemywindow.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T19:50:23Z",
+   "hot": 17.4,
+   "rank": 14,
+   "metrics": {
+    "points": 269,
+    "comments": 129,
+    "discussion": "https://news.ycombinator.com/item?id=50370610"
    }
   },
   {
@@ -225,60 +309,39 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-04T18:22:40Z",
-   "hot": 14.7,
-   "rank": 11,
+   "hot": 10.7,
+   "rank": 15,
    "metrics": {
-    "points": 121,
-    "comments": 152,
+    "points": 181,
+    "comments": 199,
     "discussion": "https://news.ycombinator.com/item?id=50369503"
    }
   },
   {
-   "rawId": "50342031",
-   "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
-   "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
+   "rawId": "50372164",
+   "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+   "url": "https://icode4.coffee/?p=1746",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cowboystatedaily.com"
+    "icode4.coffee"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T19:13:55Z",
-   "hot": 0.3,
-   "rank": 12,
+   "publishedAt": "2026-11-04T22:01:49Z",
+   "hot": 9.0,
+   "rank": 16,
    "metrics": {
-    "points": 16,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50342031"
+    "points": 119,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50372164"
    }
   },
   {
-   "rawId": "50370654",
-   "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-   "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "qualcomm.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T19:55:14Z",
-   "hot": 15.7,
-   "rank": 13,
-   "metrics": {
-    "points": 105,
-    "comments": 44,
-    "discussion": "https://news.ycombinator.com/item?id=50370654"
-   }
-  },
-  {
-   "rawId": "50368804",
-   "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-   "url": "https://news.ycombinator.com/item?id=50368804",
+   "rawId": "50366117",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "url": "https://news.ycombinator.com/item?id=50366117",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -287,139 +350,76 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T17:31:53Z",
-   "hot": 7.8,
-   "rank": 14,
-   "metrics": {
-    "points": 71,
-    "comments": 26,
-    "discussion": "https://news.ycombinator.com/item?id=50368804"
-   }
-  },
-  {
-   "rawId": "50368626",
-   "title": "Progress on provable inference for large language models",
-   "url": "https://www.anthropic.com/research/provable-inference",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "anthropic.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T17:17:46Z",
-   "hot": 19.1,
-   "rank": 15,
-   "metrics": {
-    "points": 178,
-    "comments": 87,
-    "discussion": "https://news.ycombinator.com/item?id=50368626"
-   }
-  },
-  {
-   "rawId": "50342219",
-   "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
-   "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "aspireai.kiranadimatyam.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-02T19:23:48Z",
-   "hot": 0.2,
-   "rank": 16,
-   "metrics": {
-    "points": 12,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50342219"
-   }
-  },
-  {
-   "rawId": "50369895",
-   "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-   "url": "https://fireflyk64.github.io/wcmulti/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "fireflyk64.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T18:51:27Z",
-   "hot": 14.2,
+   "publishedAt": "2026-11-04T14:37:22Z",
+   "hot": 16.8,
    "rank": 17,
    "metrics": {
-    "points": 110,
-    "comments": 15,
-    "discussion": "https://news.ycombinator.com/item?id=50369895"
+    "points": 347,
+    "comments": 394,
+    "discussion": "https://news.ycombinator.com/item?id=50366117"
    }
   },
   {
-   "rawId": "50366522",
-   "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-   "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+   "rawId": "50364336",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "99percentinvisible.org"
+    "spectrum.ieee.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T15:01:44Z",
-   "hot": 23.2,
+   "publishedAt": "2026-11-04T11:52:17Z",
+   "hot": 51.4,
    "rank": 18,
    "metrics": {
-    "points": 269,
-    "comments": 190,
-    "discussion": "https://news.ycombinator.com/item?id=50366522"
+    "points": 1202,
+    "comments": 701,
+    "discussion": "https://news.ycombinator.com/item?id=50364336"
    }
   },
   {
-   "rawId": "50338474",
-   "title": "Basically no one is using AI agents for their DoorDash orders",
-   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "rawId": "50377221",
+   "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+   "url": "https://hachyderm.io/@damienmiller/117563026759098135",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arstechnica.com"
+    "hachyderm.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-02T15:48:45Z",
-   "hot": 1.3,
+   "publishedAt": "2026-11-05T09:46:17Z",
+   "hot": 18.9,
    "rank": 19,
    "metrics": {
-    "points": 79,
-    "comments": 141,
-    "discussion": "https://news.ycombinator.com/item?id=50338474"
+    "points": 28,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50377221"
    }
   },
   {
-   "rawId": "50366863",
-   "title": "OpenAI to acquire Pierre Computer Company",
-   "url": "https://openai.com/index/openai-to-acquire-pierre/",
+   "rawId": "50349165",
+   "title": "Future Maintenance of Mbed TLS",
+   "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openai.com"
+    "lists.trustedfirmware.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T15:21:21Z",
-   "hot": 17.3,
+   "publishedAt": "2026-11-03T07:39:05Z",
+   "hot": 1.0,
    "rank": 20,
    "metrics": {
-    "points": 195,
-    "comments": 62,
-    "discussion": "https://news.ycombinator.com/item?id=50366863"
+    "points": 50,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50349165"
    }
   }
  ]
