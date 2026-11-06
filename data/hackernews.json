@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T00:26:52Z",
+ "updated": "2026-11-06T08:03:40Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,54 +15,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-05T22:17:15Z",
-   "hot": 163.4,
+   "hot": 100.7,
    "rank": 1,
    "metrics": {
-    "points": 353,
-    "comments": 111,
+    "points": 984,
+    "comments": 320,
     "discussion": "https://news.ycombinator.com/item?id=50385272"
-   }
-  },
-  {
-   "rawId": "50383740",
-   "title": "Search for everyone",
-   "url": "https://kagi.com/changelog#11820",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "kagi.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T20:03:34Z",
-   "hot": 103.9,
-   "rank": 2,
-   "metrics": {
-    "points": 456,
-    "comments": 221,
-    "discussion": "https://news.ycombinator.com/item?id=50383740"
-   }
-  },
-  {
-   "rawId": "50384233",
-   "title": "MS Paint Remote Code Execution Vulnerability",
-   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cve.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T20:43:42Z",
-   "hot": 71.2,
-   "rank": 3,
-   "metrics": {
-    "points": 265,
-    "comments": 78,
-    "discussion": "https://news.ycombinator.com/item?id=50384233"
    }
   },
   {
@@ -78,201 +36,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-05T12:19:02Z",
-   "hot": 186.1,
-   "rank": 4,
+   "hot": 132.3,
+   "rank": 2,
    "metrics": {
-    "points": 2257,
-    "comments": 562,
+    "points": 2613,
+    "comments": 631,
     "discussion": "https://news.ycombinator.com/item?id=50378228"
    }
   },
   {
-   "rawId": "50379704",
-   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-   "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+   "rawId": "50384233",
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "alpinelinux.org"
+    "cve.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T14:44:20Z",
-   "hot": 58.3,
+   "publishedAt": "2026-11-05T20:43:42Z",
+   "hot": 43.4,
+   "rank": 3,
+   "metrics": {
+    "points": 492,
+    "comments": 178,
+    "discussion": "https://news.ycombinator.com/item?id=50384233"
+   }
+  },
+  {
+   "rawId": "50387796",
+   "title": "Pwn.college",
+   "url": "https://pwn.college/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pwn.college"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T03:27:14Z",
+   "hot": 26.7,
+   "rank": 4,
+   "metrics": {
+    "points": 123,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50387796"
+   }
+  },
+  {
+   "rawId": "50387738",
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "url": "https://github.com/dsx-ai-factory/nvke",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T03:16:26Z",
+   "hot": 14.0,
    "rank": 5,
    "metrics": {
-    "points": 566,
-    "comments": 120,
-    "discussion": "https://news.ycombinator.com/item?id=50379704"
+    "points": 67,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50387738"
    }
   },
   {
-   "rawId": "50383057",
-   "title": "The Hackintosh Reborn",
-   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+   "rawId": "50388122",
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "naut.ca"
+    "thereader.mitpress.mit.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T19:08:22Z",
-   "hot": 33.0,
+   "publishedAt": "2026-11-06T04:17:49Z",
+   "hot": 12.8,
    "rank": 6,
    "metrics": {
-    "points": 175,
-    "comments": 74,
-    "discussion": "https://news.ycombinator.com/item?id=50383057"
+    "points": 48,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50388122"
    }
   },
   {
-   "rawId": "50383963",
-   "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-   "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+   "rawId": "50388513",
+   "title": "I struggle to believe that AI R&D is ingenious",
+   "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "tencent.com"
+    "lesswrong.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T20:21:43Z",
-   "hot": 17.9,
+   "publishedAt": "2026-11-06T05:19:04Z",
+   "hot": 19.3,
    "rank": 7,
    "metrics": {
-    "points": 73,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50383963"
-   }
-  },
-  {
-   "rawId": "50381383",
-   "title": "Window Sweaters",
-   "url": "https://github.com/saragordic/window-sweaters",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T16:50:14Z",
-   "hot": 29.8,
-   "rank": 8,
-   "metrics": {
-    "points": 227,
-    "comments": 77,
-    "discussion": "https://news.ycombinator.com/item?id=50381383"
-   }
-  },
-  {
-   "rawId": "50381687",
-   "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-   "url": "https://github.com/rivet-dev/rivet",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T17:17:42Z",
-   "hot": 9.9,
-   "rank": 9,
-   "metrics": {
-    "points": 71,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50381687"
-   }
-  },
-  {
-   "rawId": "50383739",
-   "title": "Goodbye from Salon",
-   "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "salon.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T20:03:29Z",
-   "hot": 85.4,
-   "rank": 10,
-   "metrics": {
-    "points": 375,
-    "comments": 137,
-    "discussion": "https://news.ycombinator.com/item?id=50383739"
-   }
-  },
-  {
-   "rawId": "50368208",
-   "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-   "url": "https://www.linum.ai/field-notes/pjit-21k",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "linum.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T16:45:11Z",
-   "hot": 4.4,
-   "rank": 11,
-   "metrics": {
-    "points": 138,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50368208"
-   }
-  },
-  {
-   "rawId": "50380810",
-   "title": "Motorola Signature 27 with GrapheneOS support",
-   "url": "https://motorolanews.com/motorola-signature-27-2/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "motorolanews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T16:01:34Z",
-   "hot": 45.7,
-   "rank": 12,
-   "metrics": {
-    "points": 385,
-    "comments": 291,
-    "discussion": "https://news.ycombinator.com/item?id=50380810"
-   }
-  },
-  {
-   "rawId": "50379576",
-   "title": "September in Servo: <progress>, rounded rectangles, and more",
-   "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "servo.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T14:34:18Z",
-   "hot": 17.9,
-   "rank": 13,
-   "metrics": {
-    "points": 177,
-    "comments": 45,
-    "discussion": "https://news.ycombinator.com/item?id=50379576"
+    "points": 53,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50388513"
    }
   },
   {
@@ -288,33 +162,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T00:00:24Z",
-   "hot": 6.0,
-   "rank": 14,
+   "hot": 22.0,
+   "rank": 8,
    "metrics": {
-    "points": 6,
-    "comments": 0,
+    "points": 177,
+    "comments": 63,
     "discussion": "https://news.ycombinator.com/item?id=50386338"
    }
   },
   {
-   "rawId": "50378571",
-   "title": "Download your favourite YouTube videos",
-   "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+   "rawId": "50389222",
+   "title": "Britain to make salary disclosure in job ads mandatory",
+   "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "criminallyvulgar.dev"
+    "reuters.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T13:00:11Z",
-   "hot": 23.0,
-   "rank": 15,
+   "publishedAt": "2026-11-06T07:22:04Z",
+   "hot": 32.0,
+   "rank": 9,
    "metrics": {
-    "points": 263,
-    "comments": 119,
-    "discussion": "https://news.ycombinator.com/item?id=50378571"
+    "points": 32,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50389222"
+   }
+  },
+  {
+   "rawId": "50383057",
+   "title": "The Hackintosh Reborn",
+   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "naut.ca"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T19:08:22Z",
+   "hot": 23.1,
+   "rank": 10,
+   "metrics": {
+    "points": 298,
+    "comments": 157,
+    "discussion": "https://news.ycombinator.com/item?id=50383057"
+   }
+  },
+  {
+   "rawId": "50389260",
+   "title": "Hardcoded credentials and other issues in Tata Motors App",
+   "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cert-in.org.in"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T07:28:39Z",
+   "hot": 3.0,
+   "rank": 11,
+   "metrics": {
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50389260"
+   }
+  },
+  {
+   "rawId": "50381383",
+   "title": "Window Sweaters",
+   "url": "https://github.com/saragordic/window-sweaters",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T16:50:14Z",
+   "hot": 21.0,
+   "rank": 12,
+   "metrics": {
+    "points": 319,
+    "comments": 97,
+    "discussion": "https://news.ycombinator.com/item?id=50381383"
    }
   },
   {
@@ -330,33 +267,138 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-05T13:07:29Z",
-   "hot": 0.5,
-   "rank": 16,
+   "hot": 5.5,
+   "rank": 13,
    "metrics": {
-    "points": 6,
-    "comments": 0,
+    "points": 105,
+    "comments": 16,
     "discussion": "https://news.ycombinator.com/item?id=50378643"
    }
   },
   {
-   "rawId": "50383294",
-   "title": "Introducing Pangram Image 1.0",
-   "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+   "rawId": "50381687",
+   "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+   "url": "https://github.com/rivet-dev/rivet",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "pangram.com"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T19:27:52Z",
-   "hot": 8.8,
+   "publishedAt": "2026-11-05T17:17:42Z",
+   "hot": 6.3,
+   "rank": 14,
+   "metrics": {
+    "points": 93,
+    "comments": 50,
+    "discussion": "https://news.ycombinator.com/item?id=50381687"
+   }
+  },
+  {
+   "rawId": "50386789",
+   "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+   "url": "https://github.com/matthewmrichter/mooftcp",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T00:54:15Z",
+   "hot": 5.4,
+   "rank": 15,
+   "metrics": {
+    "points": 39,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50386789"
+   }
+  },
+  {
+   "rawId": "50385870",
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "finance.yahoo.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T23:09:57Z",
+   "hot": 32.2,
+   "rank": 16,
+   "metrics": {
+    "points": 286,
+    "comments": 131,
+    "discussion": "https://news.ycombinator.com/item?id=50385870"
+   }
+  },
+  {
+   "rawId": "50380810",
+   "title": "Motorola Signature 27 with GrapheneOS support",
+   "url": "https://motorolanews.com/motorola-signature-27-2/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "motorolanews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T16:01:34Z",
+   "hot": 28.7,
    "rank": 17,
    "metrics": {
-    "points": 44,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50383294"
+    "points": 461,
+    "comments": 334,
+    "discussion": "https://news.ycombinator.com/item?id=50380810"
+   }
+  },
+  {
+   "rawId": "50368208",
+   "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+   "url": "https://www.linum.ai/field-notes/pjit-21k",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "linum.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T16:45:11Z",
+   "hot": 5.3,
+   "rank": 18,
+   "metrics": {
+    "points": 210,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50368208"
+   }
+  },
+  {
+   "rawId": "50379576",
+   "title": "September in Servo: <progress>, rounded rectangles, and more",
+   "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "servo.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T14:34:18Z",
+   "hot": 13.0,
+   "rank": 19,
+   "metrics": {
+    "points": 227,
+    "comments": 54,
+    "discussion": "https://news.ycombinator.com/item?id=50379576"
    }
   },
   {
@@ -372,54 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-05T13:40:52Z",
-   "hot": 26.0,
-   "rank": 18,
-   "metrics": {
-    "points": 280,
-    "comments": 253,
-    "discussion": "https://news.ycombinator.com/item?id=50378942"
-   }
-  },
-  {
-   "rawId": "50381033",
-   "title": "My psychophysics as a bilateral cochlear implant user",
-   "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "claude.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T16:21:12Z",
-   "hot": 19.0,
-   "rank": 19,
-   "metrics": {
-    "points": 154,
-    "comments": 61,
-    "discussion": "https://news.ycombinator.com/item?id=50381033"
-   }
-  },
-  {
-   "rawId": "50377976",
-   "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-   "url": "https://www.openssh.org/releasenotes.html#10.6p2",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "openssh.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T11:40:30Z",
-   "hot": 18.2,
+   "hot": 21.2,
    "rank": 20,
    "metrics": {
-    "points": 232,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50377976"
+    "points": 390,
+    "comments": 330,
+    "discussion": "https://news.ycombinator.com/item?id=50378942"
    }
   }
  ]
