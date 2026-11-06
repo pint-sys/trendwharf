@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:02:17Z",
+ "updated": "2026-11-06T21:39:40Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -14,47 +14,11 @@
    "summary": "American epidemiologist and politician (born 1984). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg/330px-Abdul_El-Sayed_meet-and-greet_by_Conlan_Houston_5_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 808705,
+   "hot": 1413749,
    "rank": 1,
    "metrics": {
-    "views": 808705,
-    "change": -43
-   }
-  },
-  {
-   "rawId": "ramayana: part 1",
-   "title": "Ramayana: Part 1",
-   "url": "https://en.wikipedia.org/wiki/Ramayana%3A_Part_1",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 Indian film by Nitesh Tiwari. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 609307,
-   "rank": 2,
-   "metrics": {
-    "views": 609307,
-    "change": 489
-   }
-  },
-  {
-   "rawId": "russell brand",
-   "title": "Russell Brand",
-   "url": "https://en.wikipedia.org/wiki/Russell_Brand",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "English comedian and actor (born 1975). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg/330px-Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 571124,
-   "rank": 3,
-   "metrics": {
-    "views": 571124,
-    "change": 4638
+    "views": 1413749,
+    "change": 421
    }
   },
   {
@@ -68,47 +32,11 @@
    "summary": "American politician (born 1989). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/James_Talarico_Press_Conference_%28cropped%29.jpg/330px-James_Talarico_Press_Conference_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 359575,
-   "rank": 4,
+   "hot": 1256040,
+   "rank": 2,
    "metrics": {
-    "views": 359575,
-    "change": -71
-   }
-  },
-  {
-   "rawId": "2026 united states elections",
-   "title": "2026 United States elections",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_elections",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2026_United_States_Senate_elections_results_map.svg/330px-2026_United_States_Senate_elections_results_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 356470,
-   "rank": 5,
-   "metrics": {
-    "views": 356470,
-    "change": -69
-   }
-  },
-  {
-   "rawId": "jon ossoff",
-   "title": "Jon Ossoff",
-   "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American politician (born 1987). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jon_Ossoff_Senate_Portrait_2021.jpg/330px-Jon_Ossoff_Senate_Portrait_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 325378,
-   "rank": 6,
-   "metrics": {
-    "views": 325378,
-    "change": -47
+    "views": 1256040,
+    "change": 1088
    }
   },
   {
@@ -122,53 +50,17 @@
    "summary": "Governor-elect of Texas (born 1973). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024_%28cropped%29.jpg/330px-Gina_Hinojosa_at_the_AFL-CIO_COPE_convention_in_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 284450,
-   "rank": 7,
+   "hot": 1242354,
+   "rank": 3,
    "metrics": {
-    "views": 284450,
-    "change": -77
+    "views": 1242354,
+    "change": 4746
    }
   },
   {
-   "rawId": ".xyz",
-   "title": ".xyz",
-   "url": "https://en.wikipedia.org/wiki/.xyz",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Internet top-level domain. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/330px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 255809,
-   "rank": 8,
-   "metrics": {
-    "views": 255809,
-    "change": 1
-   }
-  },
-  {
-   "rawId": "nithya raman",
-   "title": "Nithya Raman",
-   "url": "https://en.wikipedia.org/wiki/Nithya_Raman",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American politician (born 1981). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/Nithya_Raman%2C_2022.jpg/330px-Nithya_Raman%2C_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 197142,
-   "rank": 9,
-   "metrics": {
-    "views": 197142,
-    "change": 151
-   }
-  },
-  {
-   "rawId": "2026 united states senate elections",
-   "title": "2026 United States Senate elections",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
+   "rawId": "2026 united states elections",
+   "title": "2026 United States elections",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_elections",
    "category": "news",
    "tags": [
     "wikipedia"
@@ -176,65 +68,29 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2026_United_States_Senate_elections_results_map.svg/330px-2026_United_States_Senate_elections_results_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 170346,
-   "rank": 10,
+   "hot": 1153444,
+   "rank": 4,
    "metrics": {
-    "views": 170346,
-    "change": -66
+    "views": 1153444,
+    "change": 153
    }
   },
   {
-   "rawId": "deaths in 2026",
-   "title": "Deaths in 2026",
-   "url": "https://en.wikipedia.org/wiki/Deaths_in_2026",
+   "rawId": "jon ossoff",
+   "title": "Jon Ossoff",
+   "url": "https://en.wikipedia.org/wiki/Jon_Ossoff",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
+   "summary": "American politician (born 1987). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Jon_Ossoff_Senate_Portrait_2021.jpg/330px-Jon_Ossoff_Senate_Portrait_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 138500,
-   "rank": 11,
+   "hot": 611863,
+   "rank": 5,
    "metrics": {
-    "views": 138500,
-    "change": -1
-   }
-  },
-  {
-   "rawId": "2026 united states house of representatives elections",
-   "title": "2026 United States House of Representatives elections",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "House elections for the 120th U.S. Congress. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/US_House_2026.svg/330px-US_House_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 137339,
-   "rank": 12,
-   "metrics": {
-    "views": 137339,
-    "change": -45
-   }
-  },
-  {
-   "rawId": "guy fawkes night",
-   "title": "Guy Fawkes Night",
-   "url": "https://en.wikipedia.org/wiki/Guy_Fawkes_Night",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Annual custom originating in England. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Windsor_castle_guyfawkesnight1776.jpg/330px-Windsor_castle_guyfawkesnight1776.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 136878,
-   "rank": 13,
-   "metrics": {
-    "views": 136878,
-    "change": 569
+    "views": 611863,
+    "change": 1216
    }
   },
   {
@@ -248,47 +104,29 @@
    "summary": "General elections in the United States. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Oklahoma_general_election_ballot_for_2018.png/330px-Oklahoma_general_election_ballot_for_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 134210,
-   "rank": 14,
+   "hot": 523575,
+   "rank": 6,
    "metrics": {
-    "views": 134210,
-    "change": -74
+    "views": 523575,
+    "change": 114
    }
   },
   {
-   "rawId": "guy fawkes",
-   "title": "Guy Fawkes",
-   "url": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+   "rawId": "2026 united states senate elections",
+   "title": "2026 United States Senate elections",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_elections",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "English participant in the Gunpowder Plot (1570–1606). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg/330px-The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/2026_United_States_Senate_elections_results_map.svg/330px-2026_United_States_Senate_elections_results_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 133874,
-   "rank": 15,
+   "hot": 493851,
+   "rank": 7,
    "metrics": {
-    "views": 133874,
-    "change": 513
-   }
-  },
-  {
-   "rawId": "scott colom",
-   "title": "Scott Colom",
-   "url": "https://en.wikipedia.org/wiki/Scott_Colom",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American lawyer (born 1982). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Scott_Colom_2_%28cropped%29.png/330px-Scott_Colom_2_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 132877,
-   "rank": 16,
-   "metrics": {
-    "views": 132877,
-    "change": -23
+    "views": 493851,
+    "change": 444
    }
   },
   {
@@ -302,29 +140,137 @@
    "summary": "Governor-elect of Georgia (born 1970). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Keisha_Lance_Bottoms.jpg/330px-Keisha_Lance_Bottoms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 119279,
-   "rank": 17,
+   "hot": 431379,
+   "rank": 8,
    "metrics": {
-    "views": 119279,
-    "change": -72
+    "views": 431379,
+    "change": 2765
    }
   },
   {
-   "rawId": "joran van der sloot",
-   "title": "Joran van der Sloot",
-   "url": "https://en.wikipedia.org/wiki/Joran_van_der_Sloot",
+   "rawId": "byron donalds",
+   "title": "Byron Donalds",
+   "url": "https://en.wikipedia.org/wiki/Byron_Donalds",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Dutch murderer (born 1987). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Joran_Van_Der_Sloot_2023_Mugshot_%283x4_cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "Governor-elect of Florida (born 1978). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg/330px-Rep._Byron_Donalds_official_photo%2C_117th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 116017,
-   "rank": 18,
+   "hot": 362265,
+   "rank": 9,
    "metrics": {
-    "views": 116017,
-    "change": 111
+    "views": 362265,
+    "change": 1488
+   }
+  },
+  {
+   "rawId": "greg abbott",
+   "title": "Greg Abbott",
+   "url": "https://en.wikipedia.org/wiki/Greg_Abbott",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Governor of Texas since 2015. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Greg_Abbott_at_NASA_2024_%283x4_cropped%29.jpg/330px-Greg_Abbott_at_NASA_2024_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 327943,
+   "rank": 10,
+   "metrics": {
+    "views": 327943,
+    "change": 2037
+   }
+  },
+  {
+   "rawId": "dan osborn",
+   "title": "Dan Osborn",
+   "url": "https://en.wikipedia.org/wiki/Dan_Osborn",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American labor union leader (born 1975). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Osborn_Headshot_2_%28cropped%29.jpg/330px-Osborn_Headshot_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 273151,
+   "rank": 11,
+   "metrics": {
+    "views": 273151,
+    "change": 3709
+   }
+  },
+  {
+   "rawId": "democratic party (united states)",
+   "title": "Democratic Party (United States)",
+   "url": "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Political party. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 256501,
+   "rank": 12,
+   "metrics": {
+    "views": 256501,
+    "change": 488
+   }
+  },
+  {
+   "rawId": "united states senate",
+   "title": "United States Senate",
+   "url": "https://en.wikipedia.org/wiki/United_States_Senate",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Upper house of the US Congress. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Seal_of_the_United_States_Senate.svg/330px-Seal_of_the_United_States_Senate.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 255791,
+   "rank": 13,
+   "metrics": {
+    "views": 255791,
+    "change": 703
+   }
+  },
+  {
+   "rawId": ".xyz",
+   "title": ".xyz",
+   "url": "https://en.wikipedia.org/wiki/.xyz",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Internet top-level domain. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/.xyz_logo.svg/330px-.xyz_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 254329,
+   "rank": 14,
+   "metrics": {
+    "views": 254329,
+    "change": 144
+   }
+  },
+  {
+   "rawId": "2026 united states house of representatives elections",
+   "title": "2026 United States House of Representatives elections",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "House elections for the 120th U.S. Congress. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/US_House_2026.svg/330px-US_House_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 249406,
+   "rank": 15,
+   "metrics": {
+    "views": 249406,
+    "change": 396
    }
   },
   {
@@ -338,29 +284,83 @@
    "summary": "Senate election for the 121st US Congress. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/2028_United_States_Senate_elections_retirements_map.svg/330px-2028_United_States_Senate_elections_retirements_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 111686,
-   "rank": 19,
+   "hot": 244552,
+   "rank": 16,
    "metrics": {
-    "views": 111686,
-    "change": -54
+    "views": 244552,
+    "change": 1543
    }
   },
   {
-   "rawId": "2026 united states senate election in mississippi",
-   "title": "2026 United States Senate election in Mississippi",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Mississippi",
+   "rawId": "donald trump",
+   "title": "Donald Trump",
+   "url": "https://en.wikipedia.org/wiki/Donald_Trump",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2026_United_States_Senate_election_in_Mississippi_results_map_by_county.svg/330px-2026_United_States_Senate_election_in_Mississippi_results_map_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "President of the United States (2017–2021; since 2025). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/330px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 110692,
+   "hot": 239807,
+   "rank": 17,
+   "metrics": {
+    "views": 239807,
+    "change": 216
+   }
+  },
+  {
+   "rawId": "annie andrews",
+   "title": "Annie Andrews",
+   "url": "https://en.wikipedia.org/wiki/Annie_Andrews",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American physician and politician (born 1980). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Annie_Andrews_Fort_Mill_2026_%28cropped_3%29.png/330px-Annie_Andrews_Fort_Mill_2026_%28cropped_3%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 238020,
+   "rank": 18,
+   "metrics": {
+    "views": 238020,
+    "change": 1544
+   }
+  },
+  {
+   "rawId": "amy acton",
+   "title": "Amy Acton",
+   "url": "https://en.wikipedia.org/wiki/Amy_Acton",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Governor-elect of Ohio (born 1966). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Amy_Acton_2025.jpg/330px-Amy_Acton_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 231084,
+   "rank": 19,
+   "metrics": {
+    "views": 231084,
+    "change": 916
+   }
+  },
+  {
+   "rawId": "vivek ramaswamy",
+   "title": "Vivek Ramaswamy",
+   "url": "https://en.wikipedia.org/wiki/Vivek_Ramaswamy",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American entrepreneur (born 1985). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg/330px-Vivek_Ramaswamy_%2855241367373%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 226620,
    "rank": 20,
    "metrics": {
-    "views": 110692,
-    "change": -22
+    "views": 226620,
+    "change": 420
    }
   }
  ]

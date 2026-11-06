@@ -1,89 +1,173 @@
 {
- "updated": "2026-11-06T16:02:17Z",
+ "updated": "2026-11-06T21:39:40Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50392118",
-   "title": "Gemini Omni 1.2 Flash",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "rawId": "50397429",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.google"
+    "hightouch.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T13:35:27Z",
-   "hot": 64.2,
+   "publishedAt": "2026-11-06T19:48:51Z",
+   "hot": 75.3,
    "rank": 1,
    "metrics": {
-    "points": 157,
-    "comments": 115,
-    "discussion": "https://news.ycombinator.com/item?id=50392118"
+    "points": 139,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50397429"
    }
   },
   {
-   "rawId": "50390124",
-   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+   "rawId": "50397994",
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "planned-obsolescence.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T09:27:12Z",
-   "hot": 70.2,
+   "publishedAt": "2026-11-06T20:27:23Z",
+   "hot": 44.0,
    "rank": 2,
    "metrics": {
-    "points": 462,
-    "comments": 272,
-    "discussion": "https://news.ycombinator.com/item?id=50390124"
+    "points": 53,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50397994"
    }
   },
   {
-   "rawId": "50393758",
-   "title": "Deus Ex",
-   "url": "https://www.filfre.net/2026/11/deus-ex/",
+   "rawId": "50397219",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "url": "https://pwn.ai/blog/firecracker-escape",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "filfre.net"
+    "pwn.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T15:44:36Z",
-   "hot": 16.0,
+   "publishedAt": "2026-11-06T19:33:38Z",
+   "hot": 45.2,
    "rank": 3,
    "metrics": {
-    "points": 16,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50393758"
+    "points": 95,
+    "comments": 52,
+    "discussion": "https://news.ycombinator.com/item?id=50397219"
    }
   },
   {
-   "rawId": "50393183",
-   "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-   "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
+   "rawId": "50388001",
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "faa.gov"
+    "reuters.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T15:03:24Z",
-   "hot": 28.0,
+   "publishedAt": "2026-11-06T04:00:28Z",
+   "hot": 12.0,
    "rank": 4,
    "metrics": {
+    "points": 211,
+    "comments": 169,
+    "discussion": "https://news.ycombinator.com/item?id=50388001"
+   }
+  },
+  {
+   "rawId": "50391456",
+   "title": "Tesla to wind down Cybertruck production",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nbcnews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T12:13:51Z",
+   "hot": 72.5,
+   "rank": 5,
+   "metrics": {
+    "points": 684,
+    "comments": 1466,
+    "discussion": "https://news.ycombinator.com/item?id=50391456"
+   }
+  },
+  {
+   "rawId": "50394855",
+   "title": "First steps in bare-metal programming using UEFI",
+   "url": "https://kevinboone.me/efitest_index.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "kevinboone.me"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T16:50:29Z",
+   "hot": 29.7,
+   "rank": 6,
+   "metrics": {
+    "points": 143,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50394855"
+   }
+  },
+  {
+   "rawId": "50398212",
+   "title": "The Valley Bubble Breaks",
+   "url": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "quirksmode.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T20:42:08Z",
+   "hot": 28.0,
+   "rank": 7,
+   "metrics": {
     "points": 28,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50393183"
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50398212"
+   }
+  },
+  {
+   "rawId": "50397017",
+   "title": "Restaurant Delivery Payment-Skimming Campaign",
+   "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "infohawk.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T19:19:27Z",
+   "hot": 15.0,
+   "rank": 8,
+   "metrics": {
+    "points": 35,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50397017"
    }
   },
   {
@@ -99,249 +183,144 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T07:40:35Z",
-   "hot": 56.8,
-   "rank": 5,
+   "hot": 46.3,
+   "rank": 9,
    "metrics": {
-    "points": 475,
-    "comments": 196,
+    "points": 647,
+    "comments": 261,
     "discussion": "https://news.ycombinator.com/item?id=50389333"
    }
   },
   {
-   "rawId": "50385272",
-   "title": "Claude Code sends your email address to websites",
-   "url": "https://github.com/anthropics/claude-code/issues/107757",
+   "rawId": "50395919",
+   "title": "Memorilla: Latent Semantic Memory for LLMs",
+   "url": "https://arxiv.org/abs/2610.21375",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "arxiv.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T22:17:15Z",
-   "hot": 79.9,
-   "rank": 6,
-   "metrics": {
-    "points": 1418,
-    "comments": 448,
-    "discussion": "https://news.ycombinator.com/item?id=50385272"
-   }
-  },
-  {
-   "rawId": "50382958",
-   "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
-   "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "laphamsquarterly.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T18:59:37Z",
-   "hot": 1.5,
-   "rank": 7,
-   "metrics": {
-    "points": 31,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50382958"
-   }
-  },
-  {
-   "rawId": "50393154",
-   "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
-   "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wired.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T15:01:38Z",
-   "hot": 97.9,
-   "rank": 8,
-   "metrics": {
-    "points": 99,
-    "comments": 63,
-    "discussion": "https://news.ycombinator.com/item?id=50393154"
-   }
-  },
-  {
-   "rawId": "50378228",
-   "title": "sshole",
-   "url": "https://sshhole.com",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "sshhole.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T12:19:02Z",
-   "hot": 102.8,
-   "rank": 9,
-   "metrics": {
-    "points": 2851,
-    "comments": 692,
-    "discussion": "https://news.ycombinator.com/item?id=50378228"
-   }
-  },
-  {
-   "rawId": "50390525",
-   "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-   "url": "https://jhr.pensoft.net/articles.php?id=9096",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jhr.pensoft.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T10:21:15Z",
-   "hot": 19.2,
+   "publishedAt": "2026-11-06T18:03:33Z",
+   "hot": 14.2,
    "rank": 10,
    "metrics": {
-    "points": 109,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50390525"
+    "points": 51,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50395919"
    }
   },
   {
-   "rawId": "50389370",
-   "title": "Kugelblitz – Mac-Native Google Earth Alternative",
-   "url": "https://apps.metaebene.me/en/kugelblitz",
+   "rawId": "50397176",
+   "title": "My first and last telegram was from Rebecca West",
+   "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "apps.metaebene.me"
+    "thelampmagazine.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T07:47:38Z",
-   "hot": 21.5,
+   "publishedAt": "2026-11-06T19:30:00Z",
+   "hot": 10.6,
    "rank": 11,
    "metrics": {
-    "points": 177,
-    "comments": 50,
-    "discussion": "https://news.ycombinator.com/item?id=50389370"
+    "points": 23,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50397176"
    }
   },
   {
-   "rawId": "50389420",
-   "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-   "url": "https://worldstrike.fun/",
+   "rawId": "50396834",
+   "title": "Replit rebuilt its sandbox engine with microVMs",
+   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "worldstrike.fun"
+    "frontier.replit.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T07:55:48Z",
-   "hot": 15.8,
+   "publishedAt": "2026-11-06T19:06:10Z",
+   "hot": 7.4,
    "rank": 12,
    "metrics": {
-    "points": 128,
-    "comments": 75,
-    "discussion": "https://news.ycombinator.com/item?id=50389420"
+    "points": 19,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50396834"
    }
   },
   {
-   "rawId": "50384233",
-   "title": "MS Paint Remote Code Execution Vulnerability",
-   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+   "rawId": "50395869",
+   "title": "Size-It-Up (Game)",
+   "url": "https://magnitudle.com/size-it-up",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cve.org"
+    "magnitudle.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T20:43:42Z",
-   "hot": 33.5,
+   "publishedAt": "2026-11-06T17:59:59Z",
+   "hot": 13.1,
    "rank": 13,
    "metrics": {
-    "points": 646,
-    "comments": 243,
-    "discussion": "https://news.ycombinator.com/item?id=50384233"
+    "points": 48,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50395869"
    }
   },
   {
-   "rawId": "50392499",
-   "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-   "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+   "rawId": "50395450",
+   "title": "Devvm.dev: One VM for every project",
+   "url": "https://devvm.dev/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cbc.ca"
+    "devvm.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T14:13:09Z",
-   "hot": 28.6,
+   "publishedAt": "2026-11-06T17:30:22Z",
+   "hot": 13.7,
    "rank": 14,
    "metrics": {
-    "points": 52,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50392499"
+    "points": 57,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50395450"
    }
   },
   {
-   "rawId": "50393089",
-   "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
-   "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+   "rawId": "50392118",
+   "title": "Gemini Omni 1.2 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "sharedphysics.com"
+    "blog.google"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T14:57:16Z",
-   "hot": 5.5,
+   "publishedAt": "2026-11-06T13:35:27Z",
+   "hot": 32.6,
    "rank": 15,
    "metrics": {
-    "points": 6,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50393089"
+    "points": 263,
+    "comments": 205,
+    "discussion": "https://news.ycombinator.com/item?id=50392118"
    }
   },
   {
-   "rawId": "50388122",
-   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thereader.mitpress.mit.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T04:17:49Z",
-   "hot": 18.0,
-   "rank": 16,
-   "metrics": {
-    "points": 211,
-    "comments": 74,
-    "discussion": "https://news.ycombinator.com/item?id=50388122"
-   }
-  },
-  {
-   "rawId": "50391145",
-   "title": "We've built an open-source feature flag server for 11 years",
-   "url": "https://github.com/Unleash/unleash",
+   "rawId": "50379221",
+   "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+   "url": "https://github.com/piercefreeman/waymark",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -350,55 +329,76 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T11:40:06Z",
-   "hot": 19.2,
+   "publishedAt": "2026-11-05T14:06:31Z",
+   "hot": 0.3,
+   "rank": 16,
+   "metrics": {
+    "points": 10,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50379221"
+   }
+  },
+  {
+   "rawId": "50392348",
+   "title": "How octopuses squeeze through too small gaps",
+   "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "journals.biologists.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T13:57:20Z",
+   "hot": 3.5,
    "rank": 17,
    "metrics": {
-    "points": 84,
-    "comments": 55,
-    "discussion": "https://news.ycombinator.com/item?id=50391145"
+    "points": 27,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50392348"
    }
   },
   {
-   "rawId": "50393105",
-   "title": "Ask HN: What in the world is taking Ubuntu so long?",
-   "url": "https://news.ycombinator.com/item?id=50393105",
+   "rawId": "50394977",
+   "title": "PyLings: Solve Exercises and Learn Python",
+   "url": "https://github.com/thesayfulla/pylings",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "Ask HN"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T14:58:33Z",
-   "hot": 41.4,
+   "publishedAt": "2026-11-06T16:59:40Z",
+   "hot": 7.1,
    "rank": 18,
    "metrics": {
-    "points": 44,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50393105"
+    "points": 33,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50394977"
    }
   },
   {
-   "rawId": "50387796",
-   "title": "Pwn.college",
-   "url": "https://pwn.college/",
+   "rawId": "50393758",
+   "title": "Deus Ex",
+   "url": "https://www.filfre.net/2026/11/deus-ex/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "pwn.college"
+    "filfre.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T03:27:14Z",
-   "hot": 19.5,
+   "publishedAt": "2026-11-06T15:44:36Z",
+   "hot": 50.2,
    "rank": 19,
    "metrics": {
-    "points": 245,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50387796"
+    "points": 297,
+    "comments": 149,
+    "discussion": "https://news.ycombinator.com/item?id=50393758"
    }
   }
  ]
