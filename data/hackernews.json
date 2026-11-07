@@ -1,7 +1,133 @@
 {
- "updated": "2026-11-07T15:47:25Z",
+ "updated": "2026-11-07T20:20:54Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50406563",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "url": "https://hunch.net/?p=13764006",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hunch.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T18:02:17Z",
+   "hot": 75.3,
+   "rank": 1,
+   "metrics": {
+    "points": 174,
+    "comments": 89,
+    "discussion": "https://news.ycombinator.com/item?id=50406563"
+   }
+  },
+  {
+   "rawId": "50406670",
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "url": "https://blog.bosscher.ch/posts/openstick/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.bosscher.ch"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T18:12:12Z",
+   "hot": 51.3,
+   "rank": 2,
+   "metrics": {
+    "points": 110,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50406670"
+   }
+  },
+  {
+   "rawId": "50406111",
+   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "theguardian.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T17:06:36Z",
+   "hot": 46.0,
+   "rank": 3,
+   "metrics": {
+    "points": 149,
+    "comments": 104,
+    "discussion": "https://news.ycombinator.com/item?id=50406111"
+   }
+  },
+  {
+   "rawId": "50406292",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "url": "https://github.com/hedgerow-dev/coldframe",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T17:27:30Z",
+   "hot": 38.8,
+   "rank": 4,
+   "metrics": {
+    "points": 112,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50406292"
+   }
+  },
+  {
+   "rawId": "50406222",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "maxxbench.unlap.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T17:19:00Z",
+   "hot": 31.7,
+   "rank": 5,
+   "metrics": {
+    "points": 96,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50406222"
+   }
+  },
+  {
+   "rawId": "50406319",
+   "title": "Five memorable books about programming (2008)",
+   "url": "https://prog21.dadgum.com/19.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "prog21.dadgum.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T17:30:49Z",
+   "hot": 15.5,
+   "rank": 6,
+   "metrics": {
+    "points": 44,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50406319"
+   }
+  },
   {
    "rawId": "50404599",
    "title": "The $8 Linux Computer (2022)",
@@ -15,11 +141,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T14:00:20Z",
-   "hot": 24.7,
-   "rank": 1,
+   "hot": 26.2,
+   "rank": 7,
    "metrics": {
-    "points": 44,
-    "comments": 18,
+    "points": 166,
+    "comments": 74,
     "discussion": "https://news.ycombinator.com/item?id=50404599"
    }
   },
@@ -36,54 +162,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T09:36:36Z",
-   "hot": 61.6,
-   "rank": 2,
+   "hot": 59.1,
+   "rank": 8,
    "metrics": {
-    "points": 381,
-    "comments": 123,
+    "points": 635,
+    "comments": 187,
     "discussion": "https://news.ycombinator.com/item?id=50403052"
    }
   },
   {
-   "rawId": "50399933",
-   "title": "Libghostty 1.0",
-   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "rawId": "50370787",
+   "title": "The Typo Generation Is Damaging Literature",
+   "url": "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mitchellh.com"
+    "metropolitanreview.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T23:30:52Z",
-   "hot": 52.5,
-   "rank": 3,
+   "publishedAt": "2026-11-04T20:05:56Z",
+   "hot": 0.4,
+   "rank": 9,
    "metrics": {
-    "points": 854,
-    "comments": 141,
-    "discussion": "https://news.ycombinator.com/item?id=50399933"
+    "points": 29,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50370787"
    }
   },
   {
-   "rawId": "50403066",
-   "title": "Running a law firm on Free software",
-   "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+   "rawId": "50405789",
+   "title": "How Long Can Life Wait?",
+   "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "decoded.legal"
+    "mceglowski.substack.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T09:39:06Z",
-   "hot": 13.5,
-   "rank": 4,
+   "publishedAt": "2026-11-07T16:22:59Z",
+   "hot": 20.4,
+   "rank": 10,
    "metrics": {
-    "points": 83,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50403066"
+    "points": 81,
+    "comments": 42,
+    "discussion": "https://news.ycombinator.com/item?id=50405789"
    }
   },
   {
@@ -99,81 +225,144 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T09:46:03Z",
-   "hot": 55.1,
-   "rank": 5,
+   "hot": 46.1,
+   "rank": 11,
    "metrics": {
-    "points": 332,
-    "comments": 183,
+    "points": 488,
+    "comments": 286,
     "discussion": "https://news.ycombinator.com/item?id=50403097"
    }
   },
   {
-   "rawId": "50352791",
-   "title": "British Library Legal deposit and web archiving",
-   "url": "https://www.bl.uk/services/legal-deposit/web-archiving",
+   "rawId": "50405782",
+   "title": "Every processor die anyone has photographed and given away",
+   "url": "https://sheets.works/data-viz/cpu-dies",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bl.uk"
+    "sheets.works"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T14:56:30Z",
-   "hot": 0.2,
-   "rank": 6,
+   "publishedAt": "2026-11-07T16:21:36Z",
+   "hot": 10.5,
+   "rank": 12,
    "metrics": {
-    "points": 16,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50352791"
+    "points": 42,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50405782"
    }
   },
   {
-   "rawId": "50391456",
-   "title": "Tesla to wind down Cybertruck production",
-   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "rawId": "50399933",
+   "title": "Libghostty 1.0",
+   "url": "https://mitchellh.com/writing/libghostty-1-0",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nbcnews.com"
+    "mitchellh.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T12:13:51Z",
-   "hot": 39.3,
-   "rank": 7,
+   "publishedAt": "2026-11-06T23:30:52Z",
+   "hot": 46.7,
+   "rank": 13,
    "metrics": {
-    "points": 1082,
-    "comments": 1939,
-    "discussion": "https://news.ycombinator.com/item?id=50391456"
+    "points": 973,
+    "comments": 167,
+    "discussion": "https://news.ycombinator.com/item?id=50399933"
    }
   },
   {
-   "rawId": "50397429",
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "rawId": "50361657",
+   "title": "Text.js: Build full-stack React apps that render inside console.log",
+   "url": "https://textjs.org/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hightouch.com"
+    "textjs.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T19:48:51Z",
-   "hot": 26.6,
-   "rank": 8,
+   "publishedAt": "2026-11-04T04:59:36Z",
+   "hot": 0.7,
+   "rank": 14,
    "metrics": {
-    "points": 531,
-    "comments": 130,
-    "discussion": "https://news.ycombinator.com/item?id=50397429"
+    "points": 62,
+    "comments": 30,
+    "discussion": "https://news.ycombinator.com/item?id=50361657"
    }
   },
   {
-   "rawId": "50377613",
-   "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
-   "url": "https://github.com/hyphatech/spindle",
+   "rawId": "50403066",
+   "title": "Running a law firm on Free software",
+   "url": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "decoded.legal"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T09:39:06Z",
+   "hot": 18.2,
+   "rank": 15,
+   "metrics": {
+    "points": 195,
+    "comments": 85,
+    "discussion": "https://news.ycombinator.com/item?id=50403066"
+   }
+  },
+  {
+   "rawId": "50405674",
+   "title": "Terry Pratchett's Study",
+   "url": "https://www.sussi.dk/terry-pratchetts-study",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "sussi.dk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T16:05:45Z",
+   "hot": 7.3,
+   "rank": 16,
+   "metrics": {
+    "points": 31,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50405674"
+   }
+  },
+  {
+   "rawId": "50403507",
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "windowslatest.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T11:11:15Z",
+   "hot": 11.1,
+   "rank": 17,
+   "metrics": {
+    "points": 102,
+    "comments": 127,
+    "discussion": "https://news.ycombinator.com/item?id=50403507"
+   }
+  },
+  {
+   "rawId": "50405263",
+   "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+   "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -182,244 +371,55 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T10:45:28Z",
-   "hot": 0.5,
-   "rank": 9,
-   "metrics": {
-    "points": 27,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50377613"
-   }
-  },
-  {
-   "rawId": "50356037",
-   "title": "ToothPaste",
-   "url": "https://brisk4t.github.io/blog/toothpaste/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "brisk4t.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T18:27:27Z",
-   "hot": 0.5,
-   "rank": 10,
-   "metrics": {
-    "points": 47,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50356037"
-   }
-  },
-  {
-   "rawId": "50361417",
-   "title": "Building the NBC News Big Board",
-   "url": "https://ejfox.com/projects/nbc-big-board",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ejfox.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T04:09:48Z",
-   "hot": 0.3,
-   "rank": 11,
-   "metrics": {
-    "points": 26,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50361417"
-   }
-  },
-  {
-   "rawId": "50358094",
-   "title": "Tasfer: a text editor drawn on a 2D canvas",
-   "url": "https://www.hamza.se/blog/tasfer",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "hamza.se"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T20:58:40Z",
-   "hot": 0.1,
-   "rank": 12,
-   "metrics": {
-    "points": 5,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50358094"
-   }
-  },
-  {
-   "rawId": "50402212",
-   "title": "The Components of Agent Memory",
-   "url": "https://www.anthropic.com/research/components-of-agent-memory",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "anthropic.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T06:39:04Z",
-   "hot": 10.6,
-   "rank": 13,
-   "metrics": {
-    "points": 97,
-    "comments": 51,
-    "discussion": "https://news.ycombinator.com/item?id=50402212"
-   }
-  },
-  {
-   "rawId": "50360810",
-   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-   "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "smithsonianmag.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T02:19:16Z",
-   "hot": 1.8,
-   "rank": 14,
-   "metrics": {
-    "points": 157,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50360810"
-   }
-  },
-  {
-   "rawId": "50388001",
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reuters.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T04:00:28Z",
-   "hot": 10.3,
-   "rank": 15,
-   "metrics": {
-    "points": 368,
-    "comments": 306,
-    "discussion": "https://news.ycombinator.com/item?id=50388001"
-   }
-  },
-  {
-   "rawId": "50399991",
-   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-   "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "multifamilydive.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T23:37:19Z",
-   "hot": 9.4,
-   "rank": 16,
-   "metrics": {
-    "points": 152,
-    "comments": 110,
-    "discussion": "https://news.ycombinator.com/item?id=50399991"
-   }
-  },
-  {
-   "rawId": "50403063",
-   "title": "Port 0: The Port That Does Not Exist",
-   "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "acid.vegas"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T09:38:26Z",
-   "hot": 6.0,
-   "rank": 17,
-   "metrics": {
-    "points": 37,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50403063"
-   }
-  },
-  {
-   "rawId": "50397219",
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "url": "https://pwn.ai/blog/firecracker-escape",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pwn.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T19:33:38Z",
-   "hot": 12.9,
+   "publishedAt": "2026-11-07T15:16:01Z",
+   "hot": 7.3,
    "rank": 18,
    "metrics": {
-    "points": 261,
-    "comments": 114,
-    "discussion": "https://news.ycombinator.com/item?id=50397219"
+    "points": 37,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50405263"
    }
   },
   {
-   "rawId": "50403214",
-   "title": "Upload Your RAM",
-   "url": "https://uploadyourram.org",
+   "rawId": "50405678",
+   "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+   "url": "https://kevinboone.me/tpwin.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "uploadyourram.org"
+    "kevinboone.me"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T10:15:26Z",
-   "hot": 40.5,
+   "publishedAt": "2026-11-07T16:06:27Z",
+   "hot": 33.5,
    "rank": 19,
    "metrics": {
-    "points": 224,
-    "comments": 198,
-    "discussion": "https://news.ycombinator.com/item?id=50403214"
+    "points": 142,
+    "comments": 80,
+    "discussion": "https://news.ycombinator.com/item?id=50405678"
    }
   },
   {
-   "rawId": "50361765",
-   "title": "PostgreSQL Internals [pdf] (2023)",
-   "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+   "rawId": "50406502",
+   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+   "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "edu.postgrespro.com"
+    "atlasobscura.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T05:22:43Z",
-   "hot": 0.7,
+   "publishedAt": "2026-11-07T17:54:56Z",
+   "hot": 3.7,
    "rank": 20,
    "metrics": {
-    "points": 58,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50361765"
+    "points": 9,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50406502"
    }
   }
  ]
