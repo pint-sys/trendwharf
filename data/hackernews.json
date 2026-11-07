@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T02:03:56Z",
+ "updated": "2026-11-07T08:58:15Z",
  "source": "hackernews",
  "items": [
   {
@@ -15,12 +15,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T23:30:52Z",
-   "hot": 70.9,
+   "hot": 60.7,
    "rank": 1,
    "metrics": {
-    "points": 181,
-    "comments": 24,
+    "points": 574,
+    "comments": 96,
     "discussion": "https://news.ycombinator.com/item?id=50399933"
+   }
+  },
+  {
+   "rawId": "50401740",
+   "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+   "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "science.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T04:54:36Z",
+   "hot": 19.5,
+   "rank": 2,
+   "metrics": {
+    "points": 79,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50401740"
    }
   },
   {
@@ -36,12 +57,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T19:48:51Z",
-   "hot": 54.1,
-   "rank": 2,
+   "hot": 34.7,
+   "rank": 3,
    "metrics": {
-    "points": 338,
-    "comments": 72,
+    "points": 456,
+    "comments": 104,
     "discussion": "https://news.ycombinator.com/item?id=50397429"
+   }
+  },
+  {
+   "rawId": "50401867",
+   "title": "Asahi Linux Progress Linux 7.3",
+   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "asahilinux.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T05:20:18Z",
+   "hot": 40.5,
+   "rank": 4,
+   "metrics": {
+    "points": 147,
+    "comments": 94,
+    "discussion": "https://news.ycombinator.com/item?id=50401867"
+   }
+  },
+  {
+   "rawId": "50402212",
+   "title": "The Components of Agent Memory",
+   "url": "https://www.anthropic.com/research/components-of-agent-memory",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T06:39:04Z",
+   "hot": 9.5,
+   "rank": 5,
+   "metrics": {
+    "points": 22,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50402212"
    }
   },
   {
@@ -57,222 +120,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T12:13:51Z",
-   "hot": 61.7,
-   "rank": 3,
-   "metrics": {
-    "points": 854,
-    "comments": 1703,
-    "discussion": "https://news.ycombinator.com/item?id=50391456"
-   }
-  },
-  {
-   "rawId": "50397219",
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "url": "https://pwn.ai/blog/firecracker-escape",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pwn.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T19:33:38Z",
-   "hot": 27.2,
-   "rank": 4,
-   "metrics": {
-    "points": 177,
-    "comments": 77,
-    "discussion": "https://news.ycombinator.com/item?id=50397219"
-   }
-  },
-  {
-   "rawId": "50388001",
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "reuters.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T04:00:28Z",
-   "hot": 12.8,
-   "rank": 5,
-   "metrics": {
-    "points": 283,
-    "comments": 224,
-    "discussion": "https://news.ycombinator.com/item?id=50388001"
-   }
-  },
-  {
-   "rawId": "50400597",
-   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-   "url": "https://josef.cn/blog/unitree",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "josef.cn"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T01:05:16Z",
-   "hot": 17.0,
+   "hot": 47.7,
    "rank": 6,
    "metrics": {
-    "points": 17,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50400597"
-   }
-  },
-  {
-   "rawId": "50360810",
-   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-   "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "smithsonianmag.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T02:19:16Z",
-   "hot": 0.2,
-   "rank": 7,
-   "metrics": {
-    "points": 15,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50360810"
-   }
-  },
-  {
-   "rawId": "50397994",
-   "title": "AI is dramatically accelerating AI research",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "planned-obsolescence.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T20:27:23Z",
-   "hot": 36.4,
-   "rank": 8,
-   "metrics": {
-    "points": 204,
-    "comments": 156,
-    "discussion": "https://news.ycombinator.com/item?id=50397994"
-   }
-  },
-  {
-   "rawId": "50354097",
-   "title": "Can GROUP BY still be optimized after all these years?",
-   "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pivotlake.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-03T16:30:23Z",
-   "hot": 0.5,
-   "rank": 9,
-   "metrics": {
-    "points": 37,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50354097"
-   }
-  },
-  {
-   "rawId": "50399695",
-   "title": "Outbound SIP calling is now available to all organizations",
-   "url": "https://developers.openai.com/api/docs/guides/voice-sip",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "developers.openai.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T23:03:55Z",
-   "hot": 12.7,
-   "rank": 10,
-   "metrics": {
-    "points": 38,
-    "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50399695"
-   }
-  },
-  {
-   "rawId": "50394855",
-   "title": "First steps in bare-metal programming using UEFI",
-   "url": "https://kevinboone.me/efitest_index.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "kevinboone.me"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T16:50:29Z",
-   "hot": 20.8,
-   "rank": 11,
-   "metrics": {
-    "points": 192,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50394855"
-   }
-  },
-  {
-   "rawId": "50399657",
-   "title": "Sodium-ion batteries approach cost parity with LFP",
-   "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pv-magazine.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T23:00:46Z",
-   "hot": 40.0,
-   "rank": 12,
-   "metrics": {
-    "points": 122,
-    "comments": 55,
-    "discussion": "https://news.ycombinator.com/item?id=50399657"
-   }
-  },
-  {
-   "rawId": "50397017",
-   "title": "Restaurant Delivery Payment-Skimming Campaign",
-   "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "infohawk.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T19:19:27Z",
-   "hot": 14.2,
-   "rank": 13,
-   "metrics": {
-    "points": 96,
-    "comments": 41,
-    "discussion": "https://news.ycombinator.com/item?id=50397017"
+    "points": 990,
+    "comments": 1847,
+    "discussion": "https://news.ycombinator.com/item?id=50391456"
    }
   },
   {
@@ -288,117 +141,243 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T23:37:19Z",
-   "hot": 5.3,
-   "rank": 14,
+   "hot": 12.3,
+   "rank": 7,
    "metrics": {
-    "points": 13,
-    "comments": 2,
+    "points": 115,
+    "comments": 54,
     "discussion": "https://news.ycombinator.com/item?id=50399991"
    }
   },
   {
-   "rawId": "50397711",
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "rawId": "50361765",
+   "title": "PostgreSQL Internals [pdf]",
+   "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "crusoe.ai"
+    "edu.postgrespro.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T20:09:14Z",
-   "hot": 6.9,
+   "publishedAt": "2026-11-04T05:22:43Z",
+   "hot": 0.1,
+   "rank": 8,
+   "metrics": {
+    "points": 10,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50361765"
+   }
+  },
+  {
+   "rawId": "50388001",
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reuters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T04:00:28Z",
+   "hot": 11.5,
+   "rank": 9,
+   "metrics": {
+    "points": 332,
+    "comments": 272,
+    "discussion": "https://news.ycombinator.com/item?id=50388001"
+   }
+  },
+  {
+   "rawId": "50352701",
+   "title": "The Flash C Compiler",
+   "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.adafruit.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T14:49:42Z",
+   "hot": 0.5,
+   "rank": 10,
+   "metrics": {
+    "points": 45,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50352701"
+   }
+  },
+  {
+   "rawId": "50360810",
+   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+   "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "smithsonianmag.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T02:19:16Z",
+   "hot": 1.2,
+   "rank": 11,
+   "metrics": {
+    "points": 91,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50360810"
+   }
+  },
+  {
+   "rawId": "50397219",
+   "title": "Firecracker VM Escape: PwnEscape Part 2",
+   "url": "https://pwn.ai/blog/firecracker-escape",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pwn.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T19:33:38Z",
+   "hot": 16.9,
+   "rank": 12,
+   "metrics": {
+    "points": 227,
+    "comments": 105,
+    "discussion": "https://news.ycombinator.com/item?id=50397219"
+   }
+  },
+  {
+   "rawId": "50395183",
+   "title": "Notes on San Marino",
+   "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mattlakeman.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T17:12:05Z",
+   "hot": 3.7,
+   "rank": 13,
+   "metrics": {
+    "points": 59,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50395183"
+   }
+  },
+  {
+   "rawId": "50402535",
+   "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+   "url": "https://bong.glendalab.com",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bong.glendalab.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T07:48:13Z",
+   "hot": 6.0,
+   "rank": 14,
+   "metrics": {
+    "points": 7,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50402535"
+   }
+  },
+  {
+   "rawId": "50397994",
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "planned-obsolescence.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T20:27:23Z",
+   "hot": 23.3,
    "rank": 15,
    "metrics": {
-    "points": 41,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50397711"
+    "points": 291,
+    "comments": 228,
+    "discussion": "https://news.ycombinator.com/item?id=50397994"
    }
   },
   {
-   "rawId": "50395450",
-   "title": "Devvm.dev: One VM for every project",
-   "url": "https://devvm.dev/",
+   "rawId": "50369283",
+   "title": "8088 Domination Post-Mortem",
+   "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "devvm.dev"
+    "trixter.oldskool.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T17:30:22Z",
-   "hot": 13.9,
+   "publishedAt": "2026-11-04T18:06:14Z",
+   "hot": 0.1,
    "rank": 16,
    "metrics": {
-    "points": 119,
-    "comments": 51,
-    "discussion": "https://news.ycombinator.com/item?id=50395450"
+    "points": 7,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50369283"
    }
   },
   {
-   "rawId": "50399569",
-   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "rawId": "50394855",
+   "title": "First steps in bare-metal programming using UEFI",
+   "url": "https://kevinboone.me/efitest_index.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "community.openai.com"
+    "kevinboone.me"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T22:50:43Z",
-   "hot": 22.7,
+   "publishedAt": "2026-11-06T16:50:29Z",
+   "hot": 13.6,
    "rank": 17,
    "metrics": {
-    "points": 73,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50399569"
+    "points": 219,
+    "comments": 41,
+    "discussion": "https://news.ycombinator.com/item?id=50394855"
    }
   },
   {
-   "rawId": "50396834",
-   "title": "Replit rebuilt its sandbox engine with microVMs",
-   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+   "rawId": "50354097",
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "frontier.replit.com"
+    "pivotlake.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T19:06:10Z",
-   "hot": 9.6,
+   "publishedAt": "2026-11-03T16:30:23Z",
+   "hot": 0.9,
    "rank": 18,
    "metrics": {
-    "points": 67,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50396834"
-   }
-  },
-  {
-   "rawId": "50392118",
-   "title": "Gemini Omni 1.2 Flash",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.google"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T13:35:27Z",
-   "hot": 23.8,
-   "rank": 19,
-   "metrics": {
-    "points": 297,
-    "comments": 220,
-    "discussion": "https://news.ycombinator.com/item?id=50392118"
+    "points": 78,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50354097"
    }
   },
   {
@@ -414,12 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T19:24:21Z",
-   "hot": 9.3,
+   "hot": 9.9,
+   "rank": 19,
+   "metrics": {
+    "points": 134,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50397099"
+   }
+  },
+  {
+   "rawId": "50373513",
+   "title": "The great butter and cheese fire of 1991",
+   "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "wisfarmer.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T00:44:16Z",
+   "hot": 0.3,
    "rank": 20,
    "metrics": {
-    "points": 62,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50397099"
+    "points": 15,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50373513"
    }
   }
  ]
