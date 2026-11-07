@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-06T21:39:40Z",
+ "updated": "2026-11-07T02:03:56Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50399933",
+   "title": "Libghostty 1.0",
+   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mitchellh.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T23:30:52Z",
+   "hot": 70.9,
+   "rank": 1,
+   "metrics": {
+    "points": 181,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50399933"
+   }
+  },
   {
    "rawId": "50397429",
    "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
@@ -15,33 +36,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T19:48:51Z",
-   "hot": 75.3,
-   "rank": 1,
+   "hot": 54.1,
+   "rank": 2,
    "metrics": {
-    "points": 139,
-    "comments": 38,
+    "points": 338,
+    "comments": 72,
     "discussion": "https://news.ycombinator.com/item?id=50397429"
    }
   },
   {
-   "rawId": "50397994",
-   "title": "AI is dramatically accelerating AI research",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "rawId": "50391456",
+   "title": "Tesla to wind down Cybertruck production",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "planned-obsolescence.org"
+    "nbcnews.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T20:27:23Z",
-   "hot": 44.0,
-   "rank": 2,
+   "publishedAt": "2026-11-06T12:13:51Z",
+   "hot": 61.7,
+   "rank": 3,
    "metrics": {
-    "points": 53,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50397994"
+    "points": 854,
+    "comments": 1703,
+    "discussion": "https://news.ycombinator.com/item?id=50391456"
    }
   },
   {
@@ -57,11 +78,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T19:33:38Z",
-   "hot": 45.2,
-   "rank": 3,
+   "hot": 27.2,
+   "rank": 4,
    "metrics": {
-    "points": 95,
-    "comments": 52,
+    "points": 177,
+    "comments": 77,
     "discussion": "https://news.ycombinator.com/item?id=50397219"
    }
   },
@@ -78,33 +99,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T04:00:28Z",
-   "hot": 12.0,
-   "rank": 4,
+   "hot": 12.8,
+   "rank": 5,
    "metrics": {
-    "points": 211,
-    "comments": 169,
+    "points": 283,
+    "comments": 224,
     "discussion": "https://news.ycombinator.com/item?id=50388001"
    }
   },
   {
-   "rawId": "50391456",
-   "title": "Tesla to wind down Cybertruck production",
-   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "rawId": "50400597",
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "url": "https://josef.cn/blog/unitree",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nbcnews.com"
+    "josef.cn"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T12:13:51Z",
-   "hot": 72.5,
-   "rank": 5,
+   "publishedAt": "2026-11-07T01:05:16Z",
+   "hot": 17.0,
+   "rank": 6,
    "metrics": {
-    "points": 684,
-    "comments": 1466,
-    "discussion": "https://news.ycombinator.com/item?id=50391456"
+    "points": 17,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50400597"
+   }
+  },
+  {
+   "rawId": "50360810",
+   "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
+   "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "smithsonianmag.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T02:19:16Z",
+   "hot": 0.2,
+   "rank": 7,
+   "metrics": {
+    "points": 15,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50360810"
+   }
+  },
+  {
+   "rawId": "50397994",
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "planned-obsolescence.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T20:27:23Z",
+   "hot": 36.4,
+   "rank": 8,
+   "metrics": {
+    "points": 204,
+    "comments": 156,
+    "discussion": "https://news.ycombinator.com/item?id=50397994"
+   }
+  },
+  {
+   "rawId": "50354097",
+   "title": "Can GROUP BY still be optimized after all these years?",
+   "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pivotlake.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-03T16:30:23Z",
+   "hot": 0.5,
+   "rank": 9,
+   "metrics": {
+    "points": 37,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50354097"
+   }
+  },
+  {
+   "rawId": "50399695",
+   "title": "Outbound SIP calling is now available to all organizations",
+   "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "developers.openai.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T23:03:55Z",
+   "hot": 12.7,
+   "rank": 10,
+   "metrics": {
+    "points": 38,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50399695"
    }
   },
   {
@@ -120,33 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T16:50:29Z",
-   "hot": 29.7,
-   "rank": 6,
+   "hot": 20.8,
+   "rank": 11,
    "metrics": {
-    "points": 143,
-    "comments": 22,
+    "points": 192,
+    "comments": 32,
     "discussion": "https://news.ycombinator.com/item?id=50394855"
    }
   },
   {
-   "rawId": "50398212",
-   "title": "The Valley Bubble Breaks",
-   "url": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
+   "rawId": "50399657",
+   "title": "Sodium-ion batteries approach cost parity with LFP",
+   "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "quirksmode.org"
+    "pv-magazine.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T20:42:08Z",
-   "hot": 28.0,
-   "rank": 7,
+   "publishedAt": "2026-11-06T23:00:46Z",
+   "hot": 40.0,
+   "rank": 12,
    "metrics": {
-    "points": 28,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50398212"
+    "points": 122,
+    "comments": 55,
+    "discussion": "https://news.ycombinator.com/item?id=50399657"
    }
   },
   {
@@ -162,117 +267,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T19:19:27Z",
-   "hot": 15.0,
-   "rank": 8,
+   "hot": 14.2,
+   "rank": 13,
    "metrics": {
-    "points": 35,
-    "comments": 15,
+    "points": 96,
+    "comments": 41,
     "discussion": "https://news.ycombinator.com/item?id=50397017"
    }
   },
   {
-   "rawId": "50389333",
-   "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-   "url": "https://github.com/ppmpreetham/BUI",
+   "rawId": "50399991",
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "multifamilydive.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T07:40:35Z",
-   "hot": 46.3,
-   "rank": 9,
+   "publishedAt": "2026-11-06T23:37:19Z",
+   "hot": 5.3,
+   "rank": 14,
    "metrics": {
-    "points": 647,
-    "comments": 261,
-    "discussion": "https://news.ycombinator.com/item?id=50389333"
+    "points": 13,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50399991"
    }
   },
   {
-   "rawId": "50395919",
-   "title": "Memorilla: Latent Semantic Memory for LLMs",
-   "url": "https://arxiv.org/abs/2610.21375",
+   "rawId": "50397711",
+   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "crusoe.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-06T18:03:33Z",
-   "hot": 14.2,
-   "rank": 10,
+   "publishedAt": "2026-11-06T20:09:14Z",
+   "hot": 6.9,
+   "rank": 15,
    "metrics": {
-    "points": 51,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50395919"
-   }
-  },
-  {
-   "rawId": "50397176",
-   "title": "My first and last telegram was from Rebecca West",
-   "url": "https://thelampmagazine.com/blog/rebecca-wests-nightingale",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thelampmagazine.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T19:30:00Z",
-   "hot": 10.6,
-   "rank": 11,
-   "metrics": {
-    "points": 23,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50397176"
-   }
-  },
-  {
-   "rawId": "50396834",
-   "title": "Replit rebuilt its sandbox engine with microVMs",
-   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "frontier.replit.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T19:06:10Z",
-   "hot": 7.4,
-   "rank": 12,
-   "metrics": {
-    "points": 19,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50396834"
-   }
-  },
-  {
-   "rawId": "50395869",
-   "title": "Size-It-Up (Game)",
-   "url": "https://magnitudle.com/size-it-up",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "magnitudle.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T17:59:59Z",
-   "hot": 13.1,
-   "rank": 13,
-   "metrics": {
-    "points": 48,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50395869"
+    "points": 41,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50397711"
    }
   },
   {
@@ -288,12 +330,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T17:30:22Z",
-   "hot": 13.7,
-   "rank": 14,
+   "hot": 13.9,
+   "rank": 16,
    "metrics": {
-    "points": 57,
-    "comments": 35,
+    "points": 119,
+    "comments": 51,
     "discussion": "https://news.ycombinator.com/item?id=50395450"
+   }
+  },
+  {
+   "rawId": "50399569",
+   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+   "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "community.openai.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T22:50:43Z",
+   "hot": 22.7,
+   "rank": 17,
+   "metrics": {
+    "points": 73,
+    "comments": 32,
+    "discussion": "https://news.ycombinator.com/item?id=50399569"
+   }
+  },
+  {
+   "rawId": "50396834",
+   "title": "Replit rebuilt its sandbox engine with microVMs",
+   "url": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "frontier.replit.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-06T19:06:10Z",
+   "hot": 9.6,
+   "rank": 18,
+   "metrics": {
+    "points": 67,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50396834"
    }
   },
   {
@@ -309,96 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-06T13:35:27Z",
-   "hot": 32.6,
-   "rank": 15,
+   "hot": 23.8,
+   "rank": 19,
    "metrics": {
-    "points": 263,
-    "comments": 205,
+    "points": 297,
+    "comments": 220,
     "discussion": "https://news.ycombinator.com/item?id=50392118"
    }
   },
   {
-   "rawId": "50379221",
-   "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
-   "url": "https://github.com/piercefreeman/waymark",
+   "rawId": "50397099",
+   "title": "GitHub's new Git storage architecture",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "github.blog"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-05T14:06:31Z",
-   "hot": 0.3,
-   "rank": 16,
+   "publishedAt": "2026-11-06T19:24:21Z",
+   "hot": 9.3,
+   "rank": 20,
    "metrics": {
-    "points": 10,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50379221"
-   }
-  },
-  {
-   "rawId": "50392348",
-   "title": "How octopuses squeeze through too small gaps",
-   "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "journals.biologists.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T13:57:20Z",
-   "hot": 3.5,
-   "rank": 17,
-   "metrics": {
-    "points": 27,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50392348"
-   }
-  },
-  {
-   "rawId": "50394977",
-   "title": "PyLings: Solve Exercises and Learn Python",
-   "url": "https://github.com/thesayfulla/pylings",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T16:59:40Z",
-   "hot": 7.1,
-   "rank": 18,
-   "metrics": {
-    "points": 33,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50394977"
-   }
-  },
-  {
-   "rawId": "50393758",
-   "title": "Deus Ex",
-   "url": "https://www.filfre.net/2026/11/deus-ex/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "filfre.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T15:44:36Z",
-   "hot": 50.2,
-   "rank": 19,
-   "metrics": {
-    "points": 297,
-    "comments": 149,
-    "discussion": "https://news.ycombinator.com/item?id=50393758"
+    "points": 62,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50397099"
    }
   }
  ]
