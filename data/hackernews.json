@@ -1,10 +1,94 @@
 {
- "updated": "2026-11-08T18:54:36Z",
+ "updated": "2026-11-08T22:58:28Z",
  "source": "hackernews",
  "items": [
   {
+   "rawId": "50416053",
+   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+   "url": "https://duxlabs.dev/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "duxlabs.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T19:08:51Z",
+   "hot": 36.6,
+   "rank": 1,
+   "metrics": {
+    "points": 140,
+    "comments": 43,
+    "discussion": "https://news.ycombinator.com/item?id=50416053"
+   }
+  },
+  {
+   "rawId": "50418016",
+   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+   "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "axios.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T22:20:09Z",
+   "hot": 73.0,
+   "rank": 2,
+   "metrics": {
+    "points": 73,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50418016"
+   }
+  },
+  {
+   "rawId": "50417407",
+   "title": "Ask HN: What are you working on? (November 2026)",
+   "url": "https://news.ycombinator.com/item?id=50417407",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T21:20:20Z",
+   "hot": 34.2,
+   "rank": 3,
+   "metrics": {
+    "points": 56,
+    "comments": 265,
+    "discussion": "https://news.ycombinator.com/item?id=50417407"
+   }
+  },
+  {
+   "rawId": "50368481",
+   "title": "Declarative Dragging",
+   "url": "https://declarative-dragging.github.io/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "declarative-dragging.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-04T17:05:07Z",
+   "hot": 2.3,
+   "rank": 4,
+   "metrics": {
+    "points": 233,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50368481"
+   }
+  },
+  {
    "rawId": "50415628",
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
    "videoUrl": null,
    "category": "news",
@@ -15,12 +99,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-08T18:16:07Z",
-   "hot": 65.0,
-   "rank": 1,
+   "hot": 108.6,
+   "rank": 5,
    "metrics": {
-    "points": 65,
-    "comments": 14,
+    "points": 511,
+    "comments": 309,
     "discussion": "https://news.ycombinator.com/item?id=50415628"
+   }
+  },
+  {
+   "rawId": "50416158",
+   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mailroute.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T19:20:32Z",
+   "hot": 46.3,
+   "rank": 6,
+   "metrics": {
+    "points": 168,
+    "comments": 139,
+    "discussion": "https://news.ycombinator.com/item?id=50416158"
+   }
+  },
+  {
+   "rawId": "50416456",
+   "title": "The Web Is More Than Enough, by Paul Ford",
+   "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ftrain.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T19:48:32Z",
+   "hot": 9.8,
+   "rank": 7,
+   "metrics": {
+    "points": 31,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50416456"
    }
   },
   {
@@ -36,54 +162,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-08T10:22:04Z",
-   "hot": 30.4,
-   "rank": 2,
+   "hot": 26.2,
+   "rank": 8,
    "metrics": {
-    "points": 260,
-    "comments": 84,
+    "points": 330,
+    "comments": 130,
     "discussion": "https://news.ycombinator.com/item?id=50411961"
    }
   },
   {
-   "rawId": "50415135",
-   "title": "A Little Snitch for Windows",
-   "url": "https://packethound.app/",
+   "rawId": "50372838",
+   "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+   "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "packethound.app"
+    "lithub.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T17:16:07Z",
-   "hot": 12.2,
-   "rank": 3,
+   "publishedAt": "2026-11-04T23:23:08Z",
+   "hot": 0.5,
+   "rank": 9,
    "metrics": {
-    "points": 20,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50415135"
-   }
-  },
-  {
-   "rawId": "50389923",
-   "title": "The Reconstruction of Torn Documents",
-   "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bundesarchiv.de"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T09:05:18Z",
-   "hot": 0.9,
-   "rank": 4,
-   "metrics": {
-    "points": 52,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50389923"
+    "points": 51,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50372838"
    }
   },
   {
@@ -99,75 +204,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-08T10:41:52Z",
-   "hot": 20.0,
-   "rank": 5,
+   "hot": 20.3,
+   "rank": 10,
    "metrics": {
-    "points": 164,
-    "comments": 46,
+    "points": 249,
+    "comments": 75,
     "discussion": "https://news.ycombinator.com/item?id=50412067"
    }
   },
   {
-   "rawId": "50413769",
-   "title": "I'm not a fan of Deno's security model (2024)",
-   "url": "https://goldstein.lol/posts/deno-security/",
+   "rawId": "50416014",
+   "title": "Playing with the STM32MP2",
+   "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "goldstein.lol"
+    "serd.es"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T14:42:38Z",
-   "hot": 9.5,
-   "rank": 6,
+   "publishedAt": "2026-11-08T19:04:07Z",
+   "hot": 4.9,
+   "rank": 11,
    "metrics": {
-    "points": 40,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50413769"
+    "points": 19,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50416014"
    }
   },
   {
-   "rawId": "50366821",
-   "title": "Porting Android 16 to my blind mother's keypad phone",
-   "url": "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+   "rawId": "50416363",
+   "title": "How I Fight AI Brain Fry",
+   "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "z1x.us"
+    "sergeykuhne.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-04T15:18:59Z",
-   "hot": 1.1,
-   "rank": 7,
+   "publishedAt": "2026-11-08T19:37:42Z",
+   "hot": 34.4,
+   "rank": 12,
    "metrics": {
-    "points": 106,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50366821"
-   }
-  },
-  {
-   "rawId": "50410107",
-   "title": "Goodbye Claude, hello Pi",
-   "url": "https://caleb.software/posts/claude-to-pi.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "caleb.software"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T03:11:48Z",
-   "hot": 37.3,
-   "rank": 8,
-   "metrics": {
-    "points": 586,
-    "comments": 380,
-    "discussion": "https://news.ycombinator.com/item?id=50410107"
+    "points": 115,
+    "comments": 101,
+    "discussion": "https://news.ycombinator.com/item?id=50416363"
    }
   },
   {
@@ -183,165 +267,81 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-04T08:54:27Z",
-   "hot": 0.5,
-   "rank": 9,
+   "hot": 1.3,
+   "rank": 13,
    "metrics": {
-    "points": 51,
-    "comments": 13,
+    "points": 139,
+    "comments": 27,
     "discussion": "https://news.ycombinator.com/item?id=50362963"
    }
   },
   {
-   "rawId": "50412072",
-   "title": "JIT bitmap text rendering for microcontrollers",
-   "url": "https://linebender.org/blog/jit-bitmap-text/",
+   "rawId": "50353814",
+   "title": "The History of Djgpp",
+   "url": "https://www.delorie.com/djgpp/history.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "linebender.org"
+    "delorie.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T10:42:15Z",
-   "hot": 9.5,
-   "rank": 10,
-   "metrics": {
-    "points": 78,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50412072"
-   }
-  },
-  {
-   "rawId": "50406670",
-   "title": "What I run on my $10 USD OpenStick homelab",
-   "url": "https://blog.bosscher.ch/posts/openstick/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.bosscher.ch"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T18:12:12Z",
-   "hot": 29.0,
-   "rank": 11,
-   "metrics": {
-    "points": 717,
-    "comments": 128,
-    "discussion": "https://news.ycombinator.com/item?id=50406670"
-   }
-  },
-  {
-   "rawId": "50412830",
-   "title": "How to prove equations using diagrams, part 1",
-   "url": "https://www.epatters.org/post/e-graphs-1/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "epatters.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T12:51:38Z",
-   "hot": 5.0,
-   "rank": 12,
-   "metrics": {
-    "points": 30,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50412830"
-   }
-  },
-  {
-   "rawId": "50366902",
-   "title": "Clj.rs – a Clojure dialect implemented in Rust",
-   "url": "https://clj.rs/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "clj.rs"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T15:23:16Z",
-   "hot": 1.3,
-   "rank": 13,
-   "metrics": {
-    "points": 133,
-    "comments": 49,
-    "discussion": "https://news.ycombinator.com/item?id=50366902"
-   }
-  },
-  {
-   "rawId": "50407882",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apiiro.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T20:45:32Z",
-   "hot": 23.2,
+   "publishedAt": "2026-11-03T16:10:37Z",
+   "hot": 0.2,
    "rank": 14,
    "metrics": {
-    "points": 515,
-    "comments": 377,
-    "discussion": "https://news.ycombinator.com/item?id=50407882"
+    "points": 20,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50353814"
    }
   },
   {
-   "rawId": "50414331",
-   "title": "UK House of Lords to propose mandatory CSAM detection software on smartphones",
-   "url": "https://observer.co.uk/news/national/article/fight-to-block-child-sexual-abuse-images-unites-peers-and-mps-in-cross-party-campaign",
+   "rawId": "50415135",
+   "title": "A Little Snitch for Windows",
+   "url": "https://packethound.app/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "observer.co.uk"
+    "packethound.app"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T15:57:37Z",
-   "hot": 3.7,
+   "publishedAt": "2026-11-08T17:16:07Z",
+   "hot": 13.3,
    "rank": 15,
    "metrics": {
-    "points": 11,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50414331"
+    "points": 76,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50415135"
    }
   },
   {
-   "rawId": "50415281",
-   "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
-   "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+   "rawId": "50413769",
+   "title": "I'm not a fan of Deno's security model (2024)",
+   "url": "https://goldstein.lol/posts/deno-security/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bloomberg.com"
+    "goldstein.lol"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T17:32:55Z",
-   "hot": 19.8,
+   "publishedAt": "2026-11-08T14:42:38Z",
+   "hot": 9.2,
    "rank": 16,
    "metrics": {
-    "points": 27,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50415281"
+    "points": 76,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50413769"
    }
   },
   {
-   "rawId": "50415078",
-   "title": "A field guide to CAPTCHA types and how they break",
-   "url": "https://github.com/vsmutok/FuckCaptcha",
+   "rawId": "50390799",
+   "title": "Designing Rust APIs around KEM, AEAD and key derivation workflows",
+   "url": "https://github.com/lecodev-26/nexus-q",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -350,76 +350,76 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T17:09:55Z",
-   "hot": 10.9,
+   "publishedAt": "2026-11-06T10:58:29Z",
+   "hot": 0.1,
    "rank": 17,
    "metrics": {
-    "points": 19,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50415078"
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50390799"
    }
   },
   {
-   "rawId": "50411467",
-   "title": "Agent memory needs its OpenTelemetry moment",
-   "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+   "rawId": "50416801",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "lorekit.io"
+    "nvidianews.nvidia.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T08:40:23Z",
-   "hot": 13.4,
+   "publishedAt": "2026-11-08T20:26:43Z",
+   "hot": 117.0,
    "rank": 18,
    "metrics": {
-    "points": 137,
-    "comments": 97,
-    "discussion": "https://news.ycombinator.com/item?id=50411467"
+    "points": 296,
+    "comments": 232,
+    "discussion": "https://news.ycombinator.com/item?id=50416801"
    }
   },
   {
-   "rawId": "50412152",
-   "title": "Petered",
-   "url": "https://aworkinglibrary.com/writing/petered",
+   "rawId": "50410107",
+   "title": "Goodbye Claude, hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "aworkinglibrary.com"
+    "caleb.software"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T10:56:43Z",
-   "hot": 16.6,
+   "publishedAt": "2026-11-08T03:11:48Z",
+   "hot": 33.5,
    "rank": 19,
    "metrics": {
-    "points": 132,
-    "comments": 83,
-    "discussion": "https://news.ycombinator.com/item?id=50412152"
+    "points": 663,
+    "comments": 419,
+    "discussion": "https://news.ycombinator.com/item?id=50410107"
    }
   },
   {
-   "rawId": "50404747",
-   "title": "The Gordon Gekko effect: The role of culture in the financial industry (2016) [pdf]",
-   "url": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+   "rawId": "50389923",
+   "title": "The Reconstruction of Torn Documents",
+   "url": "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "newyorkfed.org"
+    "bundesarchiv.de"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T14:18:45Z",
-   "hot": 2.6,
+   "publishedAt": "2026-11-06T09:05:18Z",
+   "hot": 1.3,
    "rank": 20,
    "metrics": {
-    "points": 73,
-    "comments": 48,
-    "discussion": "https://news.ycombinator.com/item?id=50404747"
+    "points": 83,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50389923"
    }
   }
  ]
