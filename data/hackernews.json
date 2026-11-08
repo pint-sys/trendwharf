@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-07T23:46:07Z",
+ "updated": "2026-11-08T06:22:54Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50406563",
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "url": "https://hunch.net/?p=13764006",
+   "rawId": "50410107",
+   "title": "Goodbye Claude, Hello Pi",
+   "url": "https://caleb.software/posts/claude-to-pi.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hunch.net"
+    "caleb.software"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T18:02:17Z",
-   "hot": 56.5,
+   "publishedAt": "2026-11-08T03:11:48Z",
+   "hot": 33.9,
    "rank": 1,
    "metrics": {
-    "points": 324,
-    "comments": 182,
-    "discussion": "https://news.ycombinator.com/item?id=50406563"
+    "points": 108,
+    "comments": 56,
+    "discussion": "https://news.ycombinator.com/item?id=50410107"
    }
   },
   {
@@ -36,11 +36,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T18:12:12Z",
-   "hot": 49.4,
+   "hot": 40.2,
    "rank": 2,
    "metrics": {
-    "points": 275,
-    "comments": 64,
+    "points": 490,
+    "comments": 98,
     "discussion": "https://news.ycombinator.com/item?id=50406670"
    }
   },
@@ -57,33 +57,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T20:45:32Z",
-   "hot": 31.6,
+   "hot": 31.8,
    "rank": 3,
    "metrics": {
-    "points": 95,
-    "comments": 72,
+    "points": 306,
+    "comments": 211,
     "discussion": "https://news.ycombinator.com/item?id=50407882"
-   }
-  },
-  {
-   "rawId": "50406111",
-   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "theguardian.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T17:06:36Z",
-   "hot": 45.8,
-   "rank": 4,
-   "metrics": {
-    "points": 305,
-    "comments": 212,
-    "discussion": "https://news.ycombinator.com/item?id=50406111"
    }
   },
   {
@@ -99,18 +78,18 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T22:38:58Z",
-   "hot": 17.0,
-   "rank": 5,
+   "hot": 13.6,
+   "rank": 4,
    "metrics": {
-    "points": 19,
-    "comments": 3,
+    "points": 105,
+    "comments": 26,
     "discussion": "https://news.ycombinator.com/item?id=50408713"
    }
   },
   {
-   "rawId": "50406292",
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-   "url": "https://github.com/hedgerow-dev/coldframe",
+   "rawId": "50409855",
+   "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+   "url": "https://github.com/crmne/zapfast",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -119,55 +98,13 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T17:27:30Z",
-   "hot": 27.6,
-   "rank": 6,
+   "publishedAt": "2026-11-08T02:02:27Z",
+   "hot": 9.4,
+   "rank": 5,
    "metrics": {
-    "points": 174,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50406292"
-   }
-  },
-  {
-   "rawId": "50406222",
-   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "maxxbench.unlap.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T17:19:00Z",
-   "hot": 25.9,
-   "rank": 7,
-   "metrics": {
-    "points": 167,
-    "comments": 50,
-    "discussion": "https://news.ycombinator.com/item?id=50406222"
-   }
-  },
-  {
-   "rawId": "50377661",
-   "title": "Uranium cubes reveal why the German nuclear project failed",
-   "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arstechnica.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T10:52:04Z",
-   "hot": 0.6,
-   "rank": 8,
-   "metrics": {
-    "points": 38,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50377661"
+    "points": 41,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50409855"
    }
   },
   {
@@ -183,75 +120,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T09:36:36Z",
-   "hot": 54.2,
-   "rank": 9,
+   "hot": 43.4,
+   "rank": 6,
    "metrics": {
-    "points": 767,
-    "comments": 220,
+    "points": 901,
+    "comments": 242,
     "discussion": "https://news.ycombinator.com/item?id=50403052"
    }
   },
   {
-   "rawId": "50405172",
-   "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-   "url": "https://www.retrosongbird.com/",
+   "rawId": "50410359",
+   "title": "Kirlian Photography: Building Your Own Equipment",
+   "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "retrosongbird.com"
+    "imagesco.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T15:06:54Z",
-   "hot": 3.0,
-   "rank": 10,
+   "publishedAt": "2026-11-08T04:14:12Z",
+   "hot": 6.1,
+   "rank": 7,
    "metrics": {
-    "points": 26,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50405172"
+    "points": 13,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50410359"
    }
   },
   {
-   "rawId": "50358337",
-   "title": "Turning Every Radio into a Radar",
-   "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+   "rawId": "50377661",
+   "title": "Uranium cubes reveal why the German nuclear project failed",
+   "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "tiaminetworks.com"
+    "arstechnica.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-03T21:18:48Z",
-   "hot": 0.1,
-   "rank": 11,
+   "publishedAt": "2026-11-05T10:52:04Z",
+   "hot": 1.6,
+   "rank": 8,
    "metrics": {
-    "points": 12,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50358337"
+    "points": 105,
+    "comments": 69,
+    "discussion": "https://news.ycombinator.com/item?id=50377661"
    }
   },
   {
-   "rawId": "50406319",
-   "title": "Five memorable books about programming (2008)",
-   "url": "https://prog21.dadgum.com/19.html",
+   "rawId": "50406222",
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "prog21.dadgum.com"
+    "maxxbench.unlap.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T17:30:49Z",
-   "hot": 11.8,
-   "rank": 12,
+   "publishedAt": "2026-11-07T17:19:00Z",
+   "hot": 20.1,
+   "rank": 9,
    "metrics": {
-    "points": 74,
-    "comments": 44,
-    "discussion": "https://news.ycombinator.com/item?id=50406319"
+    "points": 262,
+    "comments": 73,
+    "discussion": "https://news.ycombinator.com/item?id=50406222"
    }
   },
   {
@@ -267,75 +204,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T09:46:03Z",
-   "hot": 40.4,
-   "rank": 13,
+   "hot": 32.5,
+   "rank": 10,
    "metrics": {
-    "points": 565,
-    "comments": 328,
+    "points": 670,
+    "comments": 372,
     "discussion": "https://news.ycombinator.com/item?id=50403097"
    }
   },
   {
-   "rawId": "50404599",
-   "title": "The $8 Linux Computer (2022)",
-   "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+   "rawId": "50409856",
+   "title": "Consumer brain wave headsets threaten privacy",
+   "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "thelittleengineerthatcould.blogspot.com"
+    "science.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T14:00:20Z",
-   "hot": 19.7,
-   "rank": 14,
+   "publishedAt": "2026-11-08T02:02:38Z",
+   "hot": 3.5,
+   "rank": 11,
    "metrics": {
-    "points": 192,
-    "comments": 83,
-    "discussion": "https://news.ycombinator.com/item?id=50404599"
+    "points": 15,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50409856"
    }
   },
   {
-   "rawId": "50408750",
-   "title": "IRA Velinsky – Commodore's Industrial Designer",
-   "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+   "rawId": "50351954",
+   "title": "Amsterdam School",
+   "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "commodore.ca"
+    "architecture-history.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T22:45:39Z",
-   "hot": 4.0,
-   "rank": 15,
+   "publishedAt": "2026-11-03T13:50:19Z",
+   "hot": 0.2,
+   "rank": 12,
    "metrics": {
-    "points": 4,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50408750"
+    "points": 18,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50351954"
    }
   },
   {
-   "rawId": "50406502",
-   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-   "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+   "rawId": "50406292",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "url": "https://github.com/hedgerow-dev/coldframe",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "atlasobscura.com"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T17:54:56Z",
-   "hot": 6.3,
-   "rank": 16,
+   "publishedAt": "2026-11-07T17:27:30Z",
+   "hot": 16.5,
+   "rank": 13,
    "metrics": {
-    "points": 37,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50406502"
+    "points": 213,
+    "comments": 49,
+    "discussion": "https://news.ycombinator.com/item?id=50406292"
    }
   },
   {
@@ -351,12 +288,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T11:11:15Z",
-   "hot": 14.9,
-   "rank": 17,
+   "hot": 14.5,
+   "rank": 14,
    "metrics": {
-    "points": 188,
-    "comments": 187,
+    "points": 279,
+    "comments": 250,
     "discussion": "https://news.ycombinator.com/item?id=50403507"
+   }
+  },
+  {
+   "rawId": "50408961",
+   "title": "Commodore PET – The Worlds First Personal Computer",
+   "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "commodore.ca"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T23:15:34Z",
+   "hot": 6.0,
+   "rank": 15,
+   "metrics": {
+    "points": 43,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50408961"
+   }
+  },
+  {
+   "rawId": "50406563",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "url": "https://hunch.net/?p=13764006",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hunch.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T18:02:17Z",
+   "hot": 35.1,
+   "rank": 16,
+   "metrics": {
+    "points": 433,
+    "comments": 259,
+    "discussion": "https://news.ycombinator.com/item?id=50406563"
    }
   },
   {
@@ -372,54 +351,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-07T23:09:40Z",
-   "hot": 4.0,
-   "rank": 18,
+   "hot": 15.0,
+   "rank": 17,
    "metrics": {
-    "points": 4,
-    "comments": 0,
+    "points": 108,
+    "comments": 78,
     "discussion": "https://news.ycombinator.com/item?id=50408931"
    }
   },
   {
-   "rawId": "50408104",
-   "title": "Shadow of the Sun (2021)",
-   "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+   "rawId": "50406111",
+   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mattlakeman.org"
+    "theguardian.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T21:11:05Z",
-   "hot": 5.8,
-   "rank": 19,
+   "publishedAt": "2026-11-07T17:06:36Z",
+   "hot": 32.0,
+   "rank": 18,
    "metrics": {
-    "points": 15,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50408104"
+    "points": 425,
+    "comments": 278,
+    "discussion": "https://news.ycombinator.com/item?id=50406111"
    }
   },
   {
-   "rawId": "50408350",
-   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-   "url": "https://eyesrhythm.com/",
+   "rawId": "50358337",
+   "title": "Turning every radio into a radar",
+   "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "eyesrhythm.com"
+    "tiaminetworks.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-07T21:47:47Z",
-   "hot": 7.1,
+   "publishedAt": "2026-11-03T21:18:48Z",
+   "hot": 0.5,
+   "rank": 19,
+   "metrics": {
+    "points": 52,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50358337"
+   }
+  },
+  {
+   "rawId": "50404599",
+   "title": "The $8 Linux Computer (2022)",
+   "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "thelittleengineerthatcould.blogspot.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T14:00:20Z",
+   "hot": 13.2,
    "rank": 20,
    "metrics": {
-    "points": 14,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50408350"
+    "points": 216,
+    "comments": 87,
+    "discussion": "https://news.ycombinator.com/item?id=50404599"
    }
   }
  ]
