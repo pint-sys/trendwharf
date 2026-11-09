@@ -1,31 +1,8 @@
 {
- "updated": "2026-11-08T22:58:28Z",
+ "updated": "2026-11-09T02:47:32Z",
  "source": "music",
  "country": "US",
  "items": [
-  {
-   "rawId": "6823820066",
-   "title": "Mr. Do Something",
-   "url": "https://music.apple.com/us/album/mr-do-something/6823820064?i=6823820066",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#1 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-11-06T00:00:00Z",
-   "hot": 25,
-   "rank": 1,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 1,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/mr-do-something/6823820064?i=6823820066"
-   }
-  },
   {
    "rawId": "1844932150",
    "title": "Choosin' Texas",
@@ -34,19 +11,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#2 on Apple Music's most-played songs (US).",
+   "summary": "#1 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
    "publishedAt": "2025-10-17T00:00:00Z",
-   "hot": 24,
-   "rank": 2,
+   "hot": 25,
+   "rank": 1,
    "metrics": {
     "artist": "Ella Langley",
-    "rank": 2,
-    "change": 0
+    "rank": 1,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
+   "rawId": "6823820066",
+   "title": "Mr. Do Something",
+   "url": "https://music.apple.com/us/album/mr-do-something/6823820064?i=6823820066",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#2 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-11-06T00:00:00Z",
+   "hot": 24,
+   "rank": 2,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 2,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/mr-do-something/6823820064?i=6823820066"
    }
   },
   {
@@ -119,32 +119,32 @@
    }
   },
   {
-   "rawId": "6823820072",
-   "title": "All My Partnas (feat. Future)",
-   "url": "https://music.apple.com/us/album/all-my-partnas-feat-future/6823820064?i=6823820072",
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Country"
    ],
    "summary": "#6 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-11-06T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
    "hot": 20,
    "rank": 6,
    "metrics": {
-    "artist": "Lil Baby, Young Thug & Rylo Rodriguez",
+    "artist": "Morgan Wallen",
     "rank": 6,
-    "change": 0
+    "change": 5
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/all-my-partnas-feat-future/6823820064?i=6823820072"
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
-   "rawId": "6823820067",
-   "title": "Burnt Shit",
-   "url": "https://music.apple.com/us/album/burnt-shit/6823820064?i=6823820067",
+   "rawId": "6823820072",
+   "title": "All My Partnas (feat. Future)",
+   "url": "https://music.apple.com/us/album/all-my-partnas-feat-future/6823820064?i=6823820072",
    "category": "music",
    "tags": [
     "Hip-Hop/Rap"
@@ -155,9 +155,55 @@
    "hot": 19,
    "rank": 7,
    "metrics": {
-    "artist": "Lil Baby",
+    "artist": "Lil Baby, Rylo Rodriguez & Young Thug",
     "rank": 7,
-    "change": 0
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/all-my-partnas-feat-future/6823820064?i=6823820072"
+   }
+  },
+  {
+   "rawId": "6822497774",
+   "title": "Housewife",
+   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#8 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 18,
+   "rank": 8,
+   "metrics": {
+    "artist": "Tate McRae",
+    "rank": 8,
+    "change": 1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
+   }
+  },
+  {
+   "rawId": "6823820067",
+   "title": "Burnt Shit",
+   "url": "https://music.apple.com/us/album/burnt-shit/6823820064?i=6823820067",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#9 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-11-06T00:00:00Z",
+   "hot": 17,
+   "rank": 9,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 9,
+    "change": -2
    },
    "embed": {
     "kind": "music",
@@ -172,42 +218,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#8 on Apple Music's most-played songs (US).",
+   "summary": "#10 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-05-15T00:00:00Z",
-   "hot": 18,
-   "rank": 8,
+   "hot": 16,
+   "rank": 10,
    "metrics": {
     "artist": "Drake",
-    "rank": 8,
-    "change": 0
+    "rank": 10,
+    "change": -2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-   }
-  },
-  {
-   "rawId": "6822497774",
-   "title": "Housewife",
-   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
-   "metrics": {
-    "artist": "Tate McRae",
-    "rank": 9,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
    }
   },
   {
@@ -218,42 +241,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
+   "summary": "#11 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5f/7c/cb/5f7ccb13-1490-5b92-f78b-d1a0f665a07e/196874972953.jpg/400x400bb.jpg",
    "publishedAt": "2026-11-06T00:00:00Z",
-   "hot": 16,
-   "rank": 10,
+   "hot": 15,
+   "rank": 11,
    "metrics": {
     "artist": "Future",
-    "rank": 10,
+    "rank": 11,
     "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/ya-hit-feat-drake-travis-scott-loe-shimmy/6831506152?i=6831506154"
-   }
-  },
-  {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#11 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
-   "hot": 15,
-   "rank": 11,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 11,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -272,7 +272,7 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 12,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -372,6 +372,52 @@
    }
   },
   {
+   "rawId": "1869436845",
+   "title": "Be Her",
+   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#17 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
+   "publishedAt": "2026-02-13T00:00:00Z",
+   "hot": 9,
+   "rank": 17,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 17,
+    "change": 4
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
+   }
+  },
+  {
+   "rawId": "6822944296",
+   "title": "Lies (feat. Lana Del Rey)",
+   "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#18 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 8,
+   "rank": 18,
+   "metrics": {
+    "artist": "Zach Bryan & Lana Del Rey",
+    "rank": 18,
+    "change": 5
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+   }
+  },
+  {
    "rawId": "1648587330",
    "title": "In A Minute",
    "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
@@ -379,15 +425,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
+   "summary": "#19 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
+   "hot": 7,
+   "rank": 19,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 17,
-    "change": 2
+    "rank": 19,
+    "change": -2
    },
    "embed": {
     "kind": "music",
@@ -402,42 +448,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#18 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-11-06T00:00:00Z",
-   "hot": 8,
-   "rank": 18,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 18,
-    "change": -1
+    "rank": 20,
+    "change": -2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/my-side/6823820064?i=6823820074"
-   }
-  },
-  {
-   "rawId": "1440929293",
-   "title": "Freestyle",
-   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2017-12-01T00:00:00Z",
-   "hot": 7,
-   "rank": 19,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 19,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
    }
   },
   {
@@ -448,15 +471,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
+   "summary": "#21 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
+   "hot": 5,
+   "rank": 21,
    "metrics": {
     "artist": "Future",
-    "rank": 20,
-    "change": 0
+    "rank": 21,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -464,26 +487,26 @@
    }
   },
   {
-   "rawId": "1869436845",
-   "title": "Be Her",
-   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
+   "rawId": "1440929293",
+   "title": "Freestyle",
+   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
    "category": "music",
    "tags": [
-    "Country"
+    "Hip-Hop/Rap"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
-   "publishedAt": "2026-02-13T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2017-12-01T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
    "metrics": {
-    "artist": "Ella Langley",
-    "rank": 21,
-    "change": 1
+    "artist": "Lil Baby",
+    "rank": 22,
+    "change": -3
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
+    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
    }
   },
   {
@@ -494,14 +517,14 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
+   "summary": "#23 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a2/df/3c/a2df3c58-fbda-cc45-b349-bad967c1e7a8/26UM1IM31430.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-11-06T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
+   "hot": 3,
+   "rank": 23,
    "metrics": {
     "artist": "Lil Baby & Rylo Rodriguez",
-    "rank": 22,
+    "rank": 23,
     "change": -1
    },
    "embed": {
@@ -510,72 +533,49 @@
    }
   },
   {
-   "rawId": "6822944296",
-   "title": "Lies (feat. Lana Del Rey)",
-   "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+   "rawId": "1889992115",
+   "title": "stupid song",
+   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
    "category": "music",
    "tags": [
-    "Country"
-   ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
-   "metrics": {
-    "artist": "Zach Bryan & Lana Del Rey",
-    "rank": 23,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
-   }
-  },
-  {
-   "rawId": "1453336216",
-   "title": "Best I Ever Had",
-   "url": "https://music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
+    "Pop"
    ],
    "summary": "#24 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/50/7f/3b/507f3b71-c606-5a59-06ee-22be3e1e6ca5/00602577542602.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2009-02-13T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-06-12T00:00:00Z",
    "hot": 2,
    "rank": 24,
    "metrics": {
-    "artist": "Drake",
+    "artist": "Olivia Rodrigo",
     "rank": 24,
-    "change": -1
+    "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1453336206?i=1453336216"
+    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
    }
   },
   {
-   "rawId": "1621803969",
-   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "rawId": "585972803",
+   "title": "All I Want for Christmas Is You",
+   "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Holiday"
    ],
    "summary": "#25 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
-   "publishedAt": "2022-05-02T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/400x400bb.jpg",
+   "publishedAt": "1994-10-28T00:00:00Z",
    "hot": 1,
    "rank": 25,
    "metrics": {
-    "artist": "Future",
+    "artist": "Mariah Carey",
     "rank": 25,
-    "change": 0
+    "change": "new"
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+    "value": "https://embed.music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"
    }
   }
  ]
