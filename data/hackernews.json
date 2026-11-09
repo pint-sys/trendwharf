@@ -1,263 +1,95 @@
 {
- "updated": "2026-11-09T11:52:59Z",
+ "updated": "2026-11-09T22:33:51Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50423569",
-   "title": "Fun things to do with your VM/370 CE machine – Fun with big computers",
-   "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+   "rawId": "50431058",
+   "title": "USPS now offers official ZIP Code boundary polygons",
+   "url": "https://postalpro.usps.com/zcb",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "rbanffy.github.io"
+    "postalpro.usps.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-09T10:11:47Z",
-   "hot": 20.8,
+   "publishedAt": "2026-11-09T19:58:59Z",
+   "hot": 112.0,
    "rank": 1,
    "metrics": {
-    "points": 35,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50423569"
+    "points": 289,
+    "comments": 143,
+    "discussion": "https://news.ycombinator.com/item?id=50431058"
    }
   },
   {
-   "rawId": "50422168",
-   "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
-   "url": "https://arxiv.org/abs/2610.14162",
+   "rawId": "50431144",
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "artificialanalysis.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-09T07:20:37Z",
-   "hot": 23.4,
+   "publishedAt": "2026-11-09T20:04:55Z",
+   "hot": 66.5,
    "rank": 2,
    "metrics": {
-    "points": 106,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50422168"
+    "points": 165,
+    "comments": 92,
+    "discussion": "https://news.ycombinator.com/item?id=50431144"
    }
   },
   {
-   "rawId": "50418176",
-   "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-   "url": "https://ketchup3d.github.io/app/",
+   "rawId": "50429734",
+   "title": "E-means: 10x faster k-means at equal loss",
+   "url": "https://e-means.github.io/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ketchup3d.github.io"
+    "e-means.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T22:35:35Z",
-   "hot": 40.9,
+   "publishedAt": "2026-11-09T18:45:43Z",
+   "hot": 50.8,
    "rank": 3,
    "metrics": {
-    "points": 543,
-    "comments": 160,
-    "discussion": "https://news.ycombinator.com/item?id=50418176"
+    "points": 193,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50429734"
    }
   },
   {
-   "rawId": "50419215",
-   "title": "Unlocking any car from X brand in most of the world",
-   "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+   "rawId": "50427362",
+   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "shubs.io"
+    "payments.ca"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-09T00:10:50Z",
-   "hot": 34.9,
+   "publishedAt": "2026-11-09T16:00:45Z",
+   "hot": 65.0,
    "rank": 4,
    "metrics": {
-    "points": 408,
-    "comments": 179,
-    "discussion": "https://news.ycombinator.com/item?id=50419215"
-   }
-  },
-  {
-   "rawId": "50418975",
-   "title": "I'm not convinced the AI bubble exists",
-   "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "matteoraso.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T23:44:36Z",
-   "hot": 28.1,
-   "rank": 5,
-   "metrics": {
-    "points": 341,
-    "comments": 567,
-    "discussion": "https://news.ycombinator.com/item?id=50418975"
-   }
-  },
-  {
-   "rawId": "50392256",
-   "title": "Nvidia was in 1 in 11 startup rounds over $100M last year",
-   "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "datahyena.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T13:48:35Z",
-   "hot": 0.2,
-   "rank": 6,
-   "metrics": {
-    "points": 13,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50392256"
-   }
-  },
-  {
-   "rawId": "50406107",
-   "title": "Psalm 7 release: PHP security&static analysis software",
-   "url": "https://psalm.dev/articles/psalm-7",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "psalm.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T17:06:18Z",
-   "hot": 0.9,
-   "rank": 7,
-   "metrics": {
-    "points": 38,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50406107"
-   }
-  },
-  {
-   "rawId": "50368481",
-   "title": "Declarative Dragging",
-   "url": "https://declarative-dragging.github.io/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "declarative-dragging.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-04T17:05:07Z",
-   "hot": 5.1,
-   "rank": 8,
-   "metrics": {
-    "points": 581,
-    "comments": 76,
-    "discussion": "https://news.ycombinator.com/item?id=50368481"
-   }
-  },
-  {
-   "rawId": "50418182",
-   "title": "Chimera Vocal Synth",
-   "url": "https://chimera-vocal-synth.vercel.app/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "chimera-vocal-synth.vercel.app"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T22:36:03Z",
-   "hot": 18.3,
-   "rank": 9,
-   "metrics": {
-    "points": 243,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50418182"
-   }
-  },
-  {
-   "rawId": "50416158",
-   "title": "Outlook.com is rejecting email from domains without DMARC",
-   "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "mailroute.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T19:20:32Z",
-   "hot": 25.8,
-   "rank": 10,
-   "metrics": {
     "points": 426,
-    "comments": 302,
-    "discussion": "https://news.ycombinator.com/item?id=50416158"
+    "comments": 234,
+    "discussion": "https://news.ycombinator.com/item?id=50427362"
    }
   },
   {
-   "rawId": "50422181",
-   "title": "370 Books in 20 months: South African author defends her use of AI",
-   "url": "https://www.enca.com/lifestyle/370-books-20-months-sa-author-defends-her-use-ai",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "enca.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T07:21:33Z",
-   "hot": 6.0,
-   "rank": 11,
-   "metrics": {
-    "points": 27,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50422181"
-   }
-  },
-  {
-   "rawId": "50408235",
-   "title": "The French Cake Cooked on a Spit (2018) [video]",
-   "url": "https://www.youtube.com/watch?v=havcACdx0Y0",
-   "videoUrl": "https://www.youtube.com/watch?v=havcACdx0Y0",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T21:28:57Z",
-   "hot": 0.3,
-   "rank": 12,
-   "metrics": {
-    "points": 12,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50408235"
-   }
-  },
-  {
-   "rawId": "50421155",
-   "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
-   "url": "https://github.com/OmniJev/Flide",
+   "rawId": "50429426",
+   "title": "Google Gemini routes personal Drive files and emails to human annotators",
+   "url": "https://github.com/thisisme6598/gemini_files/",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -266,34 +98,244 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-09T04:43:12Z",
-   "hot": 6.8,
-   "rank": 13,
+   "publishedAt": "2026-11-09T18:24:38Z",
+   "hot": 46.5,
+   "rank": 5,
    "metrics": {
-    "points": 49,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50421155"
+    "points": 193,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50429426"
    }
   },
   {
-   "rawId": "50416053",
-   "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-   "url": "https://duxlabs.dev/",
+   "rawId": "50429024",
+   "title": "Our Smallest, Most Efficient Model: Muse Ember",
+   "url": "https://research.meta.ai/blog/muse-ember",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "duxlabs.dev"
+    "research.meta.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T19:08:51Z",
-   "hot": 17.7,
+   "publishedAt": "2026-11-09T17:58:46Z",
+   "hot": 43.2,
+   "rank": 6,
+   "metrics": {
+    "points": 198,
+    "comments": 84,
+    "discussion": "https://news.ycombinator.com/item?id=50429024"
+   }
+  },
+  {
+   "rawId": "50430621",
+   "title": "CUI – Native UI components for C",
+   "url": "https://yappologistic.github.io/CUI/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "yappologistic.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T19:35:16Z",
+   "hot": 33.3,
+   "rank": 7,
+   "metrics": {
+    "points": 99,
+    "comments": 56,
+    "discussion": "https://news.ycombinator.com/item?id=50430621"
+   }
+  },
+  {
+   "rawId": "50424581",
+   "title": "Fold Epic Paper Airplanes",
+   "url": "https://www.foldableflight.com",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "foldableflight.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T12:19:22Z",
+   "hot": 75.0,
+   "rank": 8,
+   "metrics": {
+    "points": 768,
+    "comments": 130,
+    "discussion": "https://news.ycombinator.com/item?id=50424581"
+   }
+  },
+  {
+   "rawId": "50429430",
+   "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+   "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "infineon.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T18:25:01Z",
+   "hot": 18.1,
+   "rank": 9,
+   "metrics": {
+    "points": 75,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50429430"
+   }
+  },
+  {
+   "rawId": "50429906",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T18:56:29Z",
+   "hot": 217.2,
+   "rank": 10,
+   "metrics": {
+    "points": 787,
+    "comments": 461,
+    "discussion": "https://news.ycombinator.com/item?id=50429906"
+   }
+  },
+  {
+   "rawId": "50428907",
+   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+   "url": "https://www.watched.earth",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "watched.earth"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T17:51:31Z",
+   "hot": 35.1,
+   "rank": 11,
+   "metrics": {
+    "points": 165,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50428907"
+   }
+  },
+  {
+   "rawId": "50426175",
+   "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+   "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "anthropocenemagazine.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T14:31:39Z",
+   "hot": 29.1,
+   "rank": 12,
+   "metrics": {
+    "points": 234,
+    "comments": 138,
+    "discussion": "https://news.ycombinator.com/item?id=50426175"
+   }
+  },
+  {
+   "rawId": "50432831",
+   "title": "TPUs",
+   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.google"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T21:56:57Z",
+   "hot": 9.0,
+   "rank": 13,
+   "metrics": {
+    "points": 9,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50432831"
+   }
+  },
+  {
+   "rawId": "50430991",
+   "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+   "url": "https://parkgraph.com/parking-app-fees",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "parkgraph.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T19:55:53Z",
+   "hot": 8.7,
    "rank": 14,
    "metrics": {
-    "points": 297,
-    "comments": 102,
-    "discussion": "https://news.ycombinator.com/item?id=50416053"
+    "points": 23,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50430991"
+   }
+  },
+  {
+   "rawId": "50386246",
+   "title": "A primer on GPUs and kernel optimization",
+   "url": "https://www.nabo.dev/blogs/kernel-primer",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nabo.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T23:48:04Z",
+   "hot": 0.5,
+   "rank": 15,
+   "metrics": {
+    "points": 52,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50386246"
+   }
+  },
+  {
+   "rawId": "50429636",
+   "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+   "url": "https://meowdisplay.app/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "meowdisplay.app"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T18:39:22Z",
+   "hot": 15.1,
+   "rank": 16,
+   "metrics": {
+    "points": 59,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50429636"
    }
   },
   {
@@ -309,117 +351,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-09T07:04:25Z",
-   "hot": 47.4,
-   "rank": 15,
+   "hot": 43.3,
+   "rank": 17,
    "metrics": {
-    "points": 228,
-    "comments": 154,
+    "points": 671,
+    "comments": 440,
     "discussion": "https://news.ycombinator.com/item?id=50422069"
    }
   },
   {
-   "rawId": "50422628",
-   "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
-   "url": "https://news.ycombinator.com/item?id=50422628",
+   "rawId": "50405274",
+   "title": "An ode to livelyness analysis; SSA to registers",
+   "url": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "Ask HN"
+    "xnacly.me"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-09T08:17:49Z",
-   "hot": 13.7,
-   "rank": 16,
-   "metrics": {
-    "points": 49,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50422628"
-   }
-  },
-  {
-   "rawId": "50373768",
-   "title": "Quasi-Logarithmic Kitchen Timer",
-   "url": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.coredump.cx"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-05T01:15:15Z",
-   "hot": 0.4,
-   "rank": 17,
-   "metrics": {
-    "points": 40,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50373768"
-   }
-  },
-  {
-   "rawId": "50417407",
-   "title": "Ask HN: What are you working on? (November 2026)",
-   "url": "https://news.ycombinator.com/item?id=50417407",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T21:20:20Z",
-   "hot": 15.4,
+   "publishedAt": "2026-11-07T15:17:31Z",
+   "hot": 0.3,
    "rank": 18,
    "metrics": {
-    "points": 224,
-    "comments": 763,
-    "discussion": "https://news.ycombinator.com/item?id=50417407"
+    "points": 15,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50405274"
    }
   },
   {
-   "rawId": "50418016",
-   "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-   "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+   "rawId": "50394017",
+   "title": "Possible 19th-century castaway camp found on Isla de los Estados",
+   "url": "https://phys.org/news/2026-11-archaeologists-uncover-19th-century-castaway.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nvidianews.nvidia.com"
+    "phys.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T22:20:09Z",
-   "hot": 53.1,
+   "publishedAt": "2026-11-06T15:59:12Z",
+   "hot": 0.1,
    "rank": 19,
    "metrics": {
-    "points": 719,
-    "comments": 801,
-    "discussion": "https://news.ycombinator.com/item?id=50418016"
-   }
-  },
-  {
-   "rawId": "50423371",
-   "title": "Ask HN: Do you still enjoy coding in C++?",
-   "url": "https://news.ycombinator.com/item?id=50423371",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T09:50:03Z",
-   "hot": 13.7,
-   "rank": 20,
-   "metrics": {
-    "points": 28,
-    "comments": 33,
-    "discussion": "https://news.ycombinator.com/item?id=50423371"
+    "points": 5,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50394017"
    }
   }
  ]
