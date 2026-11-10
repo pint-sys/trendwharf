@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T13:38:29Z",
+ "updated": "2026-11-10T20:55:25Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -11,7 +11,7 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "English comedian and actor (born 1975). Among the most-read articles on Wikipedia yesterday.",
+   "summary": "English comedian, actor and media personality (born 1975). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg/330px-Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
    "hot": 1010049,
@@ -192,7 +192,7 @@
     "wikipedia"
    ],
    "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Elizabeth_Holmes_in_You_Can_See_Everything_01.png/330px-Elizabeth_Holmes_in_You_Can_See_Everything_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
    "hot": 116548,
    "rank": 11,

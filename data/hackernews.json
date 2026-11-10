@@ -1,7 +1,133 @@
 {
- "updated": "2026-11-10T13:38:29Z",
+ "updated": "2026-11-10T20:55:25Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50442736",
+   "title": ".name Grandfathered",
+   "url": "https://neil.fraser.name/news/2026/11/10/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "neil.fraser.name"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T16:37:44Z",
+   "hot": 111.5,
+   "rank": 1,
+   "metrics": {
+    "points": 479,
+    "comments": 96,
+    "discussion": "https://news.ycombinator.com/item?id=50442736"
+   }
+  },
+  {
+   "rawId": "50441707",
+   "title": "Smart home devices should work without the internet",
+   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "docodethatmatters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T15:25:20Z",
+   "hot": 83.1,
+   "rank": 2,
+   "metrics": {
+    "points": 457,
+    "comments": 167,
+    "discussion": "https://news.ycombinator.com/item?id=50441707"
+   }
+  },
+  {
+   "rawId": "50443824",
+   "title": "Synaptics patent claims stop work on DisplayLink drivers",
+   "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lwn.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T18:02:02Z",
+   "hot": 54.0,
+   "rank": 3,
+   "metrics": {
+    "points": 156,
+    "comments": 71,
+    "discussion": "https://news.ycombinator.com/item?id=50443824"
+   }
+  },
+  {
+   "rawId": "50443427",
+   "title": "Val Town is winding down",
+   "url": "https://blog.val.town/winding-down",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.val.town"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T17:31:14Z",
+   "hot": 55.0,
+   "rank": 4,
+   "metrics": {
+    "points": 187,
+    "comments": 49,
+    "discussion": "https://news.ycombinator.com/item?id=50443427"
+   }
+  },
+  {
+   "rawId": "50445013",
+   "title": "What objective is reasoning solving?",
+   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "alexwang.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T19:25:14Z",
+   "hot": 26.6,
+   "rank": 5,
+   "metrics": {
+    "points": 40,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50445013"
+   }
+  },
+  {
+   "rawId": "50443812",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T18:01:15Z",
+   "hot": 48.2,
+   "rank": 6,
+   "metrics": {
+    "points": 140,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50443812"
+   }
+  },
   {
    "rawId": "50439193",
    "title": "AlphaProof Code",
@@ -15,12 +141,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T12:11:12Z",
-   "hot": 101.7,
-   "rank": 1,
+   "hot": 60.1,
+   "rank": 7,
    "metrics": {
-    "points": 148,
-    "comments": 66,
+    "points": 525,
+    "comments": 168,
     "discussion": "https://news.ycombinator.com/item?id=50439193"
+   }
+  },
+  {
+   "rawId": "50443090",
+   "title": "AMD's Zen 6 Family: Feeding the Beast",
+   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "chipsandcheese.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T17:02:32Z",
+   "hot": 30.7,
+   "rank": 8,
+   "metrics": {
+    "points": 119,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50443090"
+   }
+  },
+  {
+   "rawId": "50444684",
+   "title": "A comprehensive study of how fingerprintable users are",
+   "url": "https://fingerprinting.study/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fingerprinting.study"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T19:03:54Z",
+   "hot": 14.5,
+   "rank": 9,
+   "metrics": {
+    "points": 27,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50444684"
+   }
+  },
+  {
+   "rawId": "50382401",
+   "title": "I deleted all my SSH keys",
+   "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.infected.systems"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-05T18:17:51Z",
+   "hot": 1.3,
+   "rank": 10,
+   "metrics": {
+    "points": 163,
+    "comments": 61,
+    "discussion": "https://news.ycombinator.com/item?id=50382401"
+   }
+  },
+  {
+   "rawId": "50433216",
+   "title": "Process Explorer for macOS",
+   "url": "https://github.com/microsoft/Procexp-Mac",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T22:30:41Z",
+   "hot": 3.0,
+   "rank": 11,
+   "metrics": {
+    "points": 68,
+    "comments": 32,
+    "discussion": "https://news.ycombinator.com/item?id=50433216"
+   }
+  },
+  {
+   "rawId": "50442426",
+   "title": "Blender 5.3 released with Gaussian Splat support",
+   "url": "https://www.blender.org/download/releases/5-3/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blender.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T16:15:43Z",
+   "hot": 72.9,
+   "rank": 12,
+   "metrics": {
+    "points": 340,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50442426"
    }
   },
   {
@@ -36,12 +267,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T12:58:04Z",
-   "hot": 26.0,
-   "rank": 2,
+   "hot": 27.7,
+   "rank": 13,
    "metrics": {
-    "points": 26,
-    "comments": 9,
+    "points": 220,
+    "comments": 247,
     "discussion": "https://news.ycombinator.com/item?id=50439695"
+   }
+  },
+  {
+   "rawId": "50404969",
+   "title": "The planet Vulcan: a cautionary tale",
+   "url": "https://kevinboone.me/vulcan.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "kevinboone.me"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T14:42:49Z",
+   "hot": 0.3,
+   "rank": 14,
+   "metrics": {
+    "points": 23,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50404969"
+   }
+  },
+  {
+   "rawId": "50443714",
+   "title": "An Open Field Guide to Inference Engineering",
+   "url": "https://docs.modelplane.ai/guides/inference-guide",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "docs.modelplane.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T17:55:07Z",
+   "hot": 12.0,
+   "rank": 15,
+   "metrics": {
+    "points": 36,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50443714"
+   }
+  },
+  {
+   "rawId": "50441518",
+   "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+   "url": "https://tinyvalencia.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tinyvalencia.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T15:12:16Z",
+   "hot": 22.4,
+   "rank": 16,
+   "metrics": {
+    "points": 128,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50441518"
+   }
+  },
+  {
+   "rawId": "50443716",
+   "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
+   "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "claude.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T17:55:07Z",
+   "hot": 30.9,
+   "rank": 17,
+   "metrics": {
+    "points": 93,
+    "comments": 77,
+    "discussion": "https://news.ycombinator.com/item?id=50443716"
    }
   },
   {
@@ -57,369 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T06:01:08Z",
-   "hot": 56.1,
-   "rank": 3,
+   "hot": 44.8,
+   "rank": 18,
    "metrics": {
-    "points": 428,
-    "comments": 148,
+    "points": 667,
+    "comments": 232,
     "discussion": "https://news.ycombinator.com/item?id=50436640"
    }
   },
   {
-   "rawId": "50439805",
-   "title": "Don't buy AR glasses",
-   "url": "https://blog.yaros.ae/dont-buy-ar-glasses/",
+   "rawId": "50439284",
+   "title": "What's new in the .NET 11 runtime",
+   "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.yaros.ae"
+    "learn.microsoft.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-10T13:10:25Z",
-   "hot": 15.0,
-   "rank": 4,
-   "metrics": {
-    "points": 15,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50439805"
-   }
-  },
-  {
-   "rawId": "50437752",
-   "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
-   "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "news.exeter.ac.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T08:59:41Z",
-   "hot": 18.3,
-   "rank": 5,
-   "metrics": {
-    "points": 85,
-    "comments": 70,
-    "discussion": "https://news.ycombinator.com/item?id=50437752"
-   }
-  },
-  {
-   "rawId": "50429068",
-   "title": "Claude Fable 5.2 and Mythos 5.2",
-   "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "anthropic.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T18:01:10Z",
-   "hot": 35.7,
-   "rank": 6,
-   "metrics": {
-    "points": 700,
-    "comments": 863,
-    "discussion": "https://news.ycombinator.com/item?id=50429068"
-   }
-  },
-  {
-   "rawId": "50439000",
-   "title": "Show HN: A 15 MB self-hosted Netflix and Spotify for your media server",
-   "url": "https://github.com/HolyArrs/HolyArrs",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T11:51:19Z",
-   "hot": 23.5,
-   "rank": 7,
-   "metrics": {
-    "points": 42,
-    "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50439000"
-   }
-  },
-  {
-   "rawId": "50431058",
-   "title": "USPS now offers official ZIP Code boundary polygons",
-   "url": "https://postalpro.usps.com/zcb",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "postalpro.usps.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T19:58:59Z",
-   "hot": 37.3,
-   "rank": 8,
-   "metrics": {
-    "points": 659,
-    "comments": 333,
-    "discussion": "https://news.ycombinator.com/item?id=50431058"
-   }
-  },
-  {
-   "rawId": "50414117",
-   "title": "Show HN: Ghanaian street games you can play in the browser",
-   "url": "https://www.ghanastreetgames.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ghanastreetgames.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T15:31:52Z",
-   "hot": 0.7,
-   "rank": 9,
-   "metrics": {
-    "points": 30,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50414117"
-   }
-  },
-  {
-   "rawId": "50439616",
-   "title": "Anthropic to Seek $1.3T Valuation in IPO",
-   "url": "https://www.wsj.com/finance/stocks/anthropic-to-seek-1-3-trillion-valuation-in-ipo-8337b669",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wsj.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T12:49:32Z",
-   "hot": 33.0,
-   "rank": 10,
-   "metrics": {
-    "points": 33,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50439616"
-   }
-  },
-  {
-   "rawId": "50436410",
-   "title": "Your TV can see through walls",
-   "url": "https://maurycyz.com/projects/fading/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "maurycyz.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T05:24:45Z",
-   "hot": 22.0,
-   "rank": 11,
-   "metrics": {
-    "points": 181,
-    "comments": 73,
-    "discussion": "https://news.ycombinator.com/item?id=50436410"
-   }
-  },
-  {
-   "rawId": "50437790",
-   "title": "Queens Public library under ransomware attack e-borrowing suspended",
-   "url": "https://connect.queenslibrary.org/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "connect.queenslibrary.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T09:04:39Z",
-   "hot": 16.2,
-   "rank": 12,
-   "metrics": {
-    "points": 74,
-    "comments": 59,
-    "discussion": "https://news.ycombinator.com/item?id=50437790"
-   }
-  },
-  {
-   "rawId": "50410329",
-   "title": "Simon Winchester, Author of 'The Professor and the Madman,' Has Died",
-   "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nytimes.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T04:07:21Z",
-   "hot": 0.1,
-   "rank": 13,
-   "metrics": {
-    "points": 8,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50410329"
-   }
-  },
-  {
-   "rawId": "50437106",
-   "title": "Fireworks AI security breach impacts Notion and their customers",
-   "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "notion.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T07:19:38Z",
-   "hot": 13.6,
-   "rank": 14,
-   "metrics": {
-    "points": 86,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50437106"
-   }
-  },
-  {
-   "rawId": "50408336",
-   "title": "Billion Watts in the Speaker [video]",
-   "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-   "videoUrl": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T21:45:50Z",
-   "hot": 0.7,
-   "rank": 15,
-   "metrics": {
-    "points": 45,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50408336"
-   }
-  },
-  {
-   "rawId": "50434310",
-   "title": "Locating the source of a mysterious beep",
-   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "simonwillison.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T00:10:46Z",
-   "hot": 17.6,
-   "rank": 16,
-   "metrics": {
-    "points": 237,
-    "comments": 119,
-    "discussion": "https://news.ycombinator.com/item?id=50434310"
-   }
-  },
-  {
-   "rawId": "50392733",
-   "title": "How hard is it to check for whitespace?",
-   "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "serce.me"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-06T14:31:22Z",
-   "hot": 0.7,
-   "rank": 17,
-   "metrics": {
-    "points": 64,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50392733"
-   }
-  },
-  {
-   "rawId": "50424581",
-   "title": "Foldable Flight: The Best Paper Airplanes",
-   "url": "https://www.foldableflight.com",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "foldableflight.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T12:19:22Z",
-   "hot": 43.1,
-   "rank": 18,
-   "metrics": {
-    "points": 1092,
-    "comments": 153,
-    "discussion": "https://news.ycombinator.com/item?id=50424581"
-   }
-  },
-  {
-   "rawId": "50427362",
-   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-   "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "payments.ca"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T16:00:45Z",
-   "hot": 25.3,
+   "publishedAt": "2026-11-10T12:20:07Z",
+   "hot": 21.7,
    "rank": 19,
    "metrics": {
-    "points": 548,
-    "comments": 313,
-    "discussion": "https://news.ycombinator.com/item?id=50427362"
+    "points": 186,
+    "comments": 137,
+    "discussion": "https://news.ycombinator.com/item?id=50439284"
    }
   },
   {
-   "rawId": "50429734",
-   "title": "E-means: Outperforming k-means in one-tenth the epochs",
-   "url": "https://e-means.github.io/",
+   "rawId": "50438318",
+   "title": "AI usage generates a fragile codebase",
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "e-means.github.io"
+    "evanxmerz.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-09T18:45:43Z",
-   "hot": 22.9,
+   "publishedAt": "2026-11-10T10:25:58Z",
+   "hot": 25.3,
    "rank": 20,
    "metrics": {
-    "points": 433,
-    "comments": 54,
-    "discussion": "https://news.ycombinator.com/item?id=50429734"
+    "points": 265,
+    "comments": 318,
+    "discussion": "https://news.ycombinator.com/item?id=50438318"
    }
   }
  ]
