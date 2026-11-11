@@ -1,26 +1,47 @@
 {
- "updated": "2026-11-11T01:20:03Z",
+ "updated": "2026-11-11T07:56:46Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50447074",
-   "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "rawId": "50449748",
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "vulncheck.com"
+    "gatezh.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-10T22:17:56Z",
-   "hot": 59.0,
+   "publishedAt": "2026-11-11T04:28:57Z",
+   "hot": 36.7,
    "rank": 1,
    "metrics": {
-    "points": 179,
-    "comments": 73,
-    "discussion": "https://news.ycombinator.com/item?id=50447074"
+    "points": 127,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50449748"
+   }
+  },
+  {
+   "rawId": "50450007",
+   "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+   "url": "https://github.com/gmkurtzer/ginux",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T05:25:54Z",
+   "hot": 18.3,
+   "rank": 2,
+   "metrics": {
+    "points": 46,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50450007"
    }
   },
   {
@@ -36,11 +57,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T19:50:46Z",
-   "hot": 57.4,
-   "rank": 2,
+   "hot": 37.3,
+   "rank": 3,
    "metrics": {
-    "points": 315,
-    "comments": 236,
+    "points": 451,
+    "comments": 305,
     "discussion": "https://news.ycombinator.com/item?id=50445401"
    }
   },
@@ -57,11 +78,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T16:37:44Z",
-   "hot": 77.3,
-   "rank": 3,
+   "hot": 51.8,
+   "rank": 4,
    "metrics": {
-    "points": 673,
-    "comments": 156,
+    "points": 793,
+    "comments": 171,
     "discussion": "https://news.ycombinator.com/item?id=50442736"
    }
   },
@@ -78,17 +99,80 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T15:25:20Z",
-   "hot": 69.9,
-   "rank": 4,
+   "hot": 52.9,
+   "rank": 5,
    "metrics": {
-    "points": 693,
-    "comments": 249,
+    "points": 874,
+    "comments": 313,
     "discussion": "https://news.ycombinator.com/item?id=50441707"
    }
   },
   {
+   "rawId": "50414657",
+   "title": "A Compendium of Abandoned Greenhouses",
+   "url": "https://www.messynessychic.com/2015/01/15/a-compendium-of-abandoned-greenhouses/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "messynessychic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T16:30:04Z",
+   "hot": 0.4,
+   "rank": 6,
+   "metrics": {
+    "points": 27,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50414657"
+   }
+  },
+  {
+   "rawId": "50449275",
+   "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+   "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "science.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T02:57:08Z",
+   "hot": 15.4,
+   "rank": 7,
+   "metrics": {
+    "points": 77,
+    "comments": 44,
+    "discussion": "https://news.ycombinator.com/item?id=50449275"
+   }
+  },
+  {
+   "rawId": "50448921",
+   "title": "A great old-timey game-programming hack (2013)",
+   "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.moertel.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T01:56:31Z",
+   "hot": 20.2,
+   "rank": 8,
+   "metrics": {
+    "points": 121,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50448921"
+   }
+  },
+  {
    "rawId": "50446246",
-   "title": "Six Math Essentials by Terence Tao",
+   "title": "Six Math Essentials",
    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
    "videoUrl": null,
    "category": "news",
@@ -99,12 +183,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T20:58:44Z",
-   "hot": 27.1,
-   "rank": 5,
+   "hot": 20.2,
+   "rank": 9,
    "metrics": {
-    "points": 118,
-    "comments": 24,
+    "points": 222,
+    "comments": 39,
     "discussion": "https://news.ycombinator.com/item?id=50446246"
+   }
+  },
+  {
+   "rawId": "50446520",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "9to5mac.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T21:25:03Z",
+   "hot": 17.5,
+   "rank": 10,
+   "metrics": {
+    "points": 184,
+    "comments": 144,
+    "discussion": "https://news.ycombinator.com/item?id=50446520"
+   }
+  },
+  {
+   "rawId": "50427107",
+   "title": "Why I wrote the BEAM book (2025)",
+   "url": "https://happihacking.com/blog/posts/2025/why_I_wrote_theBEAMBook/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "happihacking.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T15:41:35Z",
+   "hot": 1.5,
+   "rank": 11,
+   "metrics": {
+    "points": 62,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50427107"
    }
   },
   {
@@ -120,12 +246,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T18:02:02Z",
-   "hot": 39.5,
-   "rank": 6,
+   "hot": 27.2,
+   "rank": 12,
    "metrics": {
-    "points": 288,
-    "comments": 152,
+    "points": 378,
+    "comments": 218,
     "discussion": "https://news.ycombinator.com/item?id=50443824"
+   }
+  },
+  {
+   "rawId": "50429210",
+   "title": "A ZIP-style Prolog VM for trilog",
+   "url": "https://github.com/no382001/zipc",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T18:10:30Z",
+   "hot": 0.2,
+   "rank": 13,
+   "metrics": {
+    "points": 8,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50429210"
    }
   },
   {
@@ -141,75 +288,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T18:22:32Z",
-   "hot": 32.0,
-   "rank": 7,
+   "hot": 28.0,
+   "rank": 14,
    "metrics": {
-    "points": 223,
-    "comments": 232,
+    "points": 380,
+    "comments": 393,
     "discussion": "https://news.ycombinator.com/item?id=50444129"
-   }
-  },
-  {
-   "rawId": "50443427",
-   "title": "Val Town is winding down",
-   "url": "https://blog.val.town/winding-down",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.val.town"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T17:31:14Z",
-   "hot": 38.8,
-   "rank": 8,
-   "metrics": {
-    "points": 303,
-    "comments": 77,
-    "discussion": "https://news.ycombinator.com/item?id=50443427"
-   }
-  },
-  {
-   "rawId": "50406224",
-   "title": "Hacking the meta ray-ban smartglasses",
-   "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "p0pcycle.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-07T17:19:02Z",
-   "hot": 0.4,
-   "rank": 9,
-   "metrics": {
-    "points": 35,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50406224"
-   }
-  },
-  {
-   "rawId": "50410587",
-   "title": "Pinot Noir: inside the criminal gangs making fake wine",
-   "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "economist.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T05:13:25Z",
-   "hot": 0.4,
-   "rank": 10,
-   "metrics": {
-    "points": 26,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50410587"
    }
   },
   {
@@ -225,12 +309,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T12:11:12Z",
-   "hot": 43.9,
-   "rank": 11,
+   "hot": 31.2,
+   "rank": 15,
    "metrics": {
-    "points": 577,
-    "comments": 176,
+    "points": 616,
+    "comments": 182,
     "discussion": "https://news.ycombinator.com/item?id=50439193"
+   }
+  },
+  {
+   "rawId": "50447074",
+   "title": "Tracking Anthropic-discovered vulnerabilities",
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "vulncheck.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T22:17:56Z",
+   "hot": 40.5,
+   "rank": 16,
+   "metrics": {
+    "points": 391,
+    "comments": 180,
+    "discussion": "https://news.ycombinator.com/item?id=50447074"
+   }
+  },
+  {
+   "rawId": "50443427",
+   "title": "Val Town is winding down",
+   "url": "https://blog.val.town/winding-down",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.val.town"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T17:31:14Z",
+   "hot": 25.6,
+   "rank": 17,
+   "metrics": {
+    "points": 369,
+    "comments": 93,
+    "discussion": "https://news.ycombinator.com/item?id=50443427"
+   }
+  },
+  {
+   "rawId": "50406224",
+   "title": "Hacking the Meta Ray-Ban smartglasses",
+   "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "p0pcycle.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-07T17:19:02Z",
+   "hot": 1.1,
+   "rank": 18,
+   "metrics": {
+    "points": 99,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50406224"
    }
   },
   {
@@ -246,180 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T18:01:15Z",
-   "hot": 34.6,
-   "rank": 12,
+   "hot": 25.0,
+   "rank": 19,
    "metrics": {
-    "points": 253,
-    "comments": 73,
+    "points": 348,
+    "comments": 104,
     "discussion": "https://news.ycombinator.com/item?id=50443812"
    }
   },
   {
-   "rawId": "50447900",
-   "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
-   "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+   "rawId": "50442225",
+   "title": "Announcing .NET 11",
+   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "devblogs.microsoft.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-10T23:41:41Z",
-   "hot": 6.7,
-   "rank": 13,
-   "metrics": {
-    "points": 11,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50447900"
-   }
-  },
-  {
-   "rawId": "50445013",
-   "title": "What objective is reasoning solving?",
-   "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "alexwang.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T19:25:14Z",
-   "hot": 16.9,
-   "rank": 14,
-   "metrics": {
-    "points": 100,
-    "comments": 44,
-    "discussion": "https://news.ycombinator.com/item?id=50445013"
-   }
-  },
-  {
-   "rawId": "50443090",
-   "title": "AMD's Zen 6 Family: Feeding the Beast",
-   "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "chipsandcheese.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T17:02:32Z",
-   "hot": 21.8,
-   "rank": 15,
-   "metrics": {
-    "points": 181,
-    "comments": 68,
-    "discussion": "https://news.ycombinator.com/item?id=50443090"
-   }
-  },
-  {
-   "rawId": "50445279",
-   "title": "Research taste in history: the importance of learning Babylonian math",
-   "url": "https://resobscura.substack.com/p/research-taste-in-history-the-importance",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "resobscura.substack.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T19:42:44Z",
-   "hot": 1.4,
-   "rank": 16,
-   "metrics": {
-    "points": 8,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50445279"
-   }
-  },
-  {
-   "rawId": "50446219",
-   "title": "Sherman Anti-Trust Act (1890)",
-   "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "archives.gov"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T20:56:16Z",
-   "hot": 15.9,
-   "rank": 17,
-   "metrics": {
-    "points": 70,
-    "comments": 41,
-    "discussion": "https://news.ycombinator.com/item?id=50446219"
-   }
-  },
-  {
-   "rawId": "50433216",
-   "title": "Process Explorer for macOS",
-   "url": "https://github.com/microsoft/Procexp-Mac",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T22:30:41Z",
-   "hot": 5.0,
-   "rank": 18,
-   "metrics": {
-    "points": 133,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50433216"
-   }
-  },
-  {
-   "rawId": "50441350",
-   "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-   "url": "https://aircad.com",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "aircad.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T15:01:19Z",
-   "hot": 0.9,
-   "rank": 19,
-   "metrics": {
-    "points": 9,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50441350"
-   }
-  },
-  {
-   "rawId": "50439695",
-   "title": "Ableton Live 13",
-   "url": "https://www.ableton.com/en/live/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ableton.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T12:58:04Z",
-   "hot": 21.9,
+   "publishedAt": "2026-11-10T16:01:27Z",
+   "hot": 10.4,
    "rank": 20,
    "metrics": {
-    "points": 271,
-    "comments": 295,
-    "discussion": "https://news.ycombinator.com/item?id=50439695"
+    "points": 166,
+    "comments": 219,
+    "discussion": "https://news.ycombinator.com/item?id=50442225"
    }
   }
  ]
