@@ -1,11 +1,326 @@
 {
- "updated": "2026-11-11T16:23:46Z",
+ "updated": "2026-11-11T23:33:08Z",
  "source": "hackernews",
  "items": [
   {
+   "rawId": "50456631",
+   "title": "AWS emulator",
+   "url": "https://github.com/aws/aws-emulator",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T18:21:38Z",
+   "hot": 110.0,
+   "rank": 1,
+   "metrics": {
+    "points": 571,
+    "comments": 193,
+    "discussion": "https://news.ycombinator.com/item?id=50456631"
+   }
+  },
+  {
+   "rawId": "50450488",
+   "title": "Tim Peters has died",
+   "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "discuss.python.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T07:03:17Z",
+   "hot": 45.6,
+   "rank": 2,
+   "metrics": {
+    "points": 753,
+    "comments": 75,
+    "discussion": "https://news.ycombinator.com/item?id=50450488"
+   }
+  },
+  {
+   "rawId": "50458900",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cbsnews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T21:24:35Z",
+   "hot": 110.6,
+   "rank": 3,
+   "metrics": {
+    "points": 237,
+    "comments": 225,
+    "discussion": "https://news.ycombinator.com/item?id=50458900"
+   }
+  },
+  {
+   "rawId": "50459745",
+   "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+   "url": "https://www.mcmillen.dev/sigbovik/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mcmillen.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T22:34:23Z",
+   "hot": 37.0,
+   "rank": 4,
+   "metrics": {
+    "points": 37,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50459745"
+   }
+  },
+  {
+   "rawId": "50455394",
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "michael.bacarella.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T16:38:44Z",
+   "hot": 53.9,
+   "rank": 5,
+   "metrics": {
+    "points": 372,
+    "comments": 185,
+    "discussion": "https://news.ycombinator.com/item?id=50455394"
+   }
+  },
+  {
+   "rawId": "50459485",
+   "title": "Lock Your GitHub Actions",
+   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hugovk.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T22:16:41Z",
+   "hot": 39.2,
+   "rank": 6,
+   "metrics": {
+    "points": 50,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50459485"
+   }
+  },
+  {
+   "rawId": "50456791",
+   "title": "Gemini Decisions API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.google"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T18:32:42Z",
+   "hot": 39.5,
+   "rank": 7,
+   "metrics": {
+    "points": 198,
+    "comments": 67,
+    "discussion": "https://news.ycombinator.com/item?id=50456791"
+   }
+  },
+  {
+   "rawId": "50458208",
+   "title": "Emacs in the Age of Magic",
+   "url": "https://commandlinesystems.com/magic.txt",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "commandlinesystems.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T20:26:32Z",
+   "hot": 34.7,
+   "rank": 8,
+   "metrics": {
+    "points": 108,
+    "comments": 40,
+    "discussion": "https://news.ycombinator.com/item?id=50458208"
+   }
+  },
+  {
+   "rawId": "50457230",
+   "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+   "url": "https://termsheetplease.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "termsheetplease.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T19:12:16Z",
+   "hot": 33.4,
+   "rank": 9,
+   "metrics": {
+    "points": 145,
+    "comments": 63,
+    "discussion": "https://news.ycombinator.com/item?id=50457230"
+   }
+  },
+  {
+   "rawId": "50458166",
+   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "url": "https://github.com/huawei-csl/MACaQ",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T20:23:57Z",
+   "hot": 12.7,
+   "rank": 10,
+   "metrics": {
+    "points": 40,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50458166"
+   }
+  },
+  {
+   "rawId": "50457618",
+   "title": "The Utah Teapot",
+   "url": "https://graphics.cs.utah.edu/teapot/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "graphics.cs.utah.edu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T19:45:10Z",
+   "hot": 11.6,
+   "rank": 11,
+   "metrics": {
+    "points": 44,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50457618"
+   }
+  },
+  {
+   "rawId": "50455633",
+   "title": "Faster Retrieval for Better, More Efficient RAG",
+   "url": "https://machinelearning.apple.com/research/faster-retrieval",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "machinelearning.apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T16:57:45Z",
+   "hot": 19.7,
+   "rank": 12,
+   "metrics": {
+    "points": 130,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50455633"
+   }
+  },
+  {
+   "rawId": "50433042",
+   "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
+   "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "agweb.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T22:15:13Z",
+   "hot": 0.6,
+   "rank": 13,
+   "metrics": {
+    "points": 28,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50433042"
+   }
+  },
+  {
+   "rawId": "50459776",
+   "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
+   "url": "https://twitter.com/watcherguru/status/2120645607866188008",
+   "videoUrl": "https://twitter.com/watcherguru/status/2120645607866188008",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T22:36:35Z",
+   "hot": 42.0,
+   "rank": 14,
+   "metrics": {
+    "points": 42,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50459776"
+   }
+  },
+  {
+   "rawId": "50435240",
+   "title": "A Brief History of Sierra Online (2017)",
+   "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "retrofreakreviews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T02:12:48Z",
+   "hot": 0.1,
+   "rank": 15,
+   "metrics": {
+    "points": 6,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50435240"
+   }
+  },
+  {
    "rawId": "50452455",
-   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-   "url": "https://pietromiotti.com/latest/maya-site/?maya",
+   "title": "My AI agents found an unmapped Maya site",
+   "url": "https://pietromiotti.com/latest/maya-site",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -15,75 +330,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T12:05:22Z",
-   "hot": 140.7,
-   "rank": 1,
+   "hot": 78.8,
+   "rank": 16,
    "metrics": {
-    "points": 606,
-    "comments": 237,
+    "points": 903,
+    "comments": 332,
     "discussion": "https://news.ycombinator.com/item?id=50452455"
-   }
-  },
-  {
-   "rawId": "50453763",
-   "title": "Pharo in the Browser with WebAssembly",
-   "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "massimo-nocentini.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T14:21:27Z",
-   "hot": 29.9,
-   "rank": 2,
-   "metrics": {
-    "points": 61,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50453763"
-   }
-  },
-  {
-   "rawId": "50453637",
-   "title": "Atuin Threads: All your agent sessions on every machine",
-   "url": "https://blog.atuin.sh/threads-agent-sessions/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.atuin.sh"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T14:10:46Z",
-   "hot": 27.1,
-   "rank": 3,
-   "metrics": {
-    "points": 60,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50453637"
-   }
-  },
-  {
-   "rawId": "50452655",
-   "title": "Can a Linear Program Do Weight-Space Programming?",
-   "url": "https://nathan.rs/posts/weight-space-lp/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nathan.rs"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T12:30:17Z",
-   "hot": 34.7,
-   "rank": 4,
-   "metrics": {
-    "points": 135,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50452655"
    }
   },
   {
@@ -99,60 +351,18 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T13:39:29Z",
-   "hot": 22.3,
-   "rank": 5,
+   "hot": 28.4,
+   "rank": 17,
    "metrics": {
-    "points": 61,
-    "comments": 12,
+    "points": 281,
+    "comments": 59,
     "discussion": "https://news.ycombinator.com/item?id=50453288"
    }
   },
   {
-   "rawId": "50451903",
-   "title": "Using voltage glitching to unleash the A100 in my mining card",
-   "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.kate.land"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T10:48:40Z",
-   "hot": 26.3,
-   "rank": 6,
-   "metrics": {
-    "points": 147,
-    "comments": 56,
-    "discussion": "https://news.ycombinator.com/item?id=50451903"
-   }
-  },
-  {
-   "rawId": "50453474",
-   "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-   "url": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "theverge.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T13:56:05Z",
-   "hot": 65.0,
-   "rank": 7,
-   "metrics": {
-    "points": 160,
-    "comments": 78,
-    "discussion": "https://news.ycombinator.com/item?id=50453474"
-   }
-  },
-  {
-   "rawId": "50453229",
-   "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-   "url": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
+   "rawId": "50454625",
+   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+   "url": "https://github.com/FrigadeHQ/yogurt",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -161,244 +371,55 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T13:34:24Z",
-   "hot": 12.0,
-   "rank": 8,
-   "metrics": {
-    "points": 34,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50453229"
-   }
-  },
-  {
-   "rawId": "50452407",
-   "title": "In Defense of Giving a Shit",
-   "url": "https://www.possibilityspace.org/blog/posts/in-defence-of-giving-a-shit/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "possibilityspace.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T12:00:45Z",
-   "hot": 13.2,
-   "rank": 9,
-   "metrics": {
-    "points": 58,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50452407"
-   }
-  },
-  {
-   "rawId": "50449748",
-   "title": "Protecting SSH Keys with macOS Secure Enclave",
-   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "gatezh.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T04:28:57Z",
-   "hot": 28.0,
-   "rank": 10,
-   "metrics": {
-    "points": 333,
-    "comments": 121,
-    "discussion": "https://news.ycombinator.com/item?id=50449748"
-   }
-  },
-  {
-   "rawId": "50452652",
-   "title": "We need more goat sacrifices",
-   "url": "https://www.experimental-history.com/p/we-need-more-goat-sacrifices",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "experimental-history.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T12:29:48Z",
-   "hot": 18.2,
-   "rank": 11,
-   "metrics": {
-    "points": 71,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50452652"
-   }
-  },
-  {
-   "rawId": "50453555",
-   "title": "Apple is killing its Support Community forum next week",
-   "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "theverge.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T14:02:11Z",
-   "hot": 47.0,
-   "rank": 12,
-   "metrics": {
-    "points": 111,
-    "comments": 62,
-    "discussion": "https://news.ycombinator.com/item?id=50453555"
-   }
-  },
-  {
-   "rawId": "50452496",
-   "title": "Next-Level Benchmarking Overfitting – Thomas Neumann",
-   "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "databasearchitects.blogspot.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T12:09:49Z",
-   "hot": 10.4,
-   "rank": 13,
-   "metrics": {
-    "points": 44,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50452496"
-   }
-  },
-  {
-   "rawId": "50416640",
-   "title": "Peer-to-peer WebRTC connections with built-in signaling and discovery",
-   "url": "https://github.com/lukks/like-webrtc",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T20:10:06Z",
-   "hot": 0.4,
-   "rank": 14,
-   "metrics": {
-    "points": 29,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50416640"
-   }
-  },
-  {
-   "rawId": "50453080",
-   "title": "EventSourcingDB 1.3.0 Is Available",
-   "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "eventfoundation.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T13:19:45Z",
-   "hot": 4.9,
-   "rank": 15,
-   "metrics": {
-    "points": 15,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50453080"
-   }
-  },
-  {
-   "rawId": "50446520",
-   "title": "Apple has new Mac app coming to make running local AI models easy",
-   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "9to5mac.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T21:25:03Z",
-   "hot": 22.8,
-   "rank": 16,
-   "metrics": {
-    "points": 432,
-    "comments": 448,
-    "discussion": "https://news.ycombinator.com/item?id=50446520"
-   }
-  },
-  {
-   "rawId": "50445401",
-   "title": "Scion is back and is going to sell a kei truck in America",
-   "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "theautopian.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T19:50:46Z",
-   "hot": 25.8,
-   "rank": 17,
-   "metrics": {
-    "points": 531,
-    "comments": 366,
-    "discussion": "https://news.ycombinator.com/item?id=50445401"
-   }
-  },
-  {
-   "rawId": "50452742",
-   "title": "Open research, stronger privacy: Making Firefox users harder to fingerprint",
-   "url": "https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.mozilla.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T12:44:06Z",
-   "hot": 26.8,
+   "publishedAt": "2026-11-11T15:33:06Z",
+   "hot": 18.5,
    "rank": 18,
    "metrics": {
-    "points": 98,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50452742"
+    "points": 148,
+    "comments": 68,
+    "discussion": "https://news.ycombinator.com/item?id=50454625"
    }
   },
   {
-   "rawId": "50453171",
-   "title": "Attention to Mamba: A Recipe for Cross-Architecture Distillation",
-   "url": "https://machinelearning.apple.com/research/attention-mamba-distillation",
+   "rawId": "50455811",
+   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+   "url": "https://news.ycombinator.com/item?id=50455811",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "machinelearning.apple.com"
+    "Ask HN"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T13:29:46Z",
-   "hot": 3.1,
+   "publishedAt": "2026-11-11T17:11:56Z",
+   "hot": 6.5,
    "rank": 19,
    "metrics": {
-    "points": 9,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50453171"
+    "points": 41,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50455811"
+   }
+  },
+  {
+   "rawId": "50416365",
+   "title": "Optimizing Reference Deletions in Git",
+   "url": "https://nayak.im/posts/optimizing-reference-deletion/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nayak.im"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T19:37:42Z",
+   "hot": 0.2,
+   "rank": 20,
+   "metrics": {
+    "points": 12,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50416365"
    }
   }
  ]
