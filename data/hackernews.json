@@ -1,26 +1,320 @@
 {
- "updated": "2026-11-12T07:27:58Z",
+ "updated": "2026-11-12T16:55:15Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50459745",
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "url": "https://www.mcmillen.dev/sigbovik/",
+   "rawId": "50467087",
+   "title": "NVIDIA Announces CEO Transition",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mcmillen.dev"
+    "nvidianews.nvidia.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T22:34:23Z",
-   "hot": 41.0,
+   "publishedAt": "2026-11-12T13:52:29Z",
+   "hot": 438.3,
    "rank": 1,
    "metrics": {
-    "points": 365,
-    "comments": 50,
-    "discussion": "https://news.ycombinator.com/item?id=50459745"
+    "points": 1335,
+    "comments": 1104,
+    "discussion": "https://news.ycombinator.com/item?id=50467087"
+   }
+  },
+  {
+   "rawId": "50465829",
+   "title": "Anthropic IPO",
+   "url": "https://ipo.anthropic.com/us/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ipo.anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T11:46:41Z",
+   "hot": 93.7,
+   "rank": 2,
+   "metrics": {
+    "points": 482,
+    "comments": 506,
+    "discussion": "https://news.ycombinator.com/item?id=50465829"
+   }
+  },
+  {
+   "rawId": "50467618",
+   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+   "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "moddb.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T14:18:49Z",
+   "hot": 38.7,
+   "rank": 3,
+   "metrics": {
+    "points": 101,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50467618"
+   }
+  },
+  {
+   "rawId": "50467460",
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "chipsandcheese.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T14:12:37Z",
+   "hot": 31.4,
+   "rank": 4,
+   "metrics": {
+    "points": 85,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50467460"
+   }
+  },
+  {
+   "rawId": "50468888",
+   "title": "I'm making LLMs work on small and old devices",
+   "url": "https://github.com/hyperionaidev/smolmaxxing/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T15:23:10Z",
+   "hot": 23.5,
+   "rank": 5,
+   "metrics": {
+    "points": 36,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50468888"
+   }
+  },
+  {
+   "rawId": "50469007",
+   "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
+   "url": "https://fable52.games",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fable52.games"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T15:30:01Z",
+   "hot": 19.7,
+   "rank": 6,
+   "metrics": {
+    "points": 28,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50469007"
+   }
+  },
+  {
+   "rawId": "50465352",
+   "title": "Why Writing Correct Software Is Hard",
+   "url": "https://pron.github.io/posts/correctness-and-complexity",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pron.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T10:28:26Z",
+   "hot": 40.0,
+   "rank": 7,
+   "metrics": {
+    "points": 258,
+    "comments": 110,
+    "discussion": "https://news.ycombinator.com/item?id=50465352"
+   }
+  },
+  {
+   "rawId": "50468944",
+   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
+   "url": "https://github.com/chocoford/ExcalidrawZ",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T15:25:52Z",
+   "hot": 16.8,
+   "rank": 8,
+   "metrics": {
+    "points": 25,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50468944"
+   }
+  },
+  {
+   "rawId": "50467439",
+   "title": "Libreagi – Save OSS Models",
+   "url": "https://libreagi.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "libreagi.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T14:11:58Z",
+   "hot": 20.6,
+   "rank": 9,
+   "metrics": {
+    "points": 56,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50467439"
+   }
+  },
+  {
+   "rawId": "50468720",
+   "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
+   "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "doug.sh"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T15:14:52Z",
+   "hot": 12.0,
+   "rank": 10,
+   "metrics": {
+    "points": 20,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50468720"
+   }
+  },
+  {
+   "rawId": "50438261",
+   "title": "Socratic Tutor",
+   "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T10:18:22Z",
+   "hot": 9.8,
+   "rank": 11,
+   "metrics": {
+    "points": 533,
+    "comments": 125,
+    "discussion": "https://news.ycombinator.com/item?id=50438261"
+   }
+  },
+  {
+   "rawId": "50467305",
+   "title": "Electric Ship Batteries Promise Compact, Cooler Power",
+   "url": "https://spectrum.ieee.org/electric-ship-batteries",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "spectrum.ieee.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T14:06:03Z",
+   "hot": 11.3,
+   "rank": 12,
+   "metrics": {
+    "points": 32,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50467305"
+   }
+  },
+  {
+   "rawId": "50425017",
+   "title": "A live tree of systemd jobs on the boot console",
+   "url": "https://codeberg.org/wvhulle/bootvine",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "codeberg.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T13:02:44Z",
+   "hot": 3.4,
+   "rank": 13,
+   "metrics": {
+    "points": 261,
+    "comments": 100,
+    "discussion": "https://news.ycombinator.com/item?id=50425017"
+   }
+  },
+  {
+   "rawId": "50465453",
+   "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
+   "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "curtin.edu.au"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T10:46:20Z",
+   "hot": 12.2,
+   "rank": 14,
+   "metrics": {
+    "points": 75,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50465453"
+   }
+  },
+  {
+   "rawId": "50467869",
+   "title": "Running web sites makes me not want to",
+   "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lowkey.party"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T14:30:38Z",
+   "hot": 9.5,
+   "rank": 15,
+   "metrics": {
+    "points": 23,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50467869"
    }
   },
   {
@@ -36,12 +330,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T07:03:17Z",
-   "hot": 44.9,
-   "rank": 2,
+   "hot": 40.2,
+   "rank": 16,
    "metrics": {
-    "points": 1097,
-    "comments": 122,
+    "points": 1363,
+    "comments": 168,
     "discussion": "https://news.ycombinator.com/item?id=50450488"
+   }
+  },
+  {
+   "rawId": "50436363",
+   "title": "Decoding REXPaint Files in Odin",
+   "url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tylerelton.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T05:18:42Z",
+   "hot": 0.1,
+   "rank": 17,
+   "metrics": {
+    "points": 6,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50436363"
+   }
+  },
+  {
+   "rawId": "50459745",
+   "title": "93% of paint splatters are valid Perl programs (2019)",
+   "url": "https://www.mcmillen.dev/sigbovik/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mcmillen.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T22:34:23Z",
+   "hot": 29.3,
+   "rank": 18,
+   "metrics": {
+    "points": 538,
+    "comments": 69,
+    "discussion": "https://news.ycombinator.com/item?id=50459745"
    }
   },
   {
@@ -57,11 +393,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T02:11:11Z",
-   "hot": 25.9,
-   "rank": 3,
+   "hot": 21.9,
+   "rank": 19,
    "metrics": {
-    "points": 137,
-    "comments": 57,
+    "points": 323,
+    "comments": 163,
     "discussion": "https://news.ycombinator.com/item?id=50462177"
    }
   },
@@ -78,348 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T18:21:38Z",
-   "hot": 60.9,
-   "rank": 4,
-   "metrics": {
-    "points": 798,
-    "comments": 231,
-    "discussion": "https://news.ycombinator.com/item?id=50456631"
-   }
-  },
-  {
-   "rawId": "50438261",
-   "title": "Jane Street: Socratic Tutor",
-   "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T10:18:22Z",
-   "hot": 0.7,
-   "rank": 5,
-   "metrics": {
-    "points": 30,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50438261"
-   }
-  },
-  {
-   "rawId": "50459703",
-   "title": "Nvidia is preparing to oust Jensen Huang",
-   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wsj.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T22:31:06Z",
-   "hot": 98.7,
-   "rank": 6,
-   "metrics": {
-    "points": 883,
-    "comments": 1233,
-    "discussion": "https://news.ycombinator.com/item?id=50459703"
-   }
-  },
-  {
-   "rawId": "50415162",
-   "title": "I gave an agent a lakehouse and control of my garden",
-   "url": "https://jatorre.github.io/garden/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jatorre.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-08T17:19:06Z",
-   "hot": 0.2,
-   "rank": 7,
-   "metrics": {
-    "points": 16,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50415162"
-   }
-  },
-  {
-   "rawId": "50456791",
-   "title": "Gemini Decisions API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.google"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T18:32:42Z",
-   "hot": 29.9,
-   "rank": 8,
-   "metrics": {
-    "points": 386,
-    "comments": 122,
-    "discussion": "https://news.ycombinator.com/item?id=50456791"
-   }
-  },
-  {
-   "rawId": "50455394",
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "michael.bacarella.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T16:38:44Z",
-   "hot": 31.5,
-   "rank": 9,
-   "metrics": {
-    "points": 467,
-    "comments": 236,
-    "discussion": "https://news.ycombinator.com/item?id=50455394"
-   }
-  },
-  {
-   "rawId": "50458900",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cbsnews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T21:24:35Z",
-   "hot": 51.4,
-   "rank": 10,
-   "metrics": {
-    "points": 517,
-    "comments": 505,
-    "discussion": "https://news.ycombinator.com/item?id=50458900"
-   }
-  },
-  {
-   "rawId": "50459485",
-   "title": "Lock Your GitHub Actions",
-   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "hugovk.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T22:16:41Z",
-   "hot": 23.3,
-   "rank": 11,
-   "metrics": {
-    "points": 214,
-    "comments": 43,
-    "discussion": "https://news.ycombinator.com/item?id=50459485"
-   }
-  },
-  {
-   "rawId": "50463103",
-   "title": "Darling Development Update – Q4 2026",
-   "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.darlinghq.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T04:32:31Z",
-   "hot": 5.8,
-   "rank": 12,
-   "metrics": {
-    "points": 17,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50463103"
-   }
-  },
-  {
-   "rawId": "50458208",
-   "title": "Emacs in the Age of Magic",
-   "url": "https://commandlinesystems.com/magic.txt",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "commandlinesystems.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T20:26:32Z",
-   "hot": 18.2,
-   "rank": 13,
-   "metrics": {
-    "points": 201,
-    "comments": 83,
-    "discussion": "https://news.ycombinator.com/item?id=50458208"
-   }
-  },
-  {
-   "rawId": "50420905",
-   "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
-   "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "publicdomainreview.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T03:57:57Z",
-   "hot": 0.2,
-   "rank": 14,
-   "metrics": {
-    "points": 17,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50420905"
-   }
-  },
-  {
-   "rawId": "50457618",
-   "title": "The Utah Teapot",
-   "url": "https://graphics.cs.utah.edu/teapot/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "graphics.cs.utah.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T19:45:10Z",
-   "hot": 10.4,
-   "rank": 15,
-   "metrics": {
-    "points": 122,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50457618"
-   }
-  },
-  {
-   "rawId": "50460154",
-   "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-   "url": "https://github.com/tylertms/Stela",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T23:02:38Z",
-   "hot": 11.3,
-   "rank": 16,
-   "metrics": {
-    "points": 95,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50460154"
-   }
-  },
-  {
-   "rawId": "50428619",
-   "title": "Did Life Begin in an RNA World?",
-   "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "quantamagazine.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T17:27:24Z",
-   "hot": 0.8,
-   "rank": 17,
-   "metrics": {
-    "points": 52,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50428619"
-   }
-  },
-  {
-   "rawId": "50463540",
-   "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-   "url": "https://www.getlazarus.org/forums/topic/17/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "getlazarus.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T05:49:34Z",
-   "hot": 9.8,
-   "rank": 18,
-   "metrics": {
-    "points": 16,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50463540"
-   }
-  },
-  {
-   "rawId": "50462613",
-   "title": "Bad ideas that aren't bad anymore",
-   "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "devonestes.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T03:18:13Z",
-   "hot": 4.6,
-   "rank": 19,
-   "metrics": {
-    "points": 19,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50462613"
-   }
-  },
-  {
-   "rawId": "50462375",
-   "title": "Lean Grimoire",
-   "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "terrytao.wordpress.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T02:36:48Z",
-   "hot": 6.2,
+   "hot": 41.4,
    "rank": 20,
    "metrics": {
-    "points": 30,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50462375"
+    "points": 934,
+    "comments": 256,
+    "discussion": "https://news.ycombinator.com/item?id=50456631"
    }
   }
  ]
