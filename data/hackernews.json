@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-11T23:33:08Z",
+ "updated": "2026-11-12T07:27:58Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50456631",
-   "title": "AWS emulator",
-   "url": "https://github.com/aws/aws-emulator",
+   "rawId": "50459745",
+   "title": "93% of paint splatters are valid Perl programs (2019)",
+   "url": "https://www.mcmillen.dev/sigbovik/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "mcmillen.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T18:21:38Z",
-   "hot": 110.0,
+   "publishedAt": "2026-11-11T22:34:23Z",
+   "hot": 41.0,
    "rank": 1,
    "metrics": {
-    "points": 571,
-    "comments": 193,
-    "discussion": "https://news.ycombinator.com/item?id=50456631"
+    "points": 365,
+    "comments": 50,
+    "discussion": "https://news.ycombinator.com/item?id=50459745"
    }
   },
   {
@@ -36,96 +36,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T07:03:17Z",
-   "hot": 45.6,
+   "hot": 44.9,
    "rank": 2,
    "metrics": {
-    "points": 753,
-    "comments": 75,
+    "points": 1097,
+    "comments": 122,
     "discussion": "https://news.ycombinator.com/item?id=50450488"
    }
   },
   {
-   "rawId": "50458900",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "rawId": "50462177",
+   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cbsnews.com"
+    "wiz.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T21:24:35Z",
-   "hot": 110.6,
+   "publishedAt": "2026-11-12T02:11:11Z",
+   "hot": 25.9,
    "rank": 3,
    "metrics": {
-    "points": 237,
-    "comments": 225,
-    "discussion": "https://news.ycombinator.com/item?id=50458900"
+    "points": 137,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50462177"
    }
   },
   {
-   "rawId": "50459745",
-   "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-   "url": "https://www.mcmillen.dev/sigbovik/",
+   "rawId": "50456631",
+   "title": "AWS emulator",
+   "url": "https://github.com/aws/aws-emulator",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mcmillen.dev"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T22:34:23Z",
-   "hot": 37.0,
+   "publishedAt": "2026-11-11T18:21:38Z",
+   "hot": 60.9,
    "rank": 4,
    "metrics": {
-    "points": 37,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50459745"
+    "points": 798,
+    "comments": 231,
+    "discussion": "https://news.ycombinator.com/item?id=50456631"
    }
   },
   {
-   "rawId": "50455394",
-   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "rawId": "50438261",
+   "title": "Jane Street: Socratic Tutor",
+   "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "michael.bacarella.com"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T16:38:44Z",
-   "hot": 53.9,
+   "publishedAt": "2026-11-10T10:18:22Z",
+   "hot": 0.7,
    "rank": 5,
    "metrics": {
-    "points": 372,
-    "comments": 185,
-    "discussion": "https://news.ycombinator.com/item?id=50455394"
+    "points": 30,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50438261"
    }
   },
   {
-   "rawId": "50459485",
-   "title": "Lock Your GitHub Actions",
-   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+   "rawId": "50459703",
+   "title": "Nvidia is preparing to oust Jensen Huang",
+   "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "hugovk.dev"
+    "wsj.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T22:16:41Z",
-   "hot": 39.2,
+   "publishedAt": "2026-11-11T22:31:06Z",
+   "hot": 98.7,
    "rank": 6,
    "metrics": {
-    "points": 50,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50459485"
+    "points": 883,
+    "comments": 1233,
+    "discussion": "https://news.ycombinator.com/item?id=50459703"
+   }
+  },
+  {
+   "rawId": "50415162",
+   "title": "I gave an agent a lakehouse and control of my garden",
+   "url": "https://jatorre.github.io/garden/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "jatorre.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T17:19:06Z",
+   "hot": 0.2,
+   "rank": 7,
+   "metrics": {
+    "points": 16,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50415162"
    }
   },
   {
@@ -141,12 +162,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T18:32:42Z",
-   "hot": 39.5,
-   "rank": 7,
+   "hot": 29.9,
+   "rank": 8,
    "metrics": {
-    "points": 198,
-    "comments": 67,
+    "points": 386,
+    "comments": 122,
     "discussion": "https://news.ycombinator.com/item?id=50456791"
+   }
+  },
+  {
+   "rawId": "50455394",
+   "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+   "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "michael.bacarella.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T16:38:44Z",
+   "hot": 31.5,
+   "rank": 9,
+   "metrics": {
+    "points": 467,
+    "comments": 236,
+    "discussion": "https://news.ycombinator.com/item?id=50455394"
+   }
+  },
+  {
+   "rawId": "50458900",
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cbsnews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T21:24:35Z",
+   "hot": 51.4,
+   "rank": 10,
+   "metrics": {
+    "points": 517,
+    "comments": 505,
+    "discussion": "https://news.ycombinator.com/item?id=50458900"
+   }
+  },
+  {
+   "rawId": "50459485",
+   "title": "Lock Your GitHub Actions",
+   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "hugovk.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T22:16:41Z",
+   "hot": 23.3,
+   "rank": 11,
+   "metrics": {
+    "points": 214,
+    "comments": 43,
+    "discussion": "https://news.ycombinator.com/item?id=50459485"
+   }
+  },
+  {
+   "rawId": "50463103",
+   "title": "Darling Development Update – Q4 2026",
+   "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.darlinghq.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T04:32:31Z",
+   "hot": 5.8,
+   "rank": 12,
+   "metrics": {
+    "points": 17,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50463103"
    }
   },
   {
@@ -162,54 +267,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T20:26:32Z",
-   "hot": 34.7,
-   "rank": 8,
+   "hot": 18.2,
+   "rank": 13,
    "metrics": {
-    "points": 108,
-    "comments": 40,
+    "points": 201,
+    "comments": 83,
     "discussion": "https://news.ycombinator.com/item?id=50458208"
    }
   },
   {
-   "rawId": "50457230",
-   "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-   "url": "https://termsheetplease.com/",
+   "rawId": "50420905",
+   "title": "Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891–1923)",
+   "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "termsheetplease.com"
+    "publicdomainreview.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T19:12:16Z",
-   "hot": 33.4,
-   "rank": 9,
+   "publishedAt": "2026-11-09T03:57:57Z",
+   "hot": 0.2,
+   "rank": 14,
    "metrics": {
-    "points": 145,
-    "comments": 63,
-    "discussion": "https://news.ycombinator.com/item?id=50457230"
-   }
-  },
-  {
-   "rawId": "50458166",
-   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-   "url": "https://github.com/huawei-csl/MACaQ",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T20:23:57Z",
-   "hot": 12.7,
-   "rank": 10,
-   "metrics": {
-    "points": 40,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50458166"
+    "points": 17,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50420905"
    }
   },
   {
@@ -225,144 +309,18 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T19:45:10Z",
-   "hot": 11.6,
-   "rank": 11,
+   "hot": 10.4,
+   "rank": 15,
    "metrics": {
-    "points": 44,
-    "comments": 11,
+    "points": 122,
+    "comments": 29,
     "discussion": "https://news.ycombinator.com/item?id=50457618"
    }
   },
   {
-   "rawId": "50455633",
-   "title": "Faster Retrieval for Better, More Efficient RAG",
-   "url": "https://machinelearning.apple.com/research/faster-retrieval",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "machinelearning.apple.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T16:57:45Z",
-   "hot": 19.7,
-   "rank": 12,
-   "metrics": {
-    "points": 130,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50455633"
-   }
-  },
-  {
-   "rawId": "50433042",
-   "title": "Flying on Green: Why Farmers Are Turning to Drones for Cover Crop Seeding",
-   "url": "https://www.agweb.com/news/machinery/flying-green-why-farmers-are-turning-drones-cover-crop-seeding",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "agweb.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T22:15:13Z",
-   "hot": 0.6,
-   "rank": 13,
-   "metrics": {
-    "points": 28,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50433042"
-   }
-  },
-  {
-   "rawId": "50459776",
-   "title": "Nvidia prepares to fire CEO Jensen Huang, WSJ reports",
-   "url": "https://twitter.com/watcherguru/status/2120645607866188008",
-   "videoUrl": "https://twitter.com/watcherguru/status/2120645607866188008",
-   "category": "news",
-   "tags": [
-    "tech",
-    "twitter.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T22:36:35Z",
-   "hot": 42.0,
-   "rank": 14,
-   "metrics": {
-    "points": 42,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50459776"
-   }
-  },
-  {
-   "rawId": "50435240",
-   "title": "A Brief History of Sierra Online (2017)",
-   "url": "https://retrofreakreviews.com/2017/01/30/sierra-retrospective/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "retrofreakreviews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T02:12:48Z",
-   "hot": 0.1,
-   "rank": 15,
-   "metrics": {
-    "points": 6,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50435240"
-   }
-  },
-  {
-   "rawId": "50452455",
-   "title": "My AI agents found an unmapped Maya site",
-   "url": "https://pietromiotti.com/latest/maya-site",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pietromiotti.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T12:05:22Z",
-   "hot": 78.8,
-   "rank": 16,
-   "metrics": {
-    "points": 903,
-    "comments": 332,
-    "discussion": "https://news.ycombinator.com/item?id=50452455"
-   }
-  },
-  {
-   "rawId": "50453288",
-   "title": "Hyper-Realistic Sand with WebGL2",
-   "url": "https://av.github.io/safe-sand/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "av.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T13:39:29Z",
-   "hot": 28.4,
-   "rank": 17,
-   "metrics": {
-    "points": 281,
-    "comments": 59,
-    "discussion": "https://news.ycombinator.com/item?id=50453288"
-   }
-  },
-  {
-   "rawId": "50454625",
-   "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-   "url": "https://github.com/FrigadeHQ/yogurt",
+   "rawId": "50460154",
+   "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+   "url": "https://github.com/tylertms/Stela",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -371,55 +329,97 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T15:33:06Z",
-   "hot": 18.5,
+   "publishedAt": "2026-11-11T23:02:38Z",
+   "hot": 11.3,
+   "rank": 16,
+   "metrics": {
+    "points": 95,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50460154"
+   }
+  },
+  {
+   "rawId": "50428619",
+   "title": "Did Life Begin in an RNA World?",
+   "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "quantamagazine.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-09T17:27:24Z",
+   "hot": 0.8,
+   "rank": 17,
+   "metrics": {
+    "points": 52,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50428619"
+   }
+  },
+  {
+   "rawId": "50463540",
+   "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+   "url": "https://www.getlazarus.org/forums/topic/17/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "getlazarus.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T05:49:34Z",
+   "hot": 9.8,
    "rank": 18,
    "metrics": {
-    "points": 148,
-    "comments": 68,
-    "discussion": "https://news.ycombinator.com/item?id=50454625"
+    "points": 16,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50463540"
    }
   },
   {
-   "rawId": "50455811",
-   "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-   "url": "https://news.ycombinator.com/item?id=50455811",
+   "rawId": "50462613",
+   "title": "Bad ideas that aren't bad anymore",
+   "url": "https://devonestes.com/bad-ideas-that-arent-bad-anymore",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "Ask HN"
+    "devonestes.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T17:11:56Z",
-   "hot": 6.5,
+   "publishedAt": "2026-11-12T03:18:13Z",
+   "hot": 4.6,
    "rank": 19,
    "metrics": {
-    "points": 41,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50455811"
+    "points": 19,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50462613"
    }
   },
   {
-   "rawId": "50416365",
-   "title": "Optimizing Reference Deletions in Git",
-   "url": "https://nayak.im/posts/optimizing-reference-deletion/",
+   "rawId": "50462375",
+   "title": "Lean Grimoire",
+   "url": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nayak.im"
+    "terrytao.wordpress.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-08T19:37:42Z",
-   "hot": 0.2,
+   "publishedAt": "2026-11-12T02:36:48Z",
+   "hot": 6.2,
    "rank": 20,
    "metrics": {
-    "points": 12,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50416365"
+    "points": 30,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50462375"
    }
   }
  ]
