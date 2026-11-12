@@ -1,89 +1,173 @@
 {
- "updated": "2026-11-12T16:55:15Z",
+ "updated": "2026-11-12T22:46:56Z",
  "source": "hackernews",
  "items": [
   {
    "rawId": "50467087",
-   "title": "NVIDIA Announces CEO Transition",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "title": "Jensen Huang resigns",
+   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nvidianews.nvidia.com"
+    "apnews.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T13:52:29Z",
-   "hot": 438.3,
+   "hot": 293.8,
    "rank": 1,
    "metrics": {
-    "points": 1335,
-    "comments": 1104,
+    "points": 2617,
+    "comments": 2516,
     "discussion": "https://news.ycombinator.com/item?id=50467087"
    }
   },
   {
-   "rawId": "50465829",
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us/",
+   "rawId": "50472038",
+   "title": "Rust 1.100",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ipo.anthropic.com"
+    "blog.rust-lang.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T11:46:41Z",
-   "hot": 93.7,
+   "publishedAt": "2026-11-12T18:39:05Z",
+   "hot": 60.3,
    "rank": 2,
    "metrics": {
-    "points": 482,
-    "comments": 506,
-    "discussion": "https://news.ycombinator.com/item?id=50465829"
+    "points": 249,
+    "comments": 126,
+    "discussion": "https://news.ycombinator.com/item?id=50472038"
    }
   },
   {
-   "rawId": "50467618",
-   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-   "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+   "rawId": "50472260",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "moddb.com"
+    "antigravity.google"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T14:18:49Z",
-   "hot": 38.7,
+   "publishedAt": "2026-11-12T18:52:01Z",
+   "hot": 52.1,
    "rank": 3,
    "metrics": {
-    "points": 101,
-    "comments": 33,
-    "discussion": "https://news.ycombinator.com/item?id=50467618"
+    "points": 204,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50472260"
    }
   },
   {
-   "rawId": "50467460",
-   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+   "rawId": "50474361",
+   "title": "Foundation Models framework",
+   "url": "https://developer.apple.com/foundation-models-framework/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "chipsandcheese.com"
+    "developer.apple.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T14:12:37Z",
-   "hot": 31.4,
+   "publishedAt": "2026-11-12T21:13:26Z",
+   "hot": 35.9,
    "rank": 4,
    "metrics": {
-    "points": 85,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50467460"
+    "points": 56,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50474361"
+   }
+  },
+  {
+   "rawId": "50472490",
+   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+   "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "smithsonianmag.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T19:05:33Z",
+   "hot": 39.8,
+   "rank": 5,
+   "metrics": {
+    "points": 147,
+    "comments": 64,
+    "discussion": "https://news.ycombinator.com/item?id=50472490"
+   }
+  },
+  {
+   "rawId": "50470488",
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+   "url": "https://github.com/simpsoka/zigzag",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T17:02:42Z",
+   "hot": 40.8,
+   "rank": 6,
+   "metrics": {
+    "points": 234,
+    "comments": 100,
+    "discussion": "https://news.ycombinator.com/item?id=50470488"
+   }
+  },
+  {
+   "rawId": "50471731",
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "status.cloud.microsoft"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T18:20:48Z",
+   "hot": 80.9,
+   "rank": 7,
+   "metrics": {
+    "points": 359,
+    "comments": 343,
+    "discussion": "https://news.ycombinator.com/item?id=50471731"
+   }
+  },
+  {
+   "rawId": "50471761",
+   "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+   "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "mehmetince.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T18:22:22Z",
+   "hot": 23.8,
+   "rank": 8,
+   "metrics": {
+    "points": 105,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50471761"
    }
   },
   {
@@ -99,38 +183,122 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T15:23:10Z",
-   "hot": 23.5,
-   "rank": 5,
+   "hot": 33.1,
+   "rank": 9,
    "metrics": {
-    "points": 36,
-    "comments": 10,
+    "points": 245,
+    "comments": 86,
     "discussion": "https://news.ycombinator.com/item?id=50468888"
    }
   },
   {
-   "rawId": "50469007",
-   "title": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games",
-   "url": "https://fable52.games",
+   "rawId": "50467618",
+   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+   "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "fable52.games"
+    "moddb.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T15:30:01Z",
-   "hot": 19.7,
-   "rank": 6,
+   "publishedAt": "2026-11-12T14:18:49Z",
+   "hot": 26.6,
+   "rank": 10,
    "metrics": {
-    "points": 28,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50469007"
+    "points": 225,
+    "comments": 77,
+    "discussion": "https://news.ycombinator.com/item?id=50467618"
+   }
+  },
+  {
+   "rawId": "50474311",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "synthanatomy.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T21:09:49Z",
+   "hot": 11.7,
+   "rank": 11,
+   "metrics": {
+    "points": 19,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50474311"
+   }
+  },
+  {
+   "rawId": "50458849",
+   "title": "Relax: JIT compiler for Rust to reduce build times",
+   "url": "https://makepad.github.io/relax/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "makepad.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T21:20:01Z",
+   "hot": 3.3,
+   "rank": 12,
+   "metrics": {
+    "points": 84,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50458849"
+   }
+  },
+  {
+   "rawId": "50439283",
+   "title": "Safety in Algae Home Experiments",
+   "url": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "chillphysicsenjoyer.substack.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-10T12:20:06Z",
+   "hot": 0.2,
+   "rank": 13,
+   "metrics": {
+    "points": 13,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50439283"
+   }
+  },
+  {
+   "rawId": "50471431",
+   "title": "Gemini 4 Hydrogen",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.google"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T18:01:48Z",
+   "hot": 85.0,
+   "rank": 14,
+   "metrics": {
+    "points": 404,
+    "comments": 268,
+    "discussion": "https://news.ycombinator.com/item?id=50471431"
    }
   },
   {
    "rawId": "50465352",
-   "title": "Why Writing Correct Software Is Hard",
+   "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
    "url": "https://pron.github.io/posts/correctness-and-complexity",
    "videoUrl": null,
    "category": "news",
@@ -141,270 +309,60 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T10:28:26Z",
-   "hot": 40.0,
-   "rank": 7,
+   "hot": 27.6,
+   "rank": 15,
    "metrics": {
-    "points": 258,
-    "comments": 110,
+    "points": 340,
+    "comments": 163,
     "discussion": "https://news.ycombinator.com/item?id=50465352"
    }
   },
   {
-   "rawId": "50468944",
-   "title": "ExcalidrawZ: Local Native Excalidraw on macOS/iOS",
-   "url": "https://github.com/chocoford/ExcalidrawZ",
+   "rawId": "50467460",
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "chipsandcheese.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T15:25:52Z",
-   "hot": 16.8,
-   "rank": 8,
-   "metrics": {
-    "points": 25,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50468944"
-   }
-  },
-  {
-   "rawId": "50467439",
-   "title": "Libreagi – Save OSS Models",
-   "url": "https://libreagi.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "libreagi.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T14:11:58Z",
-   "hot": 20.6,
-   "rank": 9,
-   "metrics": {
-    "points": 56,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50467439"
-   }
-  },
-  {
-   "rawId": "50468720",
-   "title": "Fitting Four 32 GB Resizable Bars Behind a PCIe Switch on Linux",
-   "url": "https://doug.sh/posts/gpu-bars-behind-a-pcie-switch/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "doug.sh"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T15:14:52Z",
-   "hot": 12.0,
-   "rank": 10,
-   "metrics": {
-    "points": 20,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50468720"
-   }
-  },
-  {
-   "rawId": "50438261",
-   "title": "Socratic Tutor",
-   "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T10:18:22Z",
-   "hot": 9.8,
-   "rank": 11,
-   "metrics": {
-    "points": 533,
-    "comments": 125,
-    "discussion": "https://news.ycombinator.com/item?id=50438261"
-   }
-  },
-  {
-   "rawId": "50467305",
-   "title": "Electric Ship Batteries Promise Compact, Cooler Power",
-   "url": "https://spectrum.ieee.org/electric-ship-batteries",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "spectrum.ieee.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T14:06:03Z",
-   "hot": 11.3,
-   "rank": 12,
-   "metrics": {
-    "points": 32,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50467305"
-   }
-  },
-  {
-   "rawId": "50425017",
-   "title": "A live tree of systemd jobs on the boot console",
-   "url": "https://codeberg.org/wvhulle/bootvine",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "codeberg.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-09T13:02:44Z",
-   "hot": 3.4,
-   "rank": 13,
-   "metrics": {
-    "points": 261,
-    "comments": 100,
-    "discussion": "https://news.ycombinator.com/item?id=50425017"
-   }
-  },
-  {
-   "rawId": "50465453",
-   "title": "Researchers discover rare star system that emits radio signals every 8 minutes",
-   "url": "https://www.curtin.edu.au/news/media-release/researchers-discover-rare-star-system-that-emits-radio-signals-every-eight-minutes/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "curtin.edu.au"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T10:46:20Z",
-   "hot": 12.2,
-   "rank": 14,
-   "metrics": {
-    "points": 75,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50465453"
-   }
-  },
-  {
-   "rawId": "50467869",
-   "title": "Running web sites makes me not want to",
-   "url": "https://lowkey.party/running-web-sites-makes-me-not-want-to",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lowkey.party"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T14:30:38Z",
-   "hot": 9.5,
-   "rank": 15,
-   "metrics": {
-    "points": 23,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50467869"
-   }
-  },
-  {
-   "rawId": "50450488",
-   "title": "Tim Peters has died",
-   "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "discuss.python.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T07:03:17Z",
-   "hot": 40.2,
+   "publishedAt": "2026-11-12T14:12:37Z",
+   "hot": 19.8,
    "rank": 16,
    "metrics": {
-    "points": 1363,
-    "comments": 168,
-    "discussion": "https://news.ycombinator.com/item?id=50450488"
+    "points": 170,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50467460"
    }
   },
   {
-   "rawId": "50436363",
-   "title": "Decoding REXPaint Files in Odin",
-   "url": "https://tylerelton.com/posts/decoding-rexpaint-files-in-odin/",
+   "rawId": "50472505",
+   "title": "Distributed Ray Tracer",
+   "url": "https://ray.hatchet.run",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "tylerelton.com"
+    "ray.hatchet.run"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-10T05:18:42Z",
-   "hot": 0.1,
+   "publishedAt": "2026-11-12T19:06:23Z",
+   "hot": 7.6,
    "rank": 17,
    "metrics": {
-    "points": 6,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50436363"
+    "points": 28,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50472505"
    }
   },
   {
-   "rawId": "50459745",
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "url": "https://www.mcmillen.dev/sigbovik/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "mcmillen.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T22:34:23Z",
-   "hot": 29.3,
-   "rank": 18,
-   "metrics": {
-    "points": 538,
-    "comments": 69,
-    "discussion": "https://news.ycombinator.com/item?id=50459745"
-   }
-  },
-  {
-   "rawId": "50462177",
-   "title": "Critical RCE Vulnerability in Apache HTTP Server",
-   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wiz.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T02:11:11Z",
-   "hot": 21.9,
-   "rank": 19,
-   "metrics": {
-    "points": 323,
-    "comments": 163,
-    "discussion": "https://news.ycombinator.com/item?id=50462177"
-   }
-  },
-  {
-   "rawId": "50456631",
-   "title": "AWS emulator",
-   "url": "https://github.com/aws/aws-emulator",
+   "rawId": "50471650",
+   "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+   "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -413,13 +371,55 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T18:21:38Z",
-   "hot": 41.4,
+   "publishedAt": "2026-11-12T18:15:48Z",
+   "hot": 14.2,
+   "rank": 18,
+   "metrics": {
+    "points": 64,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50471650"
+   }
+  },
+  {
+   "rawId": "50466410",
+   "title": "Adapting CPython for Yk",
+   "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tratt.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T12:51:38Z",
+   "hot": 3.2,
+   "rank": 19,
+   "metrics": {
+    "points": 32,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50466410"
+   }
+  },
+  {
+   "rawId": "50465829",
+   "title": "Anthropic IPO",
+   "url": "https://ipo.anthropic.com/us/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ipo.anthropic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T11:46:41Z",
+   "hot": 69.3,
    "rank": 20,
    "metrics": {
-    "points": 934,
-    "comments": 256,
-    "discussion": "https://news.ycombinator.com/item?id=50456631"
+    "points": 763,
+    "comments": 758,
+    "discussion": "https://news.ycombinator.com/item?id=50465829"
    }
   }
  ]
