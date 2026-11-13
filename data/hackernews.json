@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-12T22:46:56Z",
+ "updated": "2026-11-13T03:27:55Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50477331",
+   "title": "Africa's solar revolution is vast and speedy",
+   "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "economist.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-13T02:28:15Z",
+   "hot": 61.0,
+   "rank": 1,
+   "metrics": {
+    "points": 61,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50477331"
+   }
+  },
   {
    "rawId": "50467087",
    "title": "Jensen Huang resigns",
@@ -15,11 +36,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T13:52:29Z",
-   "hot": 293.8,
-   "rank": 1,
+   "hot": 227.0,
+   "rank": 2,
    "metrics": {
-    "points": 2617,
-    "comments": 2516,
+    "points": 3085,
+    "comments": 2894,
     "discussion": "https://news.ycombinator.com/item?id=50467087"
    }
   },
@@ -36,11 +57,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T18:39:05Z",
-   "hot": 60.3,
-   "rank": 2,
+   "hot": 54.2,
+   "rank": 3,
    "metrics": {
-    "points": 249,
-    "comments": 126,
+    "points": 478,
+    "comments": 206,
     "discussion": "https://news.ycombinator.com/item?id=50472038"
    }
   },
@@ -57,54 +78,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T18:52:01Z",
-   "hot": 52.1,
-   "rank": 3,
+   "hot": 38.7,
+   "rank": 4,
    "metrics": {
-    "points": 204,
-    "comments": 47,
+    "points": 333,
+    "comments": 82,
     "discussion": "https://news.ycombinator.com/item?id=50472260"
    }
   },
   {
-   "rawId": "50474361",
-   "title": "Foundation Models framework",
-   "url": "https://developer.apple.com/foundation-models-framework/",
+   "rawId": "50477231",
+   "title": "Nvidia employees petition to bring back Jensen Huang",
+   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "developer.apple.com"
+    "wired.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T21:13:26Z",
-   "hot": 35.9,
-   "rank": 4,
-   "metrics": {
-    "points": 56,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50474361"
-   }
-  },
-  {
-   "rawId": "50472490",
-   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-   "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "smithsonianmag.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T19:05:33Z",
-   "hot": 39.8,
+   "publishedAt": "2026-11-13T02:16:24Z",
+   "hot": 92.3,
    "rank": 5,
    "metrics": {
-    "points": 147,
-    "comments": 64,
-    "discussion": "https://news.ycombinator.com/item?id=50472490"
+    "points": 110,
+    "comments": 72,
+    "discussion": "https://news.ycombinator.com/item?id=50477231"
    }
   },
   {
@@ -120,12 +120,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T17:02:42Z",
-   "hot": 40.8,
+   "hot": 35.8,
    "rank": 6,
    "metrics": {
-    "points": 234,
-    "comments": 100,
+    "points": 373,
+    "comments": 147,
     "discussion": "https://news.ycombinator.com/item?id=50470488"
+   }
+  },
+  {
+   "rawId": "50472490",
+   "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+   "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "smithsonianmag.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T19:05:33Z",
+   "hot": 26.3,
+   "rank": 7,
+   "metrics": {
+    "points": 220,
+    "comments": 102,
+    "discussion": "https://news.ycombinator.com/item?id=50472490"
+   }
+  },
+  {
+   "rawId": "50474361",
+   "title": "Foundation Models framework",
+   "url": "https://developer.apple.com/foundation-models-framework/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "developer.apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T21:13:26Z",
+   "hot": 23.7,
+   "rank": 8,
+   "metrics": {
+    "points": 148,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50474361"
+   }
+  },
+  {
+   "rawId": "50475713",
+   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+   "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "edge0.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T23:06:17Z",
+   "hot": 20.0,
+   "rank": 9,
+   "metrics": {
+    "points": 87,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50475713"
    }
   },
   {
@@ -141,17 +204,38 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T18:20:48Z",
-   "hot": 80.9,
-   "rank": 7,
+   "hot": 63.7,
+   "rank": 10,
    "metrics": {
-    "points": 359,
-    "comments": 343,
+    "points": 581,
+    "comments": 534,
     "discussion": "https://news.ycombinator.com/item?id=50471731"
    }
   },
   {
+   "rawId": "50473190",
+   "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+   "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "reuters.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T19:51:33Z",
+   "hot": 16.6,
+   "rank": 11,
+   "metrics": {
+    "points": 126,
+    "comments": 167,
+    "discussion": "https://news.ycombinator.com/item?id=50473190"
+   }
+  },
+  {
    "rawId": "50471761",
-   "title": "22-Year-Old PostgreSQL Bug Turned into Remote Code Execution",
+   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
    "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
    "videoUrl": null,
    "category": "news",
@@ -162,11 +246,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T18:22:22Z",
-   "hot": 23.8,
-   "rank": 8,
+   "hot": 16.8,
+   "rank": 12,
    "metrics": {
-    "points": 105,
-    "comments": 12,
+    "points": 153,
+    "comments": 24,
     "discussion": "https://news.ycombinator.com/item?id=50471761"
    }
   },
@@ -183,11 +267,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T15:23:10Z",
-   "hot": 33.1,
-   "rank": 9,
+   "hot": 23.9,
+   "rank": 13,
    "metrics": {
-    "points": 245,
-    "comments": 86,
+    "points": 289,
+    "comments": 99,
     "discussion": "https://news.ycombinator.com/item?id=50468888"
    }
   },
@@ -204,33 +288,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T14:18:49Z",
-   "hot": 26.6,
-   "rank": 10,
+   "hot": 18.8,
+   "rank": 14,
    "metrics": {
-    "points": 225,
-    "comments": 77,
+    "points": 247,
+    "comments": 85,
     "discussion": "https://news.ycombinator.com/item?id=50467618"
-   }
-  },
-  {
-   "rawId": "50474311",
-   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "synthanatomy.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T21:09:49Z",
-   "hot": 11.7,
-   "rank": 11,
-   "metrics": {
-    "points": 19,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50474311"
    }
   },
   {
@@ -246,123 +309,18 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-11T21:20:01Z",
-   "hot": 3.3,
-   "rank": 12,
+   "hot": 4.3,
+   "rank": 15,
    "metrics": {
-    "points": 84,
-    "comments": 38,
+    "points": 129,
+    "comments": 53,
     "discussion": "https://news.ycombinator.com/item?id=50458849"
    }
   },
   {
-   "rawId": "50439283",
-   "title": "Safety in Algae Home Experiments",
-   "url": "https://chillphysicsenjoyer.substack.com/p/algae-safety-in-home-experiments",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "chillphysicsenjoyer.substack.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-10T12:20:06Z",
-   "hot": 0.2,
-   "rank": 13,
-   "metrics": {
-    "points": 13,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50439283"
-   }
-  },
-  {
-   "rawId": "50471431",
-   "title": "Gemini 4 Hydrogen",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.google"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T18:01:48Z",
-   "hot": 85.0,
-   "rank": 14,
-   "metrics": {
-    "points": 404,
-    "comments": 268,
-    "discussion": "https://news.ycombinator.com/item?id=50471431"
-   }
-  },
-  {
-   "rawId": "50465352",
-   "title": "Why writing correct software is hard and why math (alone) won’t help us (2016)",
-   "url": "https://pron.github.io/posts/correctness-and-complexity",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pron.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T10:28:26Z",
-   "hot": 27.6,
-   "rank": 15,
-   "metrics": {
-    "points": 340,
-    "comments": 163,
-    "discussion": "https://news.ycombinator.com/item?id=50465352"
-   }
-  },
-  {
-   "rawId": "50467460",
-   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "chipsandcheese.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T14:12:37Z",
-   "hot": 19.8,
-   "rank": 16,
-   "metrics": {
-    "points": 170,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50467460"
-   }
-  },
-  {
-   "rawId": "50472505",
-   "title": "Distributed Ray Tracer",
-   "url": "https://ray.hatchet.run",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ray.hatchet.run"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T19:06:23Z",
-   "hot": 7.6,
-   "rank": 17,
-   "metrics": {
-    "points": 28,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50472505"
-   }
-  },
-  {
-   "rawId": "50471650",
-   "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-   "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+   "rawId": "50460263",
+   "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
+   "url": "https://github.com/jjba23/sift",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -371,13 +329,13 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T18:15:48Z",
-   "hot": 14.2,
-   "rank": 18,
+   "publishedAt": "2026-11-11T23:09:27Z",
+   "hot": 0.8,
+   "rank": 16,
    "metrics": {
-    "points": 64,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50471650"
+    "points": 23,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50460263"
    }
   },
   {
@@ -393,33 +351,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T12:51:38Z",
-   "hot": 3.2,
-   "rank": 19,
+   "hot": 3.7,
+   "rank": 17,
    "metrics": {
-    "points": 32,
-    "comments": 1,
+    "points": 54,
+    "comments": 2,
     "discussion": "https://news.ycombinator.com/item?id=50466410"
    }
   },
   {
-   "rawId": "50465829",
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us/",
+   "rawId": "50471431",
+   "title": "Gemini 4 Hydrogen",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "ipo.anthropic.com"
+    "blog.google"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T11:46:41Z",
-   "hot": 69.3,
+   "publishedAt": "2026-11-12T18:01:48Z",
+   "hot": 50.9,
+   "rank": 18,
+   "metrics": {
+    "points": 480,
+    "comments": 302,
+    "discussion": "https://news.ycombinator.com/item?id=50471431"
+   }
+  },
+  {
+   "rawId": "50474311",
+   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "synthanatomy.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T21:09:49Z",
+   "hot": 18.4,
+   "rank": 19,
+   "metrics": {
+    "points": 116,
+    "comments": 114,
+    "discussion": "https://news.ycombinator.com/item?id=50474311"
+   }
+  },
+  {
+   "rawId": "50467460",
+   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "chipsandcheese.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T14:12:37Z",
+   "hot": 15.1,
    "rank": 20,
    "metrics": {
-    "points": 763,
-    "comments": 758,
-    "discussion": "https://news.ycombinator.com/item?id=50465829"
+    "points": 200,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50467460"
    }
   }
  ]
