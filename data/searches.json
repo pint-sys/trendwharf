@@ -1,255 +1,250 @@
 {
- "updated": "2026-11-13T03:27:55Z",
+ "updated": "2026-11-13T12:25:00Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "stefon diggs",
-   "query": "stefon diggs",
+   "rawId": "putin news",
+   "query": "putin news",
+   "traffic": "5000+",
+   "trafficNum": 5000,
+   "publishedAt": "2026-11-13T12:00:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIiV3MjiTgw3-tC3z8BYgi4PSvNw96fzXvp6B8YnpcV5FCzCbPISwNCSB96s",
+   "news": [
+    {
+     "title": "Kushner says Europe to join next Ukraine talks, but Putin stands firm on territorial demands",
+     "url": "https://edition.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+     "source": "CNN"
+    },
+    {
+     "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+     "url": "https://www.bbc.com/news/articles/ckn80j9jv3jxo",
+     "source": "BBC"
+    },
+    {
+     "title": "Putin’s chief negotiator vows to return ‘every inch of Russian land’ in Ukraine",
+     "url": "https://www.atlanticcouncil.org/blogs/ukrainealert/putins-chief-negotiator-vows-to-return-every-inch-of-russian-land-in-ukraine/",
+     "source": "Atlantic Council"
+    }
+   ]
+  },
+  {
+   "rawId": "samoa",
+   "query": "samoa",
    "traffic": "2000+",
    "trafficNum": 2000,
-   "publishedAt": "2026-11-13T03:10:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcToV-xDZDAVwmBq3tgJCeKh3Q3BGEvMYVhRh4WF1mtTA9gsgLwfhhtEStnKYq8",
+   "publishedAt": "2026-11-13T11:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0UJLsLgTxr5MXHIIuw9z6gMq8kyfLFsF8A_DdANpP6nSkgdPT5hhacjUSobo",
    "news": [
     {
-     "title": "Dan Quinn addresses Stefon Diggs' costly decision and Commanders' fight to save season",
-     "url": "https://www.wusa9.com/article/sports/nfl/washington-commanders/dan-quinn-stefon-diggs-out-of-bounds-rams-loss/65-6973ee9a-b34a-4fc3-809b-27d3345c36f9",
-     "source": "WUSA9"
+     "title": "Senator opens investigation into evidence RFK Jr ‘unlawfully lied’ to Congress",
+     "url": "https://www.theguardian.com/us-news/2026/nov/12/senate-investigation-rfk-jr-measles-samoa",
+     "source": "The Guardian"
     },
     {
-     "title": "Commanders' Stefon Diggs explains late-game decision in Week 10 vs Rams",
-     "url": "https://sports.yahoo.com/articles/commanders-stefon-diggs-explains-game-200120602.html",
-     "source": "Yahoo Sports"
+     "title": "Top Democrat will investigate whether RFK Jr. lied to Congress",
+     "url": "https://www.cnn.com/2026/11/12/politics/senate-democrate-rfk-investigation",
+     "source": "CNN"
     },
     {
-     "title": "Stefon Diggs has 51 yards in loss",
-     "url": "https://www.fantasypros.com/nfl/news/618861/stefon-diggs-has-51-yards-loss.php",
-     "source": "FantasyPros"
+     "title": "Democratic senators launch investigation into RFK Jr., questioning whether he lied to Congress",
+     "url": "https://www.ms.now/rachel-maddow-show/maddowblog/kennedy-samoa-wyden-alsobrooks-senate-investigation-rfk-jr-vaccines",
+     "source": "MS NOW"
     }
    ]
   },
   {
-   "rawId": "ausar thompson",
-   "query": "ausar thompson",
+   "rawId": "beach hazards statement",
+   "query": "beach hazards statement",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-13T11:40:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLL_gEV4kiO4A9Ky6ODRdby5TQhp8NRZveTwr-JSq9CZ25FOOEwPQUyqm3WuA",
+   "news": [
+    {
+     "title": "Massive waves forecast to hit California’s Central Coast this weekend",
+     "url": "https://ktla.com/news/california/massive-waves-central-california-forecast/",
+     "source": "KTLA"
+    },
+    {
+     "title": "Rain, high surf headed for Bay Area this weekend",
+     "url": "https://www.kron4.com/weather/rain-high-surf-headed-for-bay-area-this-weekend/",
+     "source": "KRON4"
+    },
+    {
+     "title": "High Surf Warning Means Giant Waves. California Surfers Are Prepping.",
+     "url": "https://www.kqed.org/news/12109012/california-will-get-hammered-by-giant-waves-this-weekend-surfers-are-prepping",
+     "source": "KQED"
+    }
+   ]
+  },
+  {
+   "rawId": "weather chicago",
+   "query": "weather chicago",
    "traffic": "500+",
    "trafficNum": 500,
-   "publishedAt": "2026-11-13T03:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRI21JmE-VMnqNS9_xwtYv9GmS0pSV5_7k8qGzlk5sHNdg_aoJ6pFzACgkN85Q",
+   "publishedAt": "2026-11-13T11:30:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ_vR214GTjMiqXw8veyadCXu-YGlqWv85gYXkC7_uHUMwtp3LFkPobxl4nbd0",
    "news": [
     {
-     "title": "Ausar Thompson’s early mistakes are actually a great sign",
-     "url": "https://pistonpowered.com/ausar-thompson-early-mistakes-actually-great-sign",
-     "source": "PistonPowered"
+     "title": "Chicago-area AccuWeather Alert for Winter Weather Advisory, several inches of snow accumulation possible in parts area Friday",
+     "url": "https://abc7chicago.com/post/chicago-il-area-weather-forecast-parts-could-see-1st-snow-season-friday-winter-advisory-indiana/20035534/",
+     "source": "ABC7 Chicago"
     },
     {
-     "title": "Central Notes: Thompson, Joe, Watson, Tyson, Buzelis",
-     "url": "https://www.hoopsrumors.com/2026/11/central-notes-thompson-joe-watson-tyson-buzelis.html",
-     "source": "Hoops Rumors"
+     "title": "Season’s coldest air to date arrives with gusty northerly winds",
+     "url": "https://wgntv.com/weather/chicago-weather-thursday-11122026/",
+     "source": "WGN-TV"
     },
     {
-     "title": "Ausar Thompson fills stat sheet Wednesday against 76ers",
-     "url": "https://www.fantasypros.com/nba/news/618297/ausar-thompson-fills-stat-sheet-wednesday-against-76ers.php",
-     "source": "FantasyPros"
+     "title": "Could a foot of lake-effect snow fall in the Chicago area? What to know",
+     "url": "https://www.nbcchicago.com/news/local/could-a-foot-of-lake-effect-snow-fall-in-the-chicago-area-what-to-know/4015913/",
+     "source": "NBC 5 Chicago"
     }
    ]
   },
   {
-   "rawId": "hollywood brown",
-   "query": "hollywood brown",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-13T03:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Bh1rDgP-bzlD8jcnOYCsv3Fc-7iVFoUm-YSaEheg2x9vfK278cxqeQyEgj0",
-   "news": [
-    {
-     "title": "Eagles To Waive WR Marquise Brown",
-     "url": "https://www.profootballrumors.com/2026/11/eagles-to-waive-wr-marquise-brown",
-     "source": "NFL Rumors - ProFootballRumors.com"
-    },
-    {
-     "title": "Hollywood Brown Reportedly Waived by Eagles, Top Landing Spots for WR After NFL Trade Rumors",
-     "url": "https://bleacherreport.com/articles/25532802-hollywood-brown-reportedly-waived-eagles-top-landing-spots-wr-after-nfl-trade-rumors",
-     "source": "Bleacher Report"
-    },
-    {
-     "title": "Marquise 'Hollywood' Brown: Eagles waive ex-Chiefs WR in Week 10",
-     "url": "https://sports.yahoo.com/articles/marquise-hollywood-brown-eagles-waive-031109750.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "zaccharie risacher",
-   "query": "zaccharie risacher",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-13T03:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwOo16AVk-PrwAyzGU7G15xqv4Vc4q17IaZnmZSUaxTrBvG3IFPoI1OuydD3o",
-   "news": [
-    {
-     "title": "Mavericks have little reason to keep Zaccharie Risacher out of the starting five",
-     "url": "https://thesmokingcuban.com/mavericks-have-little-reason-to-keep-zaccharie-risacher-out-of-starting-five",
-     "source": "The Smoking Cuban"
-    },
-    {
-     "title": "Dusty May On Zaccharie Risacher’s Fresh Start",
-     "url": "https://dallassportsjournal.com/dusty-may-zaccharie-risacher-mavericks-hawks-trade/",
-     "source": "Dallas Hoops Journal"
-    },
-    {
-     "title": "\"He’s still finding himself. He hasn’t shot at all as …",
-     "url": "https://sports.yahoo.com/articles/still-finding-himself-hasn-t-015156546.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "tre johnson",
-   "query": "tre johnson",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-13T03:00:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5WOxluBserEJbJAQy02MN2FW5OLnFNNx4k6-jJUBAe2sLlUNCQcdRPOhZeZg",
-   "news": [
-    {
-     "title": "Wizards may need to explore trades to fix a bench that keeps costing them games",
-     "url": "https://wizofawes.com/wizards-explore-trades-bench-costing-games",
-     "source": "Wiz of Awes"
-    },
-    {
-     "title": "Tre Johnson is struggling from three. So are the Wizards",
-     "url": "https://www.bulletsforever.com/washington-wizards-analysis-players/73979/tre-johnson-is-struggling-from-three-so-are-the-wizards",
-     "source": "Bullets Forever"
-    },
-    {
-     "title": "Tre Johnson's Shooting Slump is Already Forcing Major Wizards Rotational Questions",
-     "url": "https://sports.yahoo.com/articles/tre-johnsons-shooting-slump-already-160510331.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "tsmc",
-   "query": "tsmc",
+   "rawId": "joshua link jason link conviction",
+   "query": "joshua link jason link conviction",
    "traffic": "200+",
    "trafficNum": 200,
-   "publishedAt": "2026-11-13T03:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTUmA5xbEf8nGoCmbJsknmN4sgl0uQ20p6xMr6yLQsKiLBpGiCpSg1eZgN7M",
+   "publishedAt": "2026-11-13T11:20:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy6-zF7nA4TiN8-0cvL7xz-JbzVTGtdasLN2n0_TNcMl-P4Gk-KrRs0aW_dMY",
    "news": [
     {
-     "title": "Taiwan Chip Giant TSMC Acknowledges Hack Of Reportedly 49,000 Employee Files Occurred But Says Leaked Data Matches That Stored With External Cloud Provider",
-     "url": "https://wccftech.com/taiwan-chip-giant-tsmc-acknowledges-hack-of-reportedly-49000-employee-files-occurred-but-says-leaked-data-matches-that-stored-with-external-cloud-provider/",
-     "source": "Wccftech"
+     "title": "Brothers convicted by jury in $240 million Fort Worth cattle investment scam",
+     "url": "https://www.star-telegram.com/news/local/crime/article318035976.html",
+     "source": "Fort Worth Star-Telegram"
     },
     {
-     "title": "A Massive Employee Data Leak Is Dragging Down TSM Stock",
-     "url": "https://www.barchart.com/story/news/8807828/a-massive-employee-data-leak-is-dragging-down-tsm-stock",
-     "source": "Barchart.com"
+     "title": "Federal jury convicts brothers in $240M cattle fraud scheme",
+     "url": "https://www.beefmagazine.com/farm-business-management/federal-jury-convicts-brothers-in-240m-cattle-fraud-scheme",
+     "source": "Beef Magazine"
     },
     {
-     "title": "TSM: SEC Form 6-K filed by Taiwan Semiconductor Manufacturing Company Ltd.",
-     "url": "https://www.quantisnow.com/insight/sec-form-6-k-filed-by-taiwan-semiconductor-manufacturing-company-ltd-6786516",
-     "source": "Quantisnow"
+     "title": "'High-tech Ponzi scheme': Brothers convicted in $240M Fort Worth cattle fraud",
+     "url": "https://www.wfaa.com/article/news/crime/high-tech-ponzi-scheme-brothers-convicted-in-240m-fort-worth-cattle-fraud/287-da7b0586-b885-4142-93a7-a0d060983192",
+     "source": "WFAA"
     }
    ]
   },
   {
-   "rawId": "santi aldama",
-   "query": "santi aldama",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-13T03:00:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaUCTNjzd-ethasKaCJQ3DdjV7YYlA6K27Q-wcXAeTXzYvzXvY2UKMW0Andrk",
+   "rawId": "ilhan omar news",
+   "query": "ilhan omar news",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-13T12:00:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjBZDauKms5ttugdokNtxTSpcj29tdLgCiKJ6gTGzbpfBBd_uvSG3fIBziAPY",
    "news": [
     {
-     "title": "Santi Aldama helps solve problems plaguing the Mavericks’ offense",
-     "url": "https://thesmokingcuban.com/santi-aldama-helps-solve-problems-plaguing-mavericks-offense",
-     "source": "The Smoking Cuban"
+     "title": "Trump’s Justice Department accused of targeting Ilhan Omar by charging her bodyguard",
+     "url": "https://www.ms.now/rachel-maddow-show/maddowblog/ilhan-omar-justice-department-trump-indict-former-bodyguard",
+     "source": "MS NOW"
     },
     {
-     "title": "Santi Aldama (knee) probable to make season debut Friday",
-     "url": "https://www.fantasypros.com/nba/news/618060/santi-aldama-knee-probable-to-make-season-debut-friday.php",
-     "source": "FantasyPros"
+     "title": "Somali Bodyguard Was Indicted in a Bid to Incriminate Ilhan Omar",
+     "url": "https://www.nytimes.com/2026/11/11/us/ilhan-omar-ex-bodyguard-indicted-abdullahi-mohamed.html",
+     "source": "The New York Times"
     },
     {
-     "title": "Santi Aldama impressive in his first game with Mavericks",
-     "url": "https://www.nba.com/mavs/news/santi-aldama-was-very-impressive-in-his-first-game-with-mavericks",
-     "source": "NBA.com"
+     "title": "DOJ charged Somali man to try to get information on Ilhan Omar, lawyer says",
+     "url": "https://www.nbcnews.com/politics/justice-department/doj-charged-somali-man-try-get-information-ilhan-omar-lawyer-says-rcna609030",
+     "source": "NBC News"
     }
    ]
   },
   {
-   "rawId": "daayra movie",
-   "query": "daayra movie",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-13T03:00:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFS3UhIYdKiMNz7XGG3pC54FXK0wx7K5QphhclQEQ6DvpBaepanBQAQDdFDDA",
+   "rawId": "ashley graham",
+   "query": "ashley graham",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-13T12:00:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsJCc0hyUm5O7JDVkIJr1M3QK6uSCNWBJ39DzkGoZYTrrsLrMo2iAvJzrMfow",
    "news": [
     {
-     "title": "Daayra OTT release: Kareena Kapoor and Prithviraj Sukumaaran film to arrive on Netflix in Hindi and Malayalam | Bollywood",
-     "url": "https://www.hindustantimes.com/entertainment/bollywood/daayra-ott-release-kareena-kapoor-and-prithviraj-sukumaaran-film-to-arrive-on-netflix-in-hindi-and-malayalam-101794489907480.html",
-     "source": "Hindustan Times"
+     "title": "Ashley Graham, The Fearless Fashion Icon Redefining Beauty and Confidence",
+     "url": "https://www.yahoo.com/entertainment/videos/ashley-graham-fearless-fashion-icon-112659664.html",
+     "source": "Yahoo"
     },
     {
-     "title": "‘Daayra’ OTT release: When and where to watch the Meghna Gulzar-directed investigative drama",
-     "url": "https://www.telegraphindia.com/entertainment/daayra-ott-release-when-and-where-to-watch-meghna-gulzar-directed-investigative-drama/cid/2189082",
-     "source": "Telegraph India"
-    },
-    {
-     "title": "Kareena Kapoor and Prithviraj Sukumaran’s ‘Daayra’ to premiere on Netflix on November 13",
-     "url": "https://thenewsmill.com/2026/11/kareena-kapoor-and-prithviraj-sukumarans-daayra-to-premiere-on-netflix-on-november-13/",
-     "source": "The News Mill"
+     "title": "Ashley Graham gives peek at black lace bra and underwear before getting dolled up in teal dress and coat",
+     "url": "https://www.the-sun.com/entertainment/17281631/ashley-graham-bra-underwear-teal-dress/",
+     "source": "The Sun"
     }
    ]
   },
   {
-   "rawId": "madison bontempo",
-   "query": "madison bontempo",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-13T03:00:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv_AY1MbiOfJZLmlNdi8I5MxCJ8swcVotHIyPv8Nyjvav1bG2-3gWSPAa-1kg",
+   "rawId": "stephen miller white house lobbyist rules",
+   "query": "stephen miller white house lobbyist rules",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-13T11:40:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcZFFNhKO5_6aK3lduqFx5KO13v5wD1utvDOpENU8BNOjo2-uLxVt1eo3E4bU",
    "news": [
     {
-     "title": "Jen Affleck Says Madison Bontempo’s Husband Being in Las Vegas During Their Girls Trip Is ‘a Red Flag’",
-     "url": "https://people.com/jen-affleck-says-madison-bontempo-s-husband-being-in-las-vegas-during-their-girls-trip-is-a-red-flag-12249956",
-     "source": "People.com"
+     "title": "White House staffers can no longer meet with lobbyists without prior approval, new memo says",
+     "url": "https://www.politico.com/news/2026/11/12/stephen-miller-memo-lobbyists-k-street-01163700",
+     "source": "Politico"
     },
     {
-     "title": "'Mormon Wives OC': Madison Bontempo Gives Kyler Fisher Update",
-     "url": "https://www.bustle.com/entertainment/mormon-wives-orange-county-madison-bontempo-kyler-fisher-update",
-     "source": "Bustle"
+     "title": "‘A Servant Class, Not a Working Class’: Stephen Miller’s Biographer on What Comes Next",
+     "url": "https://www.wired.com/story/a-servant-class-not-a-working-class-stephen-millers-biographer-on-what-comes-next/",
+     "source": "WIRED"
     },
     {
-     "title": "Madison From ‘Mormon Wives: OC’ Regrets Saying She’d Leave Kyler [Exclusive]",
-     "url": "https://www.elitedaily.com/entertainment/madison-kyler-fisher-breakup-relationship-mormon-wives-oc-interview",
-     "source": "Elite Daily"
+     "title": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
+     "source": "The New York Times"
     }
    ]
   },
   {
-   "rawId": "guatemala vs canada",
-   "query": "guatemala vs canada",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-13T03:00:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFlc_7wy474bxlDU7OrYwQ-vVHNWmpy_y4-1Zl2lLfQpgqyKuMBeB95GQo5sg",
+   "rawId": "wktv",
+   "query": "wktv",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-13T11:20:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-gt2Lz-aI5muNUJK1D3mAib_AkG2Zg0wbimD0Y8jWpkl2byHH3JWXRCmyZAc",
    "news": [
     {
-     "title": "¿Quién será el portero de Guatemala ante Canadá: Hagen o Navarro? Esto confirma Fernando Tena",
-     "url": "https://www.prensalibre.com/deportes/futbol-nacional/quien-sera-el-portero-de-guatemala-ante-canada-hagen-o-navarro-esto-confirma-fernando-tena/",
-     "source": "Prensa Libre"
+     "title": "Man charged with drug offenses in Utica",
+     "url": "https://www.newportdispatch.com/2026/11/12/man-charged-with-drug-offenses-in-utica/",
+     "source": "Newport Dispatch"
     },
     {
-     "title": "Canadá Mantiene En Reserva Su Reconocimiento De Cancha En El Estadio El Trébol",
-     "url": "https://www.lared1061.com/posts/canada-mantiene-en-reserva-su-reconocimiento-de-cancha-en-el-estadio-el-trebol",
-     "source": "La Red 106.1 FM"
+     "title": "Utica Man Charged With Drug Possession",
+     "url": "https://www.wktv.com/news/crime/utica-man-charged-with-drug-possession/article_b0d249b5-3563-4b7c-a52e-93f4fa577b5b.html",
+     "source": "WKTV"
     },
     {
-     "title": "Rubio Rubín cree que se le puede ganar la serie a Canadá",
-     "url": "https://emisorasunidas.com/deportes/2026/11/11/rubio-rubin-cree-que-se-le-puede-ganar-la-serie-a-canada/",
-     "source": "Emisoras Unidas"
+     "title": "Gerard Pecorello Obituary (1944 - 2026) - Utica, NY - WKTV",
+     "url": "https://www.legacy.com/us/obituaries/wktv/name/gerard-pecorello-obituary?id=62954491",
+     "source": "Legacy | Obituary"
+    }
+   ]
+  },
+  {
+   "rawId": "espncricinfo",
+   "query": "espncricinfo",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-13T11:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVUDU0d8mznxy94iWOOXm_0n9aj_0AlKMs6PLH0LiXwKEXMY5dcZuY4VC9VoQ",
+   "news": [
+    {
+     "title": "What is happening to Mohammed Siraj?",
+     "url": "https://www.cricinfo.com/story/nz-vs-ind-what-is-happening-to-mohammed-siraj-1562291",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "India vs New Zealand 3rd ODI Playing 11: Weather, head-to-head, probable playing 11, full squads and match",
+     "url": "https://m.economictimes.com/news/new-updates/india-vs-new-zealand-3rd-odi-playing-11-check-head-to-head-probable-playing-11-full-squads-and-match-details/articleshow/135690846.cms",
+     "source": "The Economic Times"
+    },
+    {
+     "title": "Sunil Gavaskar questions Mohammed Siraj's omission from India's XI against New Zealand in washed out 3rd ODI",
+     "url": "https://www.india.com/sports/cricket/8543775-8543775/",
+     "source": "India.com"
     }
    ]
   }

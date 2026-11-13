@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-13T03:27:55Z",
+ "updated": "2026-11-13T12:25:00Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50477331",
-   "title": "Africa's solar revolution is vast and speedy",
-   "url": "https://www.economist.com/middle-east-and-africa/2026/11/12/africas-solar-revolution-is-vast-and-speedy",
+   "rawId": "50481187",
+   "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+   "url": "https://status.claude.com/incidents/nn11wk485zfn",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "economist.com"
+    "status.claude.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-13T02:28:15Z",
-   "hot": 61.0,
+   "publishedAt": "2026-11-13T10:18:13Z",
+   "hot": 121.2,
    "rank": 1,
    "metrics": {
-    "points": 61,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50477331"
+    "points": 256,
+    "comments": 188,
+    "discussion": "https://news.ycombinator.com/item?id=50481187"
    }
   },
   {
@@ -36,12 +36,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T13:52:29Z",
-   "hot": 227.0,
+   "hot": 162.4,
    "rank": 2,
    "metrics": {
-    "points": 3085,
-    "comments": 2894,
+    "points": 3661,
+    "comments": 3201,
     "discussion": "https://news.ycombinator.com/item?id=50467087"
+   }
+  },
+  {
+   "rawId": "50478515",
+   "title": "IceWM",
+   "url": "https://ice-wm.org/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ice-wm.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-13T04:54:53Z",
+   "hot": 30.1,
+   "rank": 3,
+   "metrics": {
+    "points": 226,
+    "comments": 111,
+    "discussion": "https://news.ycombinator.com/item?id=50478515"
    }
   },
   {
@@ -57,54 +78,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T18:39:05Z",
-   "hot": 54.2,
-   "rank": 3,
+   "hot": 41.3,
+   "rank": 4,
    "metrics": {
-    "points": 478,
-    "comments": 206,
+    "points": 733,
+    "comments": 269,
     "discussion": "https://news.ycombinator.com/item?id=50472038"
    }
   },
   {
-   "rawId": "50472260",
-   "title": "Gemini 4 Hydrogen and Orchestrator",
-   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "rawId": "50477649",
+   "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+   "url": "https://brave.com/blog/search-api-agentic-payments/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "antigravity.google"
+    "brave.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T18:52:01Z",
-   "hot": 38.7,
-   "rank": 4,
-   "metrics": {
-    "points": 333,
-    "comments": 82,
-    "discussion": "https://news.ycombinator.com/item?id=50472260"
-   }
-  },
-  {
-   "rawId": "50477231",
-   "title": "Nvidia employees petition to bring back Jensen Huang",
-   "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "wired.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-13T02:16:24Z",
-   "hot": 92.3,
+   "publishedAt": "2026-11-13T03:08:08Z",
+   "hot": 15.5,
    "rank": 5,
    "metrics": {
-    "points": 110,
-    "comments": 72,
-    "discussion": "https://news.ycombinator.com/item?id=50477231"
+    "points": 144,
+    "comments": 81,
+    "discussion": "https://news.ycombinator.com/item?id=50477649"
    }
   },
   {
@@ -120,12 +120,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T17:02:42Z",
-   "hot": 35.8,
+   "hot": 29.3,
    "rank": 6,
    "metrics": {
-    "points": 373,
-    "comments": 147,
+    "points": 568,
+    "comments": 194,
     "discussion": "https://news.ycombinator.com/item?id=50470488"
+   }
+  },
+  {
+   "rawId": "50472260",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "antigravity.google"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T18:52:01Z",
+   "hot": 24.6,
+   "rank": 7,
+   "metrics": {
+    "points": 432,
+    "comments": 126,
+    "discussion": "https://news.ycombinator.com/item?id=50472260"
    }
   },
   {
@@ -141,33 +162,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T19:05:33Z",
-   "hot": 26.3,
-   "rank": 7,
+   "hot": 19.0,
+   "rank": 8,
    "metrics": {
-    "points": 220,
-    "comments": 102,
+    "points": 330,
+    "comments": 136,
     "discussion": "https://news.ycombinator.com/item?id=50472490"
    }
   },
   {
-   "rawId": "50474361",
-   "title": "Foundation Models framework",
-   "url": "https://developer.apple.com/foundation-models-framework/",
+   "rawId": "50480480",
+   "title": "The Dawn of the Data Intelligence Engineer",
+   "url": "https://motherduck.com/blog/the-data-intelligence-engineer/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "developer.apple.com"
+    "motherduck.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T21:13:26Z",
-   "hot": 23.7,
-   "rank": 8,
+   "publishedAt": "2026-11-13T09:08:18Z",
+   "hot": 17.7,
+   "rank": 9,
    "metrics": {
-    "points": 148,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50474361"
+    "points": 58,
+    "comments": 43,
+    "discussion": "https://news.ycombinator.com/item?id=50480480"
    }
   },
   {
@@ -183,33 +204,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T23:06:17Z",
-   "hot": 20.0,
-   "rank": 9,
-   "metrics": {
-    "points": 87,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50475713"
-   }
-  },
-  {
-   "rawId": "50471731",
-   "title": "Service degradation on Microsoft 365",
-   "url": "https://status.cloud.microsoft/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "status.cloud.microsoft"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T18:20:48Z",
-   "hot": 63.7,
+   "hot": 20.8,
    "rank": 10,
    "metrics": {
-    "points": 581,
-    "comments": 534,
-    "discussion": "https://news.ycombinator.com/item?id=50471731"
+    "points": 277,
+    "comments": 80,
+    "discussion": "https://news.ycombinator.com/item?id=50475713"
    }
   },
   {
@@ -225,33 +225,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T19:51:33Z",
-   "hot": 16.6,
+   "hot": 18.9,
    "rank": 11,
    "metrics": {
-    "points": 126,
-    "comments": 167,
+    "points": 313,
+    "comments": 340,
     "discussion": "https://news.ycombinator.com/item?id=50473190"
    }
   },
   {
-   "rawId": "50471761",
-   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-   "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+   "rawId": "50482045",
+   "title": "Europe's electric car sales jump 49% as global EV sales grow",
+   "url": "https://electrek.co/2026/11/11/europes-electric-car-sales-jump-49-as-global-ev-sales-grow/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "mehmetince.net"
+    "electrek.co"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-12T18:22:22Z",
-   "hot": 16.8,
+   "publishedAt": "2026-11-13T11:34:25Z",
+   "hot": 51.0,
    "rank": 12,
    "metrics": {
-    "points": 153,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50471761"
+    "points": 51,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50482045"
+   }
+  },
+  {
+   "rawId": "50481220",
+   "title": "Claude Is Down",
+   "url": "https://status.claude.com/history",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "status.claude.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-13T10:20:09Z",
+   "hot": 60.1,
+   "rank": 13,
+   "metrics": {
+    "points": 125,
+    "comments": 110,
+    "discussion": "https://news.ycombinator.com/item?id=50481220"
    }
   },
   {
@@ -267,12 +288,96 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T15:23:10Z",
-   "hot": 23.9,
-   "rank": 13,
+   "hot": 18.6,
+   "rank": 14,
    "metrics": {
-    "points": 289,
-    "comments": 99,
+    "points": 391,
+    "comments": 143,
     "discussion": "https://news.ycombinator.com/item?id=50468888"
+   }
+  },
+  {
+   "rawId": "50471731",
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "status.cloud.microsoft"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T18:20:48Z",
+   "hot": 54.2,
+   "rank": 15,
+   "metrics": {
+    "points": 979,
+    "comments": 830,
+    "discussion": "https://news.ycombinator.com/item?id=50471731"
+   }
+  },
+  {
+   "rawId": "50474361",
+   "title": "Foundation Models framework",
+   "url": "https://developer.apple.com/foundation-models-framework/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "developer.apple.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T21:13:26Z",
+   "hot": 14.6,
+   "rank": 16,
+   "metrics": {
+    "points": 222,
+    "comments": 32,
+    "discussion": "https://news.ycombinator.com/item?id=50474361"
+   }
+  },
+  {
+   "rawId": "50477714",
+   "title": "Switcher (2004)",
+   "url": "https://folklore.org/Switcher.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "folklore.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-13T03:14:59Z",
+   "hot": 11.6,
+   "rank": 17,
+   "metrics": {
+    "points": 106,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50477714"
+   }
+  },
+  {
+   "rawId": "50479098",
+   "title": "Global Microsoft Outage",
+   "url": "https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cnn.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-13T06:18:23Z",
+   "hot": 28.1,
+   "rank": 18,
+   "metrics": {
+    "points": 172,
+    "comments": 93,
+    "discussion": "https://news.ycombinator.com/item?id=50479098"
    }
   },
   {
@@ -288,138 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T14:18:49Z",
-   "hot": 18.8,
-   "rank": 14,
+   "hot": 12.7,
+   "rank": 19,
    "metrics": {
-    "points": 247,
-    "comments": 85,
+    "points": 280,
+    "comments": 105,
     "discussion": "https://news.ycombinator.com/item?id=50467618"
    }
   },
   {
-   "rawId": "50458849",
-   "title": "Relax: JIT compiler for Rust to reduce build times",
-   "url": "https://makepad.github.io/relax/",
+   "rawId": "50471761",
+   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
+   "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "makepad.github.io"
+    "mehmetince.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-11T21:20:01Z",
-   "hot": 4.3,
-   "rank": 15,
-   "metrics": {
-    "points": 129,
-    "comments": 53,
-    "discussion": "https://news.ycombinator.com/item?id=50458849"
-   }
-  },
-  {
-   "rawId": "50460263",
-   "title": "Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",
-   "url": "https://github.com/jjba23/sift",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T23:09:27Z",
-   "hot": 0.8,
-   "rank": 16,
-   "metrics": {
-    "points": 23,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50460263"
-   }
-  },
-  {
-   "rawId": "50466410",
-   "title": "Adapting CPython for Yk",
-   "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tratt.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T12:51:38Z",
-   "hot": 3.7,
-   "rank": 17,
-   "metrics": {
-    "points": 54,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50466410"
-   }
-  },
-  {
-   "rawId": "50471431",
-   "title": "Gemini 4 Hydrogen",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.google"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T18:01:48Z",
-   "hot": 50.9,
-   "rank": 18,
-   "metrics": {
-    "points": 480,
-    "comments": 302,
-    "discussion": "https://news.ycombinator.com/item?id=50471431"
-   }
-  },
-  {
-   "rawId": "50474311",
-   "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-   "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "synthanatomy.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T21:09:49Z",
-   "hot": 18.4,
-   "rank": 19,
-   "metrics": {
-    "points": 116,
-    "comments": 114,
-    "discussion": "https://news.ycombinator.com/item?id=50474311"
-   }
-  },
-  {
-   "rawId": "50467460",
-   "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-   "url": "https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "chipsandcheese.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T14:12:37Z",
-   "hot": 15.1,
+   "publishedAt": "2026-11-12T18:22:22Z",
+   "hot": 11.5,
    "rank": 20,
    "metrics": {
-    "points": 200,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50467460"
+    "points": 207,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50471761"
    }
   }
  ]

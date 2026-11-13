@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T03:27:55Z",
+ "updated": "2026-11-13T12:25:00Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -18,7 +18,7 @@
    "rank": 1,
    "metrics": {
     "views": 1072168,
-    "change": -37
+    "change": 214
    }
   },
   {
@@ -36,7 +36,7 @@
    "rank": 2,
    "metrics": {
     "views": 735438,
-    "change": -8
+    "change": -5
    }
   },
   {
@@ -48,13 +48,13 @@
     "wikipedia"
    ],
    "summary": "American business executive (born 1967). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Colette_Kress.png/330px-Colette_Kress.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Colette_Kress_%281%29.png/330px-Colette_Kress_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
    "hot": 463931,
    "rank": 3,
    "metrics": {
     "views": 463931,
-    "change": 18
+    "change": 10439
    }
   },
   {
@@ -72,7 +72,7 @@
    "rank": 4,
    "metrics": {
     "views": 374893,
-    "change": 1168
+    "change": 18729
    }
   },
   {
@@ -90,7 +90,7 @@
    "rank": 5,
    "metrics": {
     "views": 366417,
-    "change": -29
+    "change": 318
    }
   },
   {
@@ -126,7 +126,7 @@
    "rank": 7,
    "metrics": {
     "views": 235409,
-    "change": 185
+    "change": 191
    }
   },
   {
@@ -155,14 +155,14 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "Hong Kong technology executive and investor. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/de/Alice_Huang_2026.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "Chinese technology executive and investor. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 160121,
    "rank": 9,
    "metrics": {
     "views": 160121,
-    "change": 23
+    "change": 3199
    }
   },
   {
@@ -180,7 +180,7 @@
    "rank": 10,
    "metrics": {
     "views": 157094,
-    "change": 32
+    "change": 270752
    }
   },
   {
@@ -198,7 +198,7 @@
    "rank": 11,
    "metrics": {
     "views": 146689,
-    "change": 11
+    "change": 8
    }
   },
   {
@@ -234,7 +234,7 @@
    "rank": 13,
    "metrics": {
     "views": 142036,
-    "change": 39270
+    "change": -75
    }
   },
   {
@@ -288,7 +288,7 @@
    "rank": 16,
    "metrics": {
     "views": 136248,
-    "change": -36
+    "change": 240
    }
   },
   {
@@ -306,7 +306,7 @@
    "rank": 17,
    "metrics": {
     "views": 127755,
-    "change": -11
+    "change": 82858
    }
   },
   {
@@ -324,7 +324,7 @@
    "rank": 18,
    "metrics": {
     "views": 123707,
-    "change": 522
+    "change": 22
    }
   },
   {
@@ -342,7 +342,7 @@
    "rank": 19,
    "metrics": {
     "views": 116285,
-    "change": -62
+    "change": -44
    }
   },
   {
@@ -360,7 +360,7 @@
    "rank": 20,
    "metrics": {
     "views": 111477,
-    "change": 124
+    "change": 152
    }
   }
  ]
