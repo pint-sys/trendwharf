@@ -1,7 +1,91 @@
 {
- "updated": "2026-11-14T15:54:14Z",
+ "updated": "2026-11-14T20:48:49Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50499017",
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "url": "https://www.crissyfield.de/research/lovable-en/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "crissyfield.de"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T17:43:10Z",
+   "hot": 121.2,
+   "rank": 1,
+   "metrics": {
+    "points": 375,
+    "comments": 130,
+    "discussion": "https://news.ycombinator.com/item?id=50499017"
+   }
+  },
+  {
+   "rawId": "50497892",
+   "title": "PyPI's redesigned project pages with clearer security signals are now live",
+   "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.pypi.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T15:40:52Z",
+   "hot": 30.8,
+   "rank": 2,
+   "metrics": {
+    "points": 158,
+    "comments": 61,
+    "discussion": "https://news.ycombinator.com/item?id=50497892"
+   }
+  },
+  {
+   "rawId": "50499038",
+   "title": "A Family Tree of Software Job Titles",
+   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "zwischenzugs.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T17:45:19Z",
+   "hot": 28.1,
+   "rank": 3,
+   "metrics": {
+    "points": 86,
+    "comments": 33,
+    "discussion": "https://news.ycombinator.com/item?id=50499038"
+   }
+  },
+  {
+   "rawId": "50496976",
+   "title": "KDE: The documentary [video]",
+   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tube.kockatoo.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T13:43:28Z",
+   "hot": 40.6,
+   "rank": 4,
+   "metrics": {
+    "points": 288,
+    "comments": 61,
+    "discussion": "https://news.ycombinator.com/item?id=50496976"
+   }
+  },
   {
    "rawId": "50440709",
    "title": "Why get an expensive Pi when I have an old phone?",
@@ -15,54 +99,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T14:16:05Z",
-   "hot": 3.2,
-   "rank": 1,
+   "hot": 4.4,
+   "rank": 5,
    "metrics": {
-    "points": 309,
-    "comments": 184,
+    "points": 447,
+    "comments": 262,
     "discussion": "https://news.ycombinator.com/item?id=50440709"
    }
   },
   {
-   "rawId": "50497132",
-   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-   "url": "https://gitlab.com/snipedbywifi/terminactory",
+   "rawId": "50453901",
+   "title": "Seagate's new hybrid drive raises some old questions",
+   "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "gitlab.com"
+    "arstechnica.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-14T14:05:54Z",
-   "hot": 24.4,
-   "rank": 2,
+   "publishedAt": "2026-11-11T14:32:09Z",
+   "hot": 0.4,
+   "rank": 6,
    "metrics": {
-    "points": 44,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50497132"
-   }
-  },
-  {
-   "rawId": "50496976",
-   "title": "KDE: The Documentary on Free Software [video]",
-   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tube.kockatoo.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T13:43:28Z",
-   "hot": 19.3,
-   "rank": 3,
-   "metrics": {
-    "points": 42,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50496976"
+    "points": 31,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50453901"
    }
   },
   {
@@ -78,12 +141,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-14T13:20:43Z",
-   "hot": 13.7,
-   "rank": 4,
+   "hot": 16.1,
+   "rank": 7,
    "metrics": {
-    "points": 35,
-    "comments": 10,
+    "points": 120,
+    "comments": 30,
     "discussion": "https://news.ycombinator.com/item?id=50496811"
+   }
+  },
+  {
+   "rawId": "50499723",
+   "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+   "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cbc.ca"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T18:56:47Z",
+   "hot": 43.9,
+   "rank": 8,
+   "metrics": {
+    "points": 82,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50499723"
+   }
+  },
+  {
+   "rawId": "50497589",
+   "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+   "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T15:04:15Z",
+   "hot": 16.5,
+   "rank": 9,
+   "metrics": {
+    "points": 95,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50497589"
+   }
+  },
+  {
+   "rawId": "50416011",
+   "title": "Reverse engineering a vintage diode-transistor logic chip",
+   "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "righto.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-08T19:03:48Z",
+   "hot": 0.4,
+   "rank": 10,
+   "metrics": {
+    "points": 58,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50416011"
    }
   },
   {
@@ -99,12 +225,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-10T15:07:28Z",
-   "hot": 0.7,
-   "rank": 5,
+   "hot": 1.4,
+   "rank": 11,
    "metrics": {
-    "points": 65,
-    "comments": 46,
+    "points": 143,
+    "comments": 87,
     "discussion": "https://news.ycombinator.com/item?id=50441444"
+   }
+  },
+  {
+   "rawId": "50497132",
+   "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+   "url": "https://gitlab.com/snipedbywifi/terminactory",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "gitlab.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T14:05:54Z",
+   "hot": 16.5,
+   "rank": 12,
+   "metrics": {
+    "points": 111,
+    "comments": 24,
+    "discussion": "https://news.ycombinator.com/item?id=50497132"
+   }
+  },
+  {
+   "rawId": "50498945",
+   "title": "Will we put data centers in space?",
+   "url": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "forethought.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T17:35:33Z",
+   "hot": 6.5,
+   "rank": 13,
+   "metrics": {
+    "points": 21,
+    "comments": 53,
+    "discussion": "https://news.ycombinator.com/item?id=50498945"
+   }
+  },
+  {
+   "rawId": "50471874",
+   "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+   "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "esquire.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T18:28:06Z",
+   "hot": 0.2,
+   "rank": 14,
+   "metrics": {
+    "points": 12,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50471874"
+   }
+  },
+  {
+   "rawId": "50493904",
+   "title": "Monkey Island: all 13 versions side by side",
+   "url": "https://monkeyisland.pages.dev/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "monkeyisland.pages.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T04:23:30Z",
+   "hot": 25.6,
+   "rank": 15,
+   "metrics": {
+    "points": 420,
+    "comments": 139,
+    "discussion": "https://news.ycombinator.com/item?id=50493904"
+   }
+  },
+  {
+   "rawId": "50497416",
+   "title": "Demystifying phone unlocking tools: A technical overview",
+   "url": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "osservatorionessuno.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T14:44:28Z",
+   "hot": 5.4,
+   "rank": 16,
+   "metrics": {
+    "points": 33,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50497416"
    }
   },
   {
@@ -120,11 +351,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-14T14:06:34Z",
-   "hot": 7.2,
-   "rank": 6,
+   "hot": 8.1,
+   "rank": 17,
    "metrics": {
-    "points": 13,
-    "comments": 1,
+    "points": 54,
+    "comments": 16,
     "discussion": "https://news.ycombinator.com/item?id=50497137"
    }
   },
@@ -141,117 +372,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-14T12:45:45Z",
-   "hot": 50.6,
-   "rank": 7,
+   "hot": 43.8,
+   "rank": 18,
    "metrics": {
-    "points": 159,
-    "comments": 43,
+    "points": 353,
+    "comments": 139,
     "discussion": "https://news.ycombinator.com/item?id=50496602"
-   }
-  },
-  {
-   "rawId": "50493062",
-   "title": "Ggml v1.0.0",
-   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T02:28:29Z",
-   "hot": 26.4,
-   "rank": 8,
-   "metrics": {
-    "points": 354,
-    "comments": 54,
-    "discussion": "https://news.ycombinator.com/item?id=50493062"
-   }
-  },
-  {
-   "rawId": "50467278",
-   "title": "Testing a Trash Can Faraday Cage",
-   "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jefftk.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T14:04:27Z",
-   "hot": 0.4,
-   "rank": 9,
-   "metrics": {
-    "points": 20,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50467278"
-   }
-  },
-  {
-   "rawId": "50497155",
-   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
-   "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "developer.nvidia.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T14:09:25Z",
-   "hot": 29.2,
-   "rank": 10,
-   "metrics": {
-    "points": 51,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50497155"
-   }
-  },
-  {
-   "rawId": "50497147",
-   "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-   "url": "https://github.com/paul-nameless/agweb",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T14:08:12Z",
-   "hot": 12.4,
-   "rank": 11,
-   "metrics": {
-    "points": 22,
-    "comments": 6,
-    "discussion": "https://news.ycombinator.com/item?id=50497147"
-   }
-  },
-  {
-   "rawId": "50493904",
-   "title": "Monkey Island: all 13 versions side by side",
-   "url": "https://monkeyisland.pages.dev/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "monkeyisland.pages.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T04:23:30Z",
-   "hot": 27.4,
-   "rank": 12,
-   "metrics": {
-    "points": 315,
-    "comments": 95,
-    "discussion": "https://news.ycombinator.com/item?id=50493904"
    }
   },
   {
@@ -267,159 +393,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-14T13:48:06Z",
-   "hot": 34.7,
-   "rank": 13,
+   "hot": 35.4,
+   "rank": 19,
    "metrics": {
-    "points": 73,
-    "comments": 22,
+    "points": 248,
+    "comments": 159,
     "discussion": "https://news.ycombinator.com/item?id=50497009"
    }
   },
   {
-   "rawId": "50478632",
-   "title": "Let's Write a PostScript Interpreter",
-   "url": "https://beyondloom.com/blog/postscript.html",
+   "rawId": "50467278",
+   "title": "Testing a Trash Can Faraday Cage",
+   "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "beyondloom.com"
+    "jefftk.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-13T05:12:56Z",
-   "hot": 1.4,
-   "rank": 14,
-   "metrics": {
-    "points": 50,
-    "comments": 9,
-    "discussion": "https://news.ycombinator.com/item?id=50478632"
-   }
-  },
-  {
-   "rawId": "50496885",
-   "title": "A visual explanation of reinforcement learning",
-   "url": "https://aatishb.com/myriad/how-brains-learn/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "aatishb.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T13:31:06Z",
-   "hot": 6.3,
-   "rank": 15,
-   "metrics": {
-    "points": 15,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50496885"
-   }
-  },
-  {
-   "rawId": "50493251",
-   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "techpowerup.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T02:52:59Z",
-   "hot": 66.9,
-   "rank": 16,
-   "metrics": {
-    "points": 871,
-    "comments": 522,
-    "discussion": "https://news.ycombinator.com/item?id=50493251"
-   }
-  },
-  {
-   "rawId": "50491423",
-   "title": "Terminal borders that don't cost a cell",
-   "url": "https://www.joshka.net/cell-borders/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "joshka.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-13T23:06:40Z",
-   "hot": 21.4,
-   "rank": 17,
-   "metrics": {
-    "points": 359,
-    "comments": 152,
-    "discussion": "https://news.ycombinator.com/item?id=50491423"
-   }
-  },
-  {
-   "rawId": "50491980",
-   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-   "url": "https://unsloth.ai/docs/models/qwen3.8",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "unsloth.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T00:06:04Z",
-   "hot": 13.4,
-   "rank": 18,
-   "metrics": {
-    "points": 211,
-    "comments": 65,
-    "discussion": "https://news.ycombinator.com/item?id=50491980"
-   }
-  },
-  {
-   "rawId": "50489641",
-   "title": "FAA issues national ground stop – lifted 4.5 hours later",
-   "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nbcnews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-13T21:05:53Z",
-   "hot": 85.3,
-   "rank": 19,
-   "metrics": {
-    "points": 1605,
-    "comments": 1228,
-    "discussion": "https://news.ycombinator.com/item?id=50489641"
-   }
-  },
-  {
-   "rawId": "50465926",
-   "title": "Bilingualism and Denaskuleco",
-   "url": "https://pgadey.ca/notes/bilingualism-and-denaskuleco/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "pgadey.ca"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T12:00:06Z",
-   "hot": 0.1,
+   "publishedAt": "2026-11-12T14:04:27Z",
+   "hot": 1.0,
    "rank": 20,
    "metrics": {
-    "points": 5,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50465926"
+    "points": 54,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50467278"
    }
   }
  ]
