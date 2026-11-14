@@ -1,255 +1,255 @@
 {
- "updated": "2026-11-14T09:09:10Z",
+ "updated": "2026-11-14T15:54:14Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "timothee chalamet",
-   "query": "timothee chalamet",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-14T08:50:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQYniHpPvV--5IfX24XSnpnNRmAsSwn-5x5FvR3UDMNEkCXYVSNrIxpbYRV6M",
+   "rawId": "rockstar games gta vi",
+   "query": "rockstar games gta vi",
+   "traffic": "20000+",
+   "trafficNum": 20000,
+   "publishedAt": "2026-11-14T15:10:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHd3NeVzvt-oNvLnusokHIZ-Zb9oL682xyGIb4UF05rnZ0hudTW3XGqB38g94",
    "news": [
     {
-     "title": "Zendaya, Timothée Chalamet and Anya Taylor-Joy Prank Interviewer During ‘Dune: Part 3’ Press",
-     "url": "https://www.yahoo.com/entertainment/celebrity/interviews/articles/zendaya-timoth-e-chalamet-anya-223612948.html",
-     "source": "Yahoo"
+     "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+     "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+     "source": "CNBC"
     },
     {
-     "title": "Timothée Chalamet and Zendaya prank Rylan Clark for Children in Need",
-     "url": "https://www.bbc.com/news/articles/cqly4lnxn031o",
+     "title": "‘GTA VI’ Has Already Sold $1 Billion+ In Preorders—But May Not Revive Console Sales Amid AI-Driven Price Hikes",
+     "url": "https://www.forbes.com/sites/conormurray/2026/11/14/gta-vi-has-already-sold-1-billion-in-preorders-but-may-not-revive-console-sales-amid-ai-driven-price-hikes/",
+     "source": "Forbes"
+    },
+    {
+     "title": "How years of research built Grand Theft Auto VI’s obsessively detailed world",
+     "url": "https://www.theguardian.com/games/2026/nov/11/a-world-of-its-own-inside-the-making-of-the-most-detailed-grand-theft-auto-yet",
+     "source": "The Guardian"
+    }
+   ]
+  },
+  {
+   "rawId": "wake forest football",
+   "query": "wake forest football",
+   "traffic": "5000+",
+   "trafficNum": 5000,
+   "publishedAt": "2026-11-14T15:10:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe4yKUm5BHti0zCOwndWAVejhMW-4sKBcE9OPXtbH9fVmnRpitUdUJHYG47UM",
+   "news": [
+    {
+     "title": "How to Watch Wake Forest vs. SMU: TV Channel, Live Stream, Time",
+     "url": "https://www.foxsports.com/stories/college-football/how-to-watch-wake-forest-vs-smu-tv-channel-live-stream-time-nov-14-2026",
+     "source": "FOX Sports"
+    },
+    {
+     "title": "SMU vs. Wake Forest: How To Watch Key ACC Showdown",
+     "url": "https://sports.yahoo.com/articles/smu-vs-wake-forest-watch-131705891.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "A Defining Day in Dallas: Three Keys to Wake Forest’s Championship Push",
+     "url": "https://www.si.com/college/wake-forest/football/a-defining-day-in-dallas-three-keys-to-wake-forests-championship-push-01m7c5nav73b",
+     "source": "Sports Illustrated"
+    }
+   ]
+  },
+  {
+   "rawId": "husker football schedule",
+   "query": "husker football schedule",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-11-14T15:30:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA2K2byflIsjnJsVHksIpxWvwoRjMBA05MiEw6kJ9gxAboxppt5EjxTyH63Wk",
+   "news": [
+    {
+     "title": "No. 2 Oklahoma State overpowers No. 3 Nebraska 27-6 in Stillwater",
+     "url": "https://www.ncaa.com/live-updates/wrestling-men/d1/no-2-oklahoma-state-overpowers-no-3-nebraska-27-6-stillwater",
+     "source": "NCAA.com"
+    },
+    {
+     "title": "No. 3 Nebraska Falls to No. 2 Oklahoma State - University of Nebraska - Official Athletics Website",
+     "url": "https://huskers.com/news/2026/11/13/no-3-nebraska-falls-to-no-2-oklahoma-state",
+     "source": "huskers.com"
+    },
+    {
+     "title": "Cowboy Wrestling set to host No. 3 Nebraska",
+     "url": "https://okstate.com/news/2026/11/12/cowboy-wrestling-set-to-host-no-3-nebraska",
+     "source": "Oklahoma State University Athletics"
+    }
+   ]
+  },
+  {
+   "rawId": "jake dickert",
+   "query": "jake dickert",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-11-14T15:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRglw2ND6rGqF_P1Zeib89_lj24hUWZXJVlLppZk66nRYVYw8cplwoaMxhq700",
+   "news": [
+    {
+     "title": "Wake Forest awards second-year coach Dickert with extension",
+     "url": "https://www.espn.com/college-football/story/_/id/50463776/wake-forest-awards-second-year-coach-dickert-extension",
+     "source": "ESPN"
+    },
+    {
+     "title": "Jake Dickert agrees to new Wake Forest contract, rebuffing coaching carousel interest",
+     "url": "https://www.cbssports.com/college-football/news/jake-dickert-wake-forest-new-contract-coaching-carousel/",
+     "source": "CBS Sports"
+    },
+    {
+     "title": "FSU head coach candidate Jake Dickert discussing contract extension",
+     "url": "https://sports.yahoo.com/articles/fsu-head-coach-candidate-jake-191348916.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "daniel altmaier",
+   "query": "daniel altmaier",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-14T15:00:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsYXSgfkOSJugZ9bXMZNulEN11fiPxeXvtcXaGfgzP8G5T6YiIoIC5bE22gfQ",
+   "news": [
+    {
+     "title": "November 15, 2026: Taro Daniel vs Daniel Michalski Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/0f09d586-8944-4057-a570-a7e911c36400/",
+     "source": "Robinhood"
+    },
+    {
+     "title": "November 12, 2026: Juncheng Shang vs Dane Sweeny Tennis Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/0eb2fd52-9630-4d60-a733-4a89cc198822/",
+     "source": "Robinhood"
+    },
+    {
+     "title": "November 12, 2026: Ognjen Milic vs Rei Sakamoto Prediction Market",
+     "url": "https://robinhood.com/us/en/prediction-markets/tennis/events/2b46a0f9-350b-455f-8f7e-233f73c28789/",
+     "source": "Robinhood"
+    }
+   ]
+  },
+  {
+   "rawId": "ian johnson",
+   "query": "ian johnson",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-14T14:50:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqK7U8ZQ7hoxoRVlmK1oZc75_cygaT6mbOLJ4jHUeCUew6_xEKfzMcK9N1bzo",
+   "news": [
+    {
+     "title": "BarkBoard and Friends Predictions: Fresno State at Texas State",
+     "url": "https://247sports.com/college/fresno-state/longformarticle/fresno-state-at-texas-state-preview-predictions-barkboard-and-friends-betting--292637650/",
+     "source": "247Sports"
+    },
+    {
+     "title": "Steve Fezzik Free CFB Pick of the Week - Week 11",
+     "url": "https://sicscore.com/news/steve-fezzik-free-cfb-pick-of-the-week-week-11",
+     "source": "Sports Injury Central"
+    },
+    {
+     "title": "2026 Pac-12 Week 11 Game Previews: Game Time, TV Schedule, Odds, Predictions",
+     "url": "https://www.mwcconnection.com/pac-12-football/95847/2026-pac-12-week-11-game-previews-game-time-tv-schedule-odds-predictions",
+     "source": "Mountain West Connection"
+    }
+   ]
+  },
+  {
+   "rawId": "gio lopez",
+   "query": "gio lopez",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-14T15:20:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSflN1_Mwup4YYrdyU9MCQV_zxcEl0ZZKCR4QOcIAZrbrt2VPH3W5xzKfQ8GuU",
+   "news": [
+    {
+     "title": "College football Week 11 players to watch: Can Wake Forest's Gio Lopez return with big game vs. SMU?",
+     "url": "https://sports.yahoo.com/college-football/article/college-football-week-11-players-to-watch-can-wake-forests-gio-lopez-return-with-big-game-vs-smu-152303851.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Wake Forest gets good news on initial availability report ahead of SMU",
+     "url": "https://247sports.com/college/wake-forest/article/wake-forest-gets-good-news-on-initial-availability-report-ahead-of-smu-292582188/",
+     "source": "247Sports"
+    },
+    {
+     "title": "Locals can help Heisman Trophy hopeful from Madison",
+     "url": "https://www.themadisonrecord.com/2026/11/11/locals-can-help-heisman-trophy-hopeful-madison/",
+     "source": "Madison Record"
+    }
+   ]
+  },
+  {
+   "rawId": "ian mcnabb",
+   "query": "ian mcnabb",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-14T15:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRxOm_BYrK2q9dO7QsVfTkOAReb6V0s5KjDfcMREnpNzTmOB1zMqHnaGqpmmas",
+   "news": [
+    {
+     "title": "Singer's Hall of Fame induction axed over Russell Brand comments",
+     "url": "https://www.bbc.com/news/articles/c52e8kvwd7d1o",
      "source": "BBC"
     },
     {
-     "title": "‘Dune: Part Three’ Stars Set For Very Childish BBC Prank Tonight",
-     "url": "https://deadline.com/2026/11/chalamet-dune-part-three-prank-bbc-children-in-need-1237222621/",
-     "source": "Deadline"
+     "title": "’80s singer’s tour cancelled after ‘disgusting’ comments defending Russell Brand",
+     "url": "https://www.nine.com.au/entertainment/celebrity/ian-mcnabb-tour-dates-cancelled-after-comments-defending-convicted-rapist-russell-brand-20261112-p61dj9.html",
+     "source": "Nine.com.au"
+    },
+    {
+     "title": "After British singer defends Russell Brand, his shows are canceled",
+     "url": "https://www.mercurynews.com/2026/11/12/icicle-works-ian-mcnabb-russell-brand-shows-canceled/",
+     "source": "The Mercury News"
     }
    ]
   },
   {
-   "rawId": "kobe bryant",
-   "query": "kobe bryant",
+   "rawId": "rodeo",
+   "query": "rodeo",
    "traffic": "200+",
    "trafficNum": 200,
-   "publishedAt": "2026-11-14T08:30:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQW3rZbmNITgBNNnbeSaYJYi9xf4WB67TFGvMrMgBUqvPf02yPPl7w6lGG_N2Y",
+   "publishedAt": "2026-11-14T15:30:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRNEVPlQ4r4YpNErkjeCW5XDJKT7gjdy2PSyECYddR6lr1931ZciCdy1IfwTVo",
    "news": [
     {
-     "title": "\"With no Shaq, they don't beat us\" - Kenyon Martin explains why the Nets feared Shaquille O'Neal more than Kobe Bryant",
-     "url": "https://sports.yahoo.com/articles/no-shaq-dont-beat-us-225800694.html",
-     "source": "Yahoo Sports"
+     "title": "Champions Claim $12,000 Wins on Opening Night of Hondo Rodeo Fest",
+     "url": "https://www.si.com/fannation/rodeo/news/champions-claim-12000-wins-on-opening-night-hondo-rodeo-fest",
+     "source": "Sports Illustrated"
     },
     {
-     "title": "\"I had to go to the hospital for three days\" - Jerry West recalls the price he paid to bring Shaq and Kobe to Los Angeles",
-     "url": "https://sports.yahoo.com/articles/had-hospital-three-days-jerry-154106806.html",
-     "source": "Yahoo Sports"
+     "title": "Things to do: Phoenix Pizza Festival, Hondo Rodeo Fest, Sumo + Sushi and more",
+     "url": "https://www.abc15.com/entertainment/events/things-to-do-phoenix-pizza-festival-hondo-rodeo-fest-sumo-sushi-and-more",
+     "source": "ABC15 Arizona"
     },
     {
-     "title": "Jerry West spent three days in hospital after bringing Shaq, Kobe to Lakers",
-     "url": "https://hoopswire.com/jerry-west-spent-three-days-in-hospital-after-bringing-shaq-kobe-to-lakers/",
-     "source": "Hoops Wire"
+     "title": "Navajo ropers Erich Rogers, James Arviso head to Hondo Rodeo Fest",
+     "url": "https://www.nhonews.com/news/navajo-ropers-erich-rogers-james-arviso-head-to-hondo-rodeo-fest/article_97c2892f-596e-42cf-bf20-9ed7078d72e8.html",
+     "source": "Navajo-Hopi Observer"
     }
    ]
   },
   {
-   "rawId": "nyt games",
-   "query": "nyt games",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:50:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbWTFs9otYzqS9eHZbldTpbyCOcgKyIP3yZhB7Iqfex58sxKAVg4MeUQhBwOY",
+   "rawId": "uga game today",
+   "query": "uga game today",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-14T15:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxq6WO6TsH7O-Do5mUiHqVlrp1BXK-7sHDB6aQJ3mr1LKAz8wxV4K49FAAYYs",
    "news": [
     {
-     "title": "NYT Connections hints today: Meanings for each word for Nov. 14, 2026",
-     "url": "https://mashable.com/entertainment/nyt-connections-hints-meanings-november-14-2026",
-     "source": "Mashable"
+     "title": "3 things to watch for when No. 22 Mizzou plays No. 1 Georgia",
+     "url": "https://www.stltoday.com/sports/college/mizzou/article_d07f8819-b883-4f02-aee0-1d31e11cdea2.html",
+     "source": "STLtoday.com"
     },
     {
-     "title": "Today’s NYT Connections Hints and Answers for Saturday, Nov. 14, #1252",
-     "url": "https://www.cnet.com/tech/gaming/todays-nyt-connections-hints-answers-november-14-1252/",
-     "source": "CNET"
+     "title": "Georgia football injury report vs. Missouri",
+     "url": "https://247sports.com/college/georgia/longformarticle/georgia-bulldogs-football-injury-update-report-vs-missouri-tigers-drew-bobo-josh-horton-ellis-robinson-kirby-smart-sec-292623864/",
+     "source": "247Sports"
     },
     {
-     "title": "Today’s NYT Connections Hints And Answers For Saturday, November 14",
-     "url": "https://www.forbes.com/sites/paultassi/2026/11/13/todays-nyt-connections-hints-and-answers-for-saturday-november-14/",
-     "source": "Forbes"
-    }
-   ]
-  },
-  {
-   "rawId": "the tomb of the unknown soldier",
-   "query": "the tomb of the unknown soldier",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:50:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcYKcDRKXmDhsAmcmytst_ageJbf2igv9BzmTzVmXAiEKrNv0W69dQi4UvOdM",
-   "news": [
-    {
-     "title": "Pete Hegseth, a Soldier’s Scolding and a Lesson at the Tomb of Unknowns",
-     "url": "https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html",
-     "source": "The New York Times"
-    },
-    {
-     "title": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
-     "url": "https://www.cnn.com/2026/11/12/politics/hegseth-awards-medal-soldier-reprimanded-him",
-     "source": "CNN"
-    },
-    {
-     "title": "Hegseth awards medal to guard who scolded him at the Tomb of the Unknown Soldier",
-     "url": "https://www.nbcwashington.com/news/national-international/hegseth-awards-medal-guard-tomb-of-the-unknown-soldier/4181944/",
-     "source": "NBC4 Washington"
-    }
-   ]
-  },
-  {
-   "rawId": "hltv",
-   "query": "hltv",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:40:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDdjcp4mkCQ4q7ZaGOnTiMTUtcnbTiJVRBwbFwuvnJ6ZwUfOOSbvbFDvaEEs4",
-   "news": [
-    {
-     "title": "H0NeST on making HLTV Prospects: \"I can be better...I need to just work on myself and get higher\"",
-     "url": "https://www.dust2.us/news/79906/h0nest-on-making-hltv-prospects-i-can-be-betteri-need-to-just-work-on-myself-and-get-higher",
-     "source": "Dust2.us"
-    },
-    {
-     "title": "Iowa Stormboar's H0NeST breaks into HLTV Top 50 Prospects at #33",
-     "url": "https://www.dust2.us/news/79679/iowa-stormboars-h0nest-breaks-into-hltv-top-50-prospects-at-33",
-     "source": "Dust2.us"
-    },
-    {
-     "title": "Jorko, nEMANHA among eligible players for HLTV Rookie of the Year 2026",
-     "url": "https://www.dust2.us/news/79882/jorko-nemanha-among-eligible-players-for-hltv-rookie-of-the-year-2026",
-     "source": "Dust2.us"
-    }
-   ]
-  },
-  {
-   "rawId": "ana de armas",
-   "query": "ana de armas",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:30:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRLG11Npj6FAJ7LEH4BGGaq0NPvbRWYb76OXKdAWALtbzRtfmtHHHA4AbTqWGU",
-   "news": [
-    {
-     "title": "Ana de Armas & Beto Montenegro Make Red-Carpet Debut",
-     "url": "https://extratv.com/2026/11/12/ana-de-armas-and-beto-montenegro-make-red-carpet-debut/",
-     "source": "Extra"
-    },
-    {
-     "title": "Ana de Armas Looks Gorgeous as She Steps Out to Support Boyfriend Beto Montenegro at Latin Grammys 2026",
-     "url": "https://www.imdb.com/news/ni66108941/?ref_=nwc_art_perm",
-     "source": "IMDb"
-    },
-    {
-     "title": "Ana de Armas in Wiederhoeft for 2026 Latin Recording Academy Gala",
-     "url": "https://www.redcarpet-fashionawards.com/2026/11/12/ana-de-armas-embraces-a-more-sensual-look-at-the-latin-recording-academy-gala/",
-     "source": "Red Carpet Fashion Awards"
-    }
-   ]
-  },
-  {
-   "rawId": "joseph zada",
-   "query": "joseph zada",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:30:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfontl1V6GbTtYYpj81BdOS0107Pa9QFt8v7OdkrCxCph8Hi27H1BP2hlopbk",
-   "news": [
-    {
-     "title": "Mckenna Grace Wears Fully See-Through Dress to Support Joseph Zada’s ‘Cultured’ Cover Launch",
-     "url": "https://www.imdb.com/news/ni66106963/?ref_=nwc_art_perm",
-     "source": "IMDb"
-    },
-    {
-     "title": "Mckenna Grace Flashes Underwear in Sheer Lacy Micro Minidress & Louboutins",
-     "url": "https://www.thefashionspot.com/fashion-news/982290-mckenna-grace-underwear-sheer-lacy-micro-minidress-christian-louboutins",
-     "source": "theFashionSpot"
-    },
-    {
-     "title": "McKenna Grace Serves Gothic Glam in Daring Lace Minidress Straight Out of Britney Spears' 2001 VMAs Era",
-     "url": "https://www.fashiontimes.co.uk/mckenna-grace-britney-spears-lace-dress-1767678",
-     "source": "Fashion Times UK"
-    }
-   ]
-  },
-  {
-   "rawId": "natalie portman",
-   "query": "natalie portman",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:20:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOLbuZUaeJkfAHSPYMrmcRgLeZYV8xYUNRYWgXkCfI3a9_NYOqrKE80d4i7o",
-   "news": [
-    {
-     "title": "Jenna Ortega and Natalie Portman’s Twisted New Crime Comedy Officially Unleashes Its Trailer",
-     "url": "https://www.imdb.com/news/ni66101296/?ref_=nmnw_art_perm",
-     "source": "IMDb"
-    },
-    {
-     "title": "Licensable picture: 2026 - THE GALLERIST - Movie Set",
-     "url": "https://www.reutersconnect.com/item/2026-the-gallerist-movie-set/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBBVlpMV1I",
-     "source": "Reuters Connect"
-    },
-    {
-     "title": "Roadside Attractions Drops Trailer For ‘The Gallerist,’ Hitting Theaters Dec. 4",
-     "url": "https://www.mediaplaynews.com/roadside-attractions-drops-trailer-for-the-gallerist-hitting-theaters-dec-4/",
-     "source": "Media Play News"
-    }
-   ]
-  },
-  {
-   "rawId": "gta 6 ultimate edition",
-   "query": "gta 6 ultimate edition",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT9LxfvV6Aku-36afdXY9rQxna6G84QWx23KuKcNJfdDck3pXJ7k28SGwLdjE",
-   "news": [
-    {
-     "title": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
-     "url": "https://ktla.com/entertainment/free-copies-of-grand-theft-auto-vi-for-californians-what-to-know-about-kick-sweepstakes/",
-     "source": "KTLA"
-    },
-    {
-     "title": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
-     "url": "https://www.notebookcheck.net/10K-free-GTA-6-Ultimate-Edition-game-codes-coming-in-livestream-Twitch-drops.1449873.0.html",
-     "source": "Notebookcheck"
-    },
-    {
-     "title": "Kick viewers can win one of 10,000 free GTA 6 Ultimate Edition copies by watching 3 hours",
-     "url": "https://www.tweaktown.com/news/114652/kick-viewers-can-win-one-of-10000-free-gta-6-ultimate-edition-copies-by-watching-3-hours/index.html",
-     "source": "TweakTown"
-    }
-   ]
-  },
-  {
-   "rawId": "haiti",
-   "query": "haiti",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-14T08:00:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7NTvBVtZlQrO5xCky70LPBJ9G9HTHLpRXfNuzJsrnwI95HFpT-6_aaIlT8Rw",
-   "news": [
-    {
-     "title": "El Salvador has built up a military presence in Haiti. What's in it for the Central American country?",
-     "url": "https://www.dw.com/en/why-does-el-salvadors-bukele-have-troops-in-haiti/a-79940771",
-     "source": "DW.com"
-    },
-    {
-     "title": "El Salvador’s Presence and a Gang’s Offer Test Haiti’s Security",
-     "url": "https://americasquarterly.org/article/el-salvadors-presence-and-a-gangs-offer-test-haitis-security/",
-     "source": "Americas Quarterly"
-    },
-    {
-     "title": "Haiti: Haiti and El Salvador Governments Must Ensure Salvadoran Military Personnel Respect Human Rights",
-     "url": "https://www.amnestyusa.org/press-releases/haiti-haiti-and-el-salvador-governments-must-ensure-salvadoran-military-personnel-respect-human-rights/",
-     "source": "Amnesty International USA"
+     "title": "Georgia vs. Missouri prediction, pick, odds, spread: Bulldogs look to keep rolling against Tigers",
+     "url": "https://www.cbssports.com/college-football/news/georgia-missouri-prediction-picks-odds-spread-where-to-watch-live/",
+     "source": "CBS Sports"
     }
    ]
   }
