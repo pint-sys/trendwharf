@@ -1,31 +1,73 @@
 {
- "updated": "2026-11-15T15:44:17Z",
+ "updated": "2026-11-15T21:07:24Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50507303",
-   "title": "All AI-generated code should be Open Source",
-   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "rawId": "50509308",
+   "title": "A short explainer on how El Niño works [video]",
+   "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+   "videoUrl": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T18:23:21Z",
+   "hot": 34.7,
+   "rank": 1,
+   "metrics": {
+    "points": 95,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50509308"
+   }
+  },
+  {
+   "rawId": "50510005",
+   "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
+   "url": "https://arkanumdata.com/research/house-trades",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "jakub.jankiewicz.org"
+    "arkanumdata.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T14:46:58Z",
-   "hot": 91.0,
-   "rank": 1,
+   "publishedAt": "2026-11-15T19:46:02Z",
+   "hot": 31.7,
+   "rank": 2,
    "metrics": {
-    "points": 91,
-    "comments": 62,
-    "discussion": "https://news.ycombinator.com/item?id=50507303"
+    "points": 43,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50510005"
+   }
+  },
+  {
+   "rawId": "50509023",
+   "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+   "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nytimes.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T17:53:31Z",
+   "hot": 24.8,
+   "rank": 3,
+   "metrics": {
+    "points": 80,
+    "comments": 50,
+    "discussion": "https://news.ycombinator.com/item?id=50509023"
    }
   },
   {
    "rawId": "50506719",
-   "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+   "title": "The MacBook Pro's OLED PWM problem",
    "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
    "videoUrl": null,
    "category": "news",
@@ -36,12 +78,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T13:15:22Z",
-   "hot": 55.2,
-   "rank": 2,
+   "hot": 43.3,
+   "rank": 4,
    "metrics": {
-    "points": 137,
-    "comments": 74,
+    "points": 341,
+    "comments": 177,
     "discussion": "https://news.ycombinator.com/item?id=50506719"
+   }
+  },
+  {
+   "rawId": "50463399",
+   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+   "videoUrl": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+   "category": "news",
+   "tags": [
+    "tech",
+    "youtube.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T05:29:24Z",
+   "hot": 2.6,
+   "rank": 5,
+   "metrics": {
+    "points": 230,
+    "comments": 104,
+    "discussion": "https://news.ycombinator.com/item?id=50463399"
+   }
+  },
+  {
+   "rawId": "50509416",
+   "title": "Eclipse Mosquitto – An open source MQTT broker",
+   "url": "https://github.com/eclipse-mosquitto/mosquitto",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T18:36:40Z",
+   "hot": 12.3,
+   "rank": 6,
+   "metrics": {
+    "points": 31,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50509416"
    }
   },
   {
@@ -57,54 +141,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T13:44:16Z",
-   "hot": 27.5,
-   "rank": 3,
+   "hot": 21.5,
+   "rank": 7,
    "metrics": {
-    "points": 55,
-    "comments": 16,
+    "points": 159,
+    "comments": 77,
     "discussion": "https://news.ycombinator.com/item?id=50506894"
    }
   },
   {
-   "rawId": "50507206",
-   "title": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-   "url": "https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/",
+   "rawId": "50509411",
+   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+   "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "datatracker.ietf.org"
+    "www1.wdr.de"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T14:31:52Z",
-   "hot": 22.4,
-   "rank": 4,
+   "publishedAt": "2026-11-15T18:36:10Z",
+   "hot": 65.9,
+   "rank": 8,
    "metrics": {
-    "points": 27,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50507206"
+    "points": 166,
+    "comments": 79,
+    "discussion": "https://news.ycombinator.com/item?id=50509411"
    }
   },
   {
-   "rawId": "50500963",
-   "title": "SpaceX catches the Starship to end Flight 15",
-   "url": "https://www.spacex.com/launches/starship-flight-15",
+   "rawId": "50507553",
+   "title": "Emacs Is My Browser",
+   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "spacex.com"
+    "joshblais.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-14T21:22:24Z",
-   "hot": 78.1,
-   "rank": 5,
+   "publishedAt": "2026-11-15T15:21:21Z",
+   "hot": 23.8,
+   "rank": 9,
    "metrics": {
-    "points": 1435,
-    "comments": 968,
-    "discussion": "https://news.ycombinator.com/item?id=50500963"
+    "points": 137,
+    "comments": 71,
+    "discussion": "https://news.ycombinator.com/item?id=50507553"
    }
   },
   {
@@ -120,12 +204,180 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T12:14:06Z",
-   "hot": 22.0,
-   "rank": 6,
+   "hot": 19.1,
+   "rank": 10,
    "metrics": {
-    "points": 77,
-    "comments": 0,
+    "points": 170,
+    "comments": 13,
     "discussion": "https://news.ycombinator.com/item?id=50506376"
+   }
+  },
+  {
+   "rawId": "50488916",
+   "title": "Your room can be as bright as the outdoors (2019)",
+   "url": "https://www.benkuhn.net/lux/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "benkuhn.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-13T20:05:20Z",
+   "hot": 0.6,
+   "rank": 11,
+   "metrics": {
+    "points": 31,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50488916"
+   }
+  },
+  {
+   "rawId": "50508715",
+   "title": "Clice v1.0 Released: Welcome to Modern C++",
+   "url": "https://ykiko.me/en/articles/2105384023094834022/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ykiko.me"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T17:22:32Z",
+   "hot": 10.4,
+   "rank": 12,
+   "metrics": {
+    "points": 39,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50508715"
+   }
+  },
+  {
+   "rawId": "50507303",
+   "title": "All AI-generated code should be Open Source",
+   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "jakub.jankiewicz.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T14:46:58Z",
+   "hot": 146.7,
+   "rank": 13,
+   "metrics": {
+    "points": 930,
+    "comments": 509,
+    "discussion": "https://news.ycombinator.com/item?id=50507303"
+   }
+  },
+  {
+   "rawId": "50509883",
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ft.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T19:31:11Z",
+   "hot": 39.3,
+   "rank": 14,
+   "metrics": {
+    "points": 63,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50509883"
+   }
+  },
+  {
+   "rawId": "50465676",
+   "title": "Eval Awareness vs. Eval Paranoia",
+   "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lesswrong.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-12T11:23:02Z",
+   "hot": 0.3,
+   "rank": 15,
+   "metrics": {
+    "points": 28,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50465676"
+   }
+  },
+  {
+   "rawId": "50452621",
+   "title": "Notes on Mathematics for Engineers (1959) [pdf]",
+   "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "websites.umich.edu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-11T12:25:42Z",
+   "hot": 0.4,
+   "rank": 16,
+   "metrics": {
+    "points": 43,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50452621"
+   }
+  },
+  {
+   "rawId": "50509953",
+   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fortune.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T19:39:46Z",
+   "hot": 30.1,
+   "rank": 17,
+   "metrics": {
+    "points": 44,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50509953"
+   }
+  },
+  {
+   "rawId": "50502988",
+   "title": "Court denies motion to dismiss DRAM price fixing case",
+   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "litnews.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T01:18:36Z",
+   "hot": 23.1,
+   "rank": 18,
+   "metrics": {
+    "points": 458,
+    "comments": 207,
+    "discussion": "https://news.ycombinator.com/item?id=50502988"
    }
   },
   {
@@ -141,11 +393,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T12:51:47Z",
-   "hot": 14.3,
-   "rank": 7,
+   "hot": 10.4,
+   "rank": 19,
    "metrics": {
-    "points": 41,
-    "comments": 3,
+    "points": 86,
+    "comments": 31,
     "discussion": "https://news.ycombinator.com/item?id=50506588"
    }
   },
@@ -162,264 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T09:06:43Z",
-   "hot": 19.6,
-   "rank": 8,
-   "metrics": {
-    "points": 130,
-    "comments": 81,
-    "discussion": "https://news.ycombinator.com/item?id=50505271"
-   }
-  },
-  {
-   "rawId": "50499017",
-   "title": "Lovable apps expose passport details and more than 200K private messages",
-   "url": "https://www.crissyfield.de/research/lovable-en/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "crissyfield.de"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T17:43:10Z",
-   "hot": 42.1,
-   "rank": 9,
-   "metrics": {
-    "points": 927,
-    "comments": 355,
-    "discussion": "https://news.ycombinator.com/item?id=50499017"
-   }
-  },
-  {
-   "rawId": "50502988",
-   "title": "Court denies motion to dismiss DRAM price fixing case",
-   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "litnews.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T01:18:36Z",
-   "hot": 23.8,
-   "rank": 10,
-   "metrics": {
-    "points": 344,
-    "comments": 145,
-    "discussion": "https://news.ycombinator.com/item?id=50502988"
-   }
-  },
-  {
-   "rawId": "50481321",
-   "title": "What thousands of conversations look like inside a language model",
-   "url": "https://operator0x.com/field-notes/qwen-conversation-state-space/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "operator0x.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-13T10:26:01Z",
-   "hot": 0.9,
-   "rank": 11,
-   "metrics": {
-    "points": 50,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50481321"
-   }
-  },
-  {
-   "rawId": "50501887",
-   "title": "The Telephone Changed the World",
-   "url": "https://lithub.com/how-the-telephone-changed-the-world/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lithub.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T22:56:09Z",
-   "hot": 0.9,
-   "rank": 12,
-   "metrics": {
-    "points": 15,
-    "comments": 4,
-    "discussion": "https://news.ycombinator.com/item?id=50501887"
-   }
-  },
-  {
-   "rawId": "50475759",
-   "title": "Chasing an audio artifact on power loss",
-   "url": "https://subalpinecircuits.com/chasing-an-audio-artifact-on-power-loss/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "subalpinecircuits.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T23:11:25Z",
-   "hot": 0.4,
-   "rank": 13,
-   "metrics": {
-    "points": 25,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50475759"
-   }
-  },
-  {
-   "rawId": "50457979",
-   "title": "How to read codes from (many) IR remote controls with as little code as possible",
-   "url": "https://bitbanksoftware.blogspot.com/2026/11/how-to-read-codes-from-many-ir-remote.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bitbanksoftware.blogspot.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T20:09:34Z",
-   "hot": 0.2,
-   "rank": 14,
-   "metrics": {
-    "points": 14,
-    "comments": 2,
-    "discussion": "https://news.ycombinator.com/item?id=50457979"
-   }
-  },
-  {
-   "rawId": "50506180",
-   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-   "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nytimes.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T11:40:51Z",
-   "hot": 35.5,
-   "rank": 15,
-   "metrics": {
-    "points": 144,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50506180"
-   }
-  },
-  {
-   "rawId": "50482279",
-   "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-   "url": "https://www.niklasroy.com/carton-clock/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "niklasroy.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-13T12:00:18Z",
-   "hot": 0.6,
-   "rank": 16,
-   "metrics": {
-    "points": 30,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50482279"
-   }
-  },
-  {
-   "rawId": "50463399",
-   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-   "videoUrl": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T05:29:24Z",
-   "hot": 0.1,
-   "rank": 17,
-   "metrics": {
-    "points": 5,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50463399"
-   }
-  },
-  {
-   "rawId": "50474529",
-   "title": "Handwritten 200-year-old dismissal notice found on roof tile",
-   "url": "https://www.bbc.co.uk/news/articles/c6jdmdzv25r9o",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bbc.co.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T21:27:01Z",
-   "hot": 0.7,
-   "rank": 18,
-   "metrics": {
-    "points": 46,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50474529"
-   }
-  },
-  {
-   "rawId": "50501594",
-   "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-   "url": "https://retrocomputing.stackexchange.com/questions/17957",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "retrocomputing.stackexchange.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-14T22:22:49Z",
-   "hot": 15.3,
-   "rank": 19,
-   "metrics": {
-    "points": 266,
-    "comments": 141,
-    "discussion": "https://news.ycombinator.com/item?id=50501594"
-   }
-  },
-  {
-   "rawId": "50503465",
-   "title": "My favourite modern NES games",
-   "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jordi.inversethought.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T02:41:25Z",
-   "hot": 12.1,
+   "hot": 16.5,
    "rank": 20,
    "metrics": {
-    "points": 158,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50503465"
+    "points": 198,
+    "comments": 139,
+    "discussion": "https://news.ycombinator.com/item?id=50505271"
    }
   }
  ]

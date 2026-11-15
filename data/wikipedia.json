@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:44:17Z",
+ "updated": "2026-11-15T21:07:24Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -318,7 +318,7 @@
     "wikipedia"
    ],
    "summary": "Halt in air traffic across the United States. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Seal_of_the_United_States_Federal_Aviation_Administration.svg/330px-Seal_of_the_United_States_Federal_Aviation_Administration.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
    "hot": 78787,
    "rank": 18,
