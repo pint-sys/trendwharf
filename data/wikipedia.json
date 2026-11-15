@@ -1,26 +1,8 @@
 {
- "updated": "2026-11-15T01:08:10Z",
+ "updated": "2026-11-15T07:58:26Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
-  {
-   "rawId": "jensen huang",
-   "title": "Jensen Huang",
-   "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Taiwanese-American businessman (born 1963). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/330px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 727529,
-   "rank": 1,
-   "metrics": {
-    "views": 727529,
-    "change": -32
-   }
-  },
   {
    "rawId": "ramayana: part 1",
    "title": "Ramayana: Part 1",
@@ -32,137 +14,47 @@
    "summary": "2026 Indian film by Nitesh Tiwari. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 618656,
+   "hot": 581992,
+   "rank": 1,
+   "metrics": {
+    "views": 581992,
+    "change": -6
+   }
+  },
+  {
+   "rawId": "sean duffy",
+   "title": "Sean Duffy",
+   "url": "https://en.wikipedia.org/wiki/Sean_Duffy",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American politician (born 1971). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg/330px-Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 434101,
    "rank": 2,
    "metrics": {
-    "views": 618656,
-    "change": -16
+    "views": 434101,
+    "change": 1067
    }
   },
   {
-   "rawId": "colette kress",
-   "title": "Colette Kress",
-   "url": "https://en.wikipedia.org/wiki/Colette_Kress",
+   "rawId": "jensen huang",
+   "title": "Jensen Huang",
+   "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American business executive (born 1967). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Colette_Kress_%281%29.png/330px-Colette_Kress_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Taiwanese-American businessman (born 1963). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/330px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 279241,
+   "hot": 304348,
    "rank": 3,
    "metrics": {
-    "views": 279241,
-    "change": -40
-   }
-  },
-  {
-   "rawId": "nvidia",
-   "title": "Nvidia",
-   "url": "https://en.wikipedia.org/wiki/Nvidia",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American multinational technology company. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/330px-2788-2888_San_Tomas_Expwy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 252871,
-   "rank": 4,
-   "metrics": {
-    "views": 252871,
-    "change": -31
-   }
-  },
-  {
-   "rawId": "chris van hollen",
-   "title": "Chris Van Hollen",
-   "url": "https://en.wikipedia.org/wiki/Chris_Van_Hollen",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American lawyer and politician (born 1959). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Chris_Van_Hollen_official_portrait_115th_Congress.jpg/330px-Chris_Van_Hollen_official_portrait_115th_Congress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 204913,
-   "rank": 5,
-   "metrics": {
-    "views": 204913,
-    "change": 820
-   }
-  },
-  {
-   "rawId": "piracy",
-   "title": "Piracy",
-   "url": "https://en.wikipedia.org/wiki/Piracy",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Acts of robbery or criminality at sea. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Edward_England.svg/330px-Flag_of_Edward_England.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 201972,
-   "rank": 6,
-   "metrics": {
-    "views": 201972,
-    "change": 29866
-   }
-  },
-  {
-   "rawId": "alice huang (executive)",
-   "title": "Alice Huang (executive)",
-   "url": "https://en.wikipedia.org/wiki/Alice_Huang_(executive)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Chinese technology executive and investor (born 1977). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 200012,
-   "rank": 7,
-   "metrics": {
-    "views": 200012,
-    "change": 25
-   }
-  },
-  {
-   "rawId": "sam hartman",
-   "title": "Sam Hartman",
-   "url": "https://en.wikipedia.org/wiki/Sam_Hartman",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American football player (born 1999). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2025_Commanders_vs._Bengals_-_Sam_Hartman_closeup_%28cropped%29.jpg/330px-2025_Commanders_vs._Bengals_-_Sam_Hartman_closeup_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 191577,
-   "rank": 8,
-   "metrics": {
-    "views": 191577,
-    "change": 32874
-   }
-  },
-  {
-   "rawId": "mauricio pochettino",
-   "title": "Mauricio Pochettino",
-   "url": "https://en.wikipedia.org/wiki/Mauricio_Pochettino",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Argentine football manager (born 1972). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg/330px-Mauricio_Pochettino_USMNT_v_Belgium_Mar_28_2026-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 172224,
-   "rank": 9,
-   "metrics": {
-    "views": 172224,
-    "change": 2
+    "views": 304348,
+    "change": -58
    }
   },
   {
@@ -176,11 +68,29 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 171338,
-   "rank": 10,
+   "hot": 172992,
+   "rank": 4,
    "metrics": {
-    "views": 171338,
-    "change": 17
+    "views": 172992,
+    "change": 1
+   }
+  },
+  {
+   "rawId": "ansel adams",
+   "title": "Ansel Adams",
+   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American photographer and environmentalist (1902–1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/330px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 127659,
+   "rank": 5,
+   "metrics": {
+    "views": 127659,
+    "change": 46
    }
   },
   {
@@ -194,11 +104,101 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 136924,
+   "hot": 125720,
+   "rank": 6,
+   "metrics": {
+    "views": 125720,
+    "change": -8
+   }
+  },
+  {
+   "rawId": "markwayne mullin",
+   "title": "Markwayne Mullin",
+   "url": "https://en.wikipedia.org/wiki/Markwayne_Mullin",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American politician and businessman (born 1977). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/DHS_Secretary_Markwayne_Mullin_Official_Portrait_%2855166865268%29.jpg/330px-DHS_Secretary_Markwayne_Mullin_Official_Portrait_%2855166865268%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 113475,
+   "rank": 7,
+   "metrics": {
+    "views": 113475,
+    "change": 222
+   }
+  },
+  {
+   "rawId": "nvidia",
+   "title": "Nvidia",
+   "url": "https://en.wikipedia.org/wiki/Nvidia",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American multinational technology company. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/330px-2788-2888_San_Tomas_Expwy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 110648,
+   "rank": 8,
+   "metrics": {
+    "views": 110648,
+    "change": -56
+   }
+  },
+  {
+   "rawId": "sam hartman",
+   "title": "Sam Hartman",
+   "url": "https://en.wikipedia.org/wiki/Sam_Hartman",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American football player (born 1999). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/2025_Commanders_vs._Bengals_-_Sam_Hartman_closeup_%28cropped%29.jpg/330px-2025_Commanders_vs._Bengals_-_Sam_Hartman_closeup_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 105388,
+   "rank": 9,
+   "metrics": {
+    "views": 105388,
+    "change": -45
+   }
+  },
+  {
+   "rawId": "colette kress",
+   "title": "Colette Kress",
+   "url": "https://en.wikipedia.org/wiki/Colette_Kress",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American business executive (born 1967). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Colette_Kress_%281%29.png/330px-Colette_Kress_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 104257,
+   "rank": 10,
+   "metrics": {
+    "views": 104257,
+    "change": -63
+   }
+  },
+  {
+   "rawId": "russell brand",
+   "title": "Russell Brand",
+   "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "English comedian and actor (born 1975). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg/330px-Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 104051,
    "rank": 11,
    "metrics": {
-    "views": 136924,
-    "change": -5
+    "views": 104051,
+    "change": -8
    }
   },
   {
@@ -212,119 +212,11 @@
    "summary": "Canadian singer (born 1984). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg/330px-Glaston2024_2806_300624_%28129_of_173%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 120937,
+   "hot": 101792,
    "rank": 12,
    "metrics": {
-    "views": 120937,
-    "change": 2291
-   }
-  },
-  {
-   "rawId": "russell brand",
-   "title": "Russell Brand",
-   "url": "https://en.wikipedia.org/wiki/Russell_Brand",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "English comedian, actor and media personality (born 1975). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg/330px-Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 112783,
-   "rank": 13,
-   "metrics": {
-    "views": 112783,
-    "change": -3
-   }
-  },
-  {
-   "rawId": "dan hicks (sportscaster)",
-   "title": "Dan Hicks (sportscaster)",
-   "url": "https://en.wikipedia.org/wiki/Dan_Hicks_(sportscaster)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American sportscaster (1962–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/6/6d/Dan_Hicks_%28sportscaster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 107505,
-   "rank": 14,
-   "metrics": {
-    "views": 107505,
-    "change": -32
-   }
-  },
-  {
-   "rawId": "anthony clark (actor)",
-   "title": "Anthony Clark (actor)",
-   "url": "https://en.wikipedia.org/wiki/Anthony_Clark_(actor)",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American actor and comedian (1964–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/03/Cropped_Photo_of_Anthony_Clark.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 105784,
-   "rank": 15,
-   "metrics": {
-    "views": 105784,
-    "change": -72
-   }
-  },
-  {
-   "rawId": "david walliams",
-   "title": "David Walliams",
-   "url": "https://en.wikipedia.org/wiki/David_Walliams",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "English comedian, writer and actor (born 1971). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/David_Walliams_at_the_2025_Jaipur_Literature_Festival_%28cropped%29.jpg/330px-David_Walliams_at_the_2025_Jaipur_Literature_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 97674,
-   "rank": 16,
-   "metrics": {
-    "views": 97674,
-    "change": -29
-   }
-  },
-  {
-   "rawId": "lisa su",
-   "title": "Lisa Su",
-   "url": "https://en.wikipedia.org/wiki/Lisa_Su",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Taiwanese and American business executive (born 1969). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/SXSW-2024-alih-OB7A0861-Lisa_Su_%28cropped_2%29.jpg/330px-SXSW-2024-alih-OB7A0861-Lisa_Su_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 97254,
-   "rank": 17,
-   "metrics": {
-    "views": 97254,
-    "change": -29
-   }
-  },
-  {
-   "rawId": "hannah storm",
-   "title": "Hannah Storm",
-   "url": "https://en.wikipedia.org/wiki/Hannah_Storm",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American sportscaster (born 1962). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Michele_Steele%2C_Vice_Adm._Mary_M._Jackson%2C_and_Hannah_Storm_%28cropped%29.jpg/330px-Michele_Steele%2C_Vice_Adm._Mary_M._Jackson%2C_and_Hannah_Storm_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 96412,
-   "rank": 18,
-   "metrics": {
-    "views": 96412,
-    "change": -25
+    "views": 101792,
+    "change": -16
    }
   },
   {
@@ -338,29 +230,137 @@
    "summary": "2026 Indian film by Nelson Dilipkumar. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/dc/Jailer_2_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 94514,
-   "rank": 19,
+   "hot": 94125,
+   "rank": 13,
    "metrics": {
-    "views": 94514,
-    "change": -12
+    "views": 94125,
+    "change": 0
    }
   },
   {
-   "rawId": "jensen huang spying scandal",
-   "title": "Jensen Huang spying scandal",
-   "url": "https://en.wikipedia.org/wiki/Jensen_Huang_spying_scandal",
+   "rawId": "alice huang (executive)",
+   "title": "Alice Huang (executive)",
+   "url": "https://en.wikipedia.org/wiki/Alice_Huang_(executive)",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Espionage allegations involving former Nvidia CEO. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Jensen_huang_stanford_2026-04-30_010_%28cropped%29.jpg/330px-Jensen_huang_stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Chinese technology executive and investor (born 1977). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Alice_Huang.jpg/330px-Alice_Huang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 94201,
+   "hot": 91286,
+   "rank": 14,
+   "metrics": {
+    "views": 91286,
+    "change": -54
+   }
+  },
+  {
+   "rawId": "the body (tv series)",
+   "title": "The Body (TV series)",
+   "url": "https://en.wikipedia.org/wiki/The_Body_(TV_series)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American television series. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/The_Body_Final_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 90665,
+   "rank": 15,
+   "metrics": {
+    "views": 90665,
+    "change": 14
+   }
+  },
+  {
+   "rawId": "rachel campos-duffy",
+   "title": "Rachel Campos-Duffy",
+   "url": "https://en.wikipedia.org/wiki/Rachel_Campos-Duffy",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American television personality (born 1971). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Rachel_Campos-Duffy_in_2025.jpg/330px-Rachel_Campos-Duffy_in_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 86460,
+   "rank": 16,
+   "metrics": {
+    "views": 86460,
+    "change": 2075
+   }
+  },
+  {
+   "rawId": "elizabeth holmes",
+   "title": "Elizabeth Holmes",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 80657,
+   "rank": 17,
+   "metrics": {
+    "views": 80657,
+    "change": 23
+   }
+  },
+  {
+   "rawId": "2026 faa nationwide ground stop",
+   "title": "2026 FAA nationwide ground stop",
+   "url": "https://en.wikipedia.org/wiki/2026_FAA_nationwide_ground_stop",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Halt in air traffic across the United States. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 78787,
+   "rank": 18,
+   "metrics": {
+    "views": 78787,
+    "change": 536
+   }
+  },
+  {
+   "rawId": "scene (2026 film)",
+   "title": "Scene (2026 film)",
+   "url": "https://en.wikipedia.org/wiki/Scene_(2026_film)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Indian film by Jithu Madhavan. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3b/Scene_%282026_film%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 78536,
+   "rank": 19,
+   "metrics": {
+    "views": 78536,
+    "change": -5
+   }
+  },
+  {
+   "rawId": "ebenezer (2026 film)",
+   "title": "Ebenezer (2026 film)",
+   "url": "https://en.wikipedia.org/wiki/Ebenezer_(2026_film)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Film by Ti West. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/Ebenezer_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 78001,
    "rank": 20,
    "metrics": {
-    "views": 94201,
-    "change": -3
+    "views": 78001,
+    "change": -1
    }
   }
  ]
