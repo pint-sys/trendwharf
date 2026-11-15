@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:58:26Z",
+ "updated": "2026-11-15T15:44:17Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -246,7 +246,7 @@
     "wikipedia"
    ],
    "summary": "Chinese technology executive and investor (born 1977). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Alice_Huang.jpg/330px-Alice_Huang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "thumbnail": null,
    "publishedAt": null,
    "hot": 91286,
    "rank": 14,
@@ -353,7 +353,7 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "Film by Ti West. Among the most-read articles on Wikipedia yesterday.",
+   "summary": "2026 film by Ti West. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/c/ca/Ebenezer_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
    "hot": 78001,
