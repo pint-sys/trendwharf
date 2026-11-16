@@ -1,7 +1,175 @@
 {
- "updated": "2026-11-16T08:06:42Z",
+ "updated": "2026-11-16T18:42:23Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50520182",
+   "title": "Grazing sheep in fields with solar arrays",
+   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "news.cornell.edu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T17:27:46Z",
+   "hot": 59.5,
+   "rank": 1,
+   "metrics": {
+    "points": 74,
+    "comments": 48,
+    "discussion": "https://news.ycombinator.com/item?id=50520182"
+   }
+  },
+  {
+   "rawId": "50519744",
+   "title": "Jiff 1.0: A datetime library for Rust",
+   "url": "https://burntsushi.net/jiff/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "burntsushi.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T16:53:39Z",
+   "hot": 59.0,
+   "rank": 2,
+   "metrics": {
+    "points": 107,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50519744"
+   }
+  },
+  {
+   "rawId": "50520866",
+   "title": "Software is breaking down at a systemic level",
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "breck-mckye.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T18:17:17Z",
+   "hot": 50.0,
+   "rank": 3,
+   "metrics": {
+    "points": 50,
+    "comments": 28,
+    "discussion": "https://news.ycombinator.com/item?id=50520866"
+   }
+  },
+  {
+   "rawId": "50516473",
+   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+   "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "masnick.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T11:39:31Z",
+   "hot": 34.3,
+   "rank": 4,
+   "metrics": {
+    "points": 242,
+    "comments": 94,
+    "discussion": "https://news.ycombinator.com/item?id=50516473"
+   }
+  },
+  {
+   "rawId": "50520804",
+   "title": "OpenAI: Strengthening the fight against online child sexual abuse",
+   "url": "https://openai.com/index/strengthening-online-child-safety/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "openai.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T18:12:48Z",
+   "hot": 7.0,
+   "rank": 5,
+   "metrics": {
+    "points": 7,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50520804"
+   }
+  },
+  {
+   "rawId": "50517488",
+   "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
+   "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "groundworkcollaborative.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T13:39:07Z",
+   "hot": 113.8,
+   "rank": 6,
+   "metrics": {
+    "points": 575,
+    "comments": 356,
+    "discussion": "https://news.ycombinator.com/item?id=50517488"
+   }
+  },
+  {
+   "rawId": "50520518",
+   "title": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+   "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "copyrightlately.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T17:52:23Z",
+   "hot": 15.0,
+   "rank": 7,
+   "metrics": {
+    "points": 15,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50520518"
+   }
+  },
+  {
+   "rawId": "50520270",
+   "title": "Aristotle Expands into Rust",
+   "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "harmonic.fun"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T17:34:41Z",
+   "hot": 20.4,
+   "rank": 8,
+   "metrics": {
+    "points": 23,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50520270"
+   }
+  },
   {
    "rawId": "50514470",
    "title": "How to make almost anything",
@@ -15,12 +183,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-16T05:50:37Z",
-   "hot": 69.7,
-   "rank": 1,
+   "hot": 56.8,
+   "rank": 9,
    "metrics": {
-    "points": 158,
-    "comments": 26,
+    "points": 731,
+    "comments": 119,
     "discussion": "https://news.ycombinator.com/item?id=50514470"
+   }
+  },
+  {
+   "rawId": "50519345",
+   "title": "Jolt – Clojure that speaks C",
+   "url": "https://jolt-lang.net/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "jolt-lang.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T16:23:01Z",
+   "hot": 7.7,
+   "rank": 10,
+   "metrics": {
+    "points": 18,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50519345"
    }
   },
   {
@@ -36,12 +225,159 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-16T02:04:48Z",
-   "hot": 50.2,
-   "rank": 2,
+   "hot": 34.1,
+   "rank": 11,
    "metrics": {
-    "points": 303,
-    "comments": 84,
+    "points": 567,
+    "comments": 163,
     "discussion": "https://news.ycombinator.com/item?id=50513160"
+   }
+  },
+  {
+   "rawId": "50497746",
+   "title": "Smallest possible nopert polyhedra: the Septopert",
+   "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T15:22:30Z",
+   "hot": 0.4,
+   "rank": 12,
+   "metrics": {
+    "points": 22,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50497746"
+   }
+  },
+  {
+   "rawId": "50519354",
+   "title": "Frame – 31.5\" color ePaper display",
+   "url": "https://trmnl.com/blog/introducing-frame",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "trmnl.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T16:23:22Z",
+   "hot": 9.1,
+   "rank": 13,
+   "metrics": {
+    "points": 21,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50519354"
+   }
+  },
+  {
+   "rawId": "50515058",
+   "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+   "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "xenaproject.wordpress.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T07:38:19Z",
+   "hot": 20.9,
+   "rank": 14,
+   "metrics": {
+    "points": 231,
+    "comments": 102,
+    "discussion": "https://news.ycombinator.com/item?id=50515058"
+   }
+  },
+  {
+   "rawId": "50490159",
+   "title": "OOS – an open operating system for the Rigol Scopes",
+   "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "eevblog.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-13T21:36:59Z",
+   "hot": 1.4,
+   "rank": 15,
+   "metrics": {
+    "points": 100,
+    "comments": 31,
+    "discussion": "https://news.ycombinator.com/item?id=50490159"
+   }
+  },
+  {
+   "rawId": "50517815",
+   "title": "The Active Directory Era Is Finally Over",
+   "url": "https://infisical.com/blog/active-directory-machine-identity",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "infisical.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T14:15:31Z",
+   "hot": 14.6,
+   "rank": 16,
+   "metrics": {
+    "points": 65,
+    "comments": 44,
+    "discussion": "https://news.ycombinator.com/item?id=50517815"
+   }
+  },
+  {
+   "rawId": "50518068",
+   "title": "A 512 KiB binary message teaching chess without a shared language",
+   "url": "https://artemlegotin.com/golden-board/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "artemlegotin.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T14:38:54Z",
+   "hot": 3.2,
+   "rank": 17,
+   "metrics": {
+    "points": 13,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50518068"
+   }
+  },
+  {
+   "rawId": "50520697",
+   "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+   "url": "https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "wired.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T18:04:55Z",
+   "hot": 10.0,
+   "rank": 18,
+   "metrics": {
+    "points": 10,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50520697"
    }
   },
   {
@@ -57,348 +393,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-16T02:14:44Z",
-   "hot": 71.6,
-   "rank": 3,
-   "metrics": {
-    "points": 420,
-    "comments": 154,
-    "discussion": "https://news.ycombinator.com/item?id=50513215"
-   }
-  },
-  {
-   "rawId": "50511395",
-   "title": "Old Bitly links are being hijacked",
-   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ransomnews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T22:11:43Z",
-   "hot": 26.3,
-   "rank": 4,
-   "metrics": {
-    "points": 261,
-    "comments": 138,
-    "discussion": "https://news.ycombinator.com/item?id=50511395"
-   }
-  },
-  {
-   "rawId": "50512235",
-   "title": "What's Next for Nvidia?",
-   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "steveblank.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T23:55:55Z",
-   "hot": 26.5,
-   "rank": 5,
-   "metrics": {
-    "points": 217,
-    "comments": 284,
-    "discussion": "https://news.ycombinator.com/item?id=50512235"
-   }
-  },
-  {
-   "rawId": "50512441",
-   "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-   "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "forum.torproject.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-16T00:21:54Z",
-   "hot": 16.9,
-   "rank": 6,
-   "metrics": {
-    "points": 131,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50512441"
-   }
-  },
-  {
-   "rawId": "50514093",
-   "title": "Stop Filming in Log",
-   "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "digitalfilms.wordpress.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-16T04:37:03Z",
-   "hot": 11.2,
-   "rank": 7,
-   "metrics": {
-    "points": 39,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50514093"
-   }
-  },
-  {
-   "rawId": "50509837",
-   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "url": "https://bruceroettgers.eu/blog/protomaps/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bruceroettgers.eu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T19:26:22Z",
-   "hot": 23.2,
-   "rank": 8,
-   "metrics": {
-    "points": 294,
-    "comments": 54,
-    "discussion": "https://news.ycombinator.com/item?id=50509837"
-   }
-  },
-  {
-   "rawId": "50511806",
-   "title": "Preserving 30 years of Salon journalism",
-   "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.archive.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T23:00:11Z",
-   "hot": 15.2,
-   "rank": 9,
-   "metrics": {
-    "points": 138,
-    "comments": 38,
-    "discussion": "https://news.ycombinator.com/item?id=50511806"
-   }
-  },
-  {
-   "rawId": "50509308",
-   "title": "A short explainer on how El Niño works [video]",
-   "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-   "videoUrl": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T18:23:21Z",
-   "hot": 16.4,
-   "rank": 10,
-   "metrics": {
-    "points": 225,
-    "comments": 97,
-    "discussion": "https://news.ycombinator.com/item?id=50509308"
-   }
-  },
-  {
-   "rawId": "50509972",
-   "title": "Handwriting, as a Font",
-   "url": "https://ductus.sorenblank.com",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ductus.sorenblank.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T19:42:13Z",
-   "hot": 19.7,
-   "rank": 11,
-   "metrics": {
-    "points": 245,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50509972"
-   }
-  },
-  {
-   "rawId": "50484998",
-   "title": "Do we still have to denormalize? Have your schema and search it too",
-   "url": "https://www.paradedb.com/blog/joins",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "paradedb.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-13T15:31:50Z",
-   "hot": 1.0,
-   "rank": 12,
-   "metrics": {
-    "points": 65,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50484998"
-   }
-  },
-  {
-   "rawId": "50479405",
-   "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-   "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "slate.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-13T06:58:41Z",
-   "hot": 0.6,
-   "rank": 13,
-   "metrics": {
-    "points": 45,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50479405"
-   }
-  },
-  {
-   "rawId": "50506719",
-   "title": "The MacBook Pro's OLED PWM problem",
-   "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "macanorak.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T13:15:22Z",
-   "hot": 25.1,
-   "rank": 14,
-   "metrics": {
-    "points": 473,
-    "comments": 259,
-    "discussion": "https://news.ycombinator.com/item?id=50506719"
-   }
-  },
-  {
-   "rawId": "50509023",
-   "title": "Crows make decisions faster than we can",
-   "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nytimes.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T17:53:31Z",
-   "hot": 15.9,
-   "rank": 15,
-   "metrics": {
-    "points": 226,
-    "comments": 151,
-    "discussion": "https://news.ycombinator.com/item?id=50509023"
-   }
-  },
-  {
-   "rawId": "50463399",
-   "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-   "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-   "videoUrl": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-   "category": "news",
-   "tags": [
-    "tech",
-    "youtube.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T05:29:24Z",
-   "hot": 4.3,
-   "rank": 16,
-   "metrics": {
-    "points": 423,
-    "comments": 197,
-    "discussion": "https://news.ycombinator.com/item?id=50463399"
-   }
-  },
-  {
-   "rawId": "50462816",
-   "title": "The Lasting Influence of John Berger",
-   "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "newyorker.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T03:44:33Z",
-   "hot": 0.1,
-   "rank": 17,
-   "metrics": {
-    "points": 7,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50462816"
-   }
-  },
-  {
-   "rawId": "50510296",
-   "title": "WebGL Flight Simulator with seed generated terrain",
-   "url": "https://baron.by.dai.studio/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "baron.by.dai.studio"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T20:20:05Z",
-   "hot": 11.2,
-   "rank": 18,
-   "metrics": {
-    "points": 132,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50510296"
-   }
-  },
-  {
-   "rawId": "50514180",
-   "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
-   "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bugs.debian.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-16T04:53:06Z",
-   "hot": 21.1,
+   "hot": 49.3,
    "rank": 19,
    "metrics": {
-    "points": 68,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50514180"
+    "points": 811,
+    "comments": 436,
+    "discussion": "https://news.ycombinator.com/item?id=50513215"
    }
   },
   {
@@ -414,11 +414,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-13T17:29:49Z",
-   "hot": 0.0,
+   "hot": 2.3,
    "rank": 20,
    "metrics": {
-    "points": 3,
-    "comments": 0,
+    "points": 167,
+    "comments": 60,
     "discussion": "https://news.ycombinator.com/item?id=50486745"
    }
   }
