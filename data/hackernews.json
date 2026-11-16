@@ -1,7 +1,112 @@
 {
- "updated": "2026-11-15T21:07:24Z",
+ "updated": "2026-11-16T01:10:50Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50511395",
+   "title": "Old Bitly Links Are Being Hijacked",
+   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ransomnews.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T22:11:43Z",
+   "hot": 49.6,
+   "rank": 1,
+   "metrics": {
+    "points": 148,
+    "comments": 74,
+    "discussion": "https://news.ycombinator.com/item?id=50511395"
+   }
+  },
+  {
+   "rawId": "50511806",
+   "title": "Preserving 30 Years of Salon Journalism",
+   "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "blog.archive.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T23:00:11Z",
+   "hot": 27.1,
+   "rank": 2,
+   "metrics": {
+    "points": 59,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50511806"
+   }
+  },
+  {
+   "rawId": "50512235",
+   "title": "What's Next for Nvidia?",
+   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "steveblank.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T23:55:55Z",
+   "hot": 16.0,
+   "rank": 3,
+   "metrics": {
+    "points": 20,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50512235"
+   }
+  },
+  {
+   "rawId": "50512231",
+   "title": "Mini.nvim Is Now on Tangled",
+   "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tangled.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T23:55:41Z",
+   "hot": 17.6,
+   "rank": 4,
+   "metrics": {
+    "points": 22,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50512231"
+   }
+  },
+  {
+   "rawId": "50509837",
+   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+   "url": "https://bruceroettgers.eu/blog/protomaps/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bruceroettgers.eu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T19:26:22Z",
+   "hot": 26.3,
+   "rank": 5,
+   "metrics": {
+    "points": 151,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50509837"
+   }
+  },
   {
    "rawId": "50509308",
    "title": "A short explainer on how El Niño works [video]",
@@ -15,33 +120,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T18:23:21Z",
-   "hot": 34.7,
-   "rank": 1,
+   "hot": 25.6,
+   "rank": 6,
    "metrics": {
-    "points": 95,
-    "comments": 16,
+    "points": 174,
+    "comments": 71,
     "discussion": "https://news.ycombinator.com/item?id=50509308"
    }
   },
   {
-   "rawId": "50510005",
-   "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-   "url": "https://arkanumdata.com/research/house-trades",
+   "rawId": "50510296",
+   "title": "WebGL Flight Simulator with seed generated terrain",
+   "url": "https://baron.by.dai.studio/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arkanumdata.com"
+    "baron.by.dai.studio"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T19:46:02Z",
-   "hot": 31.7,
-   "rank": 2,
+   "publishedAt": "2026-11-15T20:20:05Z",
+   "hot": 16.9,
+   "rank": 7,
    "metrics": {
-    "points": 43,
-    "comments": 16,
-    "discussion": "https://news.ycombinator.com/item?id=50510005"
+    "points": 82,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50510296"
    }
   },
   {
@@ -57,11 +162,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T17:53:31Z",
-   "hot": 24.8,
-   "rank": 3,
+   "hot": 22.2,
+   "rank": 8,
    "metrics": {
-    "points": 80,
-    "comments": 50,
+    "points": 162,
+    "comments": 121,
     "discussion": "https://news.ycombinator.com/item?id=50509023"
    }
   },
@@ -78,12 +183,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T13:15:22Z",
-   "hot": 43.3,
-   "rank": 4,
+   "hot": 34.9,
+   "rank": 9,
    "metrics": {
-    "points": 341,
-    "comments": 177,
+    "points": 416,
+    "comments": 231,
     "discussion": "https://news.ycombinator.com/item?id=50506719"
+   }
+  },
+  {
+   "rawId": "50509972",
+   "title": "Handwriting, as a Font",
+   "url": "https://ductus.sorenblank.com",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ductus.sorenblank.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T19:42:13Z",
+   "hot": 21.0,
+   "rank": 10,
+   "metrics": {
+    "points": 115,
+    "comments": 29,
+    "discussion": "https://news.ycombinator.com/item?id=50509972"
    }
   },
   {
@@ -99,54 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-12T05:29:24Z",
-   "hot": 2.6,
-   "rank": 5,
+   "hot": 3.6,
+   "rank": 11,
    "metrics": {
-    "points": 230,
-    "comments": 104,
+    "points": 331,
+    "comments": 164,
     "discussion": "https://news.ycombinator.com/item?id=50463399"
    }
   },
   {
-   "rawId": "50509416",
-   "title": "Eclipse Mosquitto – An open source MQTT broker",
-   "url": "https://github.com/eclipse-mosquitto/mosquitto",
+   "rawId": "50511718",
+   "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
+   "url": "https://lastcomplication.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "lastcomplication.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T18:36:40Z",
-   "hot": 12.3,
-   "rank": 6,
+   "publishedAt": "2026-11-15T22:48:52Z",
+   "hot": 13.1,
+   "rank": 12,
    "metrics": {
     "points": 31,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50509416"
-   }
-  },
-  {
-   "rawId": "50506894",
-   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-   "url": "https://prog21.dadgum.com/116.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "prog21.dadgum.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T13:44:16Z",
-   "hot": 21.5,
-   "rank": 7,
-   "metrics": {
-    "points": 159,
-    "comments": 77,
-    "discussion": "https://news.ycombinator.com/item?id=50506894"
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50511718"
    }
   },
   {
@@ -162,33 +267,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T18:36:10Z",
-   "hot": 65.9,
-   "rank": 8,
+   "hot": 57.8,
+   "rank": 13,
    "metrics": {
-    "points": 166,
-    "comments": 79,
+    "points": 380,
+    "comments": 181,
     "discussion": "https://news.ycombinator.com/item?id=50509411"
    }
   },
   {
-   "rawId": "50507553",
-   "title": "Emacs Is My Browser",
-   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
+   "rawId": "50490583",
+   "title": "1900s How do you Wash a Kimono?",
+   "url": "https://www.oldphotosjapan.com/photos/877/laundry-washing-clothes-meiji-19th-century-vintage-albumen-prints",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "joshblais.com"
+    "oldphotosjapan.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T15:21:21Z",
-   "hot": 23.8,
-   "rank": 9,
+   "publishedAt": "2026-11-13T22:03:41Z",
+   "hot": 0.2,
+   "rank": 14,
    "metrics": {
-    "points": 137,
-    "comments": 71,
-    "discussion": "https://news.ycombinator.com/item?id=50507553"
+    "points": 8,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50490583"
+   }
+  },
+  {
+   "rawId": "50506894",
+   "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+   "url": "https://prog21.dadgum.com/116.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "prog21.dadgum.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T13:44:16Z",
+   "hot": 17.1,
+   "rank": 15,
+   "metrics": {
+    "points": 196,
+    "comments": 103,
+    "discussion": "https://news.ycombinator.com/item?id=50506894"
+   }
+  },
+  {
+   "rawId": "50509416",
+   "title": "Eclipse Mosquitto – An open source MQTT broker",
+   "url": "https://github.com/eclipse-mosquitto/mosquitto",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-15T18:36:40Z",
+   "hot": 9.3,
+   "rank": 16,
+   "metrics": {
+    "points": 61,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50509416"
    }
   },
   {
@@ -204,222 +351,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-15T12:14:06Z",
-   "hot": 19.1,
-   "rank": 10,
+   "hot": 15.4,
+   "rank": 17,
    "metrics": {
-    "points": 170,
-    "comments": 13,
+    "points": 199,
+    "comments": 27,
     "discussion": "https://news.ycombinator.com/item?id=50506376"
    }
   },
   {
-   "rawId": "50488916",
-   "title": "Your room can be as bright as the outdoors (2019)",
-   "url": "https://www.benkuhn.net/lux/",
+   "rawId": "50465522",
+   "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
+   "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "benkuhn.net"
+    "en.wikipedia.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-13T20:05:20Z",
-   "hot": 0.6,
-   "rank": 11,
-   "metrics": {
-    "points": 31,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50488916"
-   }
-  },
-  {
-   "rawId": "50508715",
-   "title": "Clice v1.0 Released: Welcome to Modern C++",
-   "url": "https://ykiko.me/en/articles/2105384023094834022/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ykiko.me"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T17:22:32Z",
-   "hot": 10.4,
-   "rank": 12,
-   "metrics": {
-    "points": 39,
-    "comments": 19,
-    "discussion": "https://news.ycombinator.com/item?id=50508715"
-   }
-  },
-  {
-   "rawId": "50507303",
-   "title": "All AI-generated code should be Open Source",
-   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jakub.jankiewicz.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T14:46:58Z",
-   "hot": 146.7,
-   "rank": 13,
-   "metrics": {
-    "points": 930,
-    "comments": 509,
-    "discussion": "https://news.ycombinator.com/item?id=50507303"
-   }
-  },
-  {
-   "rawId": "50509883",
-   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
-   "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ft.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T19:31:11Z",
-   "hot": 39.3,
-   "rank": 14,
-   "metrics": {
-    "points": 63,
-    "comments": 39,
-    "discussion": "https://news.ycombinator.com/item?id=50509883"
-   }
-  },
-  {
-   "rawId": "50465676",
-   "title": "Eval Awareness vs. Eval Paranoia",
-   "url": "https://www.lesswrong.com/posts/mepsi7JNKYejq9wry/eval-awareness-vs-eval-paranoia",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "lesswrong.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-12T11:23:02Z",
+   "publishedAt": "2026-11-12T10:58:00Z",
    "hot": 0.3,
-   "rank": 15,
-   "metrics": {
-    "points": 28,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50465676"
-   }
-  },
-  {
-   "rawId": "50452621",
-   "title": "Notes on Mathematics for Engineers (1959) [pdf]",
-   "url": "https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "websites.umich.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-11T12:25:42Z",
-   "hot": 0.4,
-   "rank": 16,
-   "metrics": {
-    "points": 43,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50452621"
-   }
-  },
-  {
-   "rawId": "50509953",
-   "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
-   "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "fortune.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T19:39:46Z",
-   "hot": 30.1,
-   "rank": 17,
-   "metrics": {
-    "points": 44,
-    "comments": 35,
-    "discussion": "https://news.ycombinator.com/item?id=50509953"
-   }
-  },
-  {
-   "rawId": "50502988",
-   "title": "Court denies motion to dismiss DRAM price fixing case",
-   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "litnews.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-15T01:18:36Z",
-   "hot": 23.1,
    "rank": 18,
    "metrics": {
-    "points": 458,
-    "comments": 207,
-    "discussion": "https://news.ycombinator.com/item?id=50502988"
+    "points": 25,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50465522"
    }
   },
   {
-   "rawId": "50506588",
-   "title": "A NES emulator written in Odin",
-   "url": "https://lucypero.com/lucynes.html",
+   "rawId": "50507553",
+   "title": "Emacs Is My Browser",
+   "url": "https://joshblais.com/blog/emacs-as-my-browser/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "lucypero.com"
+    "joshblais.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T12:51:47Z",
-   "hot": 10.4,
+   "publishedAt": "2026-11-15T15:21:21Z",
+   "hot": 17.9,
    "rank": 19,
    "metrics": {
-    "points": 86,
-    "comments": 31,
-    "discussion": "https://news.ycombinator.com/item?id=50506588"
+    "points": 176,
+    "comments": 94,
+    "discussion": "https://news.ycombinator.com/item?id=50507553"
    }
   },
   {
-   "rawId": "50505271",
-   "title": "Why did some Apollo missions carry a grenade launcher?",
-   "url": "https://space.stackexchange.com/questions/37775",
+   "rawId": "50486880",
+   "title": "A quest to create the perfect whiskey glass",
+   "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "space.stackexchange.com"
+    "nytimes.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T09:06:43Z",
-   "hot": 16.5,
+   "publishedAt": "2026-11-13T17:37:32Z",
+   "hot": 0.8,
    "rank": 20,
    "metrics": {
-    "points": 198,
-    "comments": 139,
-    "discussion": "https://news.ycombinator.com/item?id=50505271"
+    "points": 47,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50486880"
    }
   }
  ]
