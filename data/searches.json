@@ -1,255 +1,255 @@
 {
- "updated": "2026-11-17T12:09:01Z",
+ "updated": "2026-11-17T21:08:01Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "dis stock",
-   "query": "dis stock",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-17T11:50:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPVDk3wcK2Z48DwVn4tmKLWjU_tbQ8CLvMC9YGnA7_qkeU2FFnP9gQhhLW-XE",
+   "rawId": "taylor sheridan",
+   "query": "taylor sheridan",
+   "traffic": "5000+",
+   "trafficNum": 5000,
+   "publishedAt": "2026-11-17T20:20:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2IoAQsWGjEO4uw3eKfMqOfJS53mFfvzpH5azYz31_jq5G8Y3q0LfiinjnN9g",
    "news": [
     {
-     "title": "Disney beats fourth-quarter estimates, targets $3 billion in savings through cost-cutting efforts",
-     "url": "https://www.cnbc.com/2026/11/17/disney-dis-earnings-q-2026.html",
-     "source": "CNBC"
+     "title": "'Landman' stars spotted at TCU-Kansas State game as Season 3 films in Fort Worth",
+     "url": "https://www.houstonchronicle.com/news/houston-texas/trending/article/landman-tcu-kansas-state-22532069.php",
+     "source": "Houston Chronicle"
     },
     {
-     "title": "Disney Plans to Finance Growth With $3 Billion in Cost Savings",
-     "url": "https://www.nytimes.com/2026/11/17/business/disney-earnings-3billion-savings.html",
-     "source": "The New York Times"
+     "title": "TCU's most famous cheerleader on the sideline as 'Landman' filmed during Horned Frogs win | OutKick",
+     "url": "https://www.foxnews.com/outkick-sports/tcus-most-famous-cheerleader-sideline-landman-filmed-during-horned-frogs-win",
+     "source": "Fox News"
     },
     {
-     "title": "Disney Profit Beats With Marvel Films Powering Streaming",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming",
-     "source": "Bloomberg.com"
+     "title": "Ali Larter Shares Photos from ‘Landman’ Set with Sam Elliott, Michelle Randolph and Glen Powell",
+     "url": "https://people.com/ali-larter-shares-photos-landman-set-sam-elliott-glen-powell-michelle-randolph-12258689",
+     "source": "People.com"
     }
    ]
   },
   {
-   "rawId": "vinícius júnior",
-   "query": "vinícius júnior",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-17T11:50:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShYJmSdkfneWux4M7CiVgvCa9j4Bd4YEYZYDsY8pfEF_F6mZrjojehOrTel3c",
+   "rawId": "portugal fc",
+   "query": "portugal fc",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-17T20:40:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGINd6dlkRusj1gUGO5pH9Il9bZSf2IDu-dPuqrEMaxx_Uod_JLOGewhqhdlc",
    "news": [
     {
-     "title": "Vinícius Júnior: 'Overwhelmed' by Arsenal transfer interest",
-     "url": "https://www.espn.com/soccer/story/_/id/50501260/vinicius-junior-real-madrid-arsenal-transfer-interest",
+     "title": "FC Porto: Gabriel Mec dá passo em frente a quatro dias do Paredes",
+     "url": "https://www.abola.pt/noticias/fc-porto-gabriel-mec-da-passo-em-frente-a-quatro-dias-do-paredes-2026111612471276515",
+     "source": "A Bola"
+    },
+    {
+     "title": "FC Porto prepara Taça de Portugal com uma boa notícia",
+     "url": "https://www.record.pt/futebol/futebol-nacional/liga-betclic/fc-porto/detalhe/fc-porto-prepara-taca-de-portugal-com-uma-boa-noticia",
+     "source": "Record"
+    },
+    {
+     "title": "Novidades sobre Mec e vários bês em mais um treino do FC Porto",
+     "url": "https://sapo.pt/artigo/novidades-sobre-mec-e-varios-bes-em-mais-um-treino-do-fc-porto-6afb0fe1dc9ea92269d48d8a",
+     "source": "SAPO"
+    }
+   ]
+  },
+  {
+   "rawId": "u.s. soccer",
+   "query": "u.s. soccer",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-17T20:30:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtmkREwcOI1_h7oRnK6jnkINcz8IfbQ5b6ahUjqD9BXjgz-07S5BqWZZoenh4",
+   "news": [
+    {
+     "title": "Poch offers Pep advice on USMNT job, calls it 'perfect moment to arrive'",
+     "url": "https://www.espn.com/soccer/story/_/id/50504817/poch-pep-advice-usmnt-job",
      "source": "ESPN"
     },
     {
-     "title": "Real Madrid’s Vinicius Jr says summer interest from Arsenal ‘messed with my head’ - The Athletic",
-     "url": "https://www.nytimes.com/athletic/7786612/2026/11/16/vinicius-junior-form-real-madrid-arsenal/",
+     "title": "Pochettino says he would tell Guardiola to take USA job",
+     "url": "https://www.bbc.com/sport/football/articles/crgj36e6ee5yo",
+     "source": "BBC"
+    },
+    {
+     "title": "'Take it': Mauricio Pochettino opens up on why he's leaving the USMNT and why his successor should want the job",
+     "url": "https://sports.yahoo.com/soccer/article/take-it-mauricio-pochettino-opens-up-on-why-hes-leaving-the-usmnt-and-why-his-successor-should-want-the-job-235237847.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "austria vs israel",
+   "query": "austria vs israel",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-17T20:20:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "news": [
+    {
+     "title": "Israel vs Austria: UEFA Nations League stats & head-to-head",
+     "url": "https://www.bbc.com/sport/football/live/c6y974v0evnpt",
+     "source": "BBC"
+    },
+    {
+     "title": "Israel vs Austria Betting Odds, Tips, Predictions, Preview 17th November 2026",
+     "url": "https://easyodds.com/israel-vs-austria-betting-odds-tips-predictions-preview-17th-november-2026",
+     "source": "Easyodds.com"
+    },
+    {
+     "title": "Israel vs Austria Bet Builder Tips Tonight (7.45pm KO): our 5/1 three-leg pick",
+     "url": "https://www.squawka.com/en/news/israel-vs-austria-bet-builder-tips-tonight-17-11-2026/",
+     "source": "Squawka"
+    }
+   ]
+  },
+  {
+   "rawId": "vinod khosla",
+   "query": "vinod khosla",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-17T20:40:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPnTtc3GqsXflSVeFAuCnr-qzoJgRlBWcS9YXDiIrstPily8y8TtSeMefM2o",
+   "news": [
+    {
+     "title": "Vinod Khosla Is Betting AI Will Kill the Static Website",
+     "url": "https://www.businessinsider.com/khosla-doubles-down-on-coframe-to-build-a-living-internet-2026-11",
+     "source": "Business Insider"
+    },
+    {
+     "title": "Coframe gets $25M for automated website testing",
+     "url": "https://www.contentgrip.com/coframe-ai-websites-funding/",
+     "source": "ContentGrip"
+    },
+    {
+     "title": "Coframe Raises $25M to Personalize Websites with AI",
+     "url": "https://www.briefia.fr/en/article/coframe-raises-25m-to-personalize-websites-with-ai",
+     "source": "Brief IA"
+    }
+   ]
+  },
+  {
+   "rawId": "bill fritz",
+   "query": "bill fritz",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-17T20:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTyXajINNTJfFrWv8wPx74-MxXWeEaxMFV6kJxF2MNfcTQh5faCyUEni2rUnl0",
+   "news": [
+    {
+     "title": "Nora Mary Sperle",
+     "url": "https://bismarcktribune.com/obituaries/article_6745ba55-0554-55b3-a2ae-7eb60e60ac65.html",
+     "source": "The Bismarck Tribune"
+    },
+    {
+     "title": "'American Pickers' star Frank Fritz's multimillion-dollar estate fight heads to trial",
+     "url": "https://www.yahoo.com/entertainment/celebrity/deaths-obituaries/articles/american-pickers-star-frank-fritz-200448370.html",
+     "source": "Yahoo"
+    },
+    {
+     "title": "‘American Pickers’ Star Frank Fritz’s Will Fight Heads to Trial — and His Nearly $6 Million Estate Could Go to His Father. I’m a CPA — Your Will Can Be Tossed, Too",
+     "url": "https://www.moneytalksnews.com/american-pickers-star-frank-fritzs-will-fight-heads-to-trial-and-his-nearly-million-estate-could-go-to-his-father-im-a-cpa-your-will-can-be-tossed-too/",
+     "source": "Money Talks News"
+    }
+   ]
+  },
+  {
+   "rawId": "xbox game pass",
+   "query": "xbox game pass",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-17T20:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKFje6v_eOXJh_wi2H6obT8Du_nhlIwfjNvDnxEclLetfMvUxPYQIX1993uRA",
+   "news": [
+    {
+     "title": "Coming to XBOX Game Pass: Hela: of Mice & Magic, The Outlast Trials, Sniper Ghost Warrior Contracts 2, and More",
+     "url": "https://news.xbox.com/en-us/2026/11/17/xbox-game-pass-november-2026-wave-2/",
+     "source": "XBOX Wire"
+    },
+    {
+     "title": "Microsoft Announces Nine Games Coming To Xbox Game Pass (November 18 - December 1)",
+     "url": "https://www.purexbox.com/news/2026/11/microsoft-announces-nine-games-coming-to-xbox-game-pass-november-18-december-1",
+     "source": "Pure Xbox"
+    },
+    {
+     "title": "All Upcoming Day One Xbox Game Pass Games – Full List",
+     "url": "https://www.vice.com/en/article/day-one-xbox-game-pass-games-list/",
+     "source": "VICE"
+    }
+   ]
+  },
+  {
+   "rawId": "argentina vs costa rica",
+   "query": "argentina vs costa rica",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-17T20:30:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD4nahZLuIC_h50bhIwOl2lDRLWWyzhl2CtDXhjUuUrKriCtILAKrKaqbCqs8",
+   "news": [
+    {
+     "title": "El probable equipo de Argentina para enfrentar a Costa Rica en Córdoba",
+     "url": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17522786/la-formacion-de-argentina-vs-costa-rica",
+     "source": "ESPN Deportes"
+    },
+    {
+     "title": "El vacío que dejó Messi se ve en las tribunas: la Selección enfrentará a Costa Rica otra vez con poco público y con la necesidad de mejorar su imagen",
+     "url": "https://www.clarin.com/deportes/vacio-dejo-messi-ve-tribunas-seleccion-enfrentara-costa-rica-vez-publico-necesidad-mejorar-imagen_0_g9g5Hr8dfv.html",
+     "source": "Clarin.com"
+    },
+    {
+     "title": "En qué canal pasan Argentina vs. Costa Rica, por un amistoso hoy",
+     "url": "https://es-us.noticias.yahoo.com/deportes/canal-pasan-argentina-vs-costa-173602541.html",
+     "source": "Yahoo"
+    }
+   ]
+  },
+  {
+   "rawId": "charles bronson",
+   "query": "charles bronson",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-17T20:10:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjsmphHNJwHE14EJh88T0By83m__n1Bwd-keWKmHzsReyWQK6Rbybtuk8o1Bc",
+   "news": [
+    {
+     "title": "Luton-born Charles Bronson denied parole for ninth time",
+     "url": "https://www.bbc.com/news/articles/cqjd7n7p09j5o",
+     "source": "BBC"
+    },
+    {
+     "title": "Charles Bronson, one of UK’s longest-serving inmates, again refused release",
+     "url": "https://www.lbc.co.uk/article/charles-bronson-again-refused-release-5HjdmSy_2/",
+     "source": "LBC"
+    },
+    {
+     "title": "Charles Bronson refused parole for ninth time",
+     "url": "https://news.sky.com/story/charles-bronson-refused-parole-for-ninth-time-13613277",
+     "source": "Sky News"
+    }
+   ]
+  },
+  {
+   "rawId": "christopher laneve",
+   "query": "christopher laneve",
+   "traffic": "500+",
+   "trafficNum": 500,
+   "publishedAt": "2026-11-17T20:10:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFXgbo7DyXAqVPV4Sgzf5Kd2864kNMip5n6LZdPl3CMvuWYLHPWAV8h1wxoxI",
+   "news": [
+    {
+     "title": "Trump nominates new top Army general, setting stage for confirmation fight",
+     "url": "https://www.washingtonpost.com/national-security/2026/11/17/trump-nominates-gen-chris-laneve-army-chief-staff/",
+     "source": "The Washington Post"
+    },
+    {
+     "title": "Hegseth Nominates His Former Aide to Lead the Army",
+     "url": "https://www.nytimes.com/2026/11/17/us/hegseth-christopher-laneve-army-chief-of-staff.html",
      "source": "The New York Times"
     },
     {
-     "title": "Brazil star Vinicius Junior opens up on his Real Madrid struggles and the impossible burden of greatness",
-     "url": "https://sports.yahoo.com/articles/brazil-star-vinicius-junior-opens-101148582.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "kelsey mitchell",
-   "query": "kelsey mitchell",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-17T11:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy--BYW8fXFM11uL3Jt6KRS13JayzAlJapPIUWmWxVZI7TLY1aOGNG9re8VEQ",
-   "news": [
-    {
-     "title": "‘No one believing’ – Kelsey Mitchell’s emotional admission prompts responses from Caitlin Clark, Aliyah Boston",
-     "url": "https://sports.yahoo.com/articles/no-one-believing-kelsey-mitchell-150051144.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Kelsey Mitchell's Instagram message leaves Indiana Fever fans confused about future",
-     "url": "https://www.indystar.com/story/sports/basketball/wnba/fever/2026/11/16/indiana-fever-kelsey-mitchell-sends-cryptic-instagram-message-wnba-free-agency/92814423007/",
-     "source": "IndyStar"
-    },
-    {
-     "title": "Re-Sign or Let Walk: Fever Need to Avoid Ugly Negotiations With Kelsey Mitchell",
-     "url": "https://www.si.com/wnba/fever/re-sign-or-let-walk-fever-need-to-avoid-ugly-negotiations-with-kelsey-mitchell-01m7jg9cdeky",
-     "source": "Sports Illustrated"
-    }
-   ]
-  },
-  {
-   "rawId": "the further mis-adventures of cliff booth",
-   "query": "the further mis-adventures of cliff booth",
-   "traffic": "200+",
-   "trafficNum": 200,
-   "publishedAt": "2026-11-17T11:40:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRJpsXsch_VJ30ul0Vq-uR3F7c68nF95A6RdljmLj_Rn0jMWIls3E-ljz_HAqE",
-   "news": [
-    {
-     "title": "Brad Pitt and Ines de Ramon Attend ‘The Further Mis-Adventures of Cliff Booth’ Premiere",
-     "url": "https://people.com/brad-pitt-and-ines-de-ramon-hold-hands-enjoy-date-night-the-further-mis-adventures-of-cliff-booth-premiere-12260007",
-     "source": "People.com"
-    },
-    {
-     "title": "David Fincher’s ‘The Further Mis-Adventures of Cliff Booth’: First Reactions",
-     "url": "https://www.hollywoodreporter.com/movies/movie-news/david-fincher-brad-pitt-cliff-booth-first-reactions-1236755981/",
-     "source": "The Hollywood Reporter"
-    },
-    {
-     "title": "'Cliff Booth' First Reactions: Brad Pitt, Fincher and Tarantino Excite",
-     "url": "https://variety.com/2026/film/news/cliff-booth-first-reactions-brad-pitt-fincher-tarantino-1236948975/",
-     "source": "Variety"
-    }
-   ]
-  },
-  {
-   "rawId": "bank robbery",
-   "query": "bank robbery",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-17T11:50:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT6XJ7a4jD8vxcP9q8imteF7IzWZjItrnCqp7X16UMS6x7ZMk2L3ZPq6UUbELc",
-   "news": [
-    {
-     "title": "Deputies: Man in custody after reportedly robbing Truist Bank in Greenville",
-     "url": "https://www.foxcarolina.com/2026/11/16/deputies-search-underway-man-who-robbed-truist-bank-greenville/",
-     "source": "FOX Carolina News"
-    },
-    {
-     "title": "Suspected bank robber who changed clothes at McDonald's has been found, deputies say",
-     "url": "https://www.wyff4.com/article/bank-robbery-search-wade-hampton/74441227",
-     "source": "WYFF"
-    },
-    {
-     "title": "Suspect charged in Greenville bank robbery",
-     "url": "https://www.wspa.com/video/suspect-charged-in-greenville-bank-robbery/12377307/",
-     "source": "WSPA 7News"
-    }
-   ]
-  },
-  {
-   "rawId": "north carolina tar heels men's basketball",
-   "query": "north carolina tar heels men's basketball",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-17T11:50:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRERHhbnjy18waGj8l6OvTxZiV02Q3O_d26TDrBc9VRpCmyp8Bbinp8-9Auqiw",
-   "news": [
-    {
-     "title": "UNC Basketball Faces Unwanted Twist in Heated Recruiting Battle",
-     "url": "https://www.si.com/college/unc/tar-heels-basketball-faces-unwanted-twist-heated-recruiting-battle",
-     "source": "Sports Illustrated"
-    },
-    {
-     "title": "Jon Scheyer closing in on another recruiting win over Michael Malone as Duke surges for Matija Lukic",
-     "url": "https://balldurham.com/jon-scheyer-closing-in-on-another-recruiting-win-over-michael-malone-as-duke-surges-for-matija-lukic",
-     "source": "Ball Durham"
-    },
-    {
-     "title": "Duke is the favorite for Serbian hoops star",
-     "url": "https://www.zagsblog.com/2026/11/16/duke-is-the-favorite-for-serbian-hoops-star/",
-     "source": "Zagsblog"
-    }
-   ]
-  },
-  {
-   "rawId": "selección de fútbol de cuba",
-   "query": "selección de fútbol de cuba",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-17T11:50:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTODx9DAWchUPoWkQxJadeIIektEi-kYIOX2WKmsvNh5cCnWrNj9rAIHZNeY8A",
-   "news": [
-    {
-     "title": "Guyana y Cuba aseguraron su clasificación al Campeonato de la Liga B de Naciones",
-     "url": "https://es.concacaf.com/competitions/nations-league/news/guyana-y-cuba-aseguraron-su-clasificacion-al-campeonato-de-la-liga-b-de-naciones",
-     "source": "Concacaf | Official Website"
-    },
-    {
-     "title": "¡Paliza histórica! Cuba gana 9-0 y sella su clasificación para la Copa Oro 2027",
-     "url": "https://www.elnuevoherald.com/deportes/futbol/article318111672.html",
-     "source": "El Nuevo Herald"
-    },
-    {
-     "title": "Cuba golea 7-1 a Bonaire en La Polar",
-     "url": "http://www.cubadebate.cu/noticias/2026/11/13/cuba-golea-7-1-a-bonaire-en-la-polar/",
-     "source": "Cubadebate"
-    }
-   ]
-  },
-  {
-   "rawId": "cra",
-   "query": "cra",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-17T11:40:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWAcs2xvZW1qKx59b5sDGFAMmtBKsh-OKo1rSKkzBYGQ_NWfjYdqe6gSbQP3Y",
-   "news": [
-    {
-     "title": "FDIC releases CRA performance evaluations for August 2026",
-     "url": "https://www.jdsupra.com/legalnews/fdic-releases-cra-performance-8857704/",
-     "source": "JD Supra"
-    },
-    {
-     "title": "OCC releases CRA performance evaluations for October 2026",
-     "url": "https://www.jdsupra.com/legalnews/occ-releases-cra-performance-9027506/",
-     "source": "JD Supra"
-    },
-    {
-     "title": "Agencies release 2025 CRA small business, small farm, and community development lending data",
-     "url": "https://www.jdsupra.com/legalnews/agencies-release-2025-cra-small-1140271/",
-     "source": "JD Supra"
-    }
-   ]
-  },
-  {
-   "rawId": "jeremy davies minnesota wild trade",
-   "query": "jeremy davies minnesota wild trade",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-17T11:40:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQh-GbWqIgwaNbbMyYlcZoeW6ZUDtldJve5_tUeZJAYO3mbzFtVNyvRhJmUvGw",
-   "news": [
-    {
-     "title": "Minnesota Wild Acquires Defenseman Jeremy Davies from Vegas Golden Knights",
-     "url": "https://www.nhl.com/wild/news/minnesota-wild-acquires-defenseman-jeremy-davies-from-vegas-golden-knights-111626",
-     "source": "NHL.com"
-    },
-    {
-     "title": "Golden Knights, Wild swap players in joint NHL-AHL deal",
-     "url": "https://www.dailyfaceoff.com/news/vegas-golden-knights-minnesota-wild-trade-joint-nhl-ahl-deal-jeremy-davies-gerry-mayhew-iowa-henderson-silver-knights",
-     "source": "Daily Faceoff"
-    },
-    {
-     "title": "Golden Knights, Wild Swap Jeremy Davies, Gerald Mayhew",
-     "url": "https://www.prohockeyrumors.com/2026/11/golden-knights-wild-swap-jeremy-davies-gerald-mayhew.html",
-     "source": "Pro Hockey Rumors"
-    }
-   ]
-  },
-  {
-   "rawId": "maldon salt scandal",
-   "query": "maldon salt scandal",
-   "traffic": "100+",
-   "trafficNum": 100,
-   "publishedAt": "2026-11-17T11:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm5Ex-J-Qw4eh4jjDwbk2G5DrSYljTXTv-HFUz7onA1xu3W3OJ3X0vamAPYp8",
-   "news": [
-    {
-     "title": "Revealed: how Maldon sea flakes are made using imported German rock salt",
-     "url": "https://observer.co.uk/news/national/article/revealed-how-maldon-sea-flakes-are-made-using-imported-german-rock-salt",
-     "source": "The Observer"
-    },
-    {
-     "title": "Maldon’s ‘100pc sea salt flakes’ made using German rock salt",
-     "url": "https://www.telegraph.co.uk/news/2026/11/15/maldons-100pc-sea-salt-flakes-made-using-german-rock-salt/",
-     "source": "The Telegraph"
-    },
-    {
-     "title": "What's Really Happening With the Maldon Salt “Scandal”",
-     "url": "https://www.goodhousekeeping.com/food-recipes/a74443796/maldon-salt-scandal/",
-     "source": "Good Housekeeping"
+     "title": "Trump nominates LaNeve as top Army officer",
+     "url": "https://abcnews.com/Politics/trump-nominates-laneve-top-army-officer/story?id=138219615",
+     "source": "ABC News - Breaking News, Latest News and Videos"
     }
    ]
   }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T12:09:01Z",
+ "updated": "2026-11-17T21:08:01Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -65,7 +65,7 @@
    "metrics": {
     "artist": "Tate McRae",
     "rank": 3,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -88,7 +88,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 4,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -111,7 +111,7 @@
    "metrics": {
     "artist": "Mariah Carey",
     "rank": 5,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -157,7 +157,7 @@
    "metrics": {
     "artist": "Olivia Rodrigo",
     "rank": 7,
-    "change": 6
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -203,11 +203,34 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 9,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/dead-fresh/6790569132?i=6790569133"
+   }
+  },
+  {
+   "rawId": "1648587330",
+   "title": "In A Minute",
+   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#10 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-08T00:00:00Z",
+   "hot": 16,
+   "rank": 10,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 10,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -218,15 +241,15 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
+   "summary": "#11 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-06-12T00:00:00Z",
-   "hot": 16,
-   "rank": 10,
+   "hot": 15,
+   "rank": 11,
    "metrics": {
     "artist": "Olivia Rodrigo",
-    "rank": 10,
-    "change": 4
+    "rank": 11,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -241,42 +264,19 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#11 on Apple Music's most-played songs (US).",
+   "summary": "#12 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 15,
-   "rank": 11,
+   "hot": 14,
+   "rank": 12,
    "metrics": {
     "artist": "Drake & Don Toliver",
-    "rank": 11,
+    "rank": 12,
     "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-   }
-  },
-  {
-   "rawId": "1648587330",
-   "title": "In A Minute",
-   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 12,
-    "change": -3
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -295,34 +295,11 @@
    "metrics": {
     "artist": "Lil Baby",
     "rank": 13,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
-   }
-  },
-  {
-   "rawId": "6795697687",
-   "title": "Stop The Wedding!",
-   "url": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#14 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/400x400bb.jpg",
-   "publishedAt": "2026-08-07T00:00:00Z",
-   "hot": 12,
-   "rank": 14,
-   "metrics": {
-    "artist": "Ashe",
-    "rank": 14,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687"
    }
   },
   {
@@ -333,15 +310,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
+   "summary": "#14 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
+   "hot": 12,
+   "rank": 14,
    "metrics": {
     "artist": "Future",
-    "rank": 15,
-    "change": -3
+    "rank": 14,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -356,19 +333,42 @@
    "tags": [
     "Country"
    ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
+   "summary": "#15 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
+   "hot": 11,
+   "rank": 15,
    "metrics": {
     "artist": "Zach Bryan & Lana Del Rey",
-    "rank": 16,
-    "change": 0
+    "rank": 15,
+    "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
+   }
+  },
+  {
+   "rawId": "6795697687",
+   "title": "Stop The Wedding!",
+   "url": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#16 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/400x400bb.jpg",
+   "publishedAt": "2026-08-07T00:00:00Z",
+   "hot": 10,
+   "rank": 16,
+   "metrics": {
+    "artist": "Ashe",
+    "rank": 16,
+    "change": -2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687"
    }
   },
   {
@@ -456,34 +456,11 @@
    "metrics": {
     "artist": "Drake",
     "rank": 20,
-    "change": 1
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/marvins-room/1440642493?i=1440642743"
-   }
-  },
-  {
-   "rawId": "1869436845",
-   "title": "Be Her",
-   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
-   "publishedAt": "2026-02-13T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
-   "metrics": {
-    "artist": "Ella Langley",
-    "rank": 21,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
    }
   },
   {
@@ -494,42 +471,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
+   "summary": "#21 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f4/5c/bc/f45cbc87-8e29-b069-39d8-71db2fc0d1e3/886448381211.jpg/400x400bb.jpg",
    "publishedAt": "2015-03-21T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
+   "hot": 5,
+   "rank": 21,
    "metrics": {
     "artist": "Future",
-    "rank": 22,
+    "rank": 21,
     "change": 1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/march-madness/1506297314?i=1506297772"
-   }
-  },
-  {
-   "rawId": "6834158434",
-   "title": "Party With The Boys",
-   "url": "https://music.apple.com/us/album/party-with-the-boys/6834158209?i=6834158434",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/a4/0c/8fa40cc9-4fcd-2b1c-5d9a-718917370a71/075679549983.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-29T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
-   "metrics": {
-    "artist": "Don Toliver",
-    "rank": 23,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/party-with-the-boys/6834158209?i=6834158434"
    }
   },
   {
@@ -540,15 +494,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
+   "summary": "#22 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "hot": 4,
+   "rank": 22,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 24,
-    "change": -2
+    "rank": 22,
+    "change": 2
    },
    "embed": {
     "kind": "music",
@@ -556,26 +510,72 @@
    }
   },
   {
-   "rawId": "720861445",
-   "title": "Underneath the Tree",
-   "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445",
+   "rawId": "1869436845",
+   "title": "Be Her",
+   "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
    "category": "music",
    "tags": [
-    "Holiday"
+    "Country"
    ],
-   "summary": "#25 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
-   "publishedAt": "2013-10-25T00:00:00Z",
-   "hot": 1,
-   "rank": 25,
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
+   "publishedAt": "2026-02-13T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
    "metrics": {
-    "artist": "Kelly Clarkson",
-    "rank": 25,
-    "change": -5
+    "artist": "Ella Langley",
+    "rank": 23,
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/underneath-the-tree/720861443?i=720861445"
+    "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
+   }
+  },
+  {
+   "rawId": "6834158434",
+   "title": "Party With The Boys",
+   "url": "https://music.apple.com/us/album/party-with-the-boys/6834158209?i=6834158434",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/8f/a4/0c/8fa40cc9-4fcd-2b1c-5d9a-718917370a71/075679549983.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-29T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Don Toliver",
+    "rank": 24,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/party-with-the-boys/6834158209?i=6834158434"
+   }
+  },
+  {
+   "rawId": "1802103970",
+   "title": "I'm The Problem",
+   "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#25 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2025-01-31T00:00:00Z",
+   "hot": 1,
+   "rank": 25,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 25,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/im-the-problem/1802103958?i=1802103970"
    }
   }
  ]
