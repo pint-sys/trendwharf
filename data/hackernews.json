@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-18T02:58:36Z",
+ "updated": "2026-11-18T11:58:41Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50543989",
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "url": "https://energy-based-reasoners.github.io/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "energy-based-reasoners.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-18T09:29:32Z",
+   "hot": 20.9,
+   "rank": 1,
+   "metrics": {
+    "points": 52,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50543989"
+   }
+  },
   {
    "rawId": "50538240",
    "title": "Java4Shell: RCE in OpenJDK when processing Base64",
@@ -15,33 +36,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-17T21:11:28Z",
-   "hot": 100.9,
-   "rank": 1,
-   "metrics": {
-    "points": 584,
-    "comments": 153,
-    "discussion": "https://news.ycombinator.com/item?id=50538240"
-   }
-  },
-  {
-   "rawId": "50540437",
-   "title": "ID.me terms required for IRS sign-in",
-   "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "consumerrights.wiki"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-18T00:51:45Z",
-   "hot": 62.4,
+   "hot": 66.5,
    "rank": 2,
    "metrics": {
-    "points": 132,
-    "comments": 45,
-    "discussion": "https://news.ycombinator.com/item?id=50540437"
+    "points": 983,
+    "comments": 253,
+    "discussion": "https://news.ycombinator.com/item?id=50538240"
    }
   },
   {
@@ -57,33 +57,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-18T00:17:58Z",
-   "hot": 45.9,
+   "hot": 39.3,
    "rank": 3,
    "metrics": {
-    "points": 123,
-    "comments": 80,
+    "points": 459,
+    "comments": 339,
     "discussion": "https://news.ycombinator.com/item?id=50540178"
    }
   },
   {
-   "rawId": "50535230",
-   "title": "GPT‑6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "rawId": "50544261",
+   "title": "Codeberg.org Not Reachable",
+   "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openai.com"
+    "social.anoxinon.de"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T17:46:43Z",
-   "hot": 121.7,
+   "publishedAt": "2026-11-18T10:02:17Z",
+   "hot": 109.8,
    "rank": 4,
    "metrics": {
-    "points": 1119,
-    "comments": 711,
-    "discussion": "https://news.ycombinator.com/item?id=50535230"
+    "points": 213,
+    "comments": 164,
+    "discussion": "https://news.ycombinator.com/item?id=50544261"
    }
   },
   {
@@ -99,54 +99,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-17T22:13:34Z",
-   "hot": 70.7,
+   "hot": 48.1,
    "rank": 5,
    "metrics": {
-    "points": 336,
-    "comments": 95,
+    "points": 661,
+    "comments": 239,
     "discussion": "https://news.ycombinator.com/item?id=50538994"
    }
   },
   {
-   "rawId": "50539747",
-   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
-   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+   "rawId": "50540437",
+   "title": "ID.me terms required for IRS sign-in",
+   "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "wiki.archiveteam.org"
+    "consumerrights.wiki"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T23:32:58Z",
-   "hot": 28.3,
+   "publishedAt": "2026-11-18T00:51:45Z",
+   "hot": 34.3,
    "rank": 6,
    "metrics": {
-    "points": 97,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50539747"
+    "points": 381,
+    "comments": 172,
+    "discussion": "https://news.ycombinator.com/item?id=50540437"
    }
   },
   {
-   "rawId": "50539610",
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "url": "https://github.com/microsoft/onnxruntime",
+   "rawId": "50545118",
+   "title": "I had AI read my entire field, Theoretical Astrophysics",
+   "url": "https://science.caseyhandmer.com/physics/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "science.caseyhandmer.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T23:18:49Z",
-   "hot": 41.8,
+   "publishedAt": "2026-11-18T11:45:02Z",
+   "hot": 3.0,
    "rank": 7,
    "metrics": {
-    "points": 153,
-    "comments": 37,
-    "discussion": "https://news.ycombinator.com/item?id=50539610"
+    "points": 3,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50545118"
+   }
+  },
+  {
+   "rawId": "50543343",
+   "title": "Talos Linux",
+   "url": "https://www.siderolabs.com/talos-linux",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "siderolabs.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-18T08:17:44Z",
+   "hot": 17.9,
+   "rank": 8,
+   "metrics": {
+    "points": 66,
+    "comments": 32,
+    "discussion": "https://news.ycombinator.com/item?id=50543343"
    }
   },
   {
@@ -162,18 +183,39 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-17T17:12:06Z",
-   "hot": 42.3,
-   "rank": 8,
+   "hot": 30.4,
+   "rank": 9,
    "metrics": {
-    "points": 413,
-    "comments": 198,
+    "points": 570,
+    "comments": 261,
     "discussion": "https://news.ycombinator.com/item?id=50534631"
    }
   },
   {
-   "rawId": "50537156",
-   "title": "jQuery 4.1.0",
-   "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+   "rawId": "50541790",
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "kernel.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-18T04:14:04Z",
+   "hot": 16.3,
+   "rank": 10,
+   "metrics": {
+    "points": 126,
+    "comments": 62,
+    "discussion": "https://news.ycombinator.com/item?id=50541790"
+   }
+  },
+  {
+   "rawId": "50539610",
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "url": "https://github.com/microsoft/onnxruntime",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -182,34 +224,34 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T19:50:40Z",
-   "hot": 36.5,
-   "rank": 9,
+   "publishedAt": "2026-11-17T23:18:49Z",
+   "hot": 27.6,
+   "rank": 11,
    "metrics": {
-    "points": 260,
-    "comments": 145,
-    "discussion": "https://news.ycombinator.com/item?id=50537156"
+    "points": 350,
+    "comments": 74,
+    "discussion": "https://news.ycombinator.com/item?id=50539610"
    }
   },
   {
-   "rawId": "50535885",
-   "title": "MAI Code 2 and Code 2 Flash",
-   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "rawId": "50517929",
+   "title": "My Emacs 31 contributions",
+   "url": "https://xenodium.com/my-emacs-31-contributions",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "microsoft.ai"
+    "xenodium.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T18:25:13Z",
-   "hot": 35.2,
-   "rank": 10,
+   "publishedAt": "2026-11-16T14:26:10Z",
+   "hot": 0.7,
+   "rank": 12,
    "metrics": {
-    "points": 301,
-    "comments": 136,
-    "discussion": "https://news.ycombinator.com/item?id=50535885"
+    "points": 34,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50517929"
    }
   },
   {
@@ -225,33 +267,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-17T15:38:28Z",
-   "hot": 43.3,
-   "rank": 11,
+   "hot": 29.6,
+   "rank": 13,
    "metrics": {
-    "points": 491,
-    "comments": 565,
+    "points": 602,
+    "comments": 690,
     "discussion": "https://news.ycombinator.com/item?id=50532849"
    }
   },
   {
-   "rawId": "50535992",
-   "title": "Phrack 73 Released",
-   "url": "https://phrack.org/issues/73/introduction_md",
+   "rawId": "50539747",
+   "title": "Archive Team is archiving the Apple Support Community",
+   "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "phrack.org"
+    "wiki.archiveteam.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T18:31:25Z",
-   "hot": 34.5,
-   "rank": 12,
+   "publishedAt": "2026-11-17T23:32:58Z",
+   "hot": 16.8,
+   "rank": 14,
    "metrics": {
-    "points": 292,
-    "comments": 46,
-    "discussion": "https://news.ycombinator.com/item?id=50535992"
+    "points": 209,
+    "comments": 76,
+    "discussion": "https://news.ycombinator.com/item?id=50539747"
+   }
+  },
+  {
+   "rawId": "50535885",
+   "title": "MAI Code 2 and Code 2 Flash",
+   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "microsoft.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-17T18:25:13Z",
+   "hot": 21.5,
+   "rank": 15,
+   "metrics": {
+    "points": 377,
+    "comments": 155,
+    "discussion": "https://news.ycombinator.com/item?id=50535885"
    }
   },
   {
@@ -267,11 +330,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-17T19:25:27Z",
-   "hot": 34.6,
-   "rank": 13,
+   "hot": 21.0,
+   "rank": 16,
    "metrics": {
-    "points": 261,
-    "comments": 78,
+    "points": 347,
+    "comments": 113,
     "discussion": "https://news.ycombinator.com/item?id=50536813"
    }
   },
@@ -288,60 +351,60 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-17T21:16:12Z",
-   "hot": 12.1,
-   "rank": 14,
+   "hot": 14.1,
+   "rank": 17,
    "metrics": {
-    "points": 69,
-    "comments": 103,
+    "points": 207,
+    "comments": 287,
     "discussion": "https://news.ycombinator.com/item?id=50538303"
    }
   },
   {
-   "rawId": "50503492",
-   "title": "Fun with Constrained Programming",
-   "url": "https://blog.cmpxchg8b.com/2012/09/fun-with-constrained-programming.html",
+   "rawId": "50542705",
+   "title": "AI is killing All About Berlin",
+   "url": "https://nicolasbouliane.com/blog/death-by-ai",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.cmpxchg8b.com"
+    "nicolasbouliane.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T02:45:57Z",
-   "hot": 0.3,
-   "rank": 15,
+   "publishedAt": "2026-11-18T06:47:26Z",
+   "hot": 82.7,
+   "rank": 18,
    "metrics": {
-    "points": 21,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50503492"
+    "points": 429,
+    "comments": 403,
+    "discussion": "https://news.ycombinator.com/item?id=50542705"
    }
   },
   {
-   "rawId": "50536387",
-   "title": "Solid 2.0",
-   "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+   "rawId": "50535992",
+   "title": "Phrack 73",
+   "url": "https://phrack.org/issues/73/introduction_md",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "solidjs.com"
+    "phrack.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T18:56:17Z",
-   "hot": 29.9,
-   "rank": 16,
+   "publishedAt": "2026-11-17T18:31:25Z",
+   "hot": 23.0,
+   "rank": 19,
    "metrics": {
-    "points": 240,
-    "comments": 63,
-    "discussion": "https://news.ycombinator.com/item?id=50536387"
+    "points": 402,
+    "comments": 56,
+    "discussion": "https://news.ycombinator.com/item?id=50535992"
    }
   },
   {
-   "rawId": "50502957",
-   "title": "Nozzle: A streaming library that emits when possible and buffers where necessary",
-   "url": "https://github.com/Robert-Cunningham/nozzle",
+   "rawId": "50537156",
+   "title": "jQuery 4.1.0",
+   "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -350,76 +413,13 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-15T01:13:52Z",
-   "hot": 0.1,
-   "rank": 17,
-   "metrics": {
-    "points": 7,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50502957"
-   }
-  },
-  {
-   "rawId": "50540472",
-   "title": "Cerebras Disaggregated Inference",
-   "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "cerebras.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-18T00:56:23Z",
-   "hot": 12.3,
-   "rank": 18,
-   "metrics": {
-    "points": 25,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50540472"
-   }
-  },
-  {
-   "rawId": "50532191",
-   "title": "What is the best harness for each model?",
-   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "runta.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-17T14:53:43Z",
-   "hot": 28.1,
-   "rank": 19,
-   "metrics": {
-    "points": 340,
-    "comments": 118,
-    "discussion": "https://news.ycombinator.com/item?id=50532191"
-   }
-  },
-  {
-   "rawId": "50536468",
-   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-   "url": "https://starsling.dev",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "starsling.dev"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-17T19:01:43Z",
-   "hot": 7.0,
+   "publishedAt": "2026-11-17T19:50:40Z",
+   "hot": 20.7,
    "rank": 20,
    "metrics": {
-    "points": 56,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50536468"
+    "points": 334,
+    "comments": 175,
+    "discussion": "https://news.ycombinator.com/item?id=50537156"
    }
   }
  ]

@@ -1,250 +1,255 @@
 {
- "updated": "2026-11-18T02:58:36Z",
+ "updated": "2026-11-18T11:58:41Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "ncaa basketball",
-   "query": "ncaa basketball",
-   "traffic": "5000+",
-   "trafficNum": 5000,
-   "publishedAt": "2026-11-18T02:30:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8k6SLRXJ2cKKq73GMaubSzOmnYxlhl9Z_hQlDDhwOFvI_PSnCFK2uzz4YUDg",
+   "rawId": "strands hint",
+   "query": "strands hint",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-18T11:20:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-JCWL-geJx4ZmEuJSL2MbatsaViOuWBrYsFoL_UcSGxPWQxX7f99YbDZYeQ",
    "news": [
     {
-     "title": "LSU adds RJ Luis Jr. to roster; SEC calls move 'disappointing'",
-     "url": "https://www.espn.com/mens-college-basketball/story/_/id/50514250/lsu-adds-rj-luis-jr-roster-sec-oks-addition",
+     "title": "Today’s NYT Strands Hints, Spangram and Answers for Tuesday, Nov. 17, #989",
+     "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-answers-spangram-november-17-989/",
+     "source": "CNET"
+    },
+    {
+     "title": "NYT Strands Puzzle for November 18: Hints, Spangram, and Answers Revealed!",
+     "url": "https://www.aol.com/articles/nyt-strands-puzzle-november-18-054500000.html",
+     "source": "AOL.com"
+    },
+    {
+     "title": "NYT Strands Sports Edition Hints & Answers for Wednesday, November 18, 2026 (Puzzle #29)",
+     "url": "https://www.technobezz.com/news/nyt-strands-sports-edition-29-hints-and-answers",
+     "source": "Technobezz"
+    }
+   ]
+  },
+  {
+   "rawId": "atlanta braves",
+   "query": "atlanta braves",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-18T11:40:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWmH34rbNCnY4CufNtdmblHCV9_OZ1MiuXHPypoVjSmVwKdX0t7ohauCPcQY",
+   "news": [
+    {
+     "title": "St. Louis Cardinals Jordan Walker, Alec Burleson Denied Silver Slugger Awards",
+     "url": "https://www.vivaelbirdos.com/st-louis-cardinals-news/77006/st-louis-cardinals-jordan-walker-alec-burleson-denied-silver-slugger-awards",
+     "source": "Viva El Birdos"
+    },
+    {
+     "title": "Matt Olson wins 2026 Silver Slugger Award",
+     "url": "https://www.batterypower.com/atlanta-braves-news/142407/matt-olson-wins-2026-silver-slugger-award",
+     "source": "Battery Power"
+    },
+    {
+     "title": "Matt Olson Has Personal News Emerge During MLB Offseason",
+     "url": "https://sports.yahoo.com/articles/matt-olson-personal-news-emerge-022436654.html",
+     "source": "Yahoo Sports"
+    }
+   ]
+  },
+  {
+   "rawId": "météo",
+   "query": "météo",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-18T11:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv4ISS179o5IZwxoMfPo4_vcka2PxG_j7il3zXullnaxs0mOHQI4bMfxJWBZ4",
+   "news": [
+    {
+     "title": "Météo : défilé de perturbations cette semaine",
+     "url": "https://meteofrance.com/actualites/meteo-defile-de-perturbations-cette-semaine",
+     "source": "METEO France"
+    },
+    {
+     "title": "Pluie et inondations : le Pas-de-Calais et la Somme placés en vigilance orange",
+     "url": "https://www.lemonde.fr/planete/article/2026/11/18/pluie-et-inondations-le-pas-de-calais-et-la-somme-places-en-vigilance-orange_6813028_3245.html",
+     "source": "Le Monde.fr"
+    },
+    {
+     "title": "Des trains TER retardés ou supprimés entre Lille, Douai et Valenciennes ce mercredi matin",
+     "url": "https://www.ici.fr/hauts-de-france/nord-59/lille/des-trains-ter-retardes-ou-supprimes-entre-lille-douai-et-valenciennes-ce-mercredi-matin-9602794",
+     "source": "ici.fr"
+    }
+   ]
+  },
+  {
+   "rawId": "cameron bancroft",
+   "query": "cameron bancroft",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-18T11:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSimH6NRQ2pGAjBkfX9eL-RZcTbIeYm8sfwxffqLuUlSpWHg1zJNclNzfh9L6Q",
+   "news": [
+    {
+     "title": "Australia sandpaper: Cameron Bancroft claims whole team knew of plot in South Africa",
+     "url": "https://www.bbc.com/sport/cricket/articles/cmqlqdevgl9ro",
+     "source": "BBC"
+    },
+    {
+     "title": "'It was not just the three of us ... it was the whole team'",
+     "url": "https://www.cricinfo.com/story/cameron-bancroft-s-account-of-what-happened-during-sandpapergate-in-south-africa-in-2018-1563064",
+     "source": "Cricinfo"
+    },
+    {
+     "title": "Cricket Australia’s 'Sandpapergate' forum has a problem: It isn’t chasing the truth",
+     "url": "https://www.politico.com/news/2026/11/17/cricket-australias-sandpapergate-forum-has-a-problem-it-isnt-chasing-the-truth-01172131",
+     "source": "Politico"
+    }
+   ]
+  },
+  {
+   "rawId": "brittany mahomes",
+   "query": "brittany mahomes",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-18T11:20:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTM6T3iRG03IJ71j1JtTngBxrIk8l8OHytutB9hd2ahB8o9VjeGddOpA_iZx7k",
+   "news": [
+    {
+     "title": "Patrick & Brittany Mahomes announce fourth baby's gender, and Chiefs fans will love the Super Bowl omen",
+     "url": "https://www.foxnews.com/outkick-sports/patrick-mahomes-announces-fourth-baby-gender-chiefs-fans-love-super-bowl-omen",
+     "source": "Fox News"
+    },
+    {
+     "title": "Chiefs News: The Mahomes family reveals gender of fourth child",
+     "url": "https://www.yahoo.com/entertainment/celebrity/articles/chiefs-news-mahomes-family-reveals-110000013.html",
+     "source": "Yahoo"
+    },
+    {
+     "title": "Patrick and Brittany Mahomes Are Expecting a Boy! See Their Gender Reveal",
+     "url": "https://people.com/patrick-and-brittany-mahomes-reveal-the-sex-of-baby-no-4-12261760",
+     "source": "People.com"
+    }
+   ]
+  },
+  {
+   "rawId": "irán",
+   "query": "irán",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-18T11:40:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQ77tFGmzEO2PHHzvzSmsMyfwIEe58KQDUbML8cHaT6F3lGwzKNRbOs-s8fyQ",
+   "news": [
+    {
+     "title": "Exclusiva: inteligencia de EE.UU. indica que Irán podría considerar el uso de una bomba sucia en Washington, según fuentes",
+     "url": "https://cnnespanol.cnn.com/2026/11/16/eeuu/inteligencia-iran-plan-bomba-sucia-washington-trax",
+     "source": "CNN en Español"
+    },
+    {
+     "title": "Trump advierte a Irán sobre el supuesto complot contra funcionarios del Gobierno: «Nos lo tomamos muy en serio»",
+     "url": "https://noticias.foxnews.com/politics/trump-warns-iran-reported-plot-against-admin-officials-take-very-seriously",
+     "source": "Fox News"
+    },
+    {
+     "title": "Un alto funcionario dice que es \"poco probable\" que Irán ataque a EE.UU. con una 'bomba sucia'",
+     "url": "https://www.telemundo.com/noticias/edicion-noticias-telemundo/estados-unidos/video/un-alto-funcionario-dice-que-es-poco-probable-que-iran-ataque-a-ee-uu-con-una-bomba-sucia-tmvo13245566",
+     "source": "Telemundo"
+    }
+   ]
+  },
+  {
+   "rawId": "king of the court draftkings",
+   "query": "king of the court draftkings",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-18T11:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYvfRzhL1c9p13N7KgIwD1Vg9x_0GG5ELJWJIrZ49vHi6e0lQSrpC6l_Fzngk",
+   "news": [
+    {
+     "title": "DraftKings “King of the Court” picks for $1 Million Jackpot on Tuesday, November 17",
+     "url": "https://www.dimers.com/nba/news/draftkings-king-of-the-court-picks-for-1-million-jackpot-on-tuesday-november-17",
+     "source": "Dimers"
+    },
+    {
+     "title": "NBA Prop Bet Picks: DraftKings King of the Court (11/17/26)",
+     "url": "https://www.rotoballer.com/nba-prop-bet-picks-draftkings-king-of-the-court-11-17-26/1995742",
+     "source": "RotoBaller"
+    },
+    {
+     "title": "DraftKings King of the Court Best Bets for Tuesday 11/17/26",
+     "url": "https://dknetwork.draftkings.com/2026/11/17/draftkings-king-of-the-court-best-bets-for-tuesday-11-17-26/",
+     "source": "DraftKings Network"
+    }
+   ]
+  },
+  {
+   "rawId": "dabo swinney",
+   "query": "dabo swinney",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-18T11:40:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKvEQ0EA9CYpKtaMIpDPVnTAzUiQAf1pAi29z22u7e-U0jQXVOaWpRNXppGiE",
+   "news": [
+    {
+     "title": "Defiant Dabo Swinney says Clemson's 'gonna win a bunch more'",
+     "url": "https://www.espn.com/college-football/story/_/id/50512833/defiant-dabo-swinney-says-clemson-gonna-win-bunch-more",
      "source": "ESPN"
     },
     {
-     "title": "SEC won’t block LSU from rostering RJ Luis, clearing 2025 NBA Draft entrant to play",
-     "url": "https://www.nytimes.com/athletic/7787857/2026/11/16/rj-luis-lsu-basketball-roster-sec/",
+     "title": "“He Hasn’t Won Anything of Consequence in So Long”: Fans Don’t Believe Dabo Swinney as He Makes National Championship Admission Amid Clemson Criticism",
+     "url": "https://sports.yahoo.com/articles/hasn-t-won-anything-consequence-105533913.html",
+     "source": "Yahoo Sports"
+    },
+    {
+     "title": "Was Swinney Auditioning for Another Job?",
+     "url": "https://www.theclemsoninsider.com/2026/11/17/was-swinney-auditioning-for-another-job/",
+     "source": "The Clemson Insider"
+    }
+   ]
+  },
+  {
+   "rawId": "juan mata",
+   "query": "juan mata",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-18T11:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVH_1TMXMUZQmYqt7r8_V3NQnRRd26e2dolt0kuWedD6BALX5-9JIoEMq56ss",
+   "news": [
+    {
+     "title": "Juan Mata announces retirement aged 38 after glittering career",
+     "url": "https://www.espn.com/soccer/story/_/id/50519330/juan-mata-retires-spain-world-cup-man-united",
+     "source": "ESPN"
+    },
+    {
+     "title": "Juan Mata announces retirement: ‘Football will never leave my life’",
+     "url": "https://www.nytimes.com/athletic/7791699/2026/11/18/juan-mata-retires-man-united-chelsea-spain/",
      "source": "The New York Times"
     },
     {
-     "title": "SEC tells attorneys it won’t penalize LSU for adding RJ Luis Jr. to basketball roster",
-     "url": "https://www.wafb.com/2026/11/16/sec-tells-attorneys-it-wont-penalize-lsu-adding-rj-luis-jr-basketball-roster/",
-     "source": "WAFB"
+     "title": "Former Spain midfielder Mata retires aged 38",
+     "url": "https://www.bbc.com/sport/football/articles/c8p3vwe1rrzqo",
+     "source": "BBC"
     }
    ]
   },
   {
-   "rawId": "scottie barnes",
-   "query": "scottie barnes",
-   "traffic": "2000+",
-   "trafficNum": 2000,
-   "publishedAt": "2026-11-18T02:40:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQCg4rv7YXqOMhheqhWcUWUpXMtwikSmiKKsOF0E_E0sWi1PE3rnY7rI8ZMxq4",
+   "rawId": "brandon tyner us military transfer",
+   "query": "brandon tyner us military transfer",
+   "traffic": "100+",
+   "trafficNum": 100,
+   "publishedAt": "2026-11-18T11:30:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIWOZYp3se_ZYSQlkQ8_4vajbYObVIm-EceyPI6f51hpmWZPDMx4TsME3Ub40",
    "news": [
     {
-     "title": "Raptors vs. Knicks Injury Report: Barnes Available, Leonard Making Progress",
-     "url": "https://sports.yahoo.com/articles/raptors-vs-knicks-injury-report-235546582.html",
-     "source": "Yahoo Sports"
+     "title": "U.S. soldier taken into military custody over suspected spying for Russia",
+     "url": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
+     "source": "CNBC"
     },
     {
-     "title": "Deni Avdija (foot) downgraded to out Tuesday",
-     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-17/deni-avdija-foot-downgraded-to-out-tuesday",
-     "source": "NBC Sports"
+     "title": "American soldier arrested in UK taken into US military custody",
+     "url": "https://www.bbc.com/news/articles/c6x284ez38vdo",
+     "source": "BBC"
     },
     {
-     "title": "Scottie Barnes Injury: Late addition to injury report",
-     "url": "https://www.rotowire.com/basketball/headlines/scottie-barnes-injury-late-addition-to-injury-report-539587",
-     "source": "RotoWire"
-    }
-   ]
-  },
-  {
-   "rawId": "aus vs eng",
-   "query": "aus vs eng",
-   "traffic": "2000+",
-   "trafficNum": 2000,
-   "publishedAt": "2026-11-18T02:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCc75enkGWwUqZrE_7i1Q8L9zXNmm5BxH2py4VB1sWlwwOz6FbbfcK9tTXV1Q",
-   "news": [
-    {
-     "title": "Tom Banton’s 121 powers England to 355-6 in the second ODI against Australia",
-     "url": "https://www.houstonchronicle.com/sports/article/australia-wins-the-toss-and-chooses-to-bowl-22531491.php",
-     "source": "Houston Chronicle"
-    },
-    {
-     "title": "England beats Australia by 135 runs to level the ODI cricket series 1-1",
-     "url": "https://www.michigansthumb.com/sports/article/australia-wins-the-toss-and-chooses-to-bowl-22531491.php",
-     "source": "Huron Daily Tribune"
-    }
-   ]
-  },
-  {
-   "rawId": "jazz vs clippers",
-   "query": "jazz vs clippers",
-   "traffic": "2000+",
-   "trafficNum": 2000,
-   "publishedAt": "2026-11-18T02:30:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3qbBqc7y2gq4-FhQiUcGGR2GcbT7EP_cMr2Yt4jTph3WE6GcmRrTIP5xdqtg",
-   "news": [
-    {
-     "title": "Preview: Utah Jazz Begin Back-to-Back Against LA Clippers",
-     "url": "https://utahjazz.com/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
-     "source": "NBA.com"
-    },
-    {
-     "title": "Jazz vs. Clippers NBA picks Tuesday: Injury-ravaged Utah could tie third-longest losing skid in team history",
-     "url": "https://www.cbssports.com/betting/news/jazz-vs-clippers-nba-picks-tuesday-injury-ravaged-utah-could-tie-third-longest-losing-skid-in-team-history/",
-     "source": "CBS Sports"
-    },
-    {
-     "title": "Jazz vs. Clippers Prediction, Odds and Best NBA Prop Bets for Tuesday, Nov. 17",
-     "url": "https://www.si.com/betting/jazz-vs-clippers-prediction-odds-and-best-nba-prop-bets-for-tuesday-nov-17-2026",
-     "source": "Sports Illustrated"
-    }
-   ]
-  },
-  {
-   "rawId": "connor bedard",
-   "query": "connor bedard",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-18T02:30:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6O79fn6j_7SswtApKL-ZgMHDTiLlmZLcKLWuzQQBLuET0WzwPQv11lI9fKqI",
-   "news": [
-    {
-     "title": "Bedard, McKenna share mutual respect as No. 1 picks in NHL Draft",
-     "url": "https://www.nhl.com/news/gavin-mckenna-connor-bedard-mutual-respect-ahead-of-first-nhl-meeting",
-     "source": "NHL.com"
-    },
-    {
-     "title": "Connor Bedard has High Praise for Maple Leafs’ Gavin McKenna",
-     "url": "https://sports.yahoo.com/articles/connor-bedard-high-praise-maple-204357123.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Blackhawks, Maple Leafs Boast Five No. 1 Picks - Patrick Kane Talks Matthews, McKenna, Bedard",
-     "url": "https://www.bleachernation.com/blackhawks/2026/11/17/patrick-kane-toronto-blackhawks-top-picks/",
-     "source": "Bleacher Nation"
-    }
-   ]
-  },
-  {
-   "rawId": "ku basketball",
-   "query": "ku basketball",
-   "traffic": "1000+",
-   "trafficNum": 1000,
-   "publishedAt": "2026-11-18T02:30:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQUAK-s-nymH2F36061WyAo4BrHFMq6V_YvGVWOB_fZiDxFleKWiOTPqnCKbkE",
-   "news": [
-    {
-     "title": "The biggest thing Bill Self can learn about his team during Players Era Eight",
-     "url": "https://247sports.com/college/kansas/article/kansas-basketball-players-era-eight-292879159/",
-     "source": "247Sports"
-    },
-    {
-     "title": "Preview: KU to begin Players Era 8 with UNLV matchup",
-     "url": "https://www2.kusports.com/sports/college/basketball-men/2026/nov/16/preview-ku-to-begin-players-era-8-with-unlv-matchup/",
-     "source": "KU Sports"
-    },
-    {
-     "title": "KU basketball vs. UNLV at Players Era 8: Probable starters, tipoff, TV, notes",
-     "url": "https://www.kansascity.com/sports/college/big-12/university-of-kansas/article318110442.html",
-     "source": "Kansas City Star"
-    }
-   ]
-  },
-  {
-   "rawId": "cutter gauthier",
-   "query": "cutter gauthier",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-18T02:40:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSp4Nynla9jW15B6o-_IzF6nxM98YRVSLoTMcKzNIlVq0m1DwfEpeKDAAC8Ct4",
-   "news": [
-    {
-     "title": "Gauthier Extends Scoring Streak",
-     "url": "https://www.nhl.com/ducks/video/ana-stl-gauthier-scores-goal-against-jordan-binnington-6408526689112",
-     "source": "NHL.com"
-    },
-    {
-     "title": "Cutter Gauthier’s goal scoring puts him in rarified air: ‘I want to be one of those guys’",
-     "url": "https://www.nytimes.com/athletic/7780402/2026/11/14/ducks-cutter-gauthier-goals-nhl-history/",
+     "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
+     "url": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
      "source": "The New York Times"
-    },
-    {
-     "title": "Ducks 6-1 Flames (Nov 15, 2026) Game Recap",
-     "url": "https://www.espn.com/nhl/recap/_/gameId/401892723",
-     "source": "ESPN"
-    }
-   ]
-  },
-  {
-   "rawId": "kawhi leonard",
-   "query": "kawhi leonard",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-18T02:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8q892NPgAgVE68q0mr8Tv_dVxgqxbucyprN-w4-VBEPiR_fF1BsWUhjTHeYg",
-   "news": [
-    {
-     "title": "Raptors say Kawhi Leonard progressing but out at least another week",
-     "url": "https://www.espn.com/nba/story/_/id/50514496/raptors-kawhi-leonard-progressing-another-week",
-     "source": "ESPN"
-    },
-    {
-     "title": "Kawhi (knee) progressing with strength work",
-     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-17/kawhi-knee-progressing-with-strength-work",
-     "source": "NBC Sports"
-    },
-    {
-     "title": "Kawhi Leonard’s Absence Continues As Raptors Give New Status Update",
-     "url": "https://sports.yahoo.com/articles/kawhi-leonard-absence-continues-raptors-013225057.html",
-     "source": "Yahoo Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "stephen curry injury",
-   "query": "stephen curry injury",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-18T02:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRatAB6cFj__uP9veK475bkA2IaVyhs3WKjAwu2vjqevoTCpCGCZI7Y5XOOJ2M",
-   "news": [
-    {
-     "title": "Stephen Curry Injury Update - 11/12/26 | Golden State Warriors",
-     "url": "https://warriors.com/news/stephen-curry-injury-update-11-12-26",
-     "source": "NBA.com"
-    },
-    {
-     "title": "Steve Kerr rightfully beginning to tinker with Warriors' Steph Curry-less lineup",
-     "url": "https://www.nbcsportsbayarea.com/nba/golden-state-warriors/steve-kerr-lineup-draymond-green/1980899/",
-     "source": "NBC Sports Bay Area & California"
-    },
-    {
-     "title": "Week 5 Look-Ahead: Stephen Curry and Caleb Wilson go down, and toss Jeremiah Fears the keys",
-     "url": "https://www.nbcsports.com/fantasy/basketball/news/week-5-look-ahead-stephen-curry-and-caleb-wilson-go-do-and-toss-jeremiah-fears-the-keys",
-     "source": "NBC Sports"
-    }
-   ]
-  },
-  {
-   "rawId": "ohio university football",
-   "query": "ohio university football",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-18T02:40:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2w08DvKooMZ8G1CBBPYTam7rbfs46ZxVLqwUaEFYTKIaRGBmYmAHTHYJZUw",
-   "news": [
-    {
-     "title": "Ball State @ Ohio Odds",
-     "url": "https://sportsbook.fanduel.com/football/ncaa-football-games/ball-state-@-ohio-36305455",
-     "source": "FanDuel Sportsbook"
-    },
-    {
-     "title": "How to watch Ball State vs Ohio: Live stream NCAA College Football, TV channel",
-     "url": "https://sports.yahoo.com/articles/watch-ball-state-vs-ohio-230000250.html",
-     "source": "Yahoo Sports"
-    },
-    {
-     "title": "Ball State Cardinals at Ohio Bobcats - NCAAF Game Summary - Nov 17, 2026",
-     "url": "https://www.usatoday.com/sports/ncaaf/event/2026/2975030/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NCAAF&tile=1",
-     "source": "USA Today"
     }
    ]
   }
