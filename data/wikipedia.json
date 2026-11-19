@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-19T02:41:03Z",
+ "updated": "2026-11-19T11:55:51Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
   {
-   "rawId": "robert pattinson",
-   "title": "Robert Pattinson",
-   "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+   "rawId": "grand theft auto vi",
+   "title": "Grand Theft Auto VI",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "English actor (born 1986). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg/330px-Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "2026 video game. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 840972,
+   "hot": 519632,
    "rank": 1,
    "metrics": {
-    "views": 840972,
-    "change": -38
+    "views": 519632,
+    "change": 240
    }
   },
   {
@@ -32,11 +32,47 @@
    "summary": "2026 Indian film by Nitesh Tiwari. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 452299,
+   "hot": 410267,
    "rank": 2,
    "metrics": {
-    "views": 452299,
-    "change": -18
+    "views": 410267,
+    "change": -9
+   }
+  },
+  {
+   "rawId": "robert pattinson",
+   "title": "Robert Pattinson",
+   "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "English actor (born 1986). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg/330px-Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 337514,
+   "rank": 3,
+   "metrics": {
+    "views": 337514,
+    "change": -60
+   }
+  },
+  {
+   "rawId": "dancing with the stars (american tv series) season 35",
+   "title": "Dancing with the Stars (American TV series) season 35",
+   "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)_season_35",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/ae/DWTS_US_Season_35_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 150752,
+   "rank": 4,
+   "metrics": {
+    "views": 150752,
+    "change": 823
    }
   },
   {
@@ -50,65 +86,29 @@
    "summary": "English actress, singer, and model (born 1992). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Suki_Waterhouse_at_82nd_Venice_International_Film_Festival-4.jpg/330px-Suki_Waterhouse_at_82nd_Venice_International_Film_Festival-4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 297037,
-   "rank": 3,
-   "metrics": {
-    "views": 297037,
-    "change": -22
-   }
-  },
-  {
-   "rawId": "list of highest-grossing indian films",
-   "title": "List of highest-grossing Indian films",
-   "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 153338,
-   "rank": 4,
-   "metrics": {
-    "views": 153338,
-    "change": -26
-   }
-  },
-  {
-   "rawId": "grand theft auto vi",
-   "title": "Grand Theft Auto VI",
-   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 video game. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 153037,
+   "hot": 146794,
    "rank": 5,
    "metrics": {
-    "views": 153037,
-    "change": 43
+    "views": 146794,
+    "change": -51
    }
   },
   {
-   "rawId": "jensen huang",
-   "title": "Jensen Huang",
-   "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
+   "rawId": "mary peltola",
+   "title": "Mary Peltola",
+   "url": "https://en.wikipedia.org/wiki/Mary_Peltola",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Taiwanese-American businessman (born 1963). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/330px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Native American politician (born 1973). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg/330px-Mary_Peltola_Congressional_Member_Portrait_%282%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 144823,
+   "hot": 133395,
    "rank": 6,
    "metrics": {
-    "views": 144823,
-    "change": -11
+    "views": 133395,
+    "change": 549
    }
   },
   {
@@ -122,11 +122,29 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 136111,
+   "hot": 131394,
    "rank": 7,
    "metrics": {
-    "views": 136111,
-    "change": 1
+    "views": 131394,
+    "change": -3
+   }
+  },
+  {
+   "rawId": "list of highest-grossing indian films",
+   "title": "List of highest-grossing Indian films",
+   "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 129294,
+   "rank": 8,
+   "metrics": {
+    "views": 129294,
+    "change": -16
    }
   },
   {
@@ -140,155 +158,47 @@
    "summary": "American television series. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/The_Body_Final_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 127281,
-   "rank": 8,
-   "metrics": {
-    "views": 127281,
-    "change": -7
-   }
-  },
-  {
-   "rawId": "robert pattinson filmography",
-   "title": "Robert Pattinson filmography",
-   "url": "https://en.wikipedia.org/wiki/Robert_Pattinson_filmography",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/MJK_08789_Robert_Pattinson_%28Damsel%2C_Berlinale_2018%29.jpg/330px-MJK_08789_Robert_Pattinson_%28Damsel%2C_Berlinale_2018%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 127113,
+   "hot": 124563,
    "rank": 9,
    "metrics": {
-    "views": 127113,
-    "change": -33
+    "views": 124563,
+    "change": -2
    }
   },
   {
-   "rawId": "list of james bond films",
-   "title": "List of James Bond films",
-   "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_films",
+   "rawId": "grand theft auto",
+   "title": "Grand Theft Auto",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Films featuring James Bond. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
+   "summary": "Video game series. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Grand_Theft_Auto_logo_series.svg/330px-Grand_Theft_Auto_logo_series.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 120511,
+   "hot": 110668,
    "rank": 10,
    "metrics": {
-    "views": 120511,
-    "change": 13
+    "views": 110668,
+    "change": 171
    }
   },
   {
-   "rawId": "saturn devouring his son",
-   "title": "Saturn Devouring His Son",
-   "url": "https://en.wikipedia.org/wiki/Saturn_Devouring_His_Son",
+   "rawId": "jensen huang",
+   "title": "Jensen Huang",
+   "url": "https://en.wikipedia.org/wiki/Jensen_Huang",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Painting by Francisco Goya (c. 1820–1823). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg/330px-Francisco_de_Goya%2C_Saturno_devorando_a_su_hijo_%281819-1823%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Taiwanese-American businessman (born 1963). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/330px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 108660,
+   "hot": 109002,
    "rank": 11,
    "metrics": {
-    "views": 108660,
-    "change": -38
-   }
-  },
-  {
-   "rawId": "daniel craig",
-   "title": "Daniel Craig",
-   "url": "https://en.wikipedia.org/wiki/Daniel_Craig",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "English actor (born 1968). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg/330px-Daniel_Craig_TIFF_2025_Red_Carpet_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 101483,
-   "rank": 12,
-   "metrics": {
-    "views": 101483,
-    "change": -6
-   }
-  },
-  {
-   "rawId": "ray tintori",
-   "title": "Ray Tintori",
-   "url": "https://en.wikipedia.org/wiki/Ray_Tintori",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American video director (1983–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 98033,
-   "rank": 13,
-   "metrics": {
-    "views": 98033,
-    "change": 60790
-   }
-  },
-  {
-   "rawId": "jacoby brissett",
-   "title": "Jacoby Brissett",
-   "url": "https://en.wikipedia.org/wiki/Jacoby_Brissett",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American football player (born 1992). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Jacoby_Brissett_2026_Hall_of_Fame_%284%29_9856741_%28cropped%29.jpg/330px-Jacoby_Brissett_2026_Hall_of_Fame_%284%29_9856741_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 95821,
-   "rank": 14,
-   "metrics": {
-    "views": 95821,
-    "change": 928
-   }
-  },
-  {
-   "rawId": "2026–27 uefa nations league",
-   "title": "2026–27 UEFA Nations League",
-   "url": "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "International football competition. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 93874,
-   "rank": 15,
-   "metrics": {
-    "views": 93874,
-    "change": -7
-   }
-  },
-  {
-   "rawId": "sean duffy",
-   "title": "Sean Duffy",
-   "url": "https://en.wikipedia.org/wiki/Sean_Duffy",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American politician (born 1971). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg/330px-Secretary_of_Transportation_Sean_Duffy_Official_Portrait.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 93303,
-   "rank": 16,
-   "metrics": {
-    "views": 93303,
-    "change": -9
+    "views": 109002,
+    "change": -25
    }
   },
   {
@@ -302,65 +212,155 @@
    "summary": "2026 film by Francis Lawrence. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Hunger_Games_-_Sunrise_on_the_Reaping_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 92631,
+   "hot": 101703,
+   "rank": 12,
+   "metrics": {
+    "views": 101703,
+    "change": 10
+   }
+  },
+  {
+   "rawId": "hunter schafer",
+   "title": "Hunter Schafer",
+   "url": "https://en.wikipedia.org/wiki/Hunter_Schafer",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American actress and model (born 1998). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Hunter_Schafer-64188.jpg/330px-Hunter_Schafer-64188.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 101368,
+   "rank": 13,
+   "metrics": {
+    "views": 101368,
+    "change": 135
+   }
+  },
+  {
+   "rawId": "andrej stojaković",
+   "title": "Andrej Stojaković",
+   "url": "https://en.wikipedia.org/wiki/Andrej_Stojakovi%C4%87",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Serbian-Greek-American basketball player (born 2004). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 97435,
+   "rank": 14,
+   "metrics": {
+    "views": 97435,
+    "change": 29788
+   }
+  },
+  {
+   "rawId": "hakeem jeffries",
+   "title": "Hakeem Jeffries",
+   "url": "https://en.wikipedia.org/wiki/Hakeem_Jeffries",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American politician (born 1970). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg/330px-Rep-Hakeem-Jeffries-Official-Portrait_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 92218,
+   "rank": 15,
+   "metrics": {
+    "views": 92218,
+    "change": 686
+   }
+  },
+  {
+   "rawId": "jeff bezos",
+   "title": "Jeff Bezos",
+   "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American businessman (born 1964). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/330px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 91953,
+   "rank": 16,
+   "metrics": {
+    "views": 91953,
+    "change": 50
+   }
+  },
+  {
+   "rawId": "grand theft auto v",
+   "title": "Grand Theft Auto V",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_V",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2013 video game. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 81349,
    "rank": 17,
    "metrics": {
-    "views": 92631,
-    "change": 143
+    "views": 81349,
+    "change": 124
    }
   },
   {
-   "rawId": "russell brand",
-   "title": "Russell Brand",
-   "url": "https://en.wikipedia.org/wiki/Russell_Brand",
+   "rawId": "rockstar games",
+   "title": "Rockstar Games",
+   "url": "https://en.wikipedia.org/wiki/Rockstar_Games",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "English comedian and actor (born 1975). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Russell_Brand_%2854670634113%29_%28cropped%29.jpg/330px-Russell_Brand_%2854670634113%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American video game publisher. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/330px-Rockstar_Games_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 86201,
+   "hot": 79323,
    "rank": 18,
    "metrics": {
-    "views": 86201,
-    "change": -33
+    "views": 79323,
+    "change": 169
    }
   },
   {
-   "rawId": "mariella frostrup",
-   "title": "Mariella Frostrup",
-   "url": "https://en.wikipedia.org/wiki/Mariella_Frostrup",
+   "rawId": "ansel adams",
+   "title": "Ansel Adams",
+   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Norwegian-British journalist and presenter (born 1962). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mariella_Frostrup_2016_%28cropped%29.jpg/330px-Mariella_Frostrup_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American photographer and environmentalist (1902–1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/330px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 85178,
+   "hot": 74358,
    "rank": 19,
    "metrics": {
-    "views": 85178,
-    "change": 174
+    "views": 74358,
+    "change": -1
    }
   },
   {
-   "rawId": "heidi gardner",
-   "title": "Heidi Gardner",
-   "url": "https://en.wikipedia.org/wiki/Heidi_Gardner",
+   "rawId": "list of james bond films",
+   "title": "List of James Bond films",
+   "url": "https://en.wikipedia.org/wiki/List_of_James_Bond_films",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American comedian (born 1983). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/30/Heidi_Gardner_%28NYCC_Interview_2016%29_01.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "Films featuring James Bond. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
-   "hot": 83061,
+   "hot": 73650,
    "rank": 20,
    "metrics": {
-    "views": 83061,
-    "change": 4543
+    "views": 73650,
+    "change": -39
    }
   }
  ]
