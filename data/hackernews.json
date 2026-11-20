@@ -1,215 +1,68 @@
 {
- "updated": "2026-11-20T02:26:55Z",
+ "updated": "2026-11-20T11:57:03Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50562754",
-   "title": "Anthropic’s Nasdaq debut",
-   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "rawId": "50572116",
+   "title": "Carnival Cruises emits ten times more sulphur oxide than all of Europe's cars",
+   "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "reuters.com"
+    "ecohustler.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T17:02:40Z",
-   "hot": 98.6,
+   "publishedAt": "2026-11-20T09:13:09Z",
+   "hot": 36.6,
    "rank": 1,
    "metrics": {
-    "points": 927,
-    "comments": 1831,
-    "discussion": "https://news.ycombinator.com/item?id=50562754"
+    "points": 100,
+    "comments": 52,
+    "discussion": "https://news.ycombinator.com/item?id=50572116"
    }
   },
   {
-   "rawId": "50563066",
-   "title": "Pancreatic cancer halted by virus injection in three patients",
-   "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+   "rawId": "50572503",
+   "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+   "url": "https://architectlabs.com/blog/frostbite",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "newscientist.com"
+    "architectlabs.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T17:25:33Z",
-   "hot": 67.3,
+   "publishedAt": "2026-11-20T10:01:41Z",
+   "hot": 68.1,
    "rank": 2,
    "metrics": {
-    "points": 607,
-    "comments": 92,
-    "discussion": "https://news.ycombinator.com/item?id=50563066"
+    "points": 131,
+    "comments": 93,
+    "discussion": "https://news.ycombinator.com/item?id=50572503"
    }
   },
   {
-   "rawId": "50568130",
-   "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-   "url": "https://git-aarvin.github.io/mei/",
+   "rawId": "50572355",
+   "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+   "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "git-aarvin.github.io"
+    "kottke.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T23:35:35Z",
-   "hot": 47.6,
+   "publishedAt": "2026-11-20T09:43:19Z",
+   "hot": 19.3,
    "rank": 3,
    "metrics": {
-    "points": 136,
-    "comments": 78,
-    "discussion": "https://news.ycombinator.com/item?id=50568130"
-   }
-  },
-  {
-   "rawId": "50563148",
-   "title": "Claude solves two open problems in the physics of black holes",
-   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "anthropic.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T17:30:44Z",
-   "hot": 44.8,
-   "rank": 4,
-   "metrics": {
-    "points": 400,
-    "comments": 184,
-    "discussion": "https://news.ycombinator.com/item?id=50563148"
-   }
-  },
-  {
-   "rawId": "50528119",
-   "title": "How to CAD Almost Anything",
-   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ocw.mit.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-17T06:29:57Z",
-   "hot": 2.1,
-   "rank": 5,
-   "metrics": {
-    "points": 141,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50528119"
-   }
-  },
-  {
-   "rawId": "50519231",
-   "title": "Garage Door Spam",
-   "url": "https://blog.harrison.page/garage-door-spam/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.harrison.page"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-16T16:13:36Z",
-   "hot": 9.3,
-   "rank": 6,
-   "metrics": {
-    "points": 764,
-    "comments": 319,
-    "discussion": "https://news.ycombinator.com/item?id=50519231"
-   }
-  },
-  {
-   "rawId": "50567209",
-   "title": "Synology Security Advisory",
-   "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "synology.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T22:13:40Z",
-   "hot": 25.1,
-   "rank": 7,
-   "metrics": {
-    "points": 106,
-    "comments": 74,
-    "discussion": "https://news.ycombinator.com/item?id=50567209"
-   }
-  },
-  {
-   "rawId": "50567374",
-   "title": "RegExr: Temporarily Offline",
-   "url": "https://regexr.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "regexr.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T22:27:07Z",
-   "hot": 13.5,
-   "rank": 8,
-   "metrics": {
-    "points": 54,
+    "points": 43,
     "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50567374"
-   }
-  },
-  {
-   "rawId": "50564159",
-   "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-   "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "globalcommercegraph.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T18:35:17Z",
-   "hot": 26.6,
-   "rank": 9,
-   "metrics": {
-    "points": 209,
-    "comments": 112,
-    "discussion": "https://news.ycombinator.com/item?id=50564159"
-   }
-  },
-  {
-   "rawId": "50558906",
-   "title": "Someone reported java4shell bug in September 2026",
-   "url": "https://github.com/openjdk/jdk/pull/32781",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T11:47:03Z",
-   "hot": 25.6,
-   "rank": 10,
-   "metrics": {
-    "points": 375,
-    "comments": 96,
-    "discussion": "https://news.ycombinator.com/item?id=50558906"
+    "discussion": "https://news.ycombinator.com/item?id=50572355"
    }
   },
   {
@@ -225,201 +78,348 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-20T02:01:09Z",
-   "hot": 5.0,
-   "rank": 11,
+   "hot": 28.1,
+   "rank": 4,
    "metrics": {
-    "points": 5,
-    "comments": 0,
+    "points": 279,
+    "comments": 219,
     "discussion": "https://news.ycombinator.com/item?id=50569226"
    }
   },
   {
-   "rawId": "50564366",
-   "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-   "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-   "videoUrl": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+   "rawId": "50572822",
+   "title": "The Making of Oxygene",
+   "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+   "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "youtube.com"
+    "jeanmicheljarre.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T18:47:16Z",
-   "hot": 10.3,
+   "publishedAt": "2026-11-20T10:41:10Z",
+   "hot": 11.9,
+   "rank": 5,
+   "metrics": {
+    "points": 15,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50572822"
+   }
+  },
+  {
+   "rawId": "50523241",
+   "title": "The Strongest Sokoban Solver",
+   "url": "https://healeycodes.com/introducing-the-worlds-strongest-sokoban-solver",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "healeycodes.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-16T21:04:01Z",
+   "hot": 0.9,
+   "rank": 6,
+   "metrics": {
+    "points": 77,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50523241"
+   }
+  },
+  {
+   "rawId": "50541568",
+   "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+   "url": "https://trynotched.com/find",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "trynotched.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-18T03:40:01Z",
+   "hot": 0.3,
+   "rank": 7,
+   "metrics": {
+    "points": 18,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50541568"
+   }
+  },
+  {
+   "rawId": "50573087",
+   "title": "Why do tech leaders sound so illogical and off-putting?",
+   "url": "https://www.theatlantic.com/technology/2026/11/silicon-valley-model-collapse/689505/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "theatlantic.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-20T11:13:05Z",
+   "hot": 28.0,
+   "rank": 8,
+   "metrics": {
+    "points": 28,
+    "comments": 23,
+    "discussion": "https://news.ycombinator.com/item?id=50573087"
+   }
+  },
+  {
+   "rawId": "50545818",
+   "title": "µ-Wire – USB on an ATtiny 10",
+   "url": "https://cpldcpu.com/2014/03/19/%c2%b5-wire-usb-on-an-attiny-10/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "cpldcpu.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-18T13:02:08Z",
+   "hot": 1.1,
+   "rank": 9,
+   "metrics": {
+    "points": 50,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50545818"
+   }
+  },
+  {
+   "rawId": "50569998",
+   "title": "FFmpeg 9.1 'Gauss'",
+   "url": "https://ffmpeg.org/download.html#release_9.1",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ffmpeg.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-20T04:02:39Z",
+   "hot": 20.6,
+   "rank": 10,
+   "metrics": {
+    "points": 163,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50569998"
+   }
+  },
+  {
+   "rawId": "50569516",
+   "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+   "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "snowflake.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-20T02:43:49Z",
+   "hot": 12.8,
+   "rank": 11,
+   "metrics": {
+    "points": 118,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50569516"
+   }
+  },
+  {
+   "rawId": "50500000",
+   "title": "Show HN: Radiotherapy Delivery Demo",
+   "url": "https://tps.neuralrad.com",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tps.neuralrad.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-14T19:30:16Z",
+   "hot": 0.0,
    "rank": 12,
    "metrics": {
-    "points": 79,
-    "comments": 147,
-    "discussion": "https://news.ycombinator.com/item?id=50564366"
+    "points": 6,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50500000"
    }
   },
   {
-   "rawId": "50568082",
-   "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-   "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+   "rawId": "50571189",
+   "title": "\"I can tell you wrote this yourself\"",
+   "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "wsj.com"
+    "em-online.bearblog.dev"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T23:32:11Z",
-   "hot": 34.7,
+   "publishedAt": "2026-11-20T07:13:21Z",
+   "hot": 46.3,
    "rank": 13,
    "metrics": {
-    "points": 101,
-    "comments": 32,
-    "discussion": "https://news.ycombinator.com/item?id=50568082"
+    "points": 219,
+    "comments": 230,
+    "discussion": "https://news.ycombinator.com/item?id=50571189"
    }
   },
   {
-   "rawId": "50561515",
-   "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-   "url": "https://cornholenews.news",
+   "rawId": "50563148",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cornholenews.news"
+    "anthropic.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T15:38:32Z",
-   "hot": 17.7,
+   "publishedAt": "2026-11-19T17:30:44Z",
+   "hot": 27.8,
    "rank": 14,
    "metrics": {
-    "points": 191,
-    "comments": 91,
-    "discussion": "https://news.ycombinator.com/item?id=50561515"
+    "points": 512,
+    "comments": 240,
+    "discussion": "https://news.ycombinator.com/item?id=50563148"
    }
   },
   {
-   "rawId": "50530132",
-   "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-   "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
+   "rawId": "50572448",
+   "title": "What people are building, discovered through new domains",
+   "url": "https://startups.novumsignals.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "chipsandcheese.com"
+    "startups.novumsignals.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T11:41:08Z",
-   "hot": 0.2,
+   "publishedAt": "2026-11-20T09:54:33Z",
+   "hot": 4.9,
    "rank": 15,
    "metrics": {
     "points": 10,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50530132"
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50572448"
    }
   },
   {
-   "rawId": "50562113",
-   "title": "UK government forced to admit it issued Apple a secret encryption order",
-   "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+   "rawId": "50570628",
+   "title": "Jujutsu Primer",
+   "url": "https://ethanlowman.com/posts/jj-primer/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "macanorak.com"
+    "ethanlowman.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T16:21:03Z",
-   "hot": 51.6,
+   "publishedAt": "2026-11-20T05:46:01Z",
+   "hot": 22.3,
    "rank": 16,
    "metrics": {
-    "points": 521,
-    "comments": 236,
-    "discussion": "https://news.ycombinator.com/item?id=50562113"
+    "points": 138,
+    "comments": 92,
+    "discussion": "https://news.ycombinator.com/item?id=50570628"
    }
   },
   {
-   "rawId": "50559719",
-   "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-   "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+   "rawId": "50569890",
+   "title": "PostgreSQL 19",
+   "url": "https://www.postgresql.org/docs/release/19.0/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "krthr.co"
+    "postgresql.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T13:18:11Z",
-   "hot": 19.3,
+   "publishedAt": "2026-11-20T03:45:45Z",
+   "hot": 28.5,
    "rank": 17,
    "metrics": {
-    "points": 254,
-    "comments": 56,
-    "discussion": "https://news.ycombinator.com/item?id=50559719"
+    "points": 233,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50569890"
    }
   },
   {
-   "rawId": "50538977",
-   "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-   "url": "https://notesbylex.com/weight-space-programming-1990s",
+   "rawId": "50528119",
+   "title": "How to CAD Almost Anything",
+   "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "notesbylex.com"
+    "ocw.mit.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T22:11:46Z",
-   "hot": 0.3,
+   "publishedAt": "2026-11-17T06:29:57Z",
+   "hot": 3.7,
    "rank": 18,
    "metrics": {
-    "points": 14,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50538977"
+    "points": 285,
+    "comments": 96,
+    "discussion": "https://news.ycombinator.com/item?id=50528119"
    }
   },
   {
-   "rawId": "50562320",
-   "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-   "url": "https://github.com/onlook-dev/onlook/",
+   "rawId": "50569519",
+   "title": "What Comes After AGI?",
+   "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "institute.deepmind.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-19T16:34:04Z",
+   "publishedAt": "2026-11-20T02:44:13Z",
    "hot": 8.8,
    "rank": 19,
    "metrics": {
-    "points": 87,
-    "comments": 68,
-    "discussion": "https://news.ycombinator.com/item?id=50562320"
+    "points": 81,
+    "comments": 146,
+    "discussion": "https://news.ycombinator.com/item?id=50569519"
    }
   },
   {
-   "rawId": "50547048",
-   "title": "Nintendo takes Picofly firmware down from GitHub [video]",
-   "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
-   "videoUrl": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+   "rawId": "50568861",
+   "title": "Vint Cerf on why TCP/IP was never patented",
+   "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+   "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "youtube.com"
+    "seremot.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-18T14:56:04Z",
-   "hot": 7.3,
+   "publishedAt": "2026-11-20T01:06:12Z",
+   "hot": 10.9,
    "rank": 20,
    "metrics": {
-    "points": 258,
-    "comments": 102,
-    "discussion": "https://news.ycombinator.com/item?id=50547048"
+    "points": 118,
+    "comments": 55,
+    "discussion": "https://news.ycombinator.com/item?id=50568861"
    }
   }
  ]
