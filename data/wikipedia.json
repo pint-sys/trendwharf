@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:28:42Z",
+ "updated": "2026-11-21T19:33:47Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -47,7 +47,7 @@
    "tags": [
     "wikipedia"
    ],
-   "summary": "Conjecture on the nontrivial zeros of ζ, the zeta function. Among the most-read articles on Wikipedia yesterday.",
+   "summary": "Analytic number theory statement about the zeros of the zeta function. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Riemann_zeta_function_absolute_value.png/330px-Riemann_zeta_function_absolute_value.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
    "hot": 295157,
