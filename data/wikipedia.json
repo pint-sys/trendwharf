@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:35:49Z",
+ "updated": "2026-11-21T11:28:42Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -14,11 +14,11 @@
    "summary": "2026 video game. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 750227,
+   "hot": 540793,
    "rank": 1,
    "metrics": {
-    "views": 750227,
-    "change": 44
+    "views": 540793,
+    "change": -28
    }
   },
   {
@@ -32,47 +32,47 @@
    "summary": "2026 Indian film by Nitesh Tiwari. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 371581,
+   "hot": 329248,
    "rank": 2,
    "metrics": {
-    "views": 371581,
-    "change": -9
+    "views": 329248,
+    "change": -11
    }
   },
   {
-   "rawId": "stephen wilson jr.",
-   "title": "Stephen Wilson Jr.",
-   "url": "https://en.wikipedia.org/wiki/Stephen_Wilson_Jr.",
+   "rawId": "riemann hypothesis",
+   "title": "Riemann hypothesis",
+   "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American musician (born 1979). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/SWJr_15MAR25.jpg/330px-SWJr_15MAR25.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Conjecture on the nontrivial zeros of ζ, the zeta function. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Riemann_zeta_function_absolute_value.png/330px-Riemann_zeta_function_absolute_value.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 327962,
+   "hot": 295157,
    "rank": 3,
    "metrics": {
-    "views": 327962,
-    "change": 6552
+    "views": 295157,
+    "change": 30518
    }
   },
   {
-   "rawId": "ella langley",
-   "title": "Ella Langley",
-   "url": "https://en.wikipedia.org/wiki/Ella_Langley",
+   "rawId": "the hunger games: sunrise on the reaping",
+   "title": "The Hunger Games: Sunrise on the Reaping",
+   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American country singer-songwriter (born 1999). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ella_Langley_2026_%28cropped%29.jpg/330px-Ella_Langley_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "2026 American film. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Hunger_Games_-_Sunrise_on_the_Reaping_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 189264,
+   "hot": 174063,
    "rank": 4,
    "metrics": {
-    "views": 189264,
-    "change": 1321
+    "views": 174063,
+    "change": 43
    }
   },
   {
@@ -86,65 +86,11 @@
    "summary": "American criminal and murder victim (1934–1981). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Kenneth_McElroy_%28cropped%29.jpg/330px-Kenneth_McElroy_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 172820,
+   "hot": 158096,
    "rank": 5,
    "metrics": {
-    "views": 172820,
-    "change": 33786
-   }
-  },
-  {
-   "rawId": "robert pattinson",
-   "title": "Robert Pattinson",
-   "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "English actor (born 1986). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg/330px-Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 172742,
-   "rank": 6,
-   "metrics": {
-    "views": 172742,
-    "change": -49
-   }
-  },
-  {
-   "rawId": "grand theft auto",
-   "title": "Grand Theft Auto",
-   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Video game series. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Grand_Theft_Auto_logo_series.svg/330px-Grand_Theft_Auto_logo_series.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 171292,
-   "rank": 7,
-   "metrics": {
-    "views": 171292,
-    "change": 55
-   }
-  },
-  {
-   "rawId": "dario amodei",
-   "title": "Dario Amodei",
-   "url": "https://en.wikipedia.org/wiki/Dario_Amodei",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American businessman (born 1983). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg/330px-Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 167998,
-   "rank": 8,
-   "metrics": {
-    "views": 167998,
-    "change": 443
+    "views": 158096,
+    "change": -9
    }
   },
   {
@@ -158,119 +104,119 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 133759,
+   "hot": 132581,
+   "rank": 6,
+   "metrics": {
+    "views": 132581,
+    "change": -1
+   }
+  },
+  {
+   "rawId": "grand theft auto",
+   "title": "Grand Theft Auto",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Video game series. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Grand_Theft_Auto_logo_series.svg/330px-Grand_Theft_Auto_logo_series.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 129311,
+   "rank": 7,
+   "metrics": {
+    "views": 129311,
+    "change": -25
+   }
+  },
+  {
+   "rawId": "levent alpöge",
+   "title": "Levent Alpöge",
+   "url": "https://en.wikipedia.org/wiki/Levent_Alp%C3%B6ge",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Turkish-American mathematician (born 1992). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Levent_Alp%C3%B6ge_2024_MFO.jpg/330px-Levent_Alp%C3%B6ge_2024_MFO.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 124632,
+   "rank": 8,
+   "metrics": {
+    "views": 124632,
+    "change": 12762
+   }
+  },
+  {
+   "rawId": "fiona (hippopotamus)",
+   "title": "Fiona (hippopotamus)",
+   "url": "https://en.wikipedia.org/wiki/Fiona_(hippopotamus)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Hippopotamus at the Cincinnati Zoo (2017–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Fiona_the_Hippopotamus_%28detail%29.jpg/330px-Fiona_the_Hippopotamus_%28detail%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 124449,
    "rank": 9,
    "metrics": {
-    "views": 133759,
-    "change": 2
+    "views": 124449,
+    "change": 48
    }
   },
   {
-   "rawId": "larry poindexter",
-   "title": "Larry Poindexter",
-   "url": "https://en.wikipedia.org/wiki/Larry_Poindexter",
+   "rawId": "robert pattinson",
+   "title": "Robert Pattinson",
+   "url": "https://en.wikipedia.org/wiki/Robert_Pattinson",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American actor (1959–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5e/Cropped_Photo_of_Larry_Poindexter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "English actor (born 1986). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg/330px-Robert_Pattinson_Venice_Film_Festival_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 124373,
+   "hot": 124262,
    "rank": 10,
    "metrics": {
-    "views": 124373,
-    "change": 69772
+    "views": 124262,
+    "change": -28
    }
   },
   {
-   "rawId": "the hunger games: sunrise on the reaping",
-   "title": "The Hunger Games: Sunrise on the Reaping",
-   "url": "https://en.wikipedia.org/wiki/The_Hunger_Games%3A_Sunrise_on_the_Reaping",
+   "rawId": "dario amodei",
+   "title": "Dario Amodei",
+   "url": "https://en.wikipedia.org/wiki/Dario_Amodei",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "2026 film by Francis Lawrence. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Hunger_Games_-_Sunrise_on_the_Reaping_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "summary": "American businessman (born 1983). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg/330px-Dario_Amodei_at_TechCrunch_Disrupt_2023_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 121672,
+   "hot": 121762,
    "rank": 11,
    "metrics": {
-    "views": 121672,
-    "change": 20
+    "views": 121762,
+    "change": -28
    }
   },
   {
-   "rawId": "international men's day",
-   "title": "International Men's Day",
-   "url": "https://en.wikipedia.org/wiki/International_Men's_Day",
+   "rawId": "o.m: operation mole",
+   "title": "O.M: Operation Mole",
+   "url": "https://en.wikipedia.org/wiki/O.M%3A_Operation_Mole",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Annual international celebration. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
+   "summary": "2026 Indian film by Rajkumar Periasamy. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3a/O.M_Operation_Mole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 118074,
+   "hot": 119692,
    "rank": 12,
    "metrics": {
-    "views": 118074,
-    "change": 521
-   }
-  },
-  {
-   "rawId": "list of highest-grossing indian films",
-   "title": "List of highest-grossing Indian films",
-   "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 116217,
-   "rank": 13,
-   "metrics": {
-    "views": 116217,
-    "change": -10
-   }
-  },
-  {
-   "rawId": "rockstar games",
-   "title": "Rockstar Games",
-   "url": "https://en.wikipedia.org/wiki/Rockstar_Games",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American video game publisher. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/330px-Rockstar_Games_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 112864,
-   "rank": 14,
-   "metrics": {
-    "views": 112864,
-    "change": 42
-   }
-  },
-  {
-   "rawId": "anthropic",
-   "title": "Anthropic",
-   "url": "https://en.wikipedia.org/wiki/Anthropic",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American artificial intelligence company. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg/330px-Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 112202,
-   "rank": 15,
-   "metrics": {
-    "views": 112202,
-    "change": 374
+    "views": 119692,
+    "change": 429
    }
   },
   {
@@ -284,11 +230,83 @@
    "summary": "American television series. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/The_Body_Final_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 111521,
+   "hot": 106047,
+   "rank": 13,
+   "metrics": {
+    "views": 106047,
+    "change": -5
+   }
+  },
+  {
+   "rawId": "list of highest-grossing indian films",
+   "title": "List of highest-grossing Indian films",
+   "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 100239,
+   "rank": 14,
+   "metrics": {
+    "views": 100239,
+    "change": -14
+   }
+  },
+  {
+   "rawId": "rockstar games",
+   "title": "Rockstar Games",
+   "url": "https://en.wikipedia.org/wiki/Rockstar_Games",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American video game publisher. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/330px-Rockstar_Games_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 91847,
+   "rank": 15,
+   "metrics": {
+    "views": 91847,
+    "change": -19
+   }
+  },
+  {
+   "rawId": "anthropic",
+   "title": "Anthropic",
+   "url": "https://en.wikipedia.org/wiki/Anthropic",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American artificial intelligence company. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg/330px-Slack_offices%2C_Howard_Street%2C_San_Francisco_%28viewed_from_the_south-west%2C_January_2020%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 89567,
    "rank": 16,
    "metrics": {
-    "views": 111521,
-    "change": -10
+    "views": 89567,
+    "change": -20
+   }
+  },
+  {
+   "rawId": "ansel adams",
+   "title": "Ansel Adams",
+   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American photographer and environmentalist (1902–1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/330px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 85168,
+   "rank": 17,
+   "metrics": {
+    "views": 85168,
+    "change": 14
    }
   },
   {
@@ -302,65 +320,47 @@
    "summary": "2013 video game. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 108371,
-   "rank": 17,
-   "metrics": {
-    "views": 108371,
-    "change": 33
-   }
-  },
-  {
-   "rawId": "john madden",
-   "title": "John Madden",
-   "url": "https://en.wikipedia.org/wiki/John_Madden",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American football coach and announcer (1936–2021). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/c6/John_Madden_%28Higher_Quality%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 102039,
+   "hot": 82987,
    "rank": 18,
    "metrics": {
-    "views": 102039,
-    "change": 118
+    "views": 82987,
+    "change": -23
    }
   },
   {
-   "rawId": "leigh nash",
-   "title": "Leigh Nash",
-   "url": "https://en.wikipedia.org/wiki/Leigh_Nash",
+   "rawId": "lance broadway",
+   "title": "Lance Broadway",
+   "url": "https://en.wikipedia.org/wiki/Lance_Broadway",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American singer (born 1976). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Leigh_Nash_-_May%2C_2025_%28cropped%29.jpg/330px-Leigh_Nash_-_May%2C_2025_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American baseball player (1983–2026). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Lance_Broadway_on_RealTVfilms.jpg/330px-Lance_Broadway_on_RealTVfilms.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 95384,
+   "hot": 79751,
    "rank": 19,
    "metrics": {
-    "views": 95384,
-    "change": 2928
+    "views": 79751,
+    "change": 295
    }
   },
   {
-   "rawId": "jeff bezos",
-   "title": "Jeff Bezos",
-   "url": "https://en.wikipedia.org/wiki/Jeff_Bezos",
+   "rawId": "privacy policy",
+   "title": "Privacy policy",
+   "url": "https://en.wikipedia.org/wiki/Privacy_policy",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American businessman (born 1964). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg/330px-260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_%283x4_cropped_on_Bezos_and_rotated%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Management of personal data across media. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
-   "hot": 93836,
+   "hot": 78955,
    "rank": 20,
    "metrics": {
-    "views": 93836,
-    "change": 2
+    "views": 78955,
+    "change": 1506
    }
   }
  ]
