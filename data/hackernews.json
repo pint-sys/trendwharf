@@ -1,7 +1,28 @@
 {
- "updated": "2026-11-22T00:31:03Z",
+ "updated": "2026-11-22T08:16:37Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50596133",
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "caranddriver.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T04:04:56Z",
+   "hot": 88.0,
+   "rank": 1,
+   "metrics": {
+    "points": 369,
+    "comments": 183,
+    "discussion": "https://news.ycombinator.com/item?id=50596133"
+   }
+  },
   {
    "rawId": "50582069",
    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
@@ -15,12 +36,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-20T21:03:12Z",
-   "hot": 19.2,
-   "rank": 1,
+   "hot": 25.9,
+   "rank": 2,
    "metrics": {
-    "points": 528,
-    "comments": 129,
+    "points": 914,
+    "comments": 207,
     "discussion": "https://news.ycombinator.com/item?id=50582069"
+   }
+  },
+  {
+   "rawId": "50596511",
+   "title": "AI Supply Chain Security: What Canary Tokens Found",
+   "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dragos.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T05:11:43Z",
+   "hot": 22.4,
+   "rank": 3,
+   "metrics": {
+    "points": 69,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50596511"
+   }
+  },
+  {
+   "rawId": "50597014",
+   "title": "The Engineering Manager's role is under attack (again)",
+   "url": "https://www.manager.dev/newsletter/the-engineering-manager-s-role-is-under-attack-again",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "manager.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T07:01:00Z",
+   "hot": 19.0,
+   "rank": 4,
+   "metrics": {
+    "points": 24,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50597014"
    }
   },
   {
@@ -36,12 +99,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-21T14:36:45Z",
-   "hot": 80.2,
-   "rank": 2,
+   "hot": 55.8,
+   "rank": 5,
    "metrics": {
-    "points": 794,
-    "comments": 634,
+    "points": 986,
+    "comments": 821,
     "discussion": "https://news.ycombinator.com/item?id=50589618"
+   }
+  },
+  {
+   "rawId": "50596960",
+   "title": "Notes on the discrete Fourier transform (DFT)",
+   "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "eli.thegreenplace.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T06:52:25Z",
+   "hot": 10.7,
+   "rank": 6,
+   "metrics": {
+    "points": 15,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50596960"
+   }
+  },
+  {
+   "rawId": "50596664",
+   "title": "Show HN: The Riemann Proof Handbook",
+   "url": "https://github.com/tamnd/riemann-handbook",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T05:46:30Z",
+   "hot": 11.2,
+   "rank": 7,
+   "metrics": {
+    "points": 28,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50596664"
    }
   },
   {
@@ -57,33 +162,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-21T18:02:19Z",
-   "hot": 51.6,
-   "rank": 3,
+   "hot": 31.0,
+   "rank": 8,
    "metrics": {
-    "points": 334,
-    "comments": 90,
+    "points": 441,
+    "comments": 109,
     "discussion": "https://news.ycombinator.com/item?id=50591853"
    }
   },
   {
-   "rawId": "50532613",
-   "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-   "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+   "rawId": "50594911",
+   "title": "Sandwich Simulator",
+   "url": "https://stulle.app/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "gov.br"
+    "stulle.app"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-17T15:22:57Z",
-   "hot": 6.9,
-   "rank": 4,
+   "publishedAt": "2026-11-22T00:07:59Z",
+   "hot": 22.2,
+   "rank": 9,
    "metrics": {
-    "points": 722,
-    "comments": 230,
-    "discussion": "https://news.ycombinator.com/item?id=50532613"
+    "points": 181,
+    "comments": 65,
+    "discussion": "https://news.ycombinator.com/item?id=50594911"
+   }
+  },
+  {
+   "rawId": "50595554",
+   "title": "Data Processing Incidents on Inference Providers",
+   "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "openrouter.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T02:14:14Z",
+   "hot": 19.7,
+   "rank": 10,
+   "metrics": {
+    "points": 119,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50595554"
    }
   },
   {
@@ -99,33 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-21T13:23:14Z",
-   "hot": 45.1,
-   "rank": 5,
+   "hot": 31.7,
+   "rank": 11,
    "metrics": {
-    "points": 502,
-    "comments": 332,
+    "points": 599,
+    "comments": 383,
     "discussion": "https://news.ycombinator.com/item?id=50588982"
    }
   },
   {
-   "rawId": "50594132",
-   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+   "rawId": "50569846",
+   "title": "If tiny 'primordial' black holes exist",
+   "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "phys.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-21T22:09:58Z",
-   "hot": 16.2,
-   "rank": 6,
+   "publishedAt": "2026-11-20T03:37:41Z",
+   "hot": 0.2,
+   "rank": 12,
    "metrics": {
-    "points": 38,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50594132"
+    "points": 12,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50569846"
    }
   },
   {
@@ -141,33 +267,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-20T22:11:05Z",
-   "hot": 5.1,
-   "rank": 7,
+   "hot": 7.3,
+   "rank": 13,
    "metrics": {
-    "points": 135,
-    "comments": 49,
+    "points": 249,
+    "comments": 81,
     "discussion": "https://news.ycombinator.com/item?id=50583028"
    }
   },
   {
-   "rawId": "50579568",
-   "title": "Hurried Announcement: Alessandro Masullo GRH",
-   "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+   "rawId": "50594132",
+   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+   "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "math216.wordpress.com"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-20T18:33:14Z",
-   "hot": 79.6,
-   "rank": 8,
+   "publishedAt": "2026-11-21T22:09:58Z",
+   "hot": 10.5,
+   "rank": 14,
    "metrics": {
-    "points": 2385,
-    "comments": 1152,
-    "discussion": "https://news.ycombinator.com/item?id=50579568"
+    "points": 106,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50594132"
    }
   },
   {
@@ -183,33 +309,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-21T10:36:32Z",
-   "hot": 33.1,
-   "rank": 9,
+   "hot": 25.9,
+   "rank": 15,
    "metrics": {
-    "points": 461,
-    "comments": 223,
+    "points": 561,
+    "comments": 267,
     "discussion": "https://news.ycombinator.com/item?id=50587875"
    }
   },
   {
-   "rawId": "50591260",
-   "title": "PostgreSQL Extensions in Go",
-   "url": "https://jespino.github.io/gopgext/",
+   "rawId": "50595537",
+   "title": "The Mythology of Conscious AI",
+   "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "jespino.github.io"
+    "noemamag.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-21T17:08:04Z",
-   "hot": 15.6,
-   "rank": 10,
+   "publishedAt": "2026-11-22T02:10:02Z",
+   "hot": 7.9,
+   "rank": 16,
    "metrics": {
-    "points": 115,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50591260"
+    "points": 48,
+    "comments": 89,
+    "discussion": "https://news.ycombinator.com/item?id=50595537"
+   }
+  },
+  {
+   "rawId": "50560314",
+   "title": "Split Radiance Cascades",
+   "url": "https://www.jacktollenaar.top/articles/split-rc.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "jacktollenaar.top"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-19T14:08:33Z",
+   "hot": 0.3,
+   "rank": 17,
+   "metrics": {
+    "points": 22,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50560314"
    }
   },
   {
@@ -225,54 +372,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-21T21:17:53Z",
-   "hot": 18.3,
-   "rank": 11,
+   "hot": 13.8,
+   "rank": 18,
    "metrics": {
-    "points": 59,
-    "comments": 5,
+    "points": 152,
+    "comments": 50,
     "discussion": "https://news.ycombinator.com/item?id=50593737"
-   }
-  },
-  {
-   "rawId": "50560203",
-   "title": "Windows has two settings that bring work back after restart, both off by default",
-   "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "makeuseof.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T14:00:08Z",
-   "hot": 0.4,
-   "rank": 12,
-   "metrics": {
-    "points": 26,
-    "comments": 23,
-    "discussion": "https://news.ycombinator.com/item?id=50560203"
-   }
-  },
-  {
-   "rawId": "50593637",
-   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-   "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "jna.uni-kiel.de"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-21T21:06:14Z",
-   "hot": 5.3,
-   "rank": 13,
-   "metrics": {
-    "points": 18,
-    "comments": 10,
-    "discussion": "https://news.ycombinator.com/item?id=50593637"
    }
   },
   {
@@ -288,33 +393,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-21T20:47:41Z",
-   "hot": 4.8,
-   "rank": 14,
+   "hot": 6.7,
+   "rank": 19,
    "metrics": {
-    "points": 18,
-    "comments": 4,
+    "points": 77,
+    "comments": 14,
     "discussion": "https://news.ycombinator.com/item?id=50593481"
-   }
-  },
-  {
-   "rawId": "50581260",
-   "title": "Inkling 2 Mini",
-   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thinkingmachines.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-20T20:12:19Z",
-   "hot": 48.6,
-   "rank": 15,
-   "metrics": {
-    "points": 1376,
-    "comments": 280,
-    "discussion": "https://news.ycombinator.com/item?id=50581260"
    }
   },
   {
@@ -330,75 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-21T18:29:29Z",
-   "hot": 11.6,
-   "rank": 16,
+   "hot": 8.1,
+   "rank": 20,
    "metrics": {
-    "points": 70,
-    "comments": 28,
+    "points": 112,
+    "comments": 53,
     "discussion": "https://news.ycombinator.com/item?id=50592097"
-   }
-  },
-  {
-   "rawId": "50590279",
-   "title": "Show HN: Zero C# – C# without a runtime or GC",
-   "url": "https://onurgumus.github.io/zero-csharp/index.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "onurgumus.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-21T15:39:09Z",
-   "hot": 13.8,
-   "rank": 17,
-   "metrics": {
-    "points": 122,
-    "comments": 95,
-    "discussion": "https://news.ycombinator.com/item?id=50590279"
-   }
-  },
-  {
-   "rawId": "50532417",
-   "title": "Tropical Rainforests Species may be surprisingly young",
-   "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "phys.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-17T15:08:54Z",
-   "hot": 0.3,
-   "rank": 18,
-   "metrics": {
-    "points": 36,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50532417"
-   }
-  },
-  {
-   "rawId": "50546495",
-   "title": "Exponential Behavior in Magic: The Gathering",
-   "url": "https://levineuwirth.org/essays/exponential-magic/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "levineuwirth.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-18T14:07:09Z",
-   "hot": 1.1,
-   "rank": 19,
-   "metrics": {
-    "points": 87,
-    "comments": 62,
-    "discussion": "https://news.ycombinator.com/item?id=50546495"
    }
   }
  ]
