@@ -1,255 +1,255 @@
 {
- "updated": "2026-11-23T03:50:39Z",
+ "updated": "2026-11-23T15:02:30Z",
  "source": "searches",
  "country": "US",
  "items": [
   {
-   "rawId": "lost",
-   "query": "lost",
-   "traffic": "10000+",
-   "trafficNum": 10000,
-   "publishedAt": "2026-11-23T03:30:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyP2S_1N-w3nl6DmybHbBsWuK3np0iMp-DsyLW7N4sqX8rP2MjjjJsghYueM",
+   "rawId": "spacex stock",
+   "query": "spacex stock",
+   "traffic": "5000+",
+   "trafficNum": 5000,
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTg3-PnJxGjtGi8E5gLfrHOXkxTpMW01cqC9Ut2tRoUHPNLxQTEaXB5-1BZnDo",
    "news": [
     {
-     "title": "No Big Ten football teams in AP top 5 for first time since 2021",
-     "url": "https://www.espn.com/college-football/story/_/id/50563638/no-big-ten-football-teams-ap-top-5-first-21",
-     "source": "ESPN"
+     "title": "Cathie Wood Says TSLA Holders ‘Will Get’ A Premium If SpaceX Buys Tesla — HSBC Puts It At Over 30%",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-says-tsla-holders-071405988.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "AP Top 25: UCLA, Indiana tumble as Wake Forest earns best college football ranking ever - The Athletic",
-     "url": "https://www.nytimes.com/athletic/7802887/2026/11/22/ap-top-25-college-football-week-12/",
-     "source": "The New York Times"
+     "title": "Is SpaceX-Tesla Merger Imminent?",
+     "url": "https://puck.news/wall-street/2026/11/is-spacex-tesla-merger-imminent",
+     "source": "Puck"
     },
     {
-     "title": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings",
-     "url": "https://www.cbssports.com/college-football/news/college-football-rankings-ap-top-25-poll-week-13-ucla-indiana-texas/",
-     "source": "CBS Sports"
+     "title": "Should You Buy Tesla or SpaceX Stock Before Their Potential Merger?",
+     "url": "https://www.fool.com/investing/2026/11/22/should-you-buy-tesla-or-spacex-stock-before-merger/",
+     "source": "The Motley Fool"
     }
    ]
   },
   {
-   "rawId": "kospi",
-   "query": "kospi",
+   "rawId": "djia",
+   "query": "djia",
    "traffic": "2000+",
    "trafficNum": 2000,
-   "publishedAt": "2026-11-23T03:10:00Z",
-   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQ3aOeWl87wK4Valp3qhF6O-9sE-eaBetZUIZXkuIm_hXKAzTZNRvCUWpqAyY",
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHkQ-q3wT-0MqJVnMTT8MvzKBz1u-eKYDspzuXX-qJuSD7U2-rrc5BPzonqa4",
    "news": [
     {
-     "title": "Asian stock markets tumble as AI bubble fears mount",
-     "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount",
-     "source": "Al Jazeera"
+     "title": "Pouncing on Anthropic Won’t Make You Rich",
+     "url": "https://www.wsj.com/finance/stocks/pouncing-on-anthropic-wont-make-you-rich-4d500a06",
+     "source": "WSJ"
     },
     {
-     "title": "S. Korea Rolls Out Phased Measures to Stabilize Volatile Markets",
-     "url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
-     "source": "Bloomberg.com"
+     "title": "Anthropic Just Rewrote Wall Street's IPO Record Books. Here's Where History Says Its Shares Will Head Next.",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-just-rewrote-wall-streets-122602175.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "KOSPI rout fuels calls for bolder stabilization measures",
-     "url": "https://www.koreatimes.co.kr/economy/20261122/kospi-rout-fuels-calls-for-bolder-stabilization-measures",
-     "source": "The Korea Times"
+     "title": "Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley",
+     "url": "https://www.nytimes.com/2026/11/21/business/anthropics-debut-shows-the-disconnect-between-wall-street-and-silicon-valley.html",
+     "source": "The New York Times"
     }
    ]
   },
   {
-   "rawId": "karl-anthony towns",
-   "query": "karl-anthony towns",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:30:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDDtKELdsEbQNAc9bSJHtvgtOCSKWKdI70oBlkqqbuNG9k9D5NrKSX8qiFmm8",
+   "rawId": "meta stock",
+   "query": "meta stock",
+   "traffic": "2000+",
+   "trafficNum": 2000,
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUEBbCNy0ZwY_CAUuQnVflsL89IBhzvJkADIAa60nKOgyMXJxwqX-pKre6G84",
    "news": [
     {
-     "title": "Karl-Anthony Towns draws praise from another former coach",
-     "url": "https://nypost.com/2026/11/22/sports/karl-anthony-towns-draws-praise-from-another-former-coach/",
-     "source": "New York Post"
+     "title": "Don’t Rush to Buy Meta Stock Yet Despite the Crash",
+     "url": "https://www.barchart.com/story/news/8961884/dont-rush-to-buy-meta-stock-yet-despite-the-crash",
+     "source": "Barchart.com"
     },
     {
-     "title": "Inside Karl-Anthony Towns’ Journey From Phenom to NBA Champ",
-     "url": "https://www.complex.com/bets/a/sameer-kumar/karl-anthony-towns-knicks-championship",
-     "source": "Complex"
+     "title": "Mark Zuckerberg’s Meta Platforms Is Pouring Up to $145 Billion Into AI This Year. Investors Should Watch This 1 Number.",
+     "url": "https://www.fool.com/investing/2026/11/21/mark-zuckerberg-s-meta-platforms-is-pouring-up-to-usd145-billion-into-ai-this-year-investors-should-watch-this-1-number/",
+     "source": "The Motley Fool"
     },
     {
-     "title": "I love KAT; I was happy for him to get to the …",
-     "url": "https://sports.yahoo.com/articles/love-kat-happy-him-130854387.html",
-     "source": "Yahoo Sports"
+     "title": "Morgan Stanley maintains Meta Platforms at Overweight, lowers price target to $720 from $820",
+     "url": "https://www.tradingview.com/news/tradingview:326e1b375a4da:0-morgan-stanley-maintains-meta-platforms-at-overweight-lowers-price-target-to-720-from-820/",
+     "source": "TradingView"
     }
    ]
   },
   {
-   "rawId": "roman kantserov",
-   "query": "roman kantserov",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:30:00Z",
-   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUtxF7-rm7jaOSJK62EAE0mgP6_gyJ7lodq6-i37Gd1YcRdenssWOWxqTAHIY",
+   "rawId": "googl stock",
+   "query": "googl stock",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuqLq8gzp8YL5buEi1_DsFwdbvQZNO-ap8wuEwYZDJkTzD9BWAl7o_6s5QOhw",
    "news": [
     {
-     "title": "Roman Kantserov scores power-play goal vs. Canucks",
-     "url": "https://www.espn.com/video/clip/_/id/50568486/roman-kantserov-scores-power-play-goal-vs-canucks",
-     "source": "ESPN"
+     "title": "Prediction: Here’s Where Alphabet Stock Will Be in 5 Years",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-where-alphabet-stock-5-081002070.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "CHI@VAN: Kantserov scores goal against Kevin Lankinen",
-     "url": "https://www.nhl.com/video/chi-van-kantserov-scores-goal-against-kevin-lankinen-6408750228112",
-     "source": "NHL.com"
+     "title": "Alphabet Stock Is Jumping. 2 Reasons the Comeback Starts Now.",
+     "url": "https://www.barrons.com/articles/google-stock-slump-comeback-7f4b0b35",
+     "source": "Barron's"
     },
     {
-     "title": "Will Roman Kantserov Score a Goal vs. the Vancouver Canucks on November 22?",
-     "url": "https://www.bleachernation.com/picks/2026/11/22/will-roman-kantserov-score-a-goal-vs-the-vancouver-canucks-on-november-22/",
-     "source": "Bleacher Nation"
+     "title": "Cramer: My favorite chartist sees two major signs of a rally brewing in Alphabet stock",
+     "url": "https://www.cnbc.com/2026/11/19/alphabet-stock-larry-williams-rally-signals.html",
+     "source": "CNBC"
     }
    ]
   },
   {
-   "rawId": "the mosquito bowl",
-   "query": "the mosquito bowl",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:20:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTITo5Ucpfk9JGxhP-QJ8xEkym-RuQaTwlPuW6UKgQdns9ia6J6XzrkWQgV5wk",
+   "rawId": "vanguard",
+   "query": "vanguard",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BG7gEv-69FYODKp9UQE3931kZt65a7Vqbqmw276dHjWSoldH8T_zeV_x6-A",
    "news": [
     {
-     "title": "Taking a Dunk in ‘The Mosquito Bowl’",
-     "url": "https://bookandfilmglobe.com/film/taking-a-dunk-in-the-mosquito-bowl/",
-     "source": "Book and Film Globe"
+     "title": "Vanguard Announces Advisory Changes to Vanguard International Explorer Fund",
+     "url": "https://www.prnewswire.com/news-releases/vanguard-announces-advisory-changes-to-vanguard-international-explorer-fund-302948266.html",
+     "source": "PR Newswire"
     },
     {
-     "title": "Netflix’s Star-Studded WWII Movie Officially Arrives This Week",
-     "url": "https://collider.com/netflix-wwii-the-mosquito-bowl-release-date-november-2026/",
-     "source": "Collider"
+     "title": "Vanguard Removes Schroders as Advisor to International Explorer Fund",
+     "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN474113:0-vanguard-removes-schroders-as-advisor-to-international-explorer-fund/",
+     "source": "TradingView"
     },
     {
-     "title": "Photos: “The Mosquito Bowl” movie props on display at The Kollege Klub",
-     "url": "https://madison.com/collection_93348c0b-c4ee-439e-853c-f7f8beee40b7.html",
-     "source": "Wisconsin State Journal"
+     "title": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+     "source": "NVIDIA Newsroom"
     }
    ]
   },
   {
-   "rawId": "martin short",
-   "query": "martin short",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:20:00Z",
-   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0oqXIKRh4M6vMl_e6tJufYJHJwue_4ZMLrE0O11KVskd870AEqEMCSXgfZAM",
+   "rawId": "broadcom stock",
+   "query": "broadcom stock",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbqu5EQOmYo87jb5bHzhAspIIdV7KQPspQYbL4ZSA1n9P_Txb0808Dunmp-jE",
    "news": [
     {
-     "title": "Martin Short’s Go-To Comfort Food Makes Us Love Him Even More",
-     "url": "https://www.allrecipes.com/martin-shorts-comfort-food-12265014",
-     "source": "Allrecipes"
+     "title": "Why Broadcom Stock Could Double by 2030",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-could-double-142002691.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "Steve Martin and Martin Short’s Favorite 2-Ingredient Meal Is Adorably Relatable",
-     "url": "https://sg.news.yahoo.com/steve-martin-martin-short-favorite-190000382.html",
-     "source": "Yahoo News Singapore"
+     "title": "Why It’s Time to Buy the Pullback in Broadcom Stock",
+     "url": "https://www.barchart.com/story/news/8953006/why-its-time-to-buy-the-pullback-in-broadcom-stock",
+     "source": "Barchart.com"
     },
     {
-     "title": "Selena Gomez Recalls Moment She Discovered Martin Short Cut Into Her Wedding Cake Before It Was Served",
-     "url": "https://people.com/selena-gomez-recalls-moment-she-discovered-martin-short-cut-into-her-wedding-cake-before-it-was-served-12266915",
-     "source": "People.com"
+     "title": "Here's What a $1,000 Investment in Broadcom Stock Could Be Worth By 2035",
+     "url": "https://www.fool.com/investing/2026/11/22/here-s-what-a-usd1-000-investment-in-broadcom-stock-could-be-worth-by-2035/",
+     "source": "The Motley Fool"
     }
    ]
   },
   {
-   "rawId": "justin hartley",
-   "query": "justin hartley",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEHqgDVdxD_yO3yDiSE1GcHsmZwWht2SUqj_gMJ_EF1SvEU4ze6wzVjn7XQIc",
+   "rawId": "tsla stock",
+   "query": "tsla stock",
+   "traffic": "1000+",
+   "trafficNum": 1000,
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvVmV5Z5HU-dxMn4W89vYNniX4Ix5YUSMjnUY_d8y7MvHmIr45QZ1lBwtD8T0",
    "news": [
     {
-     "title": "Justin Hartley & ChangeUp Productions Developing Medical Drama ‘Dr. Lucia’ At NBC",
-     "url": "https://deadline.com/2026/11/justin-hartley-developing-dr-lucia-series-nbc-1237229428/",
-     "source": "Deadline"
+     "title": "Tesla: Stagnation Priced For Growth (NASDAQ:TSLA)",
+     "url": "https://seekingalpha.com/article/4971037-tesla-stagnation-priced-for-growth",
+     "source": "Seeking Alpha"
     },
     {
-     "title": "Tracker Star Justin Hartley Sets NBC Medical Drama That's Grey's Anatomy Meets Stephen King",
-     "url": "https://www.cbr.com/justin-hartley-nbc-medical-drama-dr-lucia/",
-     "source": "Comic Book Resources"
+     "title": "Microsoft Copilot AI Predicts a Huge TSLA Stock Boom",
+     "url": "https://tokenist.com/copilot-ai-predicts-huge-tsla-stock-boom/",
+     "source": "Tokenist"
     },
     {
-     "title": "Justin Hartley Reuniting With NBC For New Medical Series Remake",
-     "url": "https://screenrant.com/justin-hartley-dr-lucia-nbc-tv-remake-development/",
-     "source": "ScreenRant"
+     "title": "$Tesla(TSLA.US)Tesla has faced pressure recently amid the…",
+     "url": "https://longbridge.com/topics/100000001001687",
+     "source": "Longbridge"
     }
    ]
   },
   {
-   "rawId": "pacers vs knicks match player stats",
-   "query": "pacers vs knicks match player stats",
+   "rawId": "oracle stock",
+   "query": "oracle stock",
    "traffic": "500+",
    "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7yA1VTc0yjK1DlP1nYtaINUdPwi-1MzmkwkWTXBanhvZbAXuMKuNpduEu9s",
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQEoKpbRXanfGXUuGk6dmzcGmcivJmjV_jf0JvxVpA_SlsWu-IEreqEm_YAUzQ",
    "news": [
     {
-     "title": "Indiana Pacers at New York Knicks - NBA Game Summary - Nov 22, 2026",
-     "url": "https://www.usatoday.com/sports/nba/event/2026/3018940/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=1",
-     "source": "USA Today"
+     "title": "Larry Ellison No Longer Among World’s 10 Richest Billionaires As Oracle Stock Plummets",
+     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/20/larry-ellison-falls-out-of-top-10-billionaire-ranking-as-oracle-stock-hits-34-month-low/",
+     "source": "Forbes"
     },
     {
-     "title": "Indiana Pacers at New York Knicks - NBA Game Summary - Nov 22, 2026",
-     "url": "https://www.usatoday.com/sports/nba/event/2026/3018940/boxscore/?itm_source=oembed&itm_medium=sports&itm_campaign=scoreboard&site=USAT&itm_content=NBA&tile=3",
-     "source": "USA Today"
+     "title": "The Biggest Fear Around Oracle Could Soon End. Wall Street Sees ORCL Stock Surging 100% From Here.",
+     "url": "https://www.barchart.com/story/news/8925367/the-biggest-fear-around-oracle-could-soon-end-wall-street-sees-orcl-stock-surging-100-from-here",
+     "source": "Barchart.com"
     },
     {
-     "title": "New York Knicks vs Indiana Pacers Nov 13, 2026 Box Scores",
-     "url": "https://www.nba.com/game/nyk-vs-ind-0022600034/box-score",
-     "source": "NBA.com"
+     "title": "Oracle Stock Slides 6%, but Bernstein Says It’s Worth $133 Even if Its AI Data-Center Business Fails",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-slides-6-bernstein-180438407.html",
+     "source": "Yahoo Finance"
     }
    ]
   },
   {
-   "rawId": "line of fire",
-   "query": "line of fire",
+   "rawId": "orcl",
+   "query": "orcl",
    "traffic": "500+",
    "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS8K6Ipop7yTBs2tJ9QXXgtgQKRyx0Tm4VW4x8otlzbghhoVvdhKFyc2UF8Uw",
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVaIuaHk-HX5l2xH3AKaYFllan8xpWZazOVOJeWHg9WR8GBwD9r6DFrPC2Jj0",
    "news": [
     {
-     "title": "‘Line of Fire’ Episode 8 Recap and Ending Explained: Secrets Pile Up for the Hollingsworths",
-     "url": "https://www.imdb.com/news/ni66114947/",
-     "source": "IMDb"
+     "title": "Nvidia stock plunges 14%, wraps up longest weekly losing streak since 2008 financial crisis",
+     "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+     "source": "CNBC"
     },
     {
-     "title": "Line of Fire’s Midseason Finale Is a Drama-Packed Thanksgiving Episode: How to Watch",
-     "url": "https://www.nbc.com/nbc-insider/line-of-fire-thanksgiving-episode-midseason-finale-how-to-watch",
-     "source": "NBC TV"
+     "title": "Nvidia's share slide knocks it below Alphabet in valuation",
+     "url": "https://www.reuters.com/business/retail-consumer/nvidias-share-slide-knocks-it-below-alphabet-valuation-2026-11-20/",
+     "source": "Reuters"
     },
     {
-     "title": "LINE OF FIRE: Joshua Safran Teases the Secret-Revealing Fall Finale",
-     "url": "https://www.givememyremote.com/remote/2026/11/20/line-of-fire-season-1-fall-finale-preview-joshua-safran/",
-     "source": "Give Me My Remote"
+     "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different?",
+     "url": "https://www.nytimes.com/2026/11/20/business/nvidia-ceo-stock-succession-jensen-huang.html",
+     "source": "The New York Times"
     }
    ]
   },
   {
-   "rawId": "landry shamet",
-   "query": "landry shamet",
-   "traffic": "500+",
-   "trafficNum": 500,
-   "publishedAt": "2026-11-23T03:10:00Z",
-   "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHZSOle_ME2RiRR4NoFXQvZNcE7NqWPV2rCH7pn3J-E49QsKITyPge_ixKQKw",
+   "rawId": "ionq stock",
+   "query": "ionq stock",
+   "traffic": "200+",
+   "trafficNum": 200,
+   "publishedAt": "2026-11-23T14:40:00Z",
+   "picture": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfmK4thCw50bgs30G2q9pQMKQ3gddyee-XrWJnyKztif6JztbuY-TvGbqJn3c",
    "news": [
     {
-     "title": "Mike Brown on Landry Shamet: He should be Sixth Man of the Year, it's not close",
-     "url": "https://sports.yahoo.com/articles/mike-brown-landry-shamet-sixth-232659104.html",
-     "source": "Yahoo Sports"
+     "title": "Should You Sell Your IonQ Stock Now That It Has Halved?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/sell-ionq-stock-now-halved-174752778.html",
+     "source": "Yahoo Finance"
     },
     {
-     "title": "Landry Shamet's contract proving to be massive bargain for Knicks",
-     "url": "https://www.sportingnews.com/en/nba/news/landry-shamet-contract-bargain-knicks/e44889979b2da2608ba6d5b2",
-     "source": "www.sportingnews.com"
+     "title": "IonQ: I'm Losing Confidence In The Story (Rating Downgrade)",
+     "url": "https://seekingalpha.com/article/4968458-ionq-im-losing-confidence-in-the-story-downgrade",
+     "source": "Seeking Alpha"
     },
     {
-     "title": "NYK start Brunson, Bridges, Shamet, Hart, Drummond",
-     "url": "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-21/nyk-start-brunson-bridges-shamet-hart-drummond",
-     "source": "NBC Sports"
+     "title": "Why Are Quantum Computing Stocks Jumping Today? IonQ, Rigetti, and D-Wave Rally as Tech Rebounds",
+     "url": "https://www.tipranks.com/news/why-are-quantum-computing-stocks-jumping-today-ionq-rigetti-and-d-wave-rally-as-tech-rebounds",
+     "source": "TipRanks"
     }
    ]
   }
