@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-22T22:36:42Z",
+ "updated": "2026-11-23T03:50:39Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50602843",
-   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-   "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "rawId": "50606192",
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "url": "https://spelunkr.tv",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "audubon.org"
+    "spelunkr.tv"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T19:10:34Z",
-   "hot": 67.5,
+   "publishedAt": "2026-11-23T01:13:51Z",
+   "hot": 70.0,
    "rank": 1,
    "metrics": {
-    "points": 232,
-    "comments": 78,
-    "discussion": "https://news.ycombinator.com/item?id=50602843"
+    "points": 183,
+    "comments": 30,
+    "discussion": "https://news.ycombinator.com/item?id=50606192"
    }
   },
   {
@@ -36,138 +36,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-22T21:01:16Z",
-   "hot": 38.4,
+   "hot": 45.7,
    "rank": 2,
    "metrics": {
-    "points": 61,
-    "comments": 14,
+    "points": 312,
+    "comments": 130,
     "discussion": "https://news.ycombinator.com/item?id=50603845"
    }
   },
   {
-   "rawId": "50603465",
-   "title": "Nyx, the Oldest Internet Service Provider",
-   "url": "https://nyx.net/",
+   "rawId": "50598441",
+   "title": "Masullo on the Riemann Hypothesis",
+   "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nyx.net"
+    "johncarlosbaez.wordpress.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T20:15:59Z",
-   "hot": 23.9,
+   "publishedAt": "2026-11-22T10:59:56Z",
+   "hot": 5.0,
    "rank": 3,
    "metrics": {
-    "points": 56,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50603465"
+    "points": 85,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50598441"
    }
   },
   {
-   "rawId": "50601525",
-   "title": "Perplexity and Intelligence",
-   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "rawId": "50602843",
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openai.com"
+    "audubon.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T17:06:27Z",
-   "hot": 75.2,
+   "publishedAt": "2026-11-22T19:10:34Z",
+   "hot": 45.5,
    "rank": 4,
    "metrics": {
-    "points": 414,
-    "comments": 280,
-    "discussion": "https://news.ycombinator.com/item?id=50601525"
-   }
-  },
-  {
-   "rawId": "50603589",
-   "title": "A miniature San Francisco with live buses, planes and boats",
-   "url": "https://smallsf.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "smallsf.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T20:33:23Z",
-   "hot": 29.7,
-   "rank": 5,
-   "metrics": {
-    "points": 61,
-    "comments": 22,
-    "discussion": "https://news.ycombinator.com/item?id=50603589"
-   }
-  },
-  {
-   "rawId": "50596133",
-   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-   "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "caranddriver.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T04:04:56Z",
-   "hot": 61.9,
-   "rank": 6,
-   "metrics": {
-    "points": 1147,
-    "comments": 659,
-    "discussion": "https://news.ycombinator.com/item?id=50596133"
-   }
-  },
-  {
-   "rawId": "50602947",
-   "title": "What Happened to Silicon Valley?",
-   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "oreilly.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T19:20:15Z",
-   "hot": 81.2,
-   "rank": 7,
-   "metrics": {
-    "points": 266,
-    "comments": 121,
-    "discussion": "https://news.ycombinator.com/item?id=50602947"
-   }
-  },
-  {
-   "rawId": "50599762",
-   "title": "Show HN: I built a game where you are an LLM's subagent",
-   "url": "https://github.com/gulivan/worker755",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T13:56:58Z",
-   "hot": 28.9,
-   "rank": 8,
-   "metrics": {
-    "points": 250,
-    "comments": 58,
-    "discussion": "https://news.ycombinator.com/item?id=50599762"
+    "points": 394,
+    "comments": 196,
+    "discussion": "https://news.ycombinator.com/item?id=50602843"
    }
   },
   {
@@ -183,33 +99,264 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-18T15:43:29Z",
-   "hot": 0.1,
-   "rank": 9,
+   "hot": 1.3,
+   "rank": 5,
    "metrics": {
-    "points": 12,
-    "comments": 0,
+    "points": 139,
+    "comments": 15,
     "discussion": "https://news.ycombinator.com/item?id=50547698"
    }
   },
   {
-   "rawId": "50600622",
-   "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-   "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+   "rawId": "50604988",
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "jeffgeerling.com"
+    "gl-inet.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T15:35:24Z",
-   "hot": 15.4,
+   "publishedAt": "2026-11-22T23:06:37Z",
+   "hot": 26.0,
+   "rank": 6,
+   "metrics": {
+    "points": 123,
+    "comments": 54,
+    "discussion": "https://news.ycombinator.com/item?id=50604988"
+   }
+  },
+  {
+   "rawId": "50603589",
+   "title": "A miniature San Francisco with live buses, planes and boats",
+   "url": "https://smallsf.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "smallsf.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T20:33:23Z",
+   "hot": 24.3,
+   "rank": 7,
+   "metrics": {
+    "points": 177,
+    "comments": 78,
+    "discussion": "https://news.ycombinator.com/item?id=50603589"
+   }
+  },
+  {
+   "rawId": "50604472",
+   "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+   "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "ias.edu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T22:10:58Z",
+   "hot": 14.3,
+   "rank": 8,
+   "metrics": {
+    "points": 81,
+    "comments": 14,
+    "discussion": "https://news.ycombinator.com/item?id=50604472"
+   }
+  },
+  {
+   "rawId": "50604123",
+   "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+   "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fosscomics.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T21:33:12Z",
+   "hot": 10.8,
+   "rank": 9,
+   "metrics": {
+    "points": 68,
+    "comments": 20,
+    "discussion": "https://news.ycombinator.com/item?id=50604123"
+   }
+  },
+  {
+   "rawId": "50603465",
+   "title": "Nyx, the Oldest Internet Service Provider",
+   "url": "https://nyx.net/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nyx.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T20:15:59Z",
+   "hot": 14.8,
    "rank": 10,
    "metrics": {
-    "points": 108,
-    "comments": 27,
-    "discussion": "https://news.ycombinator.com/item?id=50600622"
+    "points": 112,
+    "comments": 12,
+    "discussion": "https://news.ycombinator.com/item?id=50603465"
+   }
+  },
+  {
+   "rawId": "50560563",
+   "title": "The Unlicensed Gospel: Wisdom Tree's Bible Games on the Game Boy",
+   "url": "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "gameboymuseum.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-19T14:27:07Z",
+   "hot": 0.2,
+   "rank": 11,
+   "metrics": {
+    "points": 18,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50560563"
+   }
+  },
+  {
+   "rawId": "50601525",
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "openai.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T17:06:27Z",
+   "hot": 48.2,
+   "rank": 12,
+   "metrics": {
+    "points": 517,
+    "comments": 357,
+    "discussion": "https://news.ycombinator.com/item?id=50601525"
+   }
+  },
+  {
+   "rawId": "50606072",
+   "title": "What we learned operating auth for 1k APIs",
+   "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "nango.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-23T01:01:11Z",
+   "hot": 5.3,
+   "rank": 13,
+   "metrics": {
+    "points": 15,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50606072"
+   }
+  },
+  {
+   "rawId": "50603143",
+   "title": "Assume People Are Not Interested in Your Blog Post",
+   "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "danielsada.tech"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T19:41:30Z",
+   "hot": 10.7,
+   "rank": 14,
+   "metrics": {
+    "points": 87,
+    "comments": 50,
+    "discussion": "https://news.ycombinator.com/item?id=50603143"
+   }
+  },
+  {
+   "rawId": "50604540",
+   "title": "Localcode, open source agentic coding on your Mac with one command",
+   "url": "https://github.com/mjwsolo/localcode",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T22:18:48Z",
+   "hot": 6.5,
+   "rank": 15,
+   "metrics": {
+    "points": 36,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50604540"
+   }
+  },
+  {
+   "rawId": "50599762",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T13:56:58Z",
+   "hot": 20.4,
+   "rank": 16,
+   "metrics": {
+    "points": 284,
+    "comments": 67,
+    "discussion": "https://news.ycombinator.com/item?id=50599762"
+   }
+  },
+  {
+   "rawId": "50605045",
+   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+   "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "claude.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-22T23:12:10Z",
+   "hot": 37.7,
+   "rank": 17,
+   "metrics": {
+    "points": 175,
+    "comments": 151,
+    "discussion": "https://news.ycombinator.com/item?id=50605045"
    }
   },
   {
@@ -225,201 +372,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-18T13:33:25Z",
-   "hot": 0.2,
-   "rank": 11,
+   "hot": 0.6,
+   "rank": 18,
    "metrics": {
-    "points": 18,
-    "comments": 4,
+    "points": 64,
+    "comments": 21,
     "discussion": "https://news.ycombinator.com/item?id=50546124"
    }
   },
   {
-   "rawId": "50600511",
-   "title": "Open Social Web Alliance",
-   "url": "https://osw-alliance.net/en/",
+   "rawId": "50602947",
+   "title": "What Happened to Silicon Valley?",
+   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "osw-alliance.net"
+    "oreilly.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T15:24:32Z",
-   "hot": 27.4,
-   "rank": 12,
-   "metrics": {
-    "points": 197,
-    "comments": 196,
-    "discussion": "https://news.ycombinator.com/item?id=50600511"
-   }
-  },
-  {
-   "rawId": "50603674",
-   "title": "I did a meditation and it sort of changed my personality?!",
-   "url": "https://www.benkuhn.net/meditation/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "benkuhn.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T20:41:59Z",
-   "hot": 4.7,
-   "rank": 13,
-   "metrics": {
-    "points": 9,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50603674"
-   }
-  },
-  {
-   "rawId": "50594182",
-   "title": "A Better Vocabulary for Testing",
-   "url": "https://alperenkeles.com/posts/vocab-for-testing/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "alperenkeles.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-21T22:15:39Z",
-   "hot": 4.0,
-   "rank": 14,
-   "metrics": {
-    "points": 98,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50594182"
-   }
-  },
-  {
-   "rawId": "50603232",
-   "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
-   "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "nytimes.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T19:51:46Z",
-   "hot": 22.9,
-   "rank": 15,
-   "metrics": {
-    "points": 63,
-    "comments": 22,
-    "discussion": "https://news.ycombinator.com/item?id=50603232"
-   }
-  },
-  {
-   "rawId": "50555002",
-   "title": "Ask HN: Tips for transitioning from web development to embedded/firmware?",
-   "url": "https://news.ycombinator.com/item?id=50555002",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "Ask HN"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T01:37:45Z",
-   "hot": 1.1,
-   "rank": 16,
-   "metrics": {
-    "points": 102,
-    "comments": 66,
-    "discussion": "https://news.ycombinator.com/item?id=50555002"
-   }
-  },
-  {
-   "rawId": "50556249",
-   "title": "Agentics: Mushy Software",
-   "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "12gramsofcarbon.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T05:02:09Z",
-   "hot": 0.3,
-   "rank": 17,
-   "metrics": {
-    "points": 30,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50556249"
-   }
-  },
-  {
-   "rawId": "50562207",
-   "title": "Inside PyPy: First Contact with RPython",
-   "url": "https://bernsteinbear.com/blog/inside-pypy-first-contact-with-rpython/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bernsteinbear.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-19T16:26:51Z",
-   "hot": 0.6,
-   "rank": 18,
-   "metrics": {
-    "points": 48,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50562207"
-   }
-  },
-  {
-   "rawId": "50600838",
-   "title": "C++26 is done (again): November 2026 ISO C++ meeting trip report",
-   "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "herbsutter.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T15:59:59Z",
-   "hot": 7.3,
+   "publishedAt": "2026-11-22T19:20:15Z",
+   "hot": 57.1,
    "rank": 19,
    "metrics": {
-    "points": 48,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50600838"
+    "points": 486,
+    "comments": 279,
+    "discussion": "https://news.ycombinator.com/item?id=50602947"
    }
   },
   {
-   "rawId": "50602153",
-   "title": "Harvard CS 2881R AI Safety",
-   "url": "https://boazbk.github.io/mltheoryseminar/",
+   "rawId": "50575007",
+   "title": "How the World Draws the World",
+   "url": "https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "boazbk.github.io"
+    "googlemapsmania.blogspot.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T18:01:54Z",
-   "hot": 3.9,
+   "publishedAt": "2026-11-20T14:20:15Z",
+   "hot": 0.2,
    "rank": 20,
    "metrics": {
-    "points": 18,
+    "points": 15,
     "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50602153"
+    "discussion": "https://news.ycombinator.com/item?id=50575007"
    }
   }
  ]
