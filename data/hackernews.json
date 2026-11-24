@@ -1,47 +1,131 @@
 {
- "updated": "2026-11-24T02:25:08Z",
+ "updated": "2026-11-24T14:00:18Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50611576",
-   "title": "Nvidia Reinstates Jensen Huang as CEO",
-   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "rawId": "50627340",
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "cnbc.com"
+    "michaelharley.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T14:00:18Z",
-   "hot": 173.8,
+   "publishedAt": "2026-11-24T12:40:15Z",
+   "hot": 116.2,
    "rank": 1,
    "metrics": {
-    "points": 2158,
-    "comments": 3180,
-    "discussion": "https://news.ycombinator.com/item?id=50611576"
+    "points": 155,
+    "comments": 45,
+    "discussion": "https://news.ycombinator.com/item?id=50627340"
    }
   },
   {
-   "rawId": "50620349",
-   "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-   "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+   "rawId": "50626578",
+   "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+   "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "stalw.art"
+    "deucalionn.vercel.app"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T22:32:29Z",
-   "hot": 56.5,
+   "publishedAt": "2026-11-24T11:13:55Z",
+   "hot": 133.4,
    "rank": 2,
    "metrics": {
-    "points": 219,
-    "comments": 119,
-    "discussion": "https://news.ycombinator.com/item?id=50620349"
+    "points": 370,
+    "comments": 213,
+    "discussion": "https://news.ycombinator.com/item?id=50626578"
+   }
+  },
+  {
+   "rawId": "50626861",
+   "title": "Who in Washington owns and trades Nvidia stock",
+   "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "kadoa.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T11:51:05Z",
+   "hot": 46.9,
+   "rank": 3,
+   "metrics": {
+    "points": 101,
+    "comments": 34,
+    "discussion": "https://news.ycombinator.com/item?id=50626861"
+   }
+  },
+  {
+   "rawId": "50624497",
+   "title": "2035 Came Early",
+   "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fzakaria.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T06:30:33Z",
+   "hot": 60.0,
+   "rank": 4,
+   "metrics": {
+    "points": 450,
+    "comments": 176,
+    "discussion": "https://news.ycombinator.com/item?id=50624497"
+   }
+  },
+  {
+   "rawId": "50626413",
+   "title": "Worshipping at the Altar of Brendan Gregg",
+   "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fzakaria.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T10:50:14Z",
+   "hot": 25.3,
+   "rank": 5,
+   "metrics": {
+    "points": 80,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50626413"
+   }
+  },
+  {
+   "rawId": "50627836",
+   "title": "Anthropic Breaks Below $83 IPO Price in Premarket Trading",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bloomberg.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T13:23:47Z",
+   "hot": 65.0,
+   "rank": 6,
+   "metrics": {
+    "points": 65,
+    "comments": 22,
+    "discussion": "https://news.ycombinator.com/item?id=50627836"
    }
   },
   {
@@ -57,249 +141,186 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-23T16:13:12Z",
-   "hot": 144.2,
-   "rank": 3,
+   "hot": 98.9,
+   "rank": 7,
    "metrics": {
-    "points": 1471,
-    "comments": 339,
+    "points": 2155,
+    "comments": 524,
     "discussion": "https://news.ycombinator.com/item?id=50614249"
    }
   },
   {
-   "rawId": "50621977",
-   "title": "Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity",
-   "url": "https://www.science.org/doi/10.1126/scisignal.aef1375",
+   "rawId": "50598094",
+   "title": "An anti-slavery sugar bowl (2024)",
+   "url": "https://www.vam.ac.uk/blog/museum-life/an-anti-slavery-sugar-bowl",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "science.org"
+    "vam.ac.uk"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-24T00:53:46Z",
-   "hot": 25.6,
-   "rank": 4,
-   "metrics": {
-    "points": 39,
-    "comments": 13,
-    "discussion": "https://news.ycombinator.com/item?id=50621977"
-   }
-  },
-  {
-   "rawId": "50619103",
-   "title": "GPUI is getting its own repository",
-   "url": "https://github.com/zed-industries/gpui",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-23T20:52:54Z",
-   "hot": 24.4,
-   "rank": 5,
-   "metrics": {
-    "points": 135,
-    "comments": 40,
-    "discussion": "https://news.ycombinator.com/item?id=50619103"
-   }
-  },
-  {
-   "rawId": "50609685",
-   "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-   "url": "https://z.ai/blog/glm-5.4",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "z.ai"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-23T10:06:43Z",
-   "hot": 65.6,
-   "rank": 6,
-   "metrics": {
-    "points": 1069,
-    "comments": 347,
-    "discussion": "https://news.ycombinator.com/item?id=50609685"
-   }
-  },
-  {
-   "rawId": "50619207",
-   "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
-   "url": "https://www.bored.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bored.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-23T21:01:16Z",
-   "hot": 21.7,
-   "rank": 7,
-   "metrics": {
-    "points": 117,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50619207"
-   }
-  },
-  {
-   "rawId": "50617499",
-   "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-   "url": "https://arm.jonpalmisc.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arm.jonpalmisc.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-23T19:17:55Z",
-   "hot": 120.2,
+   "publishedAt": "2026-11-22T10:12:22Z",
+   "hot": 0.7,
    "rank": 8,
    "metrics": {
-    "points": 856,
-    "comments": 199,
-    "discussion": "https://news.ycombinator.com/item?id=50617499"
+    "points": 38,
+    "comments": 18,
+    "discussion": "https://news.ycombinator.com/item?id=50598094"
    }
   },
   {
-   "rawId": "50620721",
-   "title": "Freeing the iPod Nano 5G",
-   "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+   "rawId": "50620349",
+   "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+   "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "viktorkrapivin.com"
+    "stalw.art"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T23:03:13Z",
-   "hot": 14.0,
+   "publishedAt": "2026-11-23T22:32:29Z",
+   "hot": 35.8,
    "rank": 9,
    "metrics": {
-    "points": 47,
-    "comments": 7,
-    "discussion": "https://news.ycombinator.com/item?id=50620721"
+    "points": 553,
+    "comments": 300,
+    "discussion": "https://news.ycombinator.com/item?id=50620349"
    }
   },
   {
-   "rawId": "50615308",
-   "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-   "url": "https://twitter.com/ylecun/status/2124550037912920090",
-   "videoUrl": "https://twitter.com/ylecun/status/2124550037912920090",
+   "rawId": "50599458",
+   "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+   "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+   "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "twitter.com"
+    "martincmartin.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T17:07:26Z",
-   "hot": 129.4,
+   "publishedAt": "2026-11-22T13:21:25Z",
+   "hot": 0.6,
    "rank": 10,
    "metrics": {
-    "points": 1203,
-    "comments": 672,
-    "discussion": "https://news.ycombinator.com/item?id=50615308"
+    "points": 29,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50599458"
    }
   },
   {
-   "rawId": "50620328",
-   "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
-   "url": "https://arxiv.org/abs/2602.20031",
+   "rawId": "50624061",
+   "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+   "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "phoronix.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T22:29:48Z",
-   "hot": 6.4,
+   "publishedAt": "2026-11-24T05:15:22Z",
+   "hot": 16.8,
    "rank": 11,
    "metrics": {
-    "points": 25,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50620328"
+    "points": 147,
+    "comments": 82,
+    "discussion": "https://news.ycombinator.com/item?id=50624061"
    }
   },
   {
-   "rawId": "50587439",
-   "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-   "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+   "rawId": "50611576",
+   "title": "Nvidia Reinstates Jensen Huang as CEO",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "theguardian.com"
+    "cnbc.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-21T09:14:02Z",
-   "hot": 4.6,
+   "publishedAt": "2026-11-23T14:00:18Z",
+   "hot": 111.6,
    "rank": 12,
    "metrics": {
-    "points": 302,
-    "comments": 101,
-    "discussion": "https://news.ycombinator.com/item?id=50587439"
+    "points": 2678,
+    "comments": 3541,
+    "discussion": "https://news.ycombinator.com/item?id=50611576"
    }
   },
   {
-   "rawId": "50611402",
-   "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-   "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+   "rawId": "50625384",
+   "title": "Quad9 pulled their DNS service from France",
+   "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "huggingface.co"
+    "quad9.net"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T13:42:38Z",
-   "hot": 10.2,
+   "publishedAt": "2026-11-24T08:33:14Z",
+   "hot": 7.5,
    "rank": 13,
    "metrics": {
-    "points": 129,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50611402"
+    "points": 41,
+    "comments": 16,
+    "discussion": "https://news.ycombinator.com/item?id=50625384"
    }
   },
   {
-   "rawId": "50620831",
-   "title": "The search for a top dark matter candidate",
-   "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
+   "rawId": "50625953",
+   "title": "Just a Few Bugs",
+   "url": "https://www.justafewbugs.xyz/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "smithsonianmag.com"
+    "justafewbugs.xyz"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T23:12:40Z",
-   "hot": 1.9,
+   "publishedAt": "2026-11-24T09:47:59Z",
+   "hot": 9.7,
    "rank": 14,
    "metrics": {
-    "points": 6,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50620831"
+    "points": 41,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50625953"
    }
   },
   {
-   "rawId": "50620102",
-   "title": "VP ≠ VNP over Every Field",
-   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+   "rawId": "50623515",
+   "title": "Drone Maps of Salvage Yards",
+   "url": "https://salvageyarddrone.wordpress.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "salvageyarddrone.wordpress.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T04:00:28Z",
+   "hot": 12.3,
+   "rank": 15,
+   "metrics": {
+    "points": 123,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50623515"
+   }
+  },
+  {
+   "rawId": "50622638",
+   "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+   "url": "https://github.com/ItsNotRexed/Leonida/issues",
    "videoUrl": null,
    "category": "news",
    "tags": [
@@ -308,118 +329,97 @@
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T22:09:10Z",
-   "hot": 57.9,
-   "rank": 15,
-   "metrics": {
-    "points": 247,
-    "comments": 214,
-    "discussion": "https://news.ycombinator.com/item?id=50620102"
-   }
-  },
-  {
-   "rawId": "50594935",
-   "title": "Derivative Flipping",
-   "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.sigfpe.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-22T00:13:17Z",
-   "hot": 1.6,
+   "publishedAt": "2026-11-24T02:08:09Z",
+   "hot": 9.2,
    "rank": 16,
    "metrics": {
-    "points": 80,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50594935"
+    "points": 109,
+    "comments": 131,
+    "discussion": "https://news.ycombinator.com/item?id=50622638"
    }
   },
   {
-   "rawId": "50595365",
-   "title": "What does it mean to understand what we built?",
-   "url": "https://brooker.co.za/blog/2026/11/16/understanding.html",
+   "rawId": "50598679",
+   "title": "Del Casher–guitarist who was driving force behind the wah-wah pedal–dies at 88",
+   "url": "https://www.nytimes.com/2026/11/17/obituaries/del-casher-dead.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "brooker.co.za"
+    "nytimes.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T01:34:57Z",
-   "hot": 0.9,
+   "publishedAt": "2026-11-22T11:35:03Z",
+   "hot": 0.6,
    "rank": 17,
    "metrics": {
-    "points": 42,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50595365"
+    "points": 28,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50598679"
    }
   },
   {
-   "rawId": "50615481",
-   "title": "Kagi Mail (public beta)",
-   "url": "https://blog.kagi.com/kagi-mail-public-beta",
+   "rawId": "50592307",
+   "title": "Arctic: A Practical Lock-Free Adaptive Radix Tree",
+   "url": "https://www.usenix.org/conference/osdi26/presentation/ni",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "blog.kagi.com"
+    "usenix.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T17:17:01Z",
-   "hot": 39.6,
+   "publishedAt": "2026-11-21T18:49:45Z",
+   "hot": 1.0,
    "rank": 18,
    "metrics": {
-    "points": 362,
-    "comments": 275,
-    "discussion": "https://news.ycombinator.com/item?id=50615481"
+    "points": 68,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50592307"
    }
   },
   {
-   "rawId": "50593540",
-   "title": "Developing the perception to separate the form of a place from what it contains",
-   "url": "https://www.thedeletedscenes.com/p/blight-and-entrepreneurship-in-manassas",
+   "rawId": "50606611",
+   "title": "Becoming a Magician",
+   "url": "https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "thedeletedscenes.com"
+    "autotranslucence.wordpress.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-21T20:54:18Z",
-   "hot": 0.1,
+   "publishedAt": "2026-11-23T02:04:25Z",
+   "hot": 1.4,
    "rank": 19,
    "metrics": {
-    "points": 6,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50593540"
+    "points": 51,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50606611"
    }
   },
   {
-   "rawId": "50606192",
-   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-   "url": "https://spelunkr.tv",
+   "rawId": "50605361",
+   "title": "The new set of problems for engineers to solve",
+   "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "spelunkr.tv"
+    "katelynlesse.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-23T01:13:51Z",
-   "hot": 37.6,
+   "publishedAt": "2026-11-22T23:42:53Z",
+   "hot": 0.1,
    "rank": 20,
    "metrics": {
-    "points": 947,
-    "comments": 162,
-    "discussion": "https://news.ycombinator.com/item?id=50606192"
+    "points": 5,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50605361"
    }
   }
  ]
