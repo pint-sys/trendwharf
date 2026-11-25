@@ -1,7 +1,91 @@
 {
- "updated": "2026-11-24T23:33:19Z",
+ "updated": "2026-11-25T08:54:34Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50637220",
+   "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T01:19:26Z",
+   "hot": 75.8,
+   "rank": 1,
+   "metrics": {
+    "points": 575,
+    "comments": 279,
+    "discussion": "https://news.ycombinator.com/item?id=50637220"
+   }
+  },
+  {
+   "rawId": "50638032",
+   "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+   "url": "https://buttons.joshwcomeau.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "buttons.joshwcomeau.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T03:23:07Z",
+   "hot": 58.7,
+   "rank": 2,
+   "metrics": {
+    "points": 324,
+    "comments": 36,
+    "discussion": "https://news.ycombinator.com/item?id=50638032"
+   }
+  },
+  {
+   "rawId": "50637686",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "lesswrong.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T02:34:21Z",
+   "hot": 32.7,
+   "rank": 3,
+   "metrics": {
+    "points": 207,
+    "comments": 78,
+    "discussion": "https://news.ycombinator.com/item?id=50637686"
+   }
+  },
+  {
+   "rawId": "50638503",
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "url": "https://gpu-demo-gallery.pages.dev/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "gpu-demo-gallery.pages.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T04:31:48Z",
+   "hot": 21.0,
+   "rank": 4,
+   "metrics": {
+    "points": 92,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50638503"
+   }
+  },
   {
    "rawId": "50633922",
    "title": "Ternary Bonsai 2.5 27B",
@@ -15,12 +99,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-24T20:08:03Z",
-   "hot": 76.0,
-   "rank": 1,
+   "hot": 34.2,
+   "rank": 5,
    "metrics": {
-    "points": 260,
-    "comments": 84,
+    "points": 437,
+    "comments": 137,
     "discussion": "https://news.ycombinator.com/item?id=50633922"
+   }
+  },
+  {
+   "rawId": "50637890",
+   "title": "Bypassing iOS Safari's 60 FPS Limit to Build Web Applications That Feel Native",
+   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "rida.dev"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T03:04:37Z",
+   "hot": 26.1,
+   "rank": 6,
+   "metrics": {
+    "points": 152,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50637890"
+   }
+  },
+  {
+   "rawId": "50637056",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "greydanus.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T00:54:49Z",
+   "hot": 28.5,
+   "rank": 7,
+   "metrics": {
+    "points": 228,
+    "comments": 39,
+    "discussion": "https://news.ycombinator.com/item?id=50637056"
+   }
+  },
+  {
+   "rawId": "50638478",
+   "title": "Taking over US Treasury subdomains for $3 each",
+   "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "intruder.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T04:27:55Z",
+   "hot": 14.9,
+   "rank": 8,
+   "metrics": {
+    "points": 66,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50638478"
+   }
+  },
+  {
+   "rawId": "50623866",
+   "title": "The algebra of dependent types (2025)",
+   "url": "https://dotat.at/@/2025-05-28-types.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dotat.at"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T04:49:58Z",
+   "hot": 0.7,
+   "rank": 9,
+   "metrics": {
+    "points": 19,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50623866"
+   }
+  },
+  {
+   "rawId": "50638220",
+   "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "marginalia.nu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T03:47:42Z",
+   "hot": 19.0,
+   "rank": 10,
+   "metrics": {
+    "points": 97,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50638220"
    }
   },
   {
@@ -36,12 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-24T21:02:22Z",
-   "hot": 42.1,
-   "rank": 2,
+   "hot": 21.4,
+   "rank": 11,
    "metrics": {
-    "points": 106,
-    "comments": 20,
+    "points": 254,
+    "comments": 76,
     "discussion": "https://news.ycombinator.com/item?id=50634658"
+   }
+  },
+  {
+   "rawId": "50627079",
+   "title": "The Shapes of Rivers",
+   "url": "https://dominicroye.github.io/shapes-of-rivers/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "dominicroye.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T12:14:25Z",
+   "hot": 2.6,
+   "rank": 12,
+   "metrics": {
+    "points": 54,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50627079"
    }
   },
   {
@@ -57,54 +267,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-24T20:44:15Z",
-   "hot": 17.7,
-   "rank": 3,
+   "hot": 6.9,
+   "rank": 13,
    "metrics": {
-    "points": 50,
-    "comments": 27,
+    "points": 84,
+    "comments": 69,
     "discussion": "https://news.ycombinator.com/item?id=50634426"
    }
   },
   {
-   "rawId": "50630594",
-   "title": "Active intrusion campaign against Check Point security management servers",
-   "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+   "rawId": "50637871",
+   "title": "Top open problems in mathematics ranked by LLM-assessed importance",
+   "url": "https://www.proofatlas.ai/open-problems/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "greynoise.io"
+    "proofatlas.ai"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-24T16:32:17Z",
-   "hot": 34.9,
-   "rank": 4,
+   "publishedAt": "2026-11-25T03:01:36Z",
+   "hot": 7.8,
+   "rank": 14,
    "metrics": {
-    "points": 245,
-    "comments": 109,
-    "discussion": "https://news.ycombinator.com/item?id=50630594"
+    "points": 46,
+    "comments": 17,
+    "discussion": "https://news.ycombinator.com/item?id=50637871"
    }
   },
   {
-   "rawId": "50625265",
-   "title": "Gödel Enigma",
-   "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+   "rawId": "50627726",
+   "title": "Getting old Java phones online again",
+   "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "helsinki.fi"
+    "antcating.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-24T08:16:02Z",
-   "hot": 3.8,
-   "rank": 5,
+   "publishedAt": "2026-11-24T13:14:37Z",
+   "hot": 0.3,
+   "rank": 15,
    "metrics": {
-    "points": 58,
-    "comments": 17,
-    "discussion": "https://news.ycombinator.com/item?id=50625265"
+    "points": 6,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50627726"
+   }
+  },
+  {
+   "rawId": "50637891",
+   "title": "Macrohistory in Six Facts",
+   "url": "https://basilhalperin.com/essays/macrohistory.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "basilhalperin.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T03:04:46Z",
+   "hot": 11.0,
+   "rank": 16,
+   "metrics": {
+    "points": 64,
+    "comments": 27,
+    "discussion": "https://news.ycombinator.com/item?id=50637891"
    }
   },
   {
@@ -120,285 +351,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-22T11:16:30Z",
-   "hot": 5.2,
-   "rank": 6,
+   "hot": 6.7,
+   "rank": 17,
    "metrics": {
-    "points": 312,
-    "comments": 91,
+    "points": 468,
+    "comments": 108,
     "discussion": "https://news.ycombinator.com/item?id=50598555"
    }
   },
   {
-   "rawId": "50635698",
-   "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
-   "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+   "rawId": "50613769",
+   "title": "When in Doubt, Flail About",
+   "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "goodhartlabs.com"
+    "seangoedecke.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-24T22:26:41Z",
-   "hot": 8.1,
-   "rank": 7,
-   "metrics": {
-    "points": 9,
-    "comments": 3,
-    "discussion": "https://news.ycombinator.com/item?id=50635698"
-   }
-  },
-  {
-   "rawId": "50633424",
-   "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
-   "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "andlukyane.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T19:40:43Z",
-   "hot": 13.9,
-   "rank": 8,
-   "metrics": {
-    "points": 54,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50633424"
-   }
-  },
-  {
-   "rawId": "50609483",
-   "title": "Calculate how many mesh radio nodes your city needs",
-   "url": "https://meshcoveragecalculator.lalala.ing/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "meshcoveragecalculator.lalala.ing"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-23T09:46:57Z",
-   "hot": 1.6,
-   "rank": 9,
-   "metrics": {
-    "points": 60,
-    "comments": 8,
-    "discussion": "https://news.ycombinator.com/item?id=50609483"
-   }
-  },
-  {
-   "rawId": "50635271",
-   "title": "Heart attack and stroke risk detectable decades in advance",
-   "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "ed.ac.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T21:51:21Z",
-   "hot": 47.7,
-   "rank": 10,
-   "metrics": {
-    "points": 81,
-    "comments": 29,
-    "discussion": "https://news.ycombinator.com/item?id=50635271"
-   }
-  },
-  {
-   "rawId": "50630462",
-   "title": "Jetty Pro",
-   "url": "http://hypercritical.co/2026/11/23/jetty-pro",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "hypercritical.co"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T16:23:02Z",
-   "hot": 34.0,
-   "rank": 11,
-   "metrics": {
-    "points": 244,
-    "comments": 109,
-    "discussion": "https://news.ycombinator.com/item?id=50630462"
-   }
-  },
-  {
-   "rawId": "50591024",
-   "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
-   "url": "https://github.com/PQCrypta/pqcrypta-proxy",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-21T16:46:43Z",
-   "hot": 0.1,
-   "rank": 12,
-   "metrics": {
-    "points": 11,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50591024"
-   }
-  },
-  {
-   "rawId": "50629231",
-   "title": "A training engine for your local model, using your idle compute",
-   "url": "https://github.com/sous-labs/songe",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T15:03:40Z",
-   "hot": 19.0,
-   "rank": 13,
-   "metrics": {
-    "points": 161,
-    "comments": 47,
-    "discussion": "https://news.ycombinator.com/item?id=50629231"
-   }
-  },
-  {
-   "rawId": "50634933",
-   "title": "An unclassified CIA system was breached in a cyberattack",
-   "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "apnews.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T21:24:27Z",
-   "hot": 35.4,
-   "rank": 14,
-   "metrics": {
-    "points": 76,
-    "comments": 24,
-    "discussion": "https://news.ycombinator.com/item?id=50634933"
-   }
-  },
-  {
-   "rawId": "50610820",
-   "title": "An Italian folding bicycle design that fits into a suitcase",
-   "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "core77.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-23T12:40:08Z",
-   "hot": 2.7,
-   "rank": 15,
-   "metrics": {
-    "points": 95,
-    "comments": 70,
-    "discussion": "https://news.ycombinator.com/item?id=50610820"
-   }
-  },
-  {
-   "rawId": "50627783",
-   "title": "GTA 6 Running on Windows",
-   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
-   "videoUrl": "https://twitter.com/raul_bs3/status/2125213756238291075",
-   "category": "news",
-   "tags": [
-    "tech",
-    "twitter.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T13:19:31Z",
-   "hot": 23.5,
-   "rank": 16,
-   "metrics": {
-    "points": 240,
-    "comments": 279,
-    "discussion": "https://news.ycombinator.com/item?id=50627783"
-   }
-  },
-  {
-   "rawId": "50629106",
-   "title": "Splitting USB-C: USB 3 and USB 2 on one port",
-   "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "frankchiarulli.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T14:54:10Z",
-   "hot": 14.2,
-   "rank": 17,
-   "metrics": {
-    "points": 123,
-    "comments": 82,
-    "discussion": "https://news.ycombinator.com/item?id=50629106"
-   }
-  },
-  {
-   "rawId": "50625384",
-   "title": "Quad9 pulled their DNS service from France",
-   "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "quad9.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T08:33:14Z",
-   "hot": 22.0,
+   "publishedAt": "2026-11-23T15:45:11Z",
+   "hot": 0.6,
    "rank": 18,
    "metrics": {
-    "points": 330,
-    "comments": 163,
-    "discussion": "https://news.ycombinator.com/item?id=50625384"
+    "points": 24,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50613769"
    }
   },
   {
-   "rawId": "50598297",
-   "title": "Overpass QL EBNF Grammar",
-   "url": "https://github.com/b1tw153/overpass-ebnf",
+   "rawId": "50638075",
+   "title": "A faster algorithm for extracting hexadecimal digits of π",
+   "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "github.com"
+    "stylewarning.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T10:39:05Z",
-   "hot": 0.1,
+   "publishedAt": "2026-11-25T03:28:42Z",
+   "hot": 6.6,
    "rank": 19,
    "metrics": {
-    "points": 4,
+    "points": 36,
     "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50598297"
+    "discussion": "https://news.ycombinator.com/item?id=50638075"
+   }
+  },
+  {
+   "rawId": "50638070",
+   "title": "Serving Qwen via AWS Lambdas for fun and 80x negative profit",
+   "url": "https://noahbuilt.it/writing/qwen-on-5600-lambdas",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "noahbuilt.it"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T03:28:06Z",
+   "hot": 11.2,
+   "rank": 20,
+   "metrics": {
+    "points": 61,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50638070"
    }
   }
  ]

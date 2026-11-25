@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T23:33:19Z",
+ "updated": "2026-11-25T08:54:34Z",
  "source": "wikipedia",
  "language": "en",
  "items": [
@@ -14,29 +14,11 @@
    "summary": "2026 Indian film by Nitesh Tiwari. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/48/Ramayana_Part_1_%28poster%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 365685,
+   "hot": 305811,
    "rank": 1,
    "metrics": {
-    "views": 365685,
-    "change": -5
-   }
-  },
-  {
-   "rawId": "grand theft auto vi",
-   "title": "Grand Theft Auto VI",
-   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "2026 video game. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 266240,
-   "rank": 2,
-   "metrics": {
-    "views": 266240,
-    "change": -14
+    "views": 305811,
+    "change": -16
    }
   },
   {
@@ -50,29 +32,29 @@
    "summary": "Taiwanese-American business executive (born 1963). Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg/330px-Jensen_Huang_Stanford_2026-04-30_010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 234343,
-   "rank": 3,
+   "hot": 254240,
+   "rank": 2,
    "metrics": {
-    "views": 234343,
-    "change": 737
+    "views": 254240,
+    "change": 8
    }
   },
   {
-   "rawId": "moon",
-   "title": "Moon",
-   "url": "https://en.wikipedia.org/wiki/Moon",
+   "rawId": "grand theft auto vi",
+   "title": "Grand Theft Auto VI",
+   "url": "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Natural satellite orbiting Earth. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/330px-FullMoon2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "2026 video game. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/46/Grand_Theft_Auto_VI.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 180275,
-   "rank": 4,
+   "hot": 198339,
+   "rank": 3,
    "metrics": {
-    "views": 180275,
-    "change": 3910
+    "views": 198339,
+    "change": -26
    }
   },
   {
@@ -86,101 +68,11 @@
    "summary": "2026 film by Francis Lawrence. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/d/da/The_Hunger_Games_-_Sunrise_on_the_Reaping_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 180185,
-   "rank": 5,
+   "hot": 129863,
+   "rank": 4,
    "metrics": {
-    "views": 180185,
-    "change": -19
-   }
-  },
-  {
-   "rawId": "linux",
-   "title": "Linux",
-   "url": "https://en.wikipedia.org/wiki/Linux",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Family of Unix-like operating systems that use the Linux kernel. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 177023,
-   "rank": 6,
-   "metrics": {
-    "views": 177023,
-    "change": 5899
-   }
-  },
-  {
-   "rawId": "blood",
-   "title": "Blood",
-   "url": "https://en.wikipedia.org/wiki/Blood",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Body fluid in the circulatory system. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Venous_and_arterial_blood.jpg/330px-Venous_and_arterial_blood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 174912,
-   "rank": 7,
-   "metrics": {
-    "views": 174912,
-    "change": 18748
-   }
-  },
-  {
-   "rawId": "riemann hypothesis",
-   "title": "Riemann hypothesis",
-   "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Statement about zeros of the zeta function. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Riemann_zeta_function_absolute_value.png/330px-Riemann_zeta_function_absolute_value.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 157845,
-   "rank": 8,
-   "metrics": {
-    "views": 157845,
-    "change": -23
-   }
-  },
-  {
-   "rawId": "list of highest-grossing indian films",
-   "title": "List of highest-grossing Indian films",
-   "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 136937,
-   "rank": 9,
-   "metrics": {
-    "views": 136937,
-    "change": -1
-   }
-  },
-  {
-   "rawId": "experience machine",
-   "title": "Experience machine",
-   "url": "https://en.wikipedia.org/wiki/Experience_machine",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Thought experiment posed by Robert Nozick. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": null,
-   "publishedAt": null,
-   "hot": 135474,
-   "rank": 10,
-   "metrics": {
-    "views": 135474,
-    "change": 80539
+    "views": 129863,
+    "change": -28
    }
   },
   {
@@ -194,65 +86,29 @@
    "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": null,
    "publishedAt": null,
-   "hot": 132913,
-   "rank": 11,
+   "hot": 129741,
+   "rank": 5,
    "metrics": {
-    "views": 132913,
-    "change": 1
+    "views": 129741,
+    "change": -2
    }
   },
   {
-   "rawId": "tom jackson (american football, born 1951)",
-   "title": "Tom Jackson (American football, born 1951)",
-   "url": "https://en.wikipedia.org/wiki/Tom_Jackson_(American_football%2C_born_1951)",
+   "rawId": "list of highest-grossing indian films",
+   "title": "List of highest-grossing Indian films",
+   "url": "https://en.wikipedia.org/wiki/List_of_highest-grossing_Indian_films",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American football player and broadcaster (1951–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Tom_Jackson_2010.jpg/330px-Tom_Jackson_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Wikipedia article. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
    "publishedAt": null,
-   "hot": 128174,
-   "rank": 12,
+   "hot": 128464,
+   "rank": 6,
    "metrics": {
-    "views": 128174,
-    "change": -51
-   }
-  },
-  {
-   "rawId": "russian corvette merkury",
-   "title": "Russian corvette Merkury",
-   "url": "https://en.wikipedia.org/wiki/Russian_corvette_Merkury",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "Corvette of the Russian Navy. Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Corvette_Mercury_at_the_naval_parade_in_St._Petersburg._July_2022.png/330px-Corvette_Mercury_at_the_naval_parade_in_St._Petersburg._July_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-   "publishedAt": null,
-   "hot": 124318,
-   "rank": 13,
-   "metrics": {
-    "views": 124318,
-    "change": 101
-   }
-  },
-  {
-   "rawId": "miley cyrus",
-   "title": "Miley Cyrus",
-   "url": "https://en.wikipedia.org/wiki/Miley_Cyrus",
-   "category": "news",
-   "tags": [
-    "wikipedia"
-   ],
-   "summary": "American singer and actress (born 1992). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Miley_Cyrus_Grammy_Awards_2024_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-   "publishedAt": null,
-   "hot": 116713,
-   "rank": 14,
-   "metrics": {
-    "views": 116713,
-    "change": -32
+    "views": 128464,
+    "change": -6
    }
   },
   {
@@ -266,65 +122,65 @@
    "summary": "Upcoming Marvel Studios film. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/e/ee/Avengers_Doomsday_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 116097,
-   "rank": 15,
+   "hot": 120242,
+   "rank": 7,
    "metrics": {
-    "views": 116097,
-    "change": 202
+    "views": 120242,
+    "change": 4
    }
   },
   {
-   "rawId": "molly meldrum",
-   "title": "Molly Meldrum",
-   "url": "https://en.wikipedia.org/wiki/Molly_Meldrum",
+   "rawId": "riemann hypothesis",
+   "title": "Riemann hypothesis",
+   "url": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Australian music journalist and media personality (1943–2026). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Molly_Meldrum_%288182225200%29_%28cropped%29.jpg/330px-Molly_Meldrum_%288182225200%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "Statement about zeros of the zeta function. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Riemann_zeta_function_absolute_value.png/330px-Riemann_zeta_function_absolute_value.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 112186,
-   "rank": 16,
+   "hot": 102084,
+   "rank": 8,
    "metrics": {
-    "views": 112186,
-    "change": 202
+    "views": 102084,
+    "change": -35
    }
   },
   {
-   "rawId": "mariella frostrup",
-   "title": "Mariella Frostrup",
-   "url": "https://en.wikipedia.org/wiki/Mariella_Frostrup",
+   "rawId": "nvidia",
+   "title": "Nvidia",
+   "url": "https://en.wikipedia.org/wiki/Nvidia",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "Norwegian-British journalist and presenter (born 1962). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mariella_Frostrup_2016_%28cropped%29.jpg/330px-Mariella_Frostrup_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "American multinational technology company. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/2788-2888_San_Tomas_Expwy.jpg/330px-2788-2888_San_Tomas_Expwy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "publishedAt": null,
-   "hot": 110614,
-   "rank": 17,
+   "hot": 89488,
+   "rank": 9,
    "metrics": {
-    "views": 110614,
-    "change": 57
+    "views": 89488,
+    "change": 6
    }
   },
   {
-   "rawId": "fred warner (american football)",
-   "title": "Fred Warner (American football)",
-   "url": "https://en.wikipedia.org/wiki/Fred_Warner_(American_football)",
+   "rawId": "soham murders",
+   "title": "Soham murders",
+   "url": "https://en.wikipedia.org/wiki/Soham_murders",
    "category": "news",
    "tags": [
     "wikipedia"
    ],
-   "summary": "American football player (born 1996). Among the most-read articles on Wikipedia yesterday.",
-   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/49ers_LB_Fred_Warner_Super_Bowl_LIV_Interview_%28cropped%29.png/330px-49ers_LB_Fred_Warner_Super_Bowl_LIV_Interview_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "summary": "2002 double murder in Cambridgeshire, England. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2a/HollyWellsJessicaChapmanSummer2002SohamCambridgeshire2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 107625,
-   "rank": 18,
+   "hot": 87021,
+   "rank": 10,
    "metrics": {
-    "views": 107625,
-    "change": 4124
+    "views": 87021,
+    "change": 465
    }
   },
   {
@@ -338,11 +194,155 @@
    "summary": "American television series. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/00/The_Body_Final_Poster.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 93405,
+   "hot": 83943,
+   "rank": 11,
+   "metrics": {
+    "views": 83943,
+    "change": -10
+   }
+  },
+  {
+   "rawId": "miley cyrus",
+   "title": "Miley Cyrus",
+   "url": "https://en.wikipedia.org/wiki/Miley_Cyrus",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American singer and actress (born 1992). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Miley_Cyrus_Grammy_Awards_2024_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 81270,
+   "rank": 12,
+   "metrics": {
+    "views": 81270,
+    "change": -30
+   }
+  },
+  {
+   "rawId": "mariella frostrup",
+   "title": "Mariella Frostrup",
+   "url": "https://en.wikipedia.org/wiki/Mariella_Frostrup",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Norwegian-British journalist and presenter (born 1962). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mariella_Frostrup_2016_%28cropped%29.jpg/330px-Mariella_Frostrup_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 80552,
+   "rank": 13,
+   "metrics": {
+    "views": 80552,
+    "change": -27
+   }
+  },
+  {
+   "rawId": "elizabeth holmes",
+   "title": "Elizabeth Holmes",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American businesswoman (born 1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Elizabeth_Holmes_2014_%28cropped_2%29.jpg/330px-Elizabeth_Holmes_2014_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 80252,
+   "rank": 14,
+   "metrics": {
+    "views": 80252,
+    "change": 16
+   }
+  },
+  {
+   "rawId": "anthony russell (murderer)",
+   "title": "Anthony Russell (murderer)",
+   "url": "https://en.wikipedia.org/wiki/Anthony_Russell_(murderer)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "British murderer (born 1982). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": null,
+   "publishedAt": null,
+   "hot": 79697,
+   "rank": 15,
+   "metrics": {
+    "views": 79697,
+    "change": 356
+   }
+  },
+  {
+   "rawId": "ansel adams",
+   "title": "Ansel Adams",
+   "url": "https://en.wikipedia.org/wiki/Ansel_Adams",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "American photographer and environmentalist (1902–1984). Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ansel_Adams_and_camera.jpg/330px-Ansel_Adams_and_camera.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 77398,
+   "rank": 16,
+   "metrics": {
+    "views": 77398,
+    "change": -3
+   }
+  },
+  {
+   "rawId": "blood",
+   "title": "Blood",
+   "url": "https://en.wikipedia.org/wiki/Blood",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "Body fluid in the circulatory system. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Venous_and_arterial_blood.jpg/330px-Venous_and_arterial_blood.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "publishedAt": null,
+   "hot": 75798,
+   "rank": 17,
+   "metrics": {
+    "views": 75798,
+    "change": -57
+   }
+  },
+  {
+   "rawId": "you can see everything",
+   "title": "You Can See Everything",
+   "url": "https://en.wikipedia.org/wiki/You_Can_See_Everything",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "2026 documentary film. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/9/9d/You_Can_See_Everything_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 75535,
+   "rank": 18,
+   "metrics": {
+    "views": 75535,
+    "change": 12
+   }
+  },
+  {
+   "rawId": "survivor series: wargames (2026)",
+   "title": "Survivor Series: WarGames (2026)",
+   "url": "https://en.wikipedia.org/wiki/Survivor_Series%3A_WarGames_(2026)",
+   "category": "news",
+   "tags": [
+    "wikipedia"
+   ],
+   "summary": "WWE premium live event. Among the most-read articles on Wikipedia yesterday.",
+   "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bd/Survivor_Series_2026_poster.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "publishedAt": null,
+   "hot": 67057,
    "rank": 19,
    "metrics": {
-    "views": 93405,
-    "change": -17
+    "views": 67057,
+    "change": 126
    }
   },
   {
@@ -356,11 +356,11 @@
    "summary": "2026 Indian film by Rajkumar Periasamy. Among the most-read articles on Wikipedia yesterday.",
    "thumbnail": "https://upload.wikimedia.org/wikipedia/en/3/3a/O.M_Operation_Mole.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "publishedAt": null,
-   "hot": 88287,
+   "hot": 66369,
    "rank": 20,
    "metrics": {
-    "views": 88287,
-    "change": -20
+    "views": 66369,
+    "change": -25
    }
   }
  ]
