@@ -1,10 +1,136 @@
 {
- "updated": "2026-11-26T12:55:31Z",
+ "updated": "2026-11-26T22:28:32Z",
  "source": "hackernews",
  "items": [
   {
+   "rawId": "50659841",
+   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "worksinprogress.co"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T21:08:05Z",
+   "hot": 74.6,
+   "rank": 1,
+   "metrics": {
+    "points": 100,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50659841"
+   }
+  },
+  {
+   "rawId": "50657265",
+   "title": "AMD-specific fork of llama.cpp",
+   "url": "https://devnull.land/amd-specific-llama-cpp",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "devnull.land"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T17:11:29Z",
+   "hot": 44.7,
+   "rank": 2,
+   "metrics": {
+    "points": 236,
+    "comments": 54,
+    "discussion": "https://news.ycombinator.com/item?id=50657265"
+   }
+  },
+  {
+   "rawId": "50657530",
+   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+   "url": "https://github.com/antonpictures/youtube-punisher",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T17:36:47Z",
+   "hot": 37.0,
+   "rank": 3,
+   "metrics": {
+    "points": 180,
+    "comments": 254,
+    "discussion": "https://news.ycombinator.com/item?id=50657530"
+   }
+  },
+  {
+   "rawId": "50660180",
+   "title": "AI made self-hosting fun again",
+   "url": "https://janlukas.blog/posts/ai-self-hosting",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "janlukas.blog"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T21:47:45Z",
+   "hot": 34.0,
+   "rank": 4,
+   "metrics": {
+    "points": 34,
+    "comments": 21,
+    "discussion": "https://news.ycombinator.com/item?id=50660180"
+   }
+  },
+  {
+   "rawId": "50657645",
+   "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "krebsonsecurity.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T17:47:45Z",
+   "hot": 35.7,
+   "rank": 5,
+   "metrics": {
+    "points": 167,
+    "comments": 70,
+    "discussion": "https://news.ycombinator.com/item?id=50657645"
+   }
+  },
+  {
+   "rawId": "50658632",
+   "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+   "url": "https://github.com/eisenzopf/rvoip",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T19:18:09Z",
+   "hot": 12.9,
+   "rank": 6,
+   "metrics": {
+    "points": 41,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50658632"
+   }
+  },
+  {
    "rawId": "50653667",
-   "title": "Intel One Mono font",
+   "title": "Intel One Mono font (2023)",
    "url": "https://github.com/intel/intel-one-mono",
    "videoUrl": null,
    "category": "news",
@@ -15,306 +141,159 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-26T10:11:01Z",
-   "hot": 52.2,
-   "rank": 1,
+   "hot": 35.1,
+   "rank": 7,
    "metrics": {
-    "points": 143,
-    "comments": 84,
+    "points": 432,
+    "comments": 234,
     "discussion": "https://news.ycombinator.com/item?id=50653667"
    }
   },
   {
-   "rawId": "50654289",
-   "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
-   "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+   "rawId": "50652527",
+   "title": "OpenAI may be in cost control mode",
+   "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "nextcloud.com"
+    "micjm.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T11:50:49Z",
-   "hot": 23.2,
-   "rank": 2,
-   "metrics": {
-    "points": 25,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50654289"
-   }
-  },
-  {
-   "rawId": "50646108",
-   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-   "url": "https://scottaaronson.blog/?p=10379",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "scottaaronson.blog"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-25T19:11:27Z",
-   "hot": 94.3,
-   "rank": 3,
-   "metrics": {
-    "points": 1673,
-    "comments": 1487,
-    "discussion": "https://news.ycombinator.com/item?id=50646108"
-   }
-  },
-  {
-   "rawId": "50644817",
-   "title": "1Password Security Incident",
-   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "1password.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-25T17:18:26Z",
-   "hot": 76.4,
-   "rank": 4,
-   "metrics": {
-    "points": 1499,
-    "comments": 644,
-    "discussion": "https://news.ycombinator.com/item?id=50644817"
-   }
-  },
-  {
-   "rawId": "50651719",
-   "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
-   "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "fosscomics.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T05:12:59Z",
-   "hot": 17.0,
-   "rank": 5,
-   "metrics": {
-    "points": 131,
-    "comments": 20,
-    "discussion": "https://news.ycombinator.com/item?id=50651719"
-   }
-  },
-  {
-   "rawId": "50647673",
-   "title": "The New York Times warns photographers not to update Photoshop over AI features",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "theverge.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-25T21:18:02Z",
-   "hot": 28.7,
-   "rank": 6,
-   "metrics": {
-    "points": 449,
-    "comments": 369,
-    "discussion": "https://news.ycombinator.com/item?id=50647673"
-   }
-  },
-  {
-   "rawId": "50648050",
-   "title": "Much shorter version of GRH Lean verification from Anthropic",
-   "url": "https://github.com/lsernau/grh-lean",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-25T21:48:10Z",
-   "hot": 31.9,
-   "rank": 7,
-   "metrics": {
-    "points": 483,
-    "comments": 268,
-    "discussion": "https://news.ycombinator.com/item?id=50648050"
-   }
-  },
-  {
-   "rawId": "50649834",
-   "title": "Collection of preserved UI style guides",
-   "url": "https://aresluna.org/ui-style-guides/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "aresluna.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T00:40:00Z",
-   "hot": 21.4,
+   "publishedAt": "2026-11-26T07:33:12Z",
+   "hot": 12.1,
    "rank": 8,
    "metrics": {
-    "points": 262,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50649834"
+    "points": 181,
+    "comments": 158,
+    "discussion": "https://news.ycombinator.com/item?id=50652527"
    }
   },
   {
-   "rawId": "50650892",
-   "title": "Minipg: PostgreSQL as a Single Executable",
-   "url": "https://progrium.github.io/minipg/",
+   "rawId": "50657936",
+   "title": "George Whitesides, 1939-2026",
+   "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "progrium.github.io"
+    "science.org"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T03:00:48Z",
-   "hot": 17.3,
+   "publishedAt": "2026-11-26T18:13:07Z",
+   "hot": 8.7,
    "rank": 9,
    "metrics": {
-    "points": 171,
-    "comments": 25,
-    "discussion": "https://news.ycombinator.com/item?id=50650892"
+    "points": 37,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50657936"
    }
   },
   {
-   "rawId": "50652184",
-   "title": "Moat: Your OpenRouter Replacement",
-   "url": "https://commandcode.ai/moat",
+   "rawId": "50651099",
+   "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+   "url": "https://olumino.app",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "commandcode.ai"
+    "olumino.app"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T06:32:48Z",
-   "hot": 17.7,
+   "publishedAt": "2026-11-26T03:33:06Z",
+   "hot": 2.1,
    "rank": 10,
    "metrics": {
-    "points": 113,
-    "comments": 79,
-    "discussion": "https://news.ycombinator.com/item?id=50652184"
+    "points": 39,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50651099"
    }
   },
   {
-   "rawId": "50649864",
-   "title": "Tell HN: Lots of Ask HNs again",
-   "url": "https://news.ycombinator.com/item?id=50649864",
+   "rawId": "50658910",
+   "title": "Top-cited AI scientists at four US companies compared",
+   "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "Ask HN"
+    "topcitedscientists.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T00:43:34Z",
-   "hot": 24.3,
+   "publishedAt": "2026-11-26T19:44:31Z",
+   "hot": 2.9,
    "rank": 11,
    "metrics": {
-    "points": 297,
-    "comments": 114,
-    "discussion": "https://news.ycombinator.com/item?id=50649864"
+    "points": 8,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50658910"
    }
   },
   {
-   "rawId": "50647181",
-   "title": "Slow Ubuntu security response times",
-   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "rawId": "50656036",
+   "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+   "url": "https://michidk.github.io/sidebyside/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "openwall.com"
+    "michidk.github.io"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-25T20:38:00Z",
-   "hot": 20.4,
+   "publishedAt": "2026-11-26T15:00:06Z",
+   "hot": 13.1,
    "rank": 12,
    "metrics": {
-    "points": 333,
-    "comments": 165,
-    "discussion": "https://news.ycombinator.com/item?id=50647181"
+    "points": 98,
+    "comments": 26,
+    "discussion": "https://news.ycombinator.com/item?id=50656036"
    }
   },
   {
-   "rawId": "50623232",
-   "title": "Show HN: Synth Patch Hero",
-   "url": "https://swarkentin.github.io/synth-patch-hero/",
+   "rawId": "50651430",
+   "title": "NormalScript: A perfectly normal scripting language",
+   "url": "https://psychoscript.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "swarkentin.github.io"
+    "psychoscript.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-24T03:24:22Z",
-   "hot": 1.3,
+   "publishedAt": "2026-11-26T04:32:26Z",
+   "hot": 2.9,
    "rank": 13,
    "metrics": {
-    "points": 75,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50623232"
+    "points": 52,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50651430"
    }
   },
   {
-   "rawId": "50601280",
-   "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-   "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+   "rawId": "50636931",
+   "title": "Curiosity Is No Solo Act",
+   "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bjin.github.io"
+    "thereader.mitpress.mit.edu"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T16:44:48Z",
-   "hot": 4.4,
+   "publishedAt": "2026-11-25T00:37:07Z",
+   "hot": 2.4,
    "rank": 14,
    "metrics": {
-    "points": 401,
-    "comments": 114,
-    "discussion": "https://news.ycombinator.com/item?id=50601280"
-   }
-  },
-  {
-   "rawId": "50626466",
-   "title": "What VP ≠ VNP Means (In 3 Minutes)",
-   "url": "https://www.friedgil.com/vpvnp",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "friedgil.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T10:56:56Z",
-   "hot": 3.1,
-   "rank": 15,
-   "metrics": {
-    "points": 156,
-    "comments": 48,
-    "discussion": "https://news.ycombinator.com/item?id=50626466"
+    "points": 110,
+    "comments": 25,
+    "discussion": "https://news.ycombinator.com/item?id=50636931"
    }
   },
   {
@@ -330,75 +309,117 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-26T09:44:23Z",
-   "hot": 23.2,
-   "rank": 16,
+   "hot": 13.4,
+   "rank": 15,
    "metrics": {
-    "points": 74,
-    "comments": 65,
+    "points": 171,
+    "comments": 173,
     "discussion": "https://news.ycombinator.com/item?id=50653477"
    }
   },
   {
-   "rawId": "50598636",
-   "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
-   "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+   "rawId": "50658193",
+   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+   "url": "https://bui.preetham.top/charts/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "gwern.net"
+    "bui.preetham.top"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-22T11:29:44Z",
-   "hot": 1.1,
+   "publishedAt": "2026-11-26T18:37:24Z",
+   "hot": 5.7,
+   "rank": 16,
+   "metrics": {
+    "points": 22,
+    "comments": 2,
+    "discussion": "https://news.ycombinator.com/item?id=50658193"
+   }
+  },
+  {
+   "rawId": "50651719",
+   "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+   "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "fosscomics.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T05:12:59Z",
+   "hot": 15.3,
    "rank": 17,
    "metrics": {
-    "points": 105,
-    "comments": 40,
-    "discussion": "https://news.ycombinator.com/item?id=50598636"
+    "points": 264,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50651719"
    }
   },
   {
-   "rawId": "50621638",
-   "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
-   "url": "https://arxiv.org/abs/2605.15257",
+   "rawId": "50657070",
+   "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+   "url": "https://github.com/rxliuli/sim-drop",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "github.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-24T00:19:50Z",
-   "hot": 0.3,
+   "publishedAt": "2026-11-26T16:51:38Z",
+   "hot": 5.0,
    "rank": 18,
    "metrics": {
-    "points": 20,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50621638"
+    "points": 28,
+    "comments": 8,
+    "discussion": "https://news.ycombinator.com/item?id=50657070"
    }
   },
   {
-   "rawId": "50651863",
-   "title": "An algebraic quantization of gravity from the null cone",
-   "url": "https://arxiv.org/abs/2611.34924",
+   "rawId": "50654289",
+   "title": "Nextcloud Office Desktop app",
+   "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arxiv.org"
+    "nextcloud.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T05:37:51Z",
-   "hot": 9.3,
+   "publishedAt": "2026-11-26T11:50:49Z",
+   "hot": 35.9,
    "rank": 19,
    "metrics": {
-    "points": 68,
-    "comments": 11,
-    "discussion": "https://news.ycombinator.com/item?id=50651863"
+    "points": 382,
+    "comments": 193,
+    "discussion": "https://news.ycombinator.com/item?id=50654289"
+   }
+  },
+  {
+   "rawId": "50655664",
+   "title": "Tell HN: Happy Thanksgiving",
+   "url": "https://news.ycombinator.com/item?id=50655664",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "Ask HN"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T14:26:54Z",
+   "hot": 67.6,
+   "rank": 20,
+   "metrics": {
+    "points": 543,
+    "comments": 130,
+    "discussion": "https://news.ycombinator.com/item?id=50655664"
    }
   }
  ]
