@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:28:32Z",
+ "updated": "2026-11-27T05:11:49Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -50,75 +50,6 @@
    }
   },
   {
-   "rawId": "6812477290",
-   "title": "Last Thing You Need",
-   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#3 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
-   "publishedAt": "2026-09-17T00:00:00Z",
-   "hot": 23,
-   "rank": 3,
-   "metrics": {
-    "artist": "Morgan Wallen",
-    "rank": 3,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
-   }
-  },
-  {
-   "rawId": "6819802968",
-   "title": "Flower In A Hurricane [From GTAVI: Original Score]",
-   "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968",
-   "category": "music",
-   "tags": [
-    "Alternative"
-   ],
-   "summary": "#4 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 22,
-   "rank": 4,
-   "metrics": {
-    "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-    "rank": 4,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
-   }
-  },
-  {
-   "rawId": "6796864754",
-   "title": "BbY WOW",
-   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
-   "category": "music",
-   "tags": [
-    "Latin"
-   ],
-   "summary": "#5 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-08-05T00:00:00Z",
-   "hot": 21,
-   "rank": 5,
-   "metrics": {
-    "artist": "KAROL G, Judeline & rusowsky",
-    "rank": 5,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
-   }
-  },
-  {
    "rawId": "720861445",
    "title": "Underneath the Tree",
    "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445",
@@ -126,15 +57,15 @@
    "tags": [
     "Holiday"
    ],
-   "summary": "#6 on Apple Music's most-played songs (US).",
+   "summary": "#3 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
    "publishedAt": "2013-10-25T00:00:00Z",
-   "hot": 20,
-   "rank": 6,
+   "hot": 23,
+   "rank": 3,
    "metrics": {
     "artist": "Kelly Clarkson",
-    "rank": 6,
-    "change": 2
+    "rank": 3,
+    "change": 3
    },
    "embed": {
     "kind": "music",
@@ -142,26 +73,26 @@
    }
   },
   {
-   "rawId": "6792676860",
-   "title": "Been By Now",
-   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+   "rawId": "6812477290",
+   "title": "Last Thing You Need",
+   "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
    "category": "music",
    "tags": [
     "Country"
    ],
-   "summary": "#7 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-07-24T00:00:00Z",
-   "hot": 19,
-   "rank": 7,
+   "summary": "#4 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/400x400bb.jpg",
+   "publishedAt": "2026-09-17T00:00:00Z",
+   "hot": 22,
+   "rank": 4,
    "metrics": {
     "artist": "Morgan Wallen",
-    "rank": 7,
+    "rank": 4,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
+    "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
    }
   },
   {
@@ -172,19 +103,88 @@
    "tags": [
     "Holiday"
    ],
-   "summary": "#8 on Apple Music's most-played songs (US).",
+   "summary": "#5 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/400x400bb.jpg",
    "publishedAt": "1957-12-02T00:00:00Z",
-   "hot": 18,
-   "rank": 8,
+   "hot": 21,
+   "rank": 5,
    "metrics": {
     "artist": "Bobby Helms",
-    "rank": 8,
-    "change": 2
+    "rank": 5,
+    "change": 3
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132"
+   }
+  },
+  {
+   "rawId": "6796864754",
+   "title": "BbY WOW",
+   "url": "https://music.apple.com/us/album/bby-wow/6796864741?i=6796864754",
+   "category": "music",
+   "tags": [
+    "Latin"
+   ],
+   "summary": "#6 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-08-05T00:00:00Z",
+   "hot": 20,
+   "rank": 6,
+   "metrics": {
+    "artist": "KAROL G, Judeline & rusowsky",
+    "rank": 6,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/bby-wow/6796864741?i=6796864754"
+   }
+  },
+  {
+   "rawId": "6819802968",
+   "title": "Flower In A Hurricane [From GTAVI: Original Score]",
+   "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968",
+   "category": "music",
+   "tags": [
+    "Alternative"
+   ],
+   "summary": "#7 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 19,
+   "rank": 7,
+   "metrics": {
+    "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
+    "rank": 7,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score/6819802963?i=6819802968"
+   }
+  },
+  {
+   "rawId": "6792676860",
+   "title": "Been By Now",
+   "url": "https://music.apple.com/us/album/been-by-now/6792676858?i=6792676860",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#8 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9f/8d/52/9f8d52a0-b6d9-d038-327b-4fe58bedce67/26UMGIM94572.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-07-24T00:00:00Z",
+   "hot": 18,
+   "rank": 8,
+   "metrics": {
+    "artist": "Morgan Wallen",
+    "rank": 8,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/been-by-now/6792676858?i=6792676860"
    }
   },
   {
@@ -203,7 +203,7 @@
    "metrics": {
     "artist": "Drake",
     "rank": 9,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -211,26 +211,27 @@
    }
   },
   {
-   "rawId": "1648587330",
-   "title": "In A Minute",
-   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+   "rawId": "336037282",
+   "title": "Sleigh Ride",
+   "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282",
    "category": "music",
    "tags": [
-    "Hip-Hop/Rap"
+    "Holiday",
+    "Pop"
    ],
    "summary": "#10 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-08T00:00:00Z",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
+   "publishedAt": "1963-11-22T00:00:00Z",
    "hot": 16,
    "rank": 10,
    "metrics": {
-    "artist": "Lil Baby",
+    "artist": "The Ronettes",
     "rank": 10,
-    "change": 1
+    "change": 10
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
+    "value": "https://embed.music.apple.com/us/album/sleigh-ride/336036941?i=336037282"
    }
   },
   {
@@ -249,11 +250,34 @@
    "metrics": {
     "artist": "Tate McRae",
     "rank": 11,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
+   }
+  },
+  {
+   "rawId": "1648587330",
+   "title": "In A Minute",
+   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#12 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-08T00:00:00Z",
+   "hot": 14,
+   "rank": 12,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 12,
+    "change": -2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -264,15 +288,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
+   "summary": "#13 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2017-12-01T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
+   "hot": 13,
+   "rank": 13,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 12,
-    "change": 0
+    "rank": 13,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -287,19 +311,65 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#14 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
+   "hot": 12,
+   "rank": 14,
    "metrics": {
     "artist": "Drake",
-    "rank": 13,
-    "change": 0
+    "rank": 14,
+    "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954"
+   }
+  },
+  {
+   "rawId": "1435551062",
+   "title": "The Christmas Song (Merry Christmas to You)",
+   "url": "https://music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062",
+   "category": "music",
+   "tags": [
+    "Holiday"
+   ],
+   "summary": "#15 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "1955-11-15T00:00:00Z",
+   "hot": 11,
+   "rank": 15,
+   "metrics": {
+    "artist": "Nat \"King\" Cole",
+    "rank": 15,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062"
+   }
+  },
+  {
+   "rawId": "6822944296",
+   "title": "Lies (feat. Lana Del Rey)",
+   "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#16 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 10,
+   "rank": 16,
+   "metrics": {
+    "artist": "Zach Bryan & Lana Del Rey",
+    "rank": 16,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296"
    }
   },
   {
@@ -310,65 +380,19 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#14 on Apple Music's most-played songs (US).",
+   "summary": "#17 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 12,
-   "rank": 14,
+   "hot": 9,
+   "rank": 17,
    "metrics": {
     "artist": "Future",
-    "rank": 14,
-    "change": 0
+    "rank": 17,
+    "change": -3
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
-   }
-  },
-  {
-   "rawId": "1621803969",
-   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
-   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
-   "publishedAt": "2022-05-02T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
-   "metrics": {
-    "artist": "Future",
-    "rank": 15,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
-   }
-  },
-  {
-   "rawId": "1889992115",
-   "title": "stupid song",
-   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-06-12T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
-   "metrics": {
-    "artist": "Olivia Rodrigo",
-    "rank": 16,
-    "change": -1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
    }
   },
   {
@@ -379,89 +403,19 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
+   "summary": "#18 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
-   "metrics": {
-    "artist": "Drake & Don Toliver",
-    "rank": 17,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
-   }
-  },
-  {
-   "rawId": "1889992123",
-   "title": "the cure",
-   "url": "https://music.apple.com/us/album/the-cure/1889992111?i=1889992123",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#18 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-22T00:00:00Z",
    "hot": 8,
    "rank": 18,
    "metrics": {
-    "artist": "Olivia Rodrigo",
+    "artist": "Drake & Don Toliver",
     "rank": 18,
-    "change": 1
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/the-cure/1889992111?i=1889992123"
-   }
-  },
-  {
-   "rawId": "6795697687",
-   "title": "Stop The Wedding!",
-   "url": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/400x400bb.jpg",
-   "publishedAt": "2026-08-07T00:00:00Z",
-   "hot": 7,
-   "rank": 19,
-   "metrics": {
-    "artist": "Ashe",
-    "rank": 19,
     "change": -1
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687"
-   }
-  },
-  {
-   "rawId": "336037282",
-   "title": "Sleigh Ride",
-   "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282",
-   "category": "music",
-   "tags": [
-    "Holiday",
-    "Pop"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
-   "publishedAt": "1963-11-22T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "The Ronettes",
-    "rank": 20,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/sleigh-ride/336036941?i=336037282"
+    "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
    }
   },
   {
@@ -472,19 +426,112 @@
    "tags": [
     "Country"
    ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
+   "summary": "#19 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/400x400bb.jpg",
    "publishedAt": "2026-02-13T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
+   "hot": 7,
+   "rank": 19,
    "metrics": {
     "artist": "Ella Langley",
-    "rank": 21,
-    "change": -1
+    "rank": 19,
+    "change": 2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/be-her/1869436835?i=1869436845"
+   }
+  },
+  {
+   "rawId": "1889992115",
+   "title": "stupid song",
+   "url": "https://music.apple.com/us/album/stupid-song/1889992111?i=1889992115",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#20 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1d/1b/f9/1d1bf9b1-44c6-9a6c-6ffb-c158488c06ce/26UMGIM39303.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-06-12T00:00:00Z",
+   "hot": 6,
+   "rank": 20,
+   "metrics": {
+    "artist": "Olivia Rodrigo",
+    "rank": 20,
+    "change": -4
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/stupid-song/1889992111?i=1889992115"
+   }
+  },
+  {
+   "rawId": "1621803969",
+   "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+   "url": "https://music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
+   "publishedAt": "2022-05-02T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Future",
+    "rank": 21,
+    "change": -6
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+   }
+  },
+  {
+   "rawId": "6795697687",
+   "title": "Stop The Wedding!",
+   "url": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#22 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/400x400bb.jpg",
+   "publishedAt": "2026-08-07T00:00:00Z",
+   "hot": 4,
+   "rank": 22,
+   "metrics": {
+    "artist": "Ashe",
+    "rank": 22,
+    "change": -3
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687"
+   }
+  },
+  {
+   "rawId": "202117984",
+   "title": "Last Christmas (Single Version)",
+   "url": "https://music.apple.com/us/album/last-christmas-single-version/202117886?i=202117984",
+   "category": "music",
+   "tags": [
+    "Holiday",
+    "Pop"
+   ],
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/400x400bb.jpg",
+   "publishedAt": "1984-12-01T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
+   "metrics": {
+    "artist": "Wham!",
+    "rank": 23,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/last-christmas-single-version/202117886?i=202117984"
    }
   },
   {
@@ -495,15 +542,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
+   "summary": "#24 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/74/80/37/748037d7-71c1-feff-4d38-3ef0a25578b6/26UMGIM85451.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-07-17T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
+   "hot": 2,
+   "rank": 24,
    "metrics": {
     "artist": "Lil Baby",
-    "rank": 22,
-    "change": -1
+    "rank": 24,
+    "change": -2
    },
    "embed": {
     "kind": "music",
@@ -518,65 +565,19 @@
    "tags": [
     "Pop"
    ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
+   "summary": "#25 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/77/7b/5d777b87-e796-0b3e-cef6-d37d993dd8fe/26UMGIM82371.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-09-04T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
+   "hot": 1,
+   "rank": 25,
    "metrics": {
     "artist": "ADÉLA",
-    "rank": 23,
-    "change": -1
+    "rank": 25,
+    "change": -2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/nicole-kidman/6792883860?i=6792884088"
-   }
-  },
-  {
-   "rawId": "1556670532",
-   "title": "Wants and Needs (feat. Lil Baby)",
-   "url": "https://music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2021-03-05T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
-   "metrics": {
-    "artist": "Drake",
-    "rank": 24,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532"
-   }
-  },
-  {
-   "rawId": "1621207921",
-   "title": "Frozen",
-   "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#25 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 1,
-   "rank": 25,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 25,
-    "change": 0
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/frozen/1621207919?i=1621207921"
    }
   }
  ]
