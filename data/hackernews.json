@@ -1,47 +1,152 @@
 {
- "updated": "2026-11-27T15:23:05Z",
+ "updated": "2026-11-27T23:39:03Z",
  "source": "hackernews",
  "items": [
   {
-   "rawId": "50657392",
-   "title": "First images of the impact of DART asteroid deflection experiment",
-   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "rawId": "50643158",
+   "title": "GPT 6.2 Astra Solves a Historical Mystery",
+   "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "arstechnica.com"
+    "generativehistory.substack.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T17:24:37Z",
-   "hot": 2.0,
+   "publishedAt": "2026-11-25T15:16:53Z",
+   "hot": 4.1,
    "rank": 1,
    "metrics": {
-    "points": 45,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50657392"
+    "points": 229,
+    "comments": 153,
+    "discussion": "https://news.ycombinator.com/item?id=50643158"
    }
   },
   {
-   "rawId": "50665920",
-   "title": "Kimi for Science: More scientific ideas, made possible",
-   "url": "https://www.kimi.ai/news/kimi-for-science-program",
+   "rawId": "50668145",
+   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+   "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "kimi.ai"
+    "infohawk.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-27T12:03:11Z",
-   "hot": 29.4,
+   "publishedAt": "2026-11-27T15:40:31Z",
+   "hot": 48.0,
    "rank": 2,
    "metrics": {
-    "points": 98,
-    "comments": 50,
-    "discussion": "https://news.ycombinator.com/item?id=50665920"
+    "points": 383,
+    "comments": 199,
+    "discussion": "https://news.ycombinator.com/item?id=50668145"
+   }
+  },
+  {
+   "rawId": "50669765",
+   "title": "Convex skills send the user's app idea to a remote server without telling them",
+   "url": "https://github.com/convex/convex-backend-skill/issues/64",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T18:02:45Z",
+   "hot": 35.9,
+   "rank": 3,
+   "metrics": {
+    "points": 201,
+    "comments": 57,
+    "discussion": "https://news.ycombinator.com/item?id=50669765"
+   }
+  },
+  {
+   "rawId": "50672008",
+   "title": "9/UX: a Macintosh-inspired desktop for 9front",
+   "url": "https://progrium.github.io/9ux/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "progrium.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T21:48:14Z",
+   "hot": 21.7,
+   "rank": 4,
+   "metrics": {
+    "points": 40,
+    "comments": 9,
+    "discussion": "https://news.ycombinator.com/item?id=50672008"
+   }
+  },
+  {
+   "rawId": "50672142",
+   "title": "Source Control from Hell",
+   "url": "https://frantic.im/git/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "frantic.im"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T22:06:44Z",
+   "hot": 19.5,
+   "rank": 5,
+   "metrics": {
+    "points": 30,
+    "comments": 15,
+    "discussion": "https://news.ycombinator.com/item?id=50672142"
+   }
+  },
+  {
+   "rawId": "50662313",
+   "title": "Citroën Hydraulic System",
+   "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "citroenet.org.uk"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T03:10:19Z",
+   "hot": 5.5,
+   "rank": 6,
+   "metrics": {
+    "points": 113,
+    "comments": 38,
+    "discussion": "https://news.ycombinator.com/item?id=50662313"
+   }
+  },
+  {
+   "rawId": "50670841",
+   "title": "The AT&T Unix PC (3B1) VM",
+   "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "virtuallyfun.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T19:40:33Z",
+   "hot": 12.1,
+   "rank": 7,
+   "metrics": {
+    "points": 48,
+    "comments": 7,
+    "discussion": "https://news.ycombinator.com/item?id=50670841"
    }
   },
   {
@@ -57,17 +162,122 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-27T15:01:50Z",
-   "hot": 12.0,
-   "rank": 3,
+   "hot": 36.7,
+   "rank": 8,
    "metrics": {
-    "points": 12,
-    "comments": 7,
+    "points": 316,
+    "comments": 107,
     "discussion": "https://news.ycombinator.com/item?id=50667726"
    }
   },
   {
+   "rawId": "50670757",
+   "title": "Michael Nielsen took down his book on neural nets",
+   "url": "https://neuralnetworksanddeeplearning.com/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "neuralnetworksanddeeplearning.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T19:31:01Z",
+   "hot": 77.7,
+   "rank": 9,
+   "metrics": {
+    "points": 321,
+    "comments": 207,
+    "discussion": "https://news.ycombinator.com/item?id=50670757"
+   }
+  },
+  {
+   "rawId": "50667371",
+   "title": "Rayshader 1.0: Exit the Matrix",
+   "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "tylermw.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T14:30:20Z",
+   "hot": 6.6,
+   "rank": 10,
+   "metrics": {
+    "points": 60,
+    "comments": 10,
+    "discussion": "https://news.ycombinator.com/item?id=50667371"
+   }
+  },
+  {
+   "rawId": "50670855",
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "oag.state.va.us"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T19:42:25Z",
+   "hot": 51.5,
+   "rank": 11,
+   "metrics": {
+    "points": 203,
+    "comments": 110,
+    "discussion": "https://news.ycombinator.com/item?id=50670855"
+   }
+  },
+  {
+   "rawId": "50657392",
+   "title": "First images of the impact of DART asteroid deflection experiment",
+   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "arstechnica.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T17:24:37Z",
+   "hot": 5.9,
+   "rank": 12,
+   "metrics": {
+    "points": 178,
+    "comments": 54,
+    "discussion": "https://news.ycombinator.com/item?id=50657392"
+   }
+  },
+  {
+   "rawId": "50671275",
+   "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+   "url": "https://github.com/skeeto/prospero",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-27T20:23:14Z",
+   "hot": 6.4,
+   "rank": 13,
+   "metrics": {
+    "points": 21,
+    "comments": 3,
+    "discussion": "https://news.ycombinator.com/item?id=50671275"
+   }
+  },
+  {
    "rawId": "50663595",
-   "title": "The group chat where your AI talks behind your back",
+   "title": "Group chat where your AI talks behind your back",
    "url": "https://construct22.com/",
    "videoUrl": null,
    "category": "news",
@@ -78,348 +288,138 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-27T06:44:34Z",
-   "hot": 57.0,
-   "rank": 4,
+   "hot": 39.9,
+   "rank": 14,
    "metrics": {
-    "points": 493,
-    "comments": 215,
+    "points": 675,
+    "comments": 280,
     "discussion": "https://news.ycombinator.com/item?id=50663595"
    }
   },
   {
-   "rawId": "50665968",
-   "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-   "url": "https://eprint.iacr.org/2026/3020.pdf",
+   "rawId": "50631823",
+   "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
+   "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "eprint.iacr.org"
+    "guitarworld.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-27T12:08:51Z",
-   "hot": 44.2,
-   "rank": 5,
-   "metrics": {
-    "points": 143,
-    "comments": 63,
-    "discussion": "https://news.ycombinator.com/item?id=50665968"
-   }
-  },
-  {
-   "rawId": "50660180",
-   "title": "AI made self-hosting fun again",
-   "url": "https://janlukas.blog/posts/ai-self-hosting",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "janlukas.blog"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T21:47:45Z",
-   "hot": 51.3,
-   "rank": 6,
-   "metrics": {
-    "points": 902,
-    "comments": 438,
-    "discussion": "https://news.ycombinator.com/item?id=50660180"
-   }
-  },
-  {
-   "rawId": "50666375",
-   "title": "US Air Force's cloud computing platform hacked",
-   "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "news.sky.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T12:54:11Z",
-   "hot": 42.3,
-   "rank": 7,
-   "metrics": {
-    "points": 105,
-    "comments": 52,
-    "discussion": "https://news.ycombinator.com/item?id=50666375"
-   }
-  },
-  {
-   "rawId": "50666279",
-   "title": "New York and California Age Gating Rules Go into Effect in the New Year",
-   "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "eff.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T12:43:40Z",
-   "hot": 24.8,
-   "rank": 8,
-   "metrics": {
-    "points": 66,
-    "comments": 58,
-    "discussion": "https://news.ycombinator.com/item?id=50666279"
-   }
-  },
-  {
-   "rawId": "50659841",
-   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-   "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "worksinprogress.co"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T21:08:05Z",
-   "hot": 24.9,
-   "rank": 9,
-   "metrics": {
-    "points": 454,
-    "comments": 116,
-    "discussion": "https://news.ycombinator.com/item?id=50659841"
-   }
-  },
-  {
-   "rawId": "50657530",
-   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-   "url": "https://github.com/antonpictures/youtube-punisher",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T17:36:47Z",
-   "hot": 21.7,
-   "rank": 10,
-   "metrics": {
-    "points": 473,
-    "comments": 558,
-    "discussion": "https://news.ycombinator.com/item?id=50657530"
-   }
-  },
-  {
-   "rawId": "50657265",
-   "title": "AMD-specific fork of llama.cpp",
-   "url": "https://devnull.land/amd-specific-llama-cpp",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "devnull.land"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T17:11:29Z",
-   "hot": 18.4,
-   "rank": 11,
-   "metrics": {
-    "points": 408,
-    "comments": 100,
-    "discussion": "https://news.ycombinator.com/item?id=50657265"
-   }
-  },
-  {
-   "rawId": "50657645",
-   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-   "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "krebsonsecurity.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T17:47:45Z",
-   "hot": 14.5,
-   "rank": 12,
-   "metrics": {
-    "points": 312,
-    "comments": 156,
-    "discussion": "https://news.ycombinator.com/item?id=50657645"
-   }
-  },
-  {
-   "rawId": "50661646",
-   "title": "Hard Drive pricing has gotten bad",
-   "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "blog.ktz.me"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T01:13:49Z",
-   "hot": 33.1,
-   "rank": 13,
-   "metrics": {
-    "points": 469,
-    "comments": 404,
-    "discussion": "https://news.ycombinator.com/item?id=50661646"
-   }
-  },
-  {
-   "rawId": "50667664",
-   "title": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-   "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "thequantuminsider.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T14:55:57Z",
-   "hot": 5.0,
-   "rank": 14,
-   "metrics": {
-    "points": 5,
-    "comments": 0,
-    "discussion": "https://news.ycombinator.com/item?id=50667664"
-   }
-  },
-  {
-   "rawId": "50653667",
-   "title": "Intel One Mono font (2023)",
-   "url": "https://github.com/intel/intel-one-mono",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T10:11:01Z",
-   "hot": 19.0,
+   "publishedAt": "2026-11-24T17:55:27Z",
+   "hot": 0.1,
    "rank": 15,
    "metrics": {
-    "points": 555,
-    "comments": 263,
-    "discussion": "https://news.ycombinator.com/item?id=50653667"
+    "points": 7,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50631823"
    }
   },
   {
-   "rawId": "50667744",
-   "title": "GPT 6.2 Astra Solves a Historical Mystery",
-   "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+   "rawId": "50667989",
+   "title": "False computer-checked proofs",
+   "url": "https://cr.yp.to/proofs/falseccp.html",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "generativehistory.substack.com"
+    "cr.yp.to"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-27T15:03:17Z",
-   "hot": 4.0,
+   "publishedAt": "2026-11-27T15:26:09Z",
+   "hot": 20.6,
    "rank": 16,
    "metrics": {
-    "points": 4,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50667744"
+    "points": 169,
+    "comments": 75,
+    "discussion": "https://news.ycombinator.com/item?id=50667989"
    }
   },
   {
-   "rawId": "50667143",
-   "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-   "url": "https://www.bbc.com/news/articles/c9kgmd0ldy0lo",
+   "rawId": "50669673",
+   "title": "Show HN: DragDropMath – Learn math by feel",
+   "url": "https://dragdropmath.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "bbc.com"
+    "dragdropmath.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-27T14:09:44Z",
-   "hot": 13.9,
+   "publishedAt": "2026-11-27T17:56:28Z",
+   "hot": 13.3,
    "rank": 17,
    "metrics": {
-    "points": 17,
-    "comments": 12,
-    "discussion": "https://news.ycombinator.com/item?id=50667143"
+    "points": 76,
+    "comments": 19,
+    "discussion": "https://news.ycombinator.com/item?id=50669673"
    }
   },
   {
-   "rawId": "50663261",
-   "title": "Buy Nothing Day – Friday November 27th 2026",
-   "url": "https://www.buynothingday.co.uk/",
+   "rawId": "50670340",
+   "title": "Scrapheap America",
+   "url": "https://dansinker.com/posts/2026-11-20-scrapheap/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "buynothingday.co.uk"
+    "dansinker.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-27T05:52:42Z",
-   "hot": 24.3,
+   "publishedAt": "2026-11-27T18:50:26Z",
+   "hot": 8.1,
    "rank": 18,
    "metrics": {
-    "points": 231,
-    "comments": 67,
-    "discussion": "https://news.ycombinator.com/item?id=50663261"
+    "points": 39,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50670340"
    }
   },
   {
-   "rawId": "50659640",
-   "title": "Company Culture = Slack Emoji ÷ √Headcount",
-   "url": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+   "rawId": "50647400",
+   "title": "Atlantic 1866: information and shipping in the age of the telegraph",
+   "url": "https://atlantic-1866.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "lia.mg"
+    "atlantic-1866.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T20:49:49Z",
-   "hot": 25.2,
+   "publishedAt": "2026-11-25T20:55:26Z",
+   "hot": 0.4,
    "rank": 19,
    "metrics": {
-    "points": 468,
-    "comments": 241,
-    "discussion": "https://news.ycombinator.com/item?id=50659640"
+    "points": 19,
+    "comments": 1,
+    "discussion": "https://news.ycombinator.com/item?id=50647400"
    }
   },
   {
-   "rawId": "50653477",
-   "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-   "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+   "rawId": "50633531",
+   "title": "Show HN: Analysis of Hacker News predictions since 2008",
+   "url": "https://hnpredictions.com/",
    "videoUrl": null,
    "category": "news",
    "tags": [
     "tech",
-    "techstackups.com"
+    "hnpredictions.com"
    ],
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
-   "publishedAt": "2026-11-26T09:44:23Z",
-   "hot": 12.8,
+   "publishedAt": "2026-11-24T19:46:54Z",
+   "hot": 0.5,
    "rank": 20,
    "metrics": {
-    "points": 379,
-    "comments": 317,
-    "discussion": "https://news.ycombinator.com/item?id=50653477"
+    "points": 41,
+    "comments": 47,
+    "discussion": "https://news.ycombinator.com/item?id=50633531"
    }
   }
  ]
