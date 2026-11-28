@@ -1,7 +1,154 @@
 {
- "updated": "2026-11-28T08:10:09Z",
+ "updated": "2026-11-28T17:01:16Z",
  "source": "hackernews",
  "items": [
+  {
+   "rawId": "50676672",
+   "title": "Farewell",
+   "url": "https://github.com/p-e-w/heretic/issues/601",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T11:42:26Z",
+   "hot": 140.8,
+   "rank": 1,
+   "metrics": {
+    "points": 748,
+    "comments": 318,
+    "discussion": "https://news.ycombinator.com/item?id=50676672"
+   }
+  },
+  {
+   "rawId": "50676723",
+   "title": "Audible removes download option for purchased audiobooks",
+   "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "consumerrights.wiki"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T11:51:27Z",
+   "hot": 77.5,
+   "rank": 2,
+   "metrics": {
+    "points": 400,
+    "comments": 170,
+    "discussion": "https://news.ycombinator.com/item?id=50676723"
+   }
+  },
+  {
+   "rawId": "50676390",
+   "title": "Claude Code sabotage: preliminary benchmarking",
+   "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "xinyadu.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T10:37:40Z",
+   "hot": 71.2,
+   "rank": 3,
+   "metrics": {
+    "points": 455,
+    "comments": 149,
+    "discussion": "https://news.ycombinator.com/item?id=50676390"
+   }
+  },
+  {
+   "rawId": "50678273",
+   "title": "Physics Breakthrough Simulator",
+   "url": "https://pages.ethanmdavidson.com/ai-physics-breakthrough",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "pages.ethanmdavidson.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T14:52:45Z",
+   "hot": 33.6,
+   "rank": 4,
+   "metrics": {
+    "points": 72,
+    "comments": 11,
+    "discussion": "https://news.ycombinator.com/item?id=50678273"
+   }
+  },
+  {
+   "rawId": "50676752",
+   "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+   "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "malspark.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T11:57:04Z",
+   "hot": 25.6,
+   "rank": 5,
+   "metrics": {
+    "points": 130,
+    "comments": 40,
+    "discussion": "https://news.ycombinator.com/item?id=50676752"
+   }
+  },
+  {
+   "rawId": "50677091",
+   "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+   "url": "https://scriptor-pro.github.io/luciole-mono/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "scriptor-pro.github.io"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T12:50:15Z",
+   "hot": 21.8,
+   "rank": 6,
+   "metrics": {
+    "points": 91,
+    "comments": 35,
+    "discussion": "https://news.ycombinator.com/item?id=50677091"
+   }
+  },
+  {
+   "rawId": "50642354",
+   "title": "Essential Reading in the Age of Math 2.0",
+   "url": "https://www.quantabooks.org/essential-reading-in-the-age-of-math-2-0/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "quantabooks.org"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-25T13:56:50Z",
+   "hot": 0.1,
+   "rank": 7,
+   "metrics": {
+    "points": 7,
+    "comments": 0,
+    "discussion": "https://news.ycombinator.com/item?id=50642354"
+   }
+  },
   {
    "rawId": "50674218",
    "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
@@ -15,12 +162,54 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-28T03:19:20Z",
-   "hot": 42.9,
-   "rank": 1,
+   "hot": 35.8,
+   "rank": 8,
    "metrics": {
-    "points": 208,
-    "comments": 42,
+    "points": 490,
+    "comments": 132,
     "discussion": "https://news.ycombinator.com/item?id=50674218"
+   }
+  },
+  {
+   "rawId": "50676199",
+   "title": "Diablo II",
+   "url": "https://www.filfre.net/2026/11/diablo-ii/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "filfre.net"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T09:54:19Z",
+   "hot": 18.1,
+   "rank": 9,
+   "metrics": {
+    "points": 129,
+    "comments": 53,
+    "discussion": "https://news.ycombinator.com/item?id=50676199"
+   }
+  },
+  {
+   "rawId": "50674452",
+   "title": "Knuth: Moratorium on Error Reports",
+   "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "www-cs-faculty.stanford.edu"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T03:49:21Z",
+   "hot": 24.9,
+   "rank": 10,
+   "metrics": {
+    "points": 329,
+    "comments": 161,
+    "discussion": "https://news.ycombinator.com/item?id=50674452"
    }
   },
   {
@@ -36,12 +225,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-24T18:10:45Z",
-   "hot": 0.7,
-   "rank": 2,
+   "hot": 2.5,
+   "rank": 11,
    "metrics": {
-    "points": 60,
-    "comments": 3,
+    "points": 234,
+    "comments": 29,
     "discussion": "https://news.ycombinator.com/item?id=50632052"
+   }
+  },
+  {
+   "rawId": "50678901",
+   "title": "Silently degrading the model's capabilities IS sabotage",
+   "url": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+   "videoUrl": "https://twitter.com/TimSweeneyEpic/status/2126682647862862063",
+   "category": "news",
+   "tags": [
+    "tech",
+    "twitter.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T15:55:54Z",
+   "hot": 36.7,
+   "rank": 12,
+   "metrics": {
+    "points": 40,
+    "comments": 13,
+    "discussion": "https://news.ycombinator.com/item?id=50678901"
    }
   },
   {
@@ -57,12 +267,75 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-27T23:06:29Z",
-   "hot": 37.0,
-   "rank": 3,
+   "hot": 29.3,
+   "rank": 13,
    "metrics": {
-    "points": 335,
-    "comments": 134,
+    "points": 525,
+    "comments": 183,
     "discussion": "https://news.ycombinator.com/item?id=50672565"
+   }
+  },
+  {
+   "rawId": "50677302",
+   "title": "IBM MVS 3.8j Community Edition (52-year old OS)",
+   "url": "https://github.com/MVS-sysgen/sysgen",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T13:17:39Z",
+   "hot": 6.7,
+   "rank": 14,
+   "metrics": {
+    "points": 25,
+    "comments": 5,
+    "discussion": "https://news.ycombinator.com/item?id=50677302"
+   }
+  },
+  {
+   "rawId": "50677861",
+   "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+   "url": "https://github.com/RiccardoSottini/AffrescoUI",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "github.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-28T14:09:39Z",
+   "hot": 13.6,
+   "rank": 15,
+   "metrics": {
+    "points": 39,
+    "comments": 37,
+    "discussion": "https://news.ycombinator.com/item?id=50677861"
+   }
+  },
+  {
+   "rawId": "50650217",
+   "title": "The Comprehensive Guide to Encrypted Inference with Tees",
+   "url": "https://trynito.ai/blog/encrypted-inference-tees",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "trynito.ai"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-26T01:28:40Z",
+   "hot": 0.2,
+   "rank": 16,
+   "metrics": {
+    "points": 15,
+    "comments": 6,
+    "discussion": "https://news.ycombinator.com/item?id=50650217"
    }
   },
   {
@@ -78,11 +351,11 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-26T17:20:27Z",
-   "hot": 7.6,
-   "rank": 4,
+   "hot": 10.5,
+   "rank": 17,
    "metrics": {
-    "points": 295,
-    "comments": 66,
+    "points": 501,
+    "comments": 148,
     "discussion": "https://news.ycombinator.com/item?id=50657346"
    }
   },
@@ -99,12 +372,33 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-25T15:16:53Z",
-   "hot": 6.5,
-   "rank": 5,
+   "hot": 6.8,
+   "rank": 18,
    "metrics": {
-    "points": 423,
-    "comments": 265,
+    "points": 499,
+    "comments": 317,
     "discussion": "https://news.ycombinator.com/item?id=50643158"
+   }
+  },
+  {
+   "rawId": "50633501",
+   "title": "Skala by Bjango",
+   "url": "https://bjango.com/mac/skala/",
+   "videoUrl": null,
+   "category": "news",
+   "tags": [
+    "tech",
+    "bjango.com"
+   ],
+   "summary": "Top story on Hacker News, a tech news community.",
+   "thumbnail": null,
+   "publishedAt": "2026-11-24T19:45:06Z",
+   "hot": 0.2,
+   "rank": 19,
+   "metrics": {
+    "points": 21,
+    "comments": 4,
+    "discussion": "https://news.ycombinator.com/item?id=50633501"
    }
   },
   {
@@ -120,306 +414,12 @@
    "summary": "Top story on Hacker News, a tech news community.",
    "thumbnail": null,
    "publishedAt": "2026-11-27T13:30:20Z",
-   "hot": 2.0,
-   "rank": 6,
-   "metrics": {
-    "points": 37,
-    "comments": 5,
-    "discussion": "https://news.ycombinator.com/item?id=50666724"
-   }
-  },
-  {
-   "rawId": "50668145",
-   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-   "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "infohawk.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T15:40:31Z",
-   "hot": 30.7,
-   "rank": 7,
-   "metrics": {
-    "points": 506,
-    "comments": 261,
-    "discussion": "https://news.ycombinator.com/item?id=50668145"
-   }
-  },
-  {
-   "rawId": "50650253",
-   "title": "Sydney Fire Ant Infestation",
-   "url": "https://www.abc.net.au/news/2026-11-25/nsw-government-ramps-up-efforts-to-respond-to-fire-ants-/107424812",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "abc.net.au"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T01:33:02Z",
-   "hot": 0.9,
-   "rank": 8,
-   "metrics": {
-    "points": 48,
-    "comments": 21,
-    "discussion": "https://news.ycombinator.com/item?id=50650253"
-   }
-  },
-  {
-   "rawId": "50669765",
-   "title": "Convex skills send the user's app idea to a remote server without telling them",
-   "url": "https://github.com/convex/convex-backend-skill/issues/64",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "github.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T18:02:45Z",
-   "hot": 20.6,
-   "rank": 9,
-   "metrics": {
-    "points": 291,
-    "comments": 93,
-    "discussion": "https://news.ycombinator.com/item?id=50669765"
-   }
-  },
-  {
-   "rawId": "50662313",
-   "title": "Citroën Hydraulic System",
-   "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "citroenet.org.uk"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T03:10:19Z",
-   "hot": 6.3,
-   "rank": 10,
-   "metrics": {
-    "points": 183,
-    "comments": 57,
-    "discussion": "https://news.ycombinator.com/item?id=50662313"
-   }
-  },
-  {
-   "rawId": "50644341",
-   "title": "What Is the Metabolism-First Theory for the Origin of Life?",
-   "url": "https://www.quantamagazine.org/what-is-the-metabolism-first-theory-for-the-origin-of-life-20261111/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "quantamagazine.org"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-25T16:41:41Z",
-   "hot": 0.1,
-   "rank": 11,
-   "metrics": {
-    "points": 7,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50644341"
-   }
-  },
-  {
-   "rawId": "50667726",
-   "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
-   "url": "https://bouncemarket.minhanhday.com/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "bouncemarket.minhanhday.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T15:01:50Z",
-   "hot": 21.4,
-   "rank": 12,
-   "metrics": {
-    "points": 367,
-    "comments": 124,
-    "discussion": "https://news.ycombinator.com/item?id=50667726"
-   }
-  },
-  {
-   "rawId": "50631823",
-   "title": "Build your own amp modeler: $78 DIY pedal kit from TONE3000",
-   "url": "https://www.guitarworld.com/gear/guitar-pedals/tone3000-daisy-audio-diy-pedal-kit",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "guitarworld.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-24T17:55:27Z",
-   "hot": 0.9,
-   "rank": 13,
-   "metrics": {
-    "points": 80,
-    "comments": 18,
-    "discussion": "https://news.ycombinator.com/item?id=50631823"
-   }
-  },
-  {
-   "rawId": "50672008",
-   "title": "9/UX: a Macintosh-inspired desktop for 9front",
-   "url": "https://progrium.github.io/9ux/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "progrium.github.io"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T21:48:14Z",
-   "hot": 11.4,
-   "rank": 14,
-   "metrics": {
-    "points": 118,
-    "comments": 28,
-    "discussion": "https://news.ycombinator.com/item?id=50672008"
-   }
-  },
-  {
-   "rawId": "50672521",
-   "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
-   "url": "https://tabernet.es/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tabernet.es"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T23:00:30Z",
-   "hot": 11.1,
-   "rank": 15,
-   "metrics": {
-    "points": 102,
-    "comments": 34,
-    "discussion": "https://news.ycombinator.com/item?id=50672521"
-   }
-  },
-  {
-   "rawId": "50657392",
-   "title": "First images of the impact of DART asteroid deflection experiment",
-   "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "arstechnica.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-26T17:24:37Z",
-   "hot": 5.4,
-   "rank": 16,
-   "metrics": {
-    "points": 210,
-    "comments": 63,
-    "discussion": "https://news.ycombinator.com/item?id=50657392"
-   }
-  },
-  {
-   "rawId": "50667371",
-   "title": "Rayshader 1.0: Exit the Matrix",
-   "url": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "tylermw.com"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T14:30:20Z",
-   "hot": 6.9,
-   "rank": 17,
-   "metrics": {
-    "points": 121,
-    "comments": 14,
-    "discussion": "https://news.ycombinator.com/item?id=50667371"
-   }
-  },
-  {
-   "rawId": "50674452",
-   "title": "Knuth: Moratorium on Error Reports",
-   "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "www-cs-faculty.stanford.edu"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-28T03:49:21Z",
-   "hot": 3.2,
-   "rank": 18,
-   "metrics": {
-    "points": 14,
-    "comments": 1,
-    "discussion": "https://news.ycombinator.com/item?id=50674452"
-   }
-  },
-  {
-   "rawId": "50644213",
-   "title": "Cyberpunk Television Shows",
-   "url": "https://shellzine.net/cyberpunk-television/",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "shellzine.net"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-25T16:32:28Z",
-   "hot": 1.5,
-   "rank": 19,
-   "metrics": {
-    "points": 94,
-    "comments": 85,
-    "discussion": "https://news.ycombinator.com/item?id=50644213"
-   }
-  },
-  {
-   "rawId": "50670855",
-   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
-   "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
-   "videoUrl": null,
-   "category": "news",
-   "tags": [
-    "tech",
-    "oag.state.va.us"
-   ],
-   "summary": "Top story on Hacker News, a tech news community.",
-   "thumbnail": null,
-   "publishedAt": "2026-11-27T19:42:25Z",
-   "hot": 29.6,
+   "hot": 5.1,
    "rank": 20,
    "metrics": {
-    "points": 369,
-    "comments": 214,
-    "discussion": "https://news.ycombinator.com/item?id=50670855"
+    "points": 141,
+    "comments": 46,
+    "discussion": "https://news.ycombinator.com/item?id=50666724"
    }
   }
  ]

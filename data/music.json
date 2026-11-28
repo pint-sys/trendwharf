@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:10:09Z",
+ "updated": "2026-11-28T17:01:16Z",
  "source": "music",
  "country": "US",
  "items": [
@@ -27,6 +27,29 @@
    }
   },
   {
+   "rawId": "1844932150",
+   "title": "Choosin' Texas",
+   "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
+   "category": "music",
+   "tags": [
+    "Country"
+   ],
+   "summary": "#2 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
+   "publishedAt": "2025-10-17T00:00:00Z",
+   "hot": 24,
+   "rank": 2,
+   "metrics": {
+    "artist": "Ella Langley",
+    "rank": 2,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
+   }
+  },
+  {
    "rawId": "720861445",
    "title": "Underneath the Tree",
    "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445",
@@ -34,15 +57,15 @@
    "tags": [
     "Holiday"
    ],
-   "summary": "#2 on Apple Music's most-played songs (US).",
+   "summary": "#3 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
    "publishedAt": "2013-10-25T00:00:00Z",
-   "hot": 24,
-   "rank": 2,
+   "hot": 23,
+   "rank": 3,
    "metrics": {
     "artist": "Kelly Clarkson",
-    "rank": 2,
-    "change": 1
+    "rank": 3,
+    "change": -1
    },
    "embed": {
     "kind": "music",
@@ -57,42 +80,19 @@
    "tags": [
     "Holiday"
    ],
-   "summary": "#3 on Apple Music's most-played songs (US).",
+   "summary": "#4 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/400x400bb.jpg",
    "publishedAt": "1957-12-02T00:00:00Z",
-   "hot": 23,
-   "rank": 3,
+   "hot": 22,
+   "rank": 4,
    "metrics": {
     "artist": "Bobby Helms",
-    "rank": 3,
-    "change": 1
+    "rank": 4,
+    "change": -1
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132"
-   }
-  },
-  {
-   "rawId": "1844932150",
-   "title": "Choosin' Texas",
-   "url": "https://music.apple.com/us/album/choosin-texas/1844932149?i=1844932150",
-   "category": "music",
-   "tags": [
-    "Country"
-   ],
-   "summary": "#4 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e2/91/4d/e2914d0a-7f1d-f04c-fbf4-c50b38548838/196873638690.jpg/400x400bb.jpg",
-   "publishedAt": "2025-10-17T00:00:00Z",
-   "hot": 22,
-   "rank": 4,
-   "metrics": {
-    "artist": "Ella Langley",
-    "rank": 4,
-    "change": -2
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/choosin-texas/1844932149?i=1844932150"
    }
   },
   {
@@ -112,7 +112,7 @@
    "metrics": {
     "artist": "The Ronettes",
     "rank": 5,
-    "change": 2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -135,34 +135,11 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 6,
-    "change": -1
+    "change": 0
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290"
-   }
-  },
-  {
-   "rawId": "1435551062",
-   "title": "The Christmas Song (Merry Christmas to You)",
-   "url": "https://music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062",
-   "category": "music",
-   "tags": [
-    "Holiday"
-   ],
-   "summary": "#7 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "1955-11-15T00:00:00Z",
-   "hot": 19,
-   "rank": 7,
-   "metrics": {
-    "artist": "Nat \"King\" Cole",
-    "rank": 7,
-    "change": 3
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062"
    }
   },
   {
@@ -173,15 +150,15 @@
    "tags": [
     "Latin"
    ],
-   "summary": "#8 on Apple Music's most-played songs (US).",
+   "summary": "#7 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/66/b2/2b66b26c-ab23-faa1-c4ee-06fa2cce8f76/26UM1IM00558.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-08-05T00:00:00Z",
-   "hot": 18,
-   "rank": 8,
+   "hot": 19,
+   "rank": 7,
    "metrics": {
     "artist": "KAROL G, Judeline & rusowsky",
-    "rank": 8,
-    "change": -2
+    "rank": 7,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -196,15 +173,15 @@
    "tags": [
     "Alternative"
    ],
-   "summary": "#9 on Apple Music's most-played songs (US).",
+   "summary": "#8 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/23/54/af235448-23b3-a3bf-0738-87f6c44a4bbc/5056556187486_cover.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 17,
-   "rank": 9,
+   "hot": 18,
+   "rank": 8,
    "metrics": {
     "artist": "Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard",
-    "rank": 9,
-    "change": -1
+    "rank": 8,
+    "change": 1
    },
    "embed": {
     "kind": "music",
@@ -212,26 +189,49 @@
    }
   },
   {
-   "rawId": "1440830243",
-   "title": "Let It Snow! Let It Snow! Let It Snow!",
-   "url": "https://music.apple.com/us/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243",
+   "rawId": "1435551062",
+   "title": "The Christmas Song (Merry Christmas to You)",
+   "url": "https://music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062",
    "category": "music",
    "tags": [
     "Holiday"
    ],
-   "summary": "#10 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "1959-11-16T00:00:00Z",
-   "hot": 16,
-   "rank": 10,
+   "summary": "#9 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0f/19/eb/0f19eb0e-1d72-9b00-6e3b-4a8a6fca817d/18UMGIM52342.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "1955-11-15T00:00:00Z",
+   "hot": 17,
+   "rank": 9,
    "metrics": {
-    "artist": "Dean Martin",
-    "rank": 10,
-    "change": 5
+    "artist": "Nat \"King\" Cole",
+    "rank": 9,
+    "change": -2
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243"
+    "value": "https://embed.music.apple.com/us/album/the-christmas-song-merry-christmas-to-you/1435551048?i=1435551062"
+   }
+  },
+  {
+   "rawId": "1648587330",
+   "title": "In A Minute",
+   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#10 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-08T00:00:00Z",
+   "hot": 16,
+   "rank": 10,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 10,
+    "change": 7
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
    }
   },
   {
@@ -250,7 +250,7 @@
    "metrics": {
     "artist": "Morgan Wallen",
     "rank": 11,
-    "change": -2
+    "change": 0
    },
    "embed": {
     "kind": "music",
@@ -258,26 +258,72 @@
    }
   },
   {
-   "rawId": "171434594",
-   "title": "It's the Most Wonderful Time of the Year",
-   "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594",
+   "rawId": "6769568596",
+   "title": "Janice STFU",
+   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#12 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2026-05-15T00:00:00Z",
+   "hot": 14,
+   "rank": 12,
+   "metrics": {
+    "artist": "Drake",
+    "rank": 12,
+    "change": 2
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
+   }
+  },
+  {
+   "rawId": "1440929293",
+   "title": "Freestyle",
+   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#13 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2017-12-01T00:00:00Z",
+   "hot": 13,
+   "rank": 13,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 13,
+    "change": 6
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
+   }
+  },
+  {
+   "rawId": "1440830243",
+   "title": "Let It Snow! Let It Snow! Let It Snow!",
+   "url": "https://music.apple.com/us/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243",
    "category": "music",
    "tags": [
     "Holiday"
    ],
-   "summary": "#12 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/400x400bb.jpg",
-   "publishedAt": "1963-10-14T00:00:00Z",
-   "hot": 14,
-   "rank": 12,
+   "summary": "#14 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/87/ee/3a/87ee3ae8-dc96-e287-6f1e-2332d4ae4c1d/13UAEIM07388.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "1959-11-16T00:00:00Z",
+   "hot": 12,
+   "rank": 14,
    "metrics": {
-    "artist": "Andy Williams",
-    "rank": 12,
-    "change": 9
+    "artist": "Dean Martin",
+    "rank": 14,
+    "change": -4
    },
    "embed": {
     "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594"
+    "value": "https://embed.music.apple.com/us/album/let-it-snow-let-it-snow-let-it-snow/1440830105?i=1440830243"
    }
   },
   {
@@ -289,204 +335,19 @@
     "Holiday",
     "Pop"
    ],
-   "summary": "#13 on Apple Music's most-played songs (US).",
+   "summary": "#15 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/400x400bb.jpg",
    "publishedAt": "1984-12-01T00:00:00Z",
-   "hot": 13,
-   "rank": 13,
+   "hot": 11,
+   "rank": 15,
    "metrics": {
     "artist": "Wham!",
-    "rank": 13,
-    "change": 3
+    "rank": 15,
+    "change": -2
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/last-christmas-single-version/202117886?i=202117984"
-   }
-  },
-  {
-   "rawId": "6769568596",
-   "title": "Janice STFU",
-   "url": "https://music.apple.com/us/album/janice-stfu/6769568449?i=6769568596",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#14 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/35/b9/06/35b90629-a873-14f8-4789-ffc324960038/26UMGIM63614.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2026-05-15T00:00:00Z",
-   "hot": 12,
-   "rank": 14,
-   "metrics": {
-    "artist": "Drake",
-    "rank": 14,
-    "change": -3
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/janice-stfu/6769568449?i=6769568596"
-   }
-  },
-  {
-   "rawId": "669854831",
-   "title": "It's Beginning To Look a Lot Like Christmas",
-   "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/669854820?i=669854831",
-   "category": "music",
-   "tags": [
-    "Holiday"
-   ],
-   "summary": "#15 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/400x400bb.jpg",
-   "publishedAt": "2011-10-14T00:00:00Z",
-   "hot": 11,
-   "rank": 15,
-   "metrics": {
-    "artist": "Michael Bublé",
-    "rank": 15,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/669854820?i=669854831"
-   }
-  },
-  {
-   "rawId": "1444032015",
-   "title": "Rockin' Around the Christmas Tree (Single)",
-   "url": "https://music.apple.com/us/album/rockin-around-the-christmas-tree-single/1444032014?i=1444032015",
-   "category": "music",
-   "tags": [
-    "Holiday",
-    "Country"
-   ],
-   "summary": "#16 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/ea/6b/d4ea6b89-f9ac-f476-270d-66931315bc4c/06UMGIM02727.rgb.jpg/100x99bb.jpg",
-   "publishedAt": "1958-01-01T00:00:00Z",
-   "hot": 10,
-   "rank": 16,
-   "metrics": {
-    "artist": "Brenda Lee",
-    "rank": 16,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/rockin-around-the-christmas-tree-single/1444032014?i=1444032015"
-   }
-  },
-  {
-   "rawId": "1648587330",
-   "title": "In A Minute",
-   "url": "https://music.apple.com/us/album/in-a-minute/1648587138?i=1648587330",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#17 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/9f/c0/99/9fc09958-180d-e66a-bbf7-9462289435f6/22UM1IM13098.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2022-04-08T00:00:00Z",
-   "hot": 9,
-   "rank": 17,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 17,
-    "change": -5
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/in-a-minute/1648587138?i=1648587330"
-   }
-  },
-  {
-   "rawId": "6822497774",
-   "title": "Housewife",
-   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-   "category": "music",
-   "tags": [
-    "Pop"
-   ],
-   "summary": "#18 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
-   "publishedAt": "2026-10-15T00:00:00Z",
-   "hot": 8,
-   "rank": 18,
-   "metrics": {
-    "artist": "Tate McRae",
-    "rank": 18,
-    "change": -4
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
-   }
-  },
-  {
-   "rawId": "1440929293",
-   "title": "Freestyle",
-   "url": "https://music.apple.com/us/album/freestyle/1440928174?i=1440929293",
-   "category": "music",
-   "tags": [
-    "Hip-Hop/Rap"
-   ],
-   "summary": "#19 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/93/e7/aa/93e7aa59-da8b-15bc-2992-5803f70fe8fa/17UM1IM55478.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2017-12-01T00:00:00Z",
-   "hot": 7,
-   "rank": 19,
-   "metrics": {
-    "artist": "Lil Baby",
-    "rank": 19,
-    "change": -6
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/freestyle/1440928174?i=1440929293"
-   }
-  },
-  {
-   "rawId": "1444319982",
-   "title": "Santa Tell Me",
-   "url": "https://music.apple.com/us/album/santa-tell-me/1444319981?i=1444319982",
-   "category": "music",
-   "tags": [
-    "Holiday"
-   ],
-   "summary": "#20 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2013-12-13T00:00:00Z",
-   "hot": 6,
-   "rank": 20,
-   "metrics": {
-    "artist": "Ariana Grande",
-    "rank": 20,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/santa-tell-me/1444319981?i=1444319982"
-   }
-  },
-  {
-   "rawId": "1485796558",
-   "title": "Like It's Christmas",
-   "url": "https://music.apple.com/us/album/like-its-christmas/1485796557?i=1485796558",
-   "category": "music",
-   "tags": [
-    "Holiday"
-   ],
-   "summary": "#21 on Apple Music's most-played songs (US).",
-   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/27/9d/df/279ddfe1-74db-1929-b48e-8faade18e3a1/19UMGIM98457.rgb.jpg/400x400bb.jpg",
-   "publishedAt": "2019-11-08T00:00:00Z",
-   "hot": 5,
-   "rank": 21,
-   "metrics": {
-    "artist": "Jonas Brothers",
-    "rank": 21,
-    "change": "new"
-   },
-   "embed": {
-    "kind": "music",
-    "value": "https://embed.music.apple.com/us/album/like-its-christmas/1485796557?i=1485796558"
    }
   },
   {
@@ -497,15 +358,15 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#22 on Apple Music's most-played songs (US).",
+   "summary": "#16 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2009-02-13T00:00:00Z",
-   "hot": 4,
-   "rank": 22,
+   "hot": 10,
+   "rank": 16,
    "metrics": {
     "artist": "Drake",
-    "rank": 22,
-    "change": -4
+    "rank": 16,
+    "change": 6
    },
    "embed": {
     "kind": "music",
@@ -520,19 +381,65 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#23 on Apple Music's most-played songs (US).",
+   "summary": "#17 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/65/f2/06/65f2067b-a8ea-239c-c219-8e0f0282dcea/196589073693.jpg/400x400bb.jpg",
    "publishedAt": "2022-04-29T00:00:00Z",
-   "hot": 3,
-   "rank": 23,
+   "hot": 9,
+   "rank": 17,
    "metrics": {
     "artist": "Future",
-    "rank": 23,
-    "change": -6
+    "rank": 17,
+    "change": 6
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/wait-for-u-feat-drake-tems/1621119097?i=1621119447"
+   }
+  },
+  {
+   "rawId": "171434594",
+   "title": "It's the Most Wonderful Time of the Year",
+   "url": "https://music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594",
+   "category": "music",
+   "tags": [
+    "Holiday"
+   ],
+   "summary": "#18 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d9/84/16/d98416a4-d960-4602-8f2c-4f03165d434d/mzi.hohpjzfa.jpg/400x400bb.jpg",
+   "publishedAt": "1963-10-14T00:00:00Z",
+   "hot": 8,
+   "rank": 18,
+   "metrics": {
+    "artist": "Andy Williams",
+    "rank": 18,
+    "change": -6
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/its-the-most-wonderful-time-of-the-year/171434474?i=171434594"
+   }
+  },
+  {
+   "rawId": "6822497774",
+   "title": "Housewife",
+   "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+   "category": "music",
+   "tags": [
+    "Pop"
+   ],
+   "summary": "#19 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/400x400bb.jpg",
+   "publishedAt": "2026-10-15T00:00:00Z",
+   "hot": 7,
+   "rank": 19,
+   "metrics": {
+    "artist": "Tate McRae",
+    "rank": 19,
+    "change": -1
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/housewife/6822497770?i=6822497774"
    }
   },
   {
@@ -543,19 +450,42 @@
    "tags": [
     "Hip-Hop/Rap"
    ],
-   "summary": "#24 on Apple Music's most-played songs (US).",
+   "summary": "#20 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/c1/27/d1/c127d12a-d259-dbd9-7d02-75056e376fb6/196589131805.jpg/400x400bb.jpg",
    "publishedAt": "2022-05-02T00:00:00Z",
-   "hot": 2,
-   "rank": 24,
+   "hot": 6,
+   "rank": 20,
    "metrics": {
     "artist": "Future",
-    "rank": 24,
-    "change": -5
+    "rank": 20,
+    "change": 4
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/like-me-feat-42-dugg-lil-baby/1621803882?i=1621803969"
+   }
+  },
+  {
+   "rawId": "669854831",
+   "title": "It's Beginning To Look a Lot Like Christmas",
+   "url": "https://music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/669854820?i=669854831",
+   "category": "music",
+   "tags": [
+    "Holiday"
+   ],
+   "summary": "#21 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/37/2d/6e/372d6e16-7a32-91f0-1a03-0f2d9dbe389e/093624942788.jpg/400x400bb.jpg",
+   "publishedAt": "2011-10-14T00:00:00Z",
+   "hot": 5,
+   "rank": 21,
+   "metrics": {
+    "artist": "Michael Bublé",
+    "rank": 21,
+    "change": -6
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/its-beginning-to-look-a-lot-like-christmas/669854820?i=669854831"
    }
   },
   {
@@ -566,19 +496,89 @@
    "tags": [
     "R&B/Soul"
    ],
-   "summary": "#25 on Apple Music's most-played songs (US).",
+   "summary": "#22 on Apple Music's most-played songs (US).",
    "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/400x400bb.jpg",
    "publishedAt": "2026-10-02T00:00:00Z",
-   "hot": 1,
-   "rank": 25,
+   "hot": 4,
+   "rank": 22,
    "metrics": {
     "artist": "Drake & Don Toliver",
-    "rank": 25,
-    "change": -3
+    "rank": 22,
+    "change": 3
    },
    "embed": {
     "kind": "music",
     "value": "https://embed.music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989"
+   }
+  },
+  {
+   "rawId": "1444032015",
+   "title": "Rockin' Around the Christmas Tree (Single)",
+   "url": "https://music.apple.com/us/album/rockin-around-the-christmas-tree-single/1444032014?i=1444032015",
+   "category": "music",
+   "tags": [
+    "Holiday",
+    "Country"
+   ],
+   "summary": "#23 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d4/ea/6b/d4ea6b89-f9ac-f476-270d-66931315bc4c/06UMGIM02727.rgb.jpg/100x99bb.jpg",
+   "publishedAt": "1958-01-01T00:00:00Z",
+   "hot": 3,
+   "rank": 23,
+   "metrics": {
+    "artist": "Brenda Lee",
+    "rank": 23,
+    "change": -7
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/rockin-around-the-christmas-tree-single/1444032014?i=1444032015"
+   }
+  },
+  {
+   "rawId": "1444319982",
+   "title": "Santa Tell Me",
+   "url": "https://music.apple.com/us/album/santa-tell-me/1444319981?i=1444319982",
+   "category": "music",
+   "tags": [
+    "Holiday"
+   ],
+   "summary": "#24 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/60/c8/2b/60c82b22-cd58-cdcd-5b51-6fad7a8b7055/14UMGIM55455.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2013-12-13T00:00:00Z",
+   "hot": 2,
+   "rank": 24,
+   "metrics": {
+    "artist": "Ariana Grande",
+    "rank": 24,
+    "change": -4
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/santa-tell-me/1444319981?i=1444319982"
+   }
+  },
+  {
+   "rawId": "1621207921",
+   "title": "Frozen",
+   "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
+   "category": "music",
+   "tags": [
+    "Hip-Hop/Rap"
+   ],
+   "summary": "#25 on Apple Music's most-played songs (US).",
+   "thumbnail": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/400x400bb.jpg",
+   "publishedAt": "2022-04-29T00:00:00Z",
+   "hot": 1,
+   "rank": 25,
+   "metrics": {
+    "artist": "Lil Baby",
+    "rank": 25,
+    "change": "new"
+   },
+   "embed": {
+    "kind": "music",
+    "value": "https://embed.music.apple.com/us/album/frozen/1621207919?i=1621207921"
    }
   }
  ]
